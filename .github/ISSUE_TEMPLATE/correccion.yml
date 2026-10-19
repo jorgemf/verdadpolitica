@@ -1,0 +1,26 @@
+name: Corrección
+description: Un dato está mal, falta contexto o una fuente no dice lo que se afirma.
+title: "Corrección: "
+labels: [correccion]
+body:
+  - type: input
+    id: pagina
+    attributes:
+      label: Página afectada
+      description: Enlace a la ficha o página de la web.
+    validations:
+      required: true
+  - type: textarea
+    id: problema
+    attributes:
+      label: Qué está mal
+      description: Cita el texto concreto y explica el problema.
+    validations:
+      required: true
+  - type: textarea
+    id: fuentes
+    attributes:
+      label: Fuentes que respaldan la corrección
+      description: Enlaces, preferentemente a fuentes primarias (BOE, Congreso, resoluciones judiciales).
+    validations:
+      required: true

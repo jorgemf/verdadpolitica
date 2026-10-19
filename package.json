@@ -1,0 +1,32 @@
+{
+  "name": "verdadpolitica",
+  "type": "module",
+  "version": "0.0.1",
+  "engines": {
+    "node": ">=22.22.0"
+  },
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro",
+    "check": "astro check"
+  },
+  "dependencies": {
+    "@astrojs/sitemap": "^3.7.4",
+    "@fontsource-variable/archivo": "^5.3.0",
+    "@fontsource-variable/literata": "^5.3.0",
+    "astro": "^7.4.0"
+  },
+  "description": "Qué prometieron y qué hicieron los partidos que se presentan a las elecciones generales del 29-N de 2026. Con fuentes.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jorgemf/verdadpolitica.git"
+  },
+  "homepage": "https://verdadpolitica.es",
+  "devDependencies": {
+    "@astrojs/check": "^0.9.10",
+    "typescript": "^6.0.3"
+  }
+}

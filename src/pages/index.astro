@@ -1,0 +1,432 @@
+---
+import Base from '../layouts/Base.astro';
+import Marca from '../components/Marca.astro';
+import CabeceraPartido from '../components/CabeceraPartido.astro';
+import {
+  partidos,
+  fichas,
+  programa,
+  CATEGORIA_INFO,
+  ORDEN_CATEGORIAS,
+  ESTADO_JUDICIAL,
+  COHERENCIA,
+  AMBITO,
+  fichaUrl,
+  partidoUrl,
+  temaUrl,
+  url,
+  REPO,
+} from '../lib/datos';
+import { TEMAS } from '../data/temas';
+
+const MAX_POR_CELDA = 5;
+
+const lista = await partidos();
+const todas = await fichas();
+const prog = await programa();
+
+const celda = (partido: string, categoria: string) =>
+  todas.filter((f) => f.data.partido.id === partido && f.data.categoria === categoria);
+const entrada = (partido: string, tema: string) =>
+  prog.find((e) => e.data.partido.id === partido && e.data.tema === tema);
+---
+
+<Base>
+  <section class="portada envoltorio">
+    <p class="portada__fecha">Elecciones generales del 29 de noviembre de 2026</p>
+    <h1 class="portada__lema">
+      <span class="rotulador">Estás usando mal esta web si solo lees una ideología política.</span>
+    </h1>
+    <div class="portada__texto">
+      <p>
+        Aquí se compara lo que prometieron los cuatro partidos con más escaños previstos con lo que hicieron en la
+        legislatura 2023–2026: qué cumplieron, qué les bloquearon, qué ni intentaron y por qué, dónde dijeron una
+        cosa e hicieron otra, y qué causas judiciales les afectan.
+      </p>
+      <p>
+        Cada línea lleva a una ficha con el detalle y sus fuentes. Si encuentras un error o falta algo, <a
+          href={url('colabora/')}>puedes corregirlo</a
+        >.
+      </p>
+    </div>
+  </section>
+
+  <section class="matriz envoltorio" aria-labelledby="titulo-legislatura">
+    <h2 id="titulo-legislatura" class="seccion__titulo">La legislatura, partido a partido</h2>
+    <div class="matriz__cabeza" style={`--n:${lista.length}`}>
+      {lista.map((p) => <CabeceraPartido partido={p} />)}
+    </div>
+
+    {
+      ORDEN_CATEGORIAS.map((cat) => (
+        <section class="fila" aria-labelledby={`fila-${cat}`}>
+          <header class="fila__titulo">
+            <h3 id={`fila-${cat}`}>
+              <Marca categoria={cat} tamano={22} />
+              {CATEGORIA_INFO[cat].titulo}
+            </h3>
+            <p>{CATEGORIA_INFO[cat].descripcion}</p>
+          </header>
+          <div class="fila__celdas" style={`--n:${lista.length}`}>
+            {lista.map((p) => {
+              const items = celda(p.id, cat);
+              return (
+                <div class="celda" style={`--c:${p.data.color}`}>
+                  <h4 class="celda__partido">{p.data.siglas}</h4>
+                  {items.length === 0 ? (
+                    <p class="celda__vacia">
+                      Sin fichas todavía. <a href={url('colabora/')}>Propón una</a>.
+                    </p>
+                  ) : (
+                    <ul>
+                      {items.slice(0, MAX_POR_CELDA).map((f) => (
+                        <li>
+                          <a href={fichaUrl(f)}>{f.data.titulo}</a>
+                          {f.data.estadoJudicial && (
+                            <span class="celda__meta">{ESTADO_JUDICIAL[f.data.estadoJudicial]}</span>
+                          )}
+                          {f.data.ambito !== 'estatal' && <span class="celda__meta">{AMBITO[f.data.ambito]}</span>}
+                        </li>
+                      ))}
+                    </ul>
+                  )}
+                  {items.length > MAX_POR_CELDA && (
+                    <a class="celda__mas" href={`${partidoUrl(p.id)}#${cat}`}>
+                      Ver las {items.length} de {p.data.siglas}
+                    </a>
+                  )}
+                </div>
+              );
+            })}
+          </div>
+        </section>
+      ))
+    }
+  </section>
+
+  <section class="programas envoltorio" aria-labelledby="titulo-programas">
+    <h2 id="titulo-programas" class="seccion__titulo">Lo que proponen ahora, frente a lo que han hecho</h2>
+    <p class="seccion__intro">
+      Lo más relevante de cada programa en ocho temas y si encaja con su historial. Pulsa un tema para leer las
+      cuatro propuestas completas con sus fuentes.
+    </p>
+    <div class="tabla-programas" style={`--n:${lista.length}`}>
+      <div class="tp__fila tp__fila--cabeza" aria-hidden="true">
+        <span></span>
+        {lista.map((p) => <span style={`--c:${p.data.color}`} class="tp__partido">{p.data.siglas}</span>)}
+      </div>
+      {
+        TEMAS.map((t) => (
+          <div class="tp__fila">
+            <a class="tp__tema" href={temaUrl(t.id)}>
+              {t.nombre}
+            </a>
+            {lista.map((p) => {
+              const e = entrada(p.id, t.id);
+              return (
+                <div class="tp__celda" style={`--c:${p.data.color}`}>
+                  <span class="tp__siglas">{p.data.siglas}</span>
+                  {e ? (
+                    <>
+                      <p>{e.data.propuesta}</p>
+                      <span class={`etiqueta etiqueta--${e.data.coherencia}`} title={COHERENCIA[e.data.coherencia].descripcion}>
+                        {COHERENCIA[e.data.coherencia].texto}
+                      </span>
+                    </>
+                  ) : (
+                    <p class="celda__vacia">Pendiente.</p>
+                  )}
+                </div>
+              );
+            })}
+          </div>
+        ))
+      }
+    </div>
+  </section>
+
+  <section class="colabora envoltorio" aria-labelledby="titulo-colabora">
+    <div class="colabora__caja">
+      <h2 id="titulo-colabora">Esta web la mejora quien la lee</h2>
+      <p>
+        Todo el contenido está en GitHub y cualquiera puede proponer cambios. Si un dato está mal, falta una
+        fuente o crees que tratamos a un partido con más dureza que a otro, dilo. Cada propuesta se revisa antes de
+        publicarse.
+      </p>
+      <div class="colabora__acciones">
+        <a class="boton" href={`${REPO}/issues/new/choose`}>Avisar de un error</a>
+        <a class="boton boton--secundario" href={url('colabora/')}>Proponer una ficha nueva</a>
+      </div>
+      <p class="colabora__nota">
+        Por ahora se analizan los cuatro partidos con más escaños en la media de encuestas. Si quieres añadir otro
+        (Podemos, ERC, Junts, EH Bildu, PNV…), la guía explica cómo.
+      </p>
+    </div>
+  </section>
+</Base>
+
+<style>
+  .portada {
+    padding-block: clamp(2.5rem, 7vw, 5.5rem) 2.5rem;
+  }
+
+  .portada__fecha {
+    font-weight: 600;
+    color: var(--tinta-suave);
+    margin-bottom: 1.25rem;
+  }
+
+  .portada__lema {
+    font-size: clamp(2.4rem, 7.2vw, 5.6rem);
+    font-weight: 850;
+    font-stretch: 72%;
+    line-height: 1.02;
+    letter-spacing: -0.015em;
+    max-width: 15ch;
+    margin-bottom: 2rem;
+  }
+
+  .portada__texto {
+    max-width: 62ch;
+    font-size: 1.125rem;
+  }
+
+  .seccion__titulo {
+    font-size: clamp(1.6rem, 3.5vw, 2.25rem);
+    font-weight: 800;
+    margin-top: 3rem;
+  }
+
+  .seccion__intro {
+    max-width: 62ch;
+    color: var(--tinta-suave);
+  }
+
+  /* Matriz: filas = categorías, columnas = partidos */
+  .matriz__cabeza,
+  .fila__celdas {
+    display: grid;
+    grid-template-columns: repeat(var(--n), minmax(0, 1fr));
+    gap: 0 1.5rem;
+  }
+
+  .matriz__cabeza {
+    position: sticky;
+    top: 0;
+    z-index: 2;
+    background: var(--papel);
+    padding-top: 0.5rem;
+    border-bottom: 1px solid var(--linea);
+  }
+
+  .fila {
+    border-bottom: 1px solid var(--linea);
+    padding-block: 1.75rem 1.5rem;
+  }
+
+  .fila__titulo {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: 0.25rem 1rem;
+    margin-bottom: 1rem;
+  }
+
+  .fila__titulo h3 {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    font-size: 1.3rem;
+    font-weight: 750;
+    margin: 0;
+  }
+
+  .fila__titulo p {
+    margin: 0;
+    color: var(--tinta-suave);
+    font-size: 0.9375rem;
+  }
+
+  /* En escritorio el partido lo indica la columna; se mantiene para lectores
+     de pantalla. */
+  .celda__partido,
+  .tp__siglas {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    clip-path: inset(50%);
+    white-space: nowrap;
+  }
+
+  .celda ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .celda li {
+    padding-block: 0.55rem;
+    border-top: 1px solid color-mix(in srgb, var(--linea) 60%, transparent);
+    line-height: 1.35;
+  }
+
+  .celda li:first-child {
+    border-top: 0;
+    padding-top: 0;
+  }
+
+  .celda li a {
+    color: var(--tinta);
+    text-decoration: none;
+    font-weight: 500;
+  }
+
+  .celda li a:hover {
+    text-decoration: underline;
+  }
+
+  .celda__meta {
+    display: block;
+    margin-top: 0.15rem;
+    font-size: 0.8125rem;
+    color: var(--tinta-suave);
+  }
+
+  .celda__vacia {
+    color: var(--tinta-suave);
+    font-size: 0.9375rem;
+  }
+
+  .celda__mas {
+    display: inline-block;
+    margin-top: 0.5rem;
+    font-size: 0.875rem;
+    font-weight: 600;
+  }
+
+  /* Tabla de programas */
+  .tabla-programas {
+    margin-top: 1.5rem;
+  }
+
+  .tp__fila {
+    display: grid;
+    grid-template-columns: 11rem repeat(var(--n), minmax(0, 1fr));
+    gap: 1.25rem;
+    padding-block: 1.1rem;
+    border-bottom: 1px solid var(--linea);
+  }
+
+  .tp__fila--cabeza {
+    padding-block: 0.5rem;
+    border-bottom: 2px solid var(--tinta);
+  }
+
+  .tp__partido {
+    font-weight: 800;
+    font-stretch: 80%;
+    font-size: 1.1rem;
+    border-left: 4px solid var(--c);
+    padding-left: 0.5rem;
+  }
+
+  .tp__tema {
+    font-weight: 700;
+    font-size: 1.05rem;
+    color: var(--tinta);
+  }
+
+  .tp__celda p {
+    font-size: 0.9375rem;
+    line-height: 1.4;
+    margin-bottom: 0.5rem;
+  }
+
+  /* Colabora */
+  .colabora__caja {
+    margin-top: 4rem;
+    padding: clamp(1.5rem, 4vw, 2.75rem);
+    background: var(--papel-alto);
+    border: 2px solid var(--tinta);
+    border-radius: 6px;
+  }
+
+  .colabora__caja h2 {
+    font-size: clamp(1.5rem, 3vw, 2rem);
+    font-weight: 800;
+  }
+
+  .colabora__caja p {
+    max-width: 64ch;
+  }
+
+  .colabora__acciones {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+    margin-block: 1.5rem;
+  }
+
+  .colabora__nota {
+    font-size: 0.9375rem;
+    color: var(--tinta-suave);
+    margin: 0;
+  }
+
+  /* Móvil: se lee por categoría, con todos los partidos seguidos.
+     Así es imposible leer un solo partido sin ver a los demás. */
+  @media (max-width: 60rem) {
+    .matriz__cabeza {
+      position: static;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 1rem;
+      border-bottom: 0;
+    }
+
+    .fila__celdas {
+      grid-template-columns: minmax(0, 1fr);
+      gap: 1.25rem;
+    }
+
+    .celda {
+      border-left: 4px solid var(--c);
+      padding-left: 0.85rem;
+    }
+
+    .celda__partido {
+      position: static;
+      width: auto;
+      height: auto;
+      clip-path: none;
+      display: block;
+      font-size: 1rem;
+      font-weight: 800;
+      margin-bottom: 0.4rem;
+    }
+
+    .tp__fila {
+      grid-template-columns: minmax(0, 1fr);
+      gap: 0.85rem;
+    }
+
+    .tp__fila--cabeza {
+      display: none;
+    }
+
+    .tp__celda {
+      border-left: 4px solid var(--c);
+      padding-left: 0.85rem;
+    }
+
+    .tp__siglas {
+      position: static;
+      width: auto;
+      height: auto;
+      clip-path: none;
+      display: block;
+      font-weight: 800;
+      font-size: 0.9375rem;
+    }
+  }
+</style>

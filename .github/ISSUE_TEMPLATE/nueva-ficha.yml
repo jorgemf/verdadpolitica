@@ -1,0 +1,39 @@
+name: Propuesta de ficha
+description: Falta una promesa, una contradicción o una causa judicial relevante.
+title: "Nueva ficha: "
+labels: [nueva-ficha]
+body:
+  - type: dropdown
+    id: partido
+    attributes:
+      label: Partido
+      options: [PP, PSOE, Vox, Frente Amplio, Otro]
+    validations:
+      required: true
+  - type: dropdown
+    id: categoria
+    attributes:
+      label: Categoría
+      options:
+        - Prometió y cumplió
+        - Lo intentó, pero se lo bloquearon
+        - Prometió y ni lo intentó
+        - Dijo una cosa, hizo otra
+        - Frentes judiciales
+        - Programa frente a hechos
+    validations:
+      required: true
+  - type: textarea
+    id: descripcion
+    attributes:
+      label: Qué pasó
+      description: Hechos, fechas y personas implicadas.
+    validations:
+      required: true
+  - type: textarea
+    id: fuentes
+    attributes:
+      label: Fuentes
+      description: Al menos dos enlaces.
+    validations:
+      required: true

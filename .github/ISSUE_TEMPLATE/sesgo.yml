@@ -1,0 +1,18 @@
+name: Trato desigual entre partidos
+description: Crees que se aplica un criterio distinto a un partido que a otro.
+title: "Sesgo: "
+labels: [sesgo]
+body:
+  - type: textarea
+    id: ejemplo
+    attributes:
+      label: Dónde lo ves
+      description: Enlaza las fichas que comparas y explica la diferencia de criterio.
+    validations:
+      required: true
+  - type: textarea
+    id: propuesta
+    attributes:
+      label: Cómo lo corregirías
+    validations:
+      required: false

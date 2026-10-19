@@ -1,0 +1,21 @@
+nombre: Partido Popular
+siglas: PP
+candidato: Alberto Núñez Feijóo
+color: "#1d84ce"
+orden: 1
+papelLegislatura: Primer partido de la oposición. Mayoría absoluta en el Senado.
+escanos2023: 137
+encuesta:
+  porcentaje: 31.7
+  escanos: 138
+  fecha: 2026-10-19
+  fuente:
+    titulo: "Media de encuestas elecciones generales 2026"
+    url: https://www.democrata.es/elecciones-generales-espana/herramientas/encuestas
+    medio: Demócrata
+    fecha: 2026-10-19
+    tipo: prensa
+resumen: "Primer partido de la oposición (137 escaños) tras no lograr Feijóo la investidura en septiembre de 2023, con mayoría absoluta en el Senado. Gobierna 11 comunidades y Ceuta y Melilla; desde 2026, en coalición con Vox en Extremadura, Aragón, Castilla y León y Andalucía. Concurre al 29-N con Feijóo como candidato."
+nota: "A 19 de octubre de 2026 el PP no había publicado su programa para el 29-N; el enlace remite al resumen oficial del programa de las generales de 2023, porque el programa completo no está disponible en pp.es. Sus propuestas más recientes son el \"Contrato con España\" presentado el 19 de octubre de 2026."
+web: https://www.pp.es
+programaUrl: https://www.pp.es/storage/2023/07/23.07.04._resumen_programa_electoral.pdf

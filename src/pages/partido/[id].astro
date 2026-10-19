@@ -1,0 +1,249 @@
+---
+import Base from '../../layouts/Base.astro';
+import Marca from '../../components/Marca.astro';
+import {
+  partidos,
+  fichas,
+  programa,
+  CATEGORIA_INFO,
+  ORDEN_CATEGORIAS,
+  ESTADO_JUDICIAL,
+  AMBITO,
+  COHERENCIA,
+  fichaUrl,
+  partidoUrl,
+  temaUrl,
+  type Partido,
+} from '../../lib/datos';
+import { TEMAS } from '../../data/temas';
+
+export async function getStaticPaths() {
+  const lista = await partidos();
+  return lista.map((partido) => ({ params: { id: partido.id }, props: { partido, lista } }));
+}
+
+interface Props {
+  partido: Partido;
+  lista: Partido[];
+}
+
+const { partido, lista } = Astro.props;
+const d = partido.data;
+const propias = (await fichas()).filter((f) => f.data.partido.id === partido.id);
+const prog = (await programa()).filter((e) => e.data.partido.id === partido.id);
+const otros = lista.filter((p) => p.id !== partido.id);
+---
+
+<Base titulo={d.nombre} descripcion={d.resumen} partidoLeido={partido.id}>
+  <section class="partido envoltorio" style={`--c:${d.color}`}>
+    <h1>
+      <span class="partido__siglas">{d.siglas}</span>
+      <span class="partido__nombre">{d.nombre}</span>
+    </h1>
+    <dl class="partido__datos">
+      <div><dt>Candidatura</dt><dd>{d.candidato}</dd></div>
+      <div><dt>Papel en la legislatura</dt><dd>{d.papelLegislatura}</dd></div>
+      <div><dt>Escaños en 2023</dt><dd>{d.escanos2023}</dd></div>
+      <div>
+        <dt>Media de encuestas</dt>
+        <dd>
+          {d.encuesta.porcentaje.toLocaleString('es-ES')} % y {d.encuesta.escanos} escaños
+          (<a href={d.encuesta.fuente.url}>{d.encuesta.fuente.medio}</a>)
+        </dd>
+      </div>
+    </dl>
+    <p class="partido__resumen">{d.resumen}</p>
+    {d.nota && <p class="partido__nota">{d.nota}</p>}
+    <p class="partido__enlaces">
+      <a href={d.web}>Web oficial</a>
+      {d.programaUrl && <a href={d.programaUrl}>Programa electoral</a>}
+    </p>
+
+    <aside class="partido__recordatorio">
+      <p>
+        <span class="rotulador">Estás leyendo un solo partido.</span> Compáralo con{' '}
+        {otros.map((p, i) => (
+          <>
+            <a href={partidoUrl(p.id)}>{p.data.siglas}</a>
+            {i < otros.length - 2 ? ', ' : i === otros.length - 2 ? ' y ' : '.'}
+          </>
+        ))}
+      </p>
+    </aside>
+
+    {
+      ORDEN_CATEGORIAS.map((cat) => {
+        const items = propias.filter((f) => f.data.categoria === cat);
+        return (
+          <section class="bloque" id={cat}>
+            <h2>
+              <Marca categoria={cat} tamano={24} />
+              {CATEGORIA_INFO[cat].titulo}
+            </h2>
+            {items.length === 0 ? (
+              <p class="vacio">Todavía no hay fichas en esta categoría.</p>
+            ) : (
+              <ul class="lista">
+                {items.map((f) => (
+                  <li>
+                    <a href={fichaUrl(f)}>{f.data.titulo}</a>
+                    <p>{f.data.resumen}</p>
+                    {(f.data.estadoJudicial || f.data.ambito !== 'estatal') && (
+                      <p class="lista__meta">
+                        {f.data.estadoJudicial && (
+                          <span class="etiqueta etiqueta--judicial">{ESTADO_JUDICIAL[f.data.estadoJudicial]}</span>
+                        )}
+                        {f.data.ambito !== 'estatal' && <span class="etiqueta">{AMBITO[f.data.ambito]}</span>}
+                      </p>
+                    )}
+                  </li>
+                ))}
+              </ul>
+            )}
+          </section>
+        );
+      })
+    }
+
+    <section class="bloque" id="programa">
+      <h2>Programa frente a hechos</h2>
+      <ul class="lista">
+        {
+          TEMAS.map((t) => {
+            const e = prog.find((x) => x.data.tema === t.id);
+            return (
+              <li>
+                <a href={temaUrl(t.id)}>{t.nombre}</a>
+                {e ? (
+                  <>
+                    <p>
+                      <b>Propone:</b> {e.data.propuesta}
+                    </p>
+                    <p>
+                      <b>Ha hecho:</b> {e.data.balance}
+                    </p>
+                    <p class="lista__meta">
+                      <span class={`etiqueta etiqueta--${e.data.coherencia}`}>{COHERENCIA[e.data.coherencia].texto}</span>
+                    </p>
+                  </>
+                ) : (
+                  <p class="vacio">Pendiente.</p>
+                )}
+              </li>
+            );
+          })
+        }
+      </ul>
+    </section>
+  </section>
+</Base>
+
+<style>
+  .partido {
+    padding-top: 2.5rem;
+  }
+
+  .partido h1 {
+    display: flex;
+    flex-direction: column;
+    border-left: 10px solid var(--c);
+    padding-left: 1rem;
+  }
+
+  .partido__siglas {
+    font-size: clamp(3rem, 9vw, 5.5rem);
+    font-weight: 850;
+    font-stretch: 68%;
+    line-height: 0.95;
+  }
+
+  .partido__nombre {
+    font-size: 1.25rem;
+    font-weight: 500;
+    color: var(--tinta-suave);
+  }
+
+  .partido__datos {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(13rem, 1fr));
+    gap: 1rem 2rem;
+    margin: 2rem 0 1.5rem;
+  }
+
+  .partido__datos dt {
+    font-size: 0.8125rem;
+    font-weight: 700;
+    color: var(--tinta-suave);
+  }
+
+  .partido__datos dd {
+    margin: 0.1rem 0 0;
+  }
+
+  .partido__resumen {
+    max-width: 64ch;
+    font-size: 1.125rem;
+  }
+
+  .partido__nota {
+    max-width: 64ch;
+    color: var(--tinta-suave);
+  }
+
+  .partido__enlaces {
+    display: flex;
+    gap: 1.5rem;
+    font-weight: 600;
+  }
+
+  .partido__recordatorio {
+    margin: 2rem 0 1rem;
+    font-size: 1.15rem;
+    font-weight: 600;
+  }
+
+  .bloque {
+    margin-top: 3rem;
+    scroll-margin-top: 1rem;
+  }
+
+  .bloque h2 {
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+    font-size: 1.6rem;
+    padding-bottom: 0.6rem;
+    border-bottom: 2px solid var(--tinta);
+  }
+
+  .lista {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    max-width: 72ch;
+  }
+
+  .lista li {
+    padding-block: 1rem;
+    border-bottom: 1px solid var(--linea);
+  }
+
+  .lista li > a {
+    font-weight: 700;
+    font-size: 1.1rem;
+    color: var(--tinta);
+  }
+
+  .lista p {
+    margin: 0.35rem 0 0;
+  }
+
+  .lista__meta {
+    display: flex;
+    gap: 0.5rem;
+  }
+
+  .vacio {
+    color: var(--tinta-suave);
+  }
+</style>

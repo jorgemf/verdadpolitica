@@ -1,0 +1,292 @@
+:root {
+  --papel: #eef0ec;
+  --papel-alto: #f8f9f6;
+  --tinta: #1a2233;
+  --tinta-suave: #5b6475;
+  --linea: #c9cdc4;
+  --rotulador: #ffd83d;
+  --enlace: #1f4fa3;
+
+  --sans: 'Archivo Variable', system-ui, sans-serif;
+  --serif: 'Literata Variable', Georgia, serif;
+
+  --ancho: 78rem;
+  --gutter: clamp(1rem, 3vw, 2rem);
+  color-scheme: light;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --papel: #141a24;
+    --papel-alto: #1c2330;
+    --tinta: #e6e8ec;
+    --tinta-suave: #a3abb9;
+    --linea: #343d4d;
+    --rotulador: #ffd83d;
+    --enlace: #8fb4ff;
+    color-scheme: dark;
+  }
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  margin: 0;
+  background: var(--papel);
+  color: var(--tinta);
+  font-family: var(--sans);
+  font-size: 1rem;
+  line-height: 1.5;
+}
+
+a {
+  color: var(--enlace);
+  text-underline-offset: 0.18em;
+  text-decoration-thickness: 1px;
+}
+
+a:hover {
+  text-decoration-thickness: 2px;
+}
+
+:focus-visible {
+  outline: 3px solid var(--tinta);
+  outline-offset: 2px;
+  border-radius: 2px;
+}
+
+h1,
+h2,
+h3 {
+  font-stretch: 85%;
+  line-height: 1.1;
+  margin: 0 0 0.5em;
+  text-wrap: balance;
+}
+
+p {
+  margin: 0 0 1em;
+}
+
+.envoltorio {
+  max-width: var(--ancho);
+  margin-inline: auto;
+  padding-inline: var(--gutter);
+}
+
+.saltar {
+  position: absolute;
+  left: -999px;
+}
+
+.saltar:focus {
+  left: 1rem;
+  top: 1rem;
+  background: var(--papel-alto);
+  padding: 0.5rem 1rem;
+  z-index: 10;
+}
+
+/* El rotulador: la única marca llamativa de la web. */
+.rotulador {
+  background: linear-gradient(transparent 12%, var(--rotulador) 12%, var(--rotulador) 88%, transparent 88%);
+  color: #1a2233;
+  box-decoration-break: clone;
+  -webkit-box-decoration-break: clone;
+  padding-inline: 0.12em;
+}
+
+/* Cabecera */
+.cabecera {
+  border-bottom: 1px solid var(--linea);
+}
+
+.cabecera__fila {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem 1.5rem;
+  align-items: baseline;
+  justify-content: space-between;
+  padding-block: 1rem;
+}
+
+.logo {
+  font-weight: 800;
+  font-stretch: 75%;
+  font-size: 1.35rem;
+  letter-spacing: -0.01em;
+  color: var(--tinta);
+  text-decoration: none;
+}
+
+.logo span {
+  font-weight: 400;
+}
+
+.cabecera nav {
+  display: flex;
+  gap: 1.25rem;
+}
+
+.cabecera nav a {
+  color: var(--tinta);
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.cabecera nav a:hover {
+  text-decoration: underline;
+}
+
+.lectura {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.5rem 0.75rem;
+  padding-block: 0 0.85rem;
+  font-size: 0.875rem;
+  color: var(--tinta-suave);
+}
+
+.lectura[hidden] {
+  display: none;
+}
+
+.lectura__lista {
+  display: flex;
+  gap: 0.35rem;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.lectura__lista a {
+  display: inline-block;
+  padding: 0.1rem 0.5rem;
+  border: 1.5px dashed var(--linea);
+  border-radius: 999px;
+  color: var(--tinta-suave);
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.lectura__lista li.leido a {
+  border: 1.5px solid var(--c);
+  background: color-mix(in srgb, var(--c) 14%, transparent);
+  color: var(--tinta);
+}
+
+/* Pie */
+.pie {
+  margin-top: 5rem;
+  border-top: 1px solid var(--linea);
+  padding-block: 2.5rem;
+  font-size: 0.9375rem;
+  color: var(--tinta-suave);
+}
+
+.pie__rejilla {
+  display: grid;
+  gap: 1.5rem;
+  grid-template-columns: minmax(0, 2fr) minmax(0, 1fr);
+}
+
+.pie__rejilla p {
+  margin-bottom: 0.4em;
+  max-width: 60ch;
+}
+
+.pie__lema {
+  font-weight: 700;
+  color: var(--tinta);
+  font-size: 1.05rem;
+}
+
+.pie__licencia {
+  grid-column: 1 / -1;
+}
+
+@media (max-width: 40rem) {
+  .pie__rejilla {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Etiquetas pequeñas reutilizadas */
+.etiqueta {
+  display: inline-block;
+  font-size: 0.8125rem;
+  font-weight: 600;
+  padding: 0.05rem 0.5rem;
+  border-radius: 4px;
+  border: 1px solid var(--linea);
+  background: var(--papel-alto);
+  color: var(--tinta);
+  white-space: nowrap;
+}
+
+.etiqueta--contradictorio {
+  border-color: currentColor;
+  font-weight: 700;
+}
+
+.etiqueta--judicial {
+  border-color: var(--tinta);
+}
+
+/* Prosa larga de las fichas */
+.prosa {
+  font-family: var(--serif);
+  font-size: 1.0625rem;
+  line-height: 1.7;
+  max-width: 68ch;
+}
+
+.prosa h2 {
+  font-family: var(--sans);
+  font-size: 1.25rem;
+  margin-top: 2em;
+}
+
+.prosa > :first-child {
+  margin-top: 0;
+}
+
+.prosa blockquote {
+  margin: 1.5em 0;
+  padding-left: 1em;
+  border-left: 3px solid var(--rotulador);
+  font-style: italic;
+}
+
+/* Botones */
+.boton {
+  display: inline-block;
+  padding: 0.7rem 1.2rem;
+  background: var(--tinta);
+  color: var(--papel);
+  font-weight: 700;
+  text-decoration: none;
+  border-radius: 4px;
+  border: 2px solid var(--tinta);
+}
+
+.boton--secundario {
+  background: transparent;
+  color: var(--tinta);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * {
+    transition: none !important;
+    animation: none !important;
+  }
+}

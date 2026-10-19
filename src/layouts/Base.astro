@@ -1,0 +1,131 @@
+---
+import '@fontsource-variable/archivo/wdth.css';
+import '@fontsource-variable/literata/opsz.css';
+import '../styles/global.css';
+import { partidos, url, REPO } from '../lib/datos';
+
+interface Props {
+  titulo?: string;
+  descripcion?: string;
+  /** Partido que se está leyendo, para el contador de lectura equilibrada. */
+  partidoLeido?: string;
+}
+
+const {
+  titulo,
+  descripcion = 'Qué prometieron, qué hicieron y qué no los partidos que se presentan a las elecciones generales del 29 de noviembre de 2026. Con fuentes.',
+  partidoLeido,
+} = Astro.props;
+
+const lista = await partidos();
+const tituloCompleto = titulo ? `${titulo} | verdadpolitica.es` : 'verdadpolitica.es · Elecciones generales 29-N';
+const canonical = new URL(Astro.url.pathname, Astro.site);
+---
+
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{tituloCompleto}</title>
+    <meta name="description" content={descripcion} />
+    <link rel="canonical" href={canonical} />
+    <link rel="icon" type="image/svg+xml" href={url('favicon.svg')} />
+    <meta property="og:title" content={tituloCompleto} />
+    <meta property="og:description" content={descripcion} />
+    <meta property="og:type" content="website" />
+    <meta property="og:locale" content="es_ES" />
+    <meta name="theme-color" content="#eef0ec" />
+  </head>
+  <body data-partido-leido={partidoLeido}>
+    <a class="saltar" href="#contenido">Saltar al contenido</a>
+    <header class="cabecera">
+      <div class="envoltorio cabecera__fila">
+        <a class="logo" href={url('/')}>verdad<span>política</span>.es</a>
+        <nav aria-label="Principal">
+          <a href={url('tema/vivienda/')}>Programas</a>
+          <a href={url('metodologia/')}>Metodología</a>
+          <a href={url('colabora/')}>Colabora</a>
+        </nav>
+      </div>
+      <div class="envoltorio lectura" data-lectura hidden>
+        <span class="lectura__texto">Has leído fichas de</span>
+        <ul class="lectura__lista">
+          {
+            lista.map((p) => (
+              <li data-id={p.id} style={`--c:${p.data.color}`}>
+                <a href={url(`partido/${p.id}/`)}>{p.data.siglas}</a>
+              </li>
+            ))
+          }
+        </ul>
+        <span class="lectura__aviso" data-lectura-aviso></span>
+      </div>
+    </header>
+
+    <main id="contenido">
+      <slot />
+    </main>
+
+    <footer class="pie">
+      <div class="envoltorio pie__rejilla">
+        <div>
+          <p class="pie__lema">Estás usando mal esta web si solo lees una ideología política.</p>
+          <p>
+            Proyecto independiente y de código abierto. No está vinculado a ningún partido. Todo el contenido
+            está publicado con sus fuentes y se puede corregir.
+          </p>
+        </div>
+        <div>
+          <p><a href={url('colabora/')}>Cómo colaborar</a></p>
+          <p><a href={url('metodologia/')}>Cómo elaboramos las fichas</a></p>
+          <p><a href={REPO}>Código fuente en GitHub</a></p>
+          <p><a href={`${REPO}/issues/new/choose`}>Avisar de un error</a></p>
+        </div>
+        <p class="pie__licencia">
+          Código bajo licencia MIT. Contenido bajo licencia <a
+            href="https://creativecommons.org/licenses/by-sa/4.0/deed.es">CC BY-SA 4.0</a
+          >.
+        </p>
+      </div>
+    </footer>
+
+    <script>
+      // Contador de lectura equilibrada: solo vive en este navegador.
+      const CLAVE = 'vp-partidos-leidos';
+      const leer = (): string[] => {
+        try {
+          return JSON.parse(localStorage.getItem(CLAVE) ?? '[]');
+        } catch {
+          return [];
+        }
+      };
+      const leidos = new Set(leer());
+      const actual = document.body.dataset.partidoLeido;
+      if (actual) {
+        leidos.add(actual);
+        try {
+          localStorage.setItem(CLAVE, JSON.stringify([...leidos]));
+        } catch {
+          /* sin almacenamiento: el contador simplemente no se guarda */
+        }
+      }
+      const caja = document.querySelector<HTMLElement>('[data-lectura]');
+      if (caja && leidos.size > 0) {
+        const items = [...caja.querySelectorAll<HTMLElement>('li[data-id]')];
+        const faltan: string[] = [];
+        for (const li of items) {
+          const leido = leidos.has(li.dataset.id!);
+          li.classList.toggle('leido', leido);
+          if (!leido) faltan.push(li.textContent!.trim());
+        }
+        const aviso = caja.querySelector<HTMLElement>('[data-lectura-aviso]')!;
+        aviso.textContent =
+          faltan.length === 0
+            ? 'Has contrastado todos los partidos.'
+            : `Te falta: ${faltan.join(', ')}.`;
+        caja.hidden = false;
+      }
+    </script>
+  </body>
+</html>

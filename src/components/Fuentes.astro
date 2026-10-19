@@ -1,0 +1,72 @@
+---
+import type { Fuente } from '../content.config';
+import { TIPO_FUENTE, fecha } from '../lib/datos';
+
+interface Props {
+  fuentes: Fuente[];
+  titulo?: string;
+}
+
+const { fuentes, titulo = 'Fuentes' } = Astro.props;
+---
+
+<section class="fuentes" aria-label={titulo}>
+  <h2>{titulo}</h2>
+  <ol>
+    {
+      fuentes.map((f) => (
+        <li>
+          <a href={f.url} rel="noopener noreferrer" target="_blank">
+            {f.titulo}
+          </a>
+          <span class="fuentes__meta">
+            {f.medio}
+            {f.fecha && `, ${fecha(f.fecha)}`}. <span class="fuentes__tipo">{TIPO_FUENTE[f.tipo]}</span>
+          </span>
+        </li>
+      ))
+    }
+  </ol>
+</section>
+
+<style>
+  .fuentes {
+    margin-top: 3rem;
+    padding-top: 1.5rem;
+    border-top: 2px solid var(--tinta);
+    max-width: 68ch;
+  }
+
+  .fuentes h2 {
+    font-size: 1.25rem;
+  }
+
+  .fuentes ol {
+    padding-left: 1.6rem;
+    margin: 0;
+  }
+
+  .fuentes li {
+    margin-bottom: 0.85rem;
+    padding-left: 0.25rem;
+  }
+
+  .fuentes li::marker {
+    font-weight: 700;
+  }
+
+  .fuentes a {
+    font-weight: 500;
+    overflow-wrap: anywhere;
+  }
+
+  .fuentes__meta {
+    display: block;
+    font-size: 0.875rem;
+    color: var(--tinta-suave);
+  }
+
+  .fuentes__tipo {
+    font-weight: 600;
+  }
+</style>

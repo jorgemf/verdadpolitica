@@ -1,0 +1,95 @@
+---
+import Base from '../layouts/Base.astro';
+import { REPO } from '../lib/datos';
+---
+
+<Base titulo="Colabora" descripcion="Cómo corregir un dato, añadir una fuente o proponer una ficha nueva en verdadpolitica.es.">
+  <article class="envoltorio pagina">
+    <h1>Colabora</h1>
+    <p class="entradilla">
+      Esta web es de código abierto. Cualquiera puede proponer cambios y cada propuesta se revisa antes de
+      publicarse. No hace falta saber programar.
+    </p>
+
+    <div class="caminos">
+      <section>
+        <h2>Sin cuenta técnica</h2>
+        <p>
+          ¿Has visto un dato mal, una fuente rota o falta algo importante? Abre un aviso en GitHub explicándolo y,
+          si puedes, con un enlace que lo respalde.
+        </p>
+        <p><a class="boton" href={`${REPO}/issues/new/choose`}>Avisar de un error</a></p>
+      </section>
+
+      <section>
+        <h2>Editando directamente</h2>
+        <p>
+          Cada ficha tiene un enlace «Editar esta ficha en GitHub». Al pulsarlo, GitHub crea tu copia y te deja
+          proponer el cambio (una <i>pull request</i>) sin instalar nada.
+        </p>
+        <p><a class="boton boton--secundario" href={`${REPO}/blob/main/CONTRIBUTING.md`}>Leer la guía para contribuir</a></p>
+      </section>
+    </div>
+
+    <div class="prosa">
+      <h2>Qué se acepta</h2>
+      <ul>
+        <li>Correcciones de datos con una fuente que las respalde.</li>
+        <li>Fuentes mejores, sobre todo primarias: BOE, Congreso, Senado, resoluciones judiciales.</li>
+        <li>Fichas nuevas que cumplan la <a href={`${REPO}/blob/main/docs/GUIA-CONTENIDO.md`}>guía editorial</a>.</li>
+        <li>Actualizaciones del estado de causas judiciales.</li>
+        <li>Nuevos partidos, con el mismo nivel de detalle que los demás.</li>
+        <li>Mejoras de diseño, accesibilidad o código.</li>
+      </ul>
+
+      <h2>Qué no se acepta</h2>
+      <ul>
+        <li>Opiniones, adjetivos valorativos o ironía.</li>
+        <li>Afirmaciones sin fuente o con fuentes que no dicen lo que se afirma.</li>
+        <li>Presentar una investigación judicial como una condena.</li>
+        <li>Cambios que endurecen o suavizan el trato a un partido sin aplicar el mismo criterio a los demás.</li>
+      </ul>
+
+      <h2>Quién decide</h2>
+      <p>
+        Cualquiera puede proponer cambios, pero solo el mantenedor del proyecto puede aceptarlos. Todas las
+        discusiones y decisiones quedan registradas públicamente en GitHub.
+      </p>
+    </div>
+  </article>
+</Base>
+
+<style>
+  .pagina {
+    padding-top: 2.5rem;
+  }
+
+  .pagina h1 {
+    font-size: clamp(2.2rem, 6vw, 3.75rem);
+    font-weight: 850;
+    font-stretch: 72%;
+  }
+
+  .entradilla {
+    font-size: 1.2rem;
+    max-width: 60ch;
+  }
+
+  .caminos {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(18rem, 1fr));
+    gap: 1.5rem;
+    margin: 2rem 0;
+  }
+
+  .caminos section {
+    padding: 1.5rem;
+    border: 2px solid var(--tinta);
+    border-radius: 6px;
+    background: var(--papel-alto);
+  }
+
+  .caminos h2 {
+    font-size: 1.35rem;
+  }
+</style>

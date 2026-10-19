@@ -1,0 +1,11 @@
+---
+import Base from '../layouts/Base.astro';
+import { url } from '../lib/datos';
+---
+
+<Base titulo="Página no encontrada">
+  <section class="envoltorio" style="padding-top:3rem">
+    <h1>Esta página no existe</h1>
+    <p>Puede que la ficha haya cambiado de nombre. <a href={url('/')}>Vuelve a la portada</a> para ver todas.</p>
+  </section>
+</Base>

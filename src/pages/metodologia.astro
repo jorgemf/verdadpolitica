@@ -1,0 +1,122 @@
+---
+import Base from '../layouts/Base.astro';
+import Marca from '../components/Marca.astro';
+import { CATEGORIA_INFO, ORDEN_CATEGORIAS, COHERENCIA, partidos, url, REPO } from '../lib/datos';
+
+const lista = await partidos();
+---
+
+<Base titulo="Metodología" descripcion="Cómo se eligen los partidos, cómo se elaboran las fichas y qué fuentes se aceptan.">
+  <article class="envoltorio pagina">
+    <h1>Cómo se hace esta web</h1>
+
+    <div class="prosa">
+      <h2>Qué partidos y por qué</h2>
+      <p>
+        Se analizan los partidos con más escaños previstos en la media de encuestas publicada antes del 29-N:
+        {lista.map((p) => p.data.siglas).join(', ')}. El criterio es la representación esperada, no la afinidad. Otros
+        partidos pueden añadirse siguiendo la <a href={url('colabora/')}>guía de colaboración</a>.
+      </p>
+      <p>
+        Frente Amplio no existía como tal en 2023. Su historial es el de Sumar y de los partidos que hoy forman la
+        coalición, que fueron socios del Gobierno durante la legislatura.
+      </p>
+
+      <h2>Qué periodo</h2>
+      <p>
+        La XV legislatura: desde la constitución de las Cortes el 17 de agosto de 2023 hasta su disolución el 6 de
+        octubre de 2026. Las promesas se toman del programa electoral de 2023, los discursos de investidura, el
+        acuerdo de coalición y los compromisos públicos de cada dirección.
+      </p>
+
+      <h2>Las cinco categorías</h2>
+    </div>
+    <ul class="cats">
+      {
+        ORDEN_CATEGORIAS.map((c) => (
+          <li>
+            <Marca categoria={c} tamano={26} />
+            <div>
+              <b>{CATEGORIA_INFO[c].titulo}.</b> {CATEGORIA_INFO[c].descripcion}
+            </div>
+          </li>
+        ))
+      }
+    </ul>
+
+    <div class="prosa">
+      <p>
+        Los partidos en la oposición estatal no pueden aprobar leyes por sí solos. En su caso, lo cumplido o lo
+        bloqueado se refiere a lo que prometieron hacer desde la oposición (el Senado, los recursos ante el Tribunal
+        Constitucional, las iniciativas parlamentarias) o a su gestión donde gobiernan, siempre indicando el ámbito.
+      </p>
+
+      <h2>Programa frente a hechos</h2>
+      <p>Para cada tema se resume lo que propone cada partido y lo que ha hecho, con una de estas valoraciones:</p>
+      <ul>
+        {
+          Object.values(COHERENCIA).map((c) => (
+            <li>
+              <b>{c.texto}:</b> {c.descripcion}
+            </li>
+          ))
+        }
+      </ul>
+
+      <h2>Fuentes</h2>
+      <p>
+        Cada ficha necesita al menos dos fuentes, con prioridad para las primarias: el BOE, las votaciones y diarios
+        de sesiones del Congreso y el Senado, las resoluciones judiciales, los programas oficiales y los datos del INE.
+        Cuando se usa prensa, se procura combinar medios de líneas editoriales distintas.
+      </p>
+
+      <h2>Causas judiciales</h2>
+      <p>
+        Se indica el estado procesal exacto: investigación, procesamiento, juicio, condena (firme o no), absolución
+        o archivo. Una investigación no es una condena y toda persona se presume inocente hasta que haya sentencia
+        firme. Se recoge también la versión del partido o de las personas implicadas cuando la han dado.
+      </p>
+
+      <h2>Cómo se ha elaborado</h2>
+      <p>
+        La primera versión del contenido se redactó con ayuda de herramientas de inteligencia artificial que
+        buscaron y comprobaron fuentes, y después se revisó. Puede contener errores. Por eso cada ficha enlaza a sus
+        fuentes y se puede corregir en <a href={REPO}>GitHub</a>. Si una ficha te parece injusta o incompleta,{' '}
+        <a href={`${REPO}/issues/new/choose`}>avísanos</a>.
+      </p>
+
+      <h2>Mismo rasero para todos</h2>
+      <p>
+        Todos los partidos tienen las mismas categorías y una cantidad parecida de fichas. Si crees que se trata a
+        uno con más dureza que a otro, esa es una de las correcciones más útiles que puedes proponer.
+      </p>
+    </div>
+  </article>
+</Base>
+
+<style>
+  .pagina {
+    padding-top: 2.5rem;
+  }
+
+  .pagina h1 {
+    font-size: clamp(2.2rem, 6vw, 3.75rem);
+    font-weight: 850;
+    font-stretch: 72%;
+  }
+
+  .cats {
+    list-style: none;
+    padding: 0;
+    margin: 1rem 0 1.5rem;
+    max-width: 68ch;
+  }
+
+  .cats li {
+    display: flex;
+    gap: 0.85rem;
+    align-items: flex-start;
+    padding-block: 0.75rem;
+    border-bottom: 1px solid var(--linea);
+  }
+</style>

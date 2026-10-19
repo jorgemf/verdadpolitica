@@ -1,0 +1,61 @@
+---
+// Símbolo de cada categoría. Van en tinta, sin color, para no asociar un
+// estado con el color de ningún partido.
+import type { Categoria } from '../content.config';
+
+interface Props {
+  categoria: Categoria;
+  tamano?: number;
+}
+
+const { categoria, tamano = 20 } = Astro.props;
+---
+
+<svg
+  class="marca"
+  width={tamano}
+  height={tamano}
+  viewBox="0 0 24 24"
+  fill="none"
+  stroke="currentColor"
+  stroke-width="2.2"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+  aria-hidden="true"
+>
+  {categoria === 'cumplido' && <path d="M4 12.5l5 5L20 6.5" />}
+  {
+    categoria === 'bloqueado' && (
+      <>
+        <circle cx="12" cy="12" r="8.5" />
+        <path d="M6 18L18 6" />
+      </>
+    )
+  }
+  {categoria === 'no-intentado' && <path d="M6 6l12 12M18 6L6 18" />}
+  {
+    categoria === 'contradiccion' && (
+      <>
+        <path d="M4 8h14l-3.5-3.5" />
+        <path d="M20 16H6l3.5 3.5" />
+      </>
+    )
+  }
+  {
+    categoria === 'judicial' && (
+      <>
+        <path d="M12 4v16M7 20h10" />
+        <path d="M5 8h14" />
+        <path d="M5 8l-2.5 6a2.5 2.5 0 005 0zM19 8l-2.5 6a2.5 2.5 0 005 0z" />
+      </>
+    )
+  }
+</svg>
+
+<style>
+  .marca {
+    flex: none;
+    display: inline-block;
+    vertical-align: -0.2em;
+  }
+</style>

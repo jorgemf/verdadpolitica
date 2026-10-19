@@ -1,0 +1,21 @@
+nombre: Partido Socialista Obrero Español
+siglas: PSOE
+candidato: Pedro Sánchez
+color: "#e30613"
+orden: 2
+papelLegislatura: Partido del Gobierno, en coalición con Sumar.
+escanos2023: 121
+encuesta:
+  porcentaje: 26.8
+  escanos: 105
+  fecha: 2026-10-19
+  fuente:
+    titulo: "Media de encuestas elecciones generales 2026"
+    url: https://www.democrata.es/elecciones-generales-espana/herramientas/encuestas
+    medio: Demócrata
+    fecha: 2026-10-19
+    tipo: prensa
+resumen: "Partido del Gobierno durante la legislatura (121 escaños), en coalición con Sumar, tras la investidura de Pedro Sánchez del 16 de noviembre de 2023, que apoyaron ERC, Junts, EH Bildu, PNV, BNG y Coalición Canaria. Preside los gobiernos de Cataluña (PSC), Asturias, Castilla-La Mancha y Navarra, y forma parte del Gobierno vasco con el PNV. Concurre al 29-N con Sánchez como candidato."
+nota: "A 19 de octubre de 2026 el PSOE no había publicado su programa para el 29-N; el enlace remite al programa de las generales de 2023. Sus propuestas más recientes son las resoluciones de su 41.º Congreso Federal (noviembre de 2024) y los anuncios de precampaña."
+web: https://www.psoe.es
+programaUrl: https://www.psoe.es/media-content/2023/07/PROGRAMA_ELECTORAL-GENERALES-2023.pdf
