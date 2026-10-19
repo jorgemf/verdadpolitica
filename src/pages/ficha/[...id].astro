@@ -55,7 +55,7 @@ const mostrarAviso = !!d.estadoJudicial && !ESTADOS_RESUELTOS.includes(d.estadoJ
 const tituloIssue = encodeURIComponent(`Corrección: ${d.titulo} (${partido.data.siglas})`);
 ---
 
-<Base titulo={`${d.titulo} (${partido.data.siglas})`} descripcion={d.resumen} partidoLeido={partido.id}>
+<Base titulo={`${d.titulo} (${partido.data.siglas})`} descripcion={d.resumen}>
   <article class="ficha envoltorio" style={`--c:${partido.data.color}`}>
     <nav class="migas" aria-label="Ruta">
       <a href={partidoUrl(partido.id)}>{partido.data.siglas}</a>

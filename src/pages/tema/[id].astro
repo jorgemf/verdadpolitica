@@ -123,6 +123,7 @@ const columnas = await Promise.all(
 
   .tema__nav a {
     padding: 0.3rem 0.75rem;
+    background: var(--papel-alto);
     border: 1px solid var(--linea);
     border-radius: 999px;
     color: var(--tinta);
@@ -149,7 +150,7 @@ const columnas = await Promise.all(
 
   .tema__columnas {
     display: grid;
-    grid-template-columns: repeat(var(--n), minmax(0, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(min(100%, 13rem), 1fr));
     gap: 1.5rem;
     margin-top: 2rem;
     align-items: start;
@@ -237,9 +238,21 @@ const columnas = await Promise.all(
     color: var(--tinta-suave);
   }
 
-  @media (max-width: 60rem) {
+  @media (max-width: 40rem) {
+    .tema__nav {
+      flex-wrap: nowrap;
+      overflow-x: auto;
+      scrollbar-width: none;
+      margin-inline: calc(-1 * var(--gutter));
+      padding-inline: var(--gutter);
+    }
+
+    .tema__nav a {
+      flex: none;
+    }
+
     .tema__columnas {
-      grid-template-columns: minmax(0, 1fr);
+      gap: 2rem;
     }
   }
 </style>

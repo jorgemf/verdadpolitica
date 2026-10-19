@@ -34,7 +34,7 @@ const prog = (await programa()).filter((e) => e.data.partido.id === partido.id);
 const otros = lista.filter((p) => p.id !== partido.id);
 ---
 
-<Base titulo={d.nombre} descripcion={d.resumen} partidoLeido={partido.id}>
+<Base titulo={d.nombre} descripcion={d.resumen}>
   <section class="partido envoltorio" style={`--c:${d.color}`}>
     <h1>
       <span class="partido__siglas">{d.siglas}</span>

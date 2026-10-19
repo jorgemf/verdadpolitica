@@ -1,8 +1,8 @@
 ---
 partido: frente-amplio
 categoria: cumplido
-titulo: "Embargo de armas a Israel por real decreto-ley"
-resumen: "El Real Decreto-ley 10/2025 prohíbe exportar a Israel e importar de Israel material de defensa y doble uso, y las importaciones de productos de los asentamientos. Sumar lo reclamaba; el Congreso lo convalidó el 8 de octubre de 2025 (178-169), con críticas de insuficiencia de Podemos y de ONG."
+titulo: "Embargo de armas a Israel por real decreto-ley, con autorizaciones excepcionales del Consejo de Ministros"
+resumen: "El Real Decreto-ley 10/2025 prohíbe comerciar con Israel material de defensa y doble uso e importar productos de los asentamientos, aunque el Consejo de Ministros puede autorizar excepciones. Se convalidó el 8 de octubre de 2025 (178-169), con críticas de insuficiencia de Podemos y de ONG."
 promesa: "Prohibir la venta de armas a países que vulneren los derechos humanos (programa de Sumar 2023) y aprobar por ley un embargo de armas a Israel (exigencia pública de Sumar durante la legislatura)."
 importancia: 2
 fecha: 2025-10-08
@@ -40,11 +40,11 @@ El programa de Sumar de 2023 proponía revisar la política de exportación de a
 
 ## Qué pasó
 
-El Consejo de Ministros aprobó el Real Decreto-ley 10/2025, de 23 de septiembre. Prohíbe las exportaciones a Israel y las importaciones desde Israel de material de defensa y de doble uso, obliga a denegar el tránsito de ese material y de combustibles con posible uso militar, y prohíbe importar productos de los asentamientos israelíes en territorio palestino ocupado [3]. El Congreso lo convalidó el 8 de octubre de 2025 con 178 votos a favor y 169 en contra, de PP y Vox [4] [5]. También se acordó tramitarlo como proyecto de ley para poder introducir cambios [5].
+El Consejo de Ministros aprobó el Real Decreto-ley 10/2025, de 23 de septiembre. Prohíbe las exportaciones a Israel y las importaciones desde Israel de material de defensa y de doble uso, obliga a denegar el tránsito de ese material y de combustibles con posible uso militar, y prohíbe importar productos de los asentamientos israelíes en territorio palestino ocupado [3]. Su disposición adicional primera permite al Consejo de Ministros autorizar excepcionalmente esas transferencias cuando la prohibición suponga «un menoscabo para los intereses generales nacionales» [3]. El Congreso lo convalidó el 8 de octubre de 2025 con 178 votos a favor y 169 en contra, de PP y Vox [4] [5]. También se acordó tramitarlo como proyecto de ley para poder introducir cambios [5].
 
 ## Por qué
 
-En mayo de 2025 el Congreso admitió a trámite una proposición de ley de embargo y Sumar pidió al PSOE tramitarla por urgencia; su portavoz, Ernest Urtasun, descartó entonces la vía del decreto que exigía Podemos y dijo que no había "ningún escenario B" [2]. Cuatro meses después, el Gobierno del que formaba parte Sumar optó por un real decreto-ley [3]. Podemos anunció su voto a favor el mismo día de la votación, lo que desbloqueó la convalidación [5].
+En mayo de 2025 el Congreso admitió a trámite una proposición de ley de embargo y Sumar pidió al PSOE tramitarla por urgencia; su portavoz, Ernest Urtasun, descartó entonces la vía del decreto que exigía Podemos y dijo que no había "ningún escenario B" [2]. Cuatro meses después, el Gobierno del que formaba parte Sumar optó por un real decreto-ley [3]. Podemos anunció su voto a favor el mismo día de la votación. Con 178 votos a favor y 169 en contra, sus votos no fueron por sí solos decisivos [5].
 
 ## Lo que dicen las partes
 

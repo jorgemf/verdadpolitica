@@ -47,7 +47,7 @@ El programa de Sumar de 2023 proponía una «herencia universal» de 20.000 euro
 
 ## Qué pasó
 
-La medida no entró en el acuerdo de coalición de octubre de 2023: Díaz "ha tenido que dejar la herencia universal de 20.000 euros para jóvenes" [3]. No consta ninguna iniciativa del grupo Sumar para crearla: ni proposición de ley, ni proposición no de ley, ni moción, ni enmienda [4] [6].
+La medida no entró en el acuerdo de coalición de octubre de 2023: Díaz "ha tenido que dejar la herencia universal de 20.000 euros para jóvenes" [3]. No consta ninguna iniciativa del grupo Sumar para crearla: ni proposición de ley, ni proposición no de ley, ni moción, ni enmienda al proyecto de la Ley 7/2024 [4] [6].
 
 Sí presentó iniciativas sobre impuestos a los grandes patrimonios. En noviembre de 2024 enmendó el proyecto de la Ley 7/2024 para crear un impuesto a las grandes herencias (núm. 112) y reformar el impuesto de solidaridad de las grandes fortunas (núm. 115) [6]. El 22 de mayo de 2026 registró una proposición de ley de impuesto a las grandes herencias y donaciones, cuyo rendimiento se destinaría a "financiar políticas de apoyo a los más vulnerables", sin vincularlo a la herencia universal; caducó sin debatirse [4] [5].
 

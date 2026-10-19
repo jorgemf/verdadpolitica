@@ -11,11 +11,13 @@ const d = p.data;
 
 <a class="cp" href={partidoUrl(p.id)} style={`--c:${d.color}`}>
   <span class="cp__siglas">{d.siglas}</span>
-  <span class="cp__nombre">{d.nombre}</span>
-  <span class="cp__candidato">{d.candidato}</span>
+  <span class="cp__persona">
+    <span class="cp__candidato">{d.candidato}</span>
+    <span class="cp__nombre">{d.nombre}</span>
+  </span>
   <span class="cp__escanos">
-    <span><b>{d.escanos2023}</b> escaños en 2023</span>
-    <span><b>{d.encuesta.escanos}</b> en la media de encuestas</span>
+    <span><b>{d.escanos2023}</b> en 2023</span>
+    <span><b>{d.encuesta.escanos}</b> en encuestas</span>
   </span>
 </a>
 
@@ -23,7 +25,7 @@ const d = p.data;
   .cp {
     display: flex;
     flex-direction: column;
-    gap: 0.1rem;
+    gap: 0.3rem;
     padding: 0.85rem 0 0.9rem;
     border-top: 6px solid var(--c);
     color: var(--tinta);
@@ -36,32 +38,59 @@ const d = p.data;
   }
 
   .cp__siglas {
-    font-size: 1.9rem;
+    font-size: 1.75rem;
     font-weight: 850;
     font-stretch: 70%;
     line-height: 1;
   }
 
-  .cp__nombre {
-    font-size: 0.875rem;
-    color: var(--tinta-suave);
+  .cp__persona {
+    display: flex;
+    flex-direction: column;
   }
 
   .cp__candidato {
     font-weight: 600;
-    margin-top: 0.3rem;
+  }
+
+  .cp__nombre {
+    font-size: 0.8125rem;
+    color: var(--tinta-suave);
+    line-height: 1.3;
   }
 
   .cp__escanos {
     display: flex;
     flex-direction: column;
+    white-space: nowrap;
     font-size: 0.8125rem;
     color: var(--tinta-suave);
-    margin-top: 0.3rem;
     font-variant-numeric: tabular-nums;
   }
 
   .cp__escanos b {
     color: var(--tinta);
+  }
+
+  /* Tableta y móvil: una fila compacta por partido */
+  @media (max-width: 64rem) {
+    .cp {
+      display: grid;
+      grid-template-columns: 5.25rem minmax(0, 1fr) auto;
+      align-items: center;
+      gap: 0.75rem;
+      padding: 0.6rem 0 0.6rem 0.75rem;
+      border-top: 0;
+      border-left: 5px solid var(--c);
+      border-bottom: 1px solid var(--linea);
+    }
+
+    .cp__siglas {
+      font-size: 1.35rem;
+    }
+
+    .cp__escanos {
+      text-align: right;
+    }
   }
 </style>

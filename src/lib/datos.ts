@@ -7,25 +7,30 @@ export type Partido = CollectionEntry<'partidos'>;
 export type Ficha = CollectionEntry<'fichas'>;
 export type EntradaPrograma = CollectionEntry<'programa'>;
 
-export const CATEGORIA_INFO: Record<Categoria, { titulo: string; descripcion: string }> = {
+export const CATEGORIA_INFO: Record<Categoria, { titulo: string; corto: string; descripcion: string }> = {
   cumplido: {
     titulo: 'Prometió y cumplió',
+    corto: 'Cumplió',
     descripcion: 'Compromisos que se llevaron a cabo.',
   },
   bloqueado: {
     titulo: 'Lo intentó, pero se lo bloquearon',
+    corto: 'Bloqueado',
     descripcion: 'Iniciativas frenadas por la oposición, los socios o los tribunales.',
   },
   'no-intentado': {
     titulo: 'Prometió y ni lo intentó',
+    corto: 'Ni lo intentó',
     descripcion: 'Promesas sin ningún intento real, y la razón que se dio.',
   },
   contradiccion: {
     titulo: 'Dijo una cosa, hizo otra',
+    corto: 'Contradicciones',
     descripcion: 'Cambios de posición y promesas contradichas por los hechos.',
   },
   judicial: {
     titulo: 'Frentes judiciales',
+    corto: 'Judicial',
     descripcion: 'Causas que afectan al partido, a sus dirigentes o a su financiación. Con su estado procesal exacto.',
   },
 };
@@ -97,6 +102,7 @@ export function url(ruta: string): string {
 export const fichaUrl = (f: Ficha) => url(`ficha/${f.id}/`);
 export const partidoUrl = (id: string) => url(`partido/${id}/`);
 export const temaUrl = (id: string) => url(`tema/${id}/`);
+export const categoriaUrl = (id: string) => url(`categoria/${id}/`);
 
 export const editarUrl = (filePath?: string) =>
   filePath ? `${REPO}/edit/main/${filePath.replace(/^\.\//, '')}` : `${REPO}`;
