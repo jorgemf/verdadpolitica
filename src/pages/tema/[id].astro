@@ -1,258 +1,53 @@
 ---
-import { render } from 'astro:content';
 import Base from '../../layouts/Base.astro';
-import Fuentes from '../../components/Fuentes.astro';
-import {
-  partidos,
-  programa,
-  fichas,
-  COHERENCIA,
-  fichaUrl,
-  partidoUrl,
-  temaUrl,
-  editarUrl,
-  CATEGORIA_INFO,
-} from '../../lib/datos';
-import { TEMAS } from '../../data/temas';
+import SelectorTemas from '../../components/SelectorTemas.astro';
+import VistaTema from '../../components/VistaTema.astro';
+import { vistas, type Vista } from '../../lib/datos';
 
 export async function getStaticPaths() {
-  return TEMAS.map((tema) => ({ params: { id: tema.id }, props: { tema } }));
+  const todas = await vistas();
+  return todas.map((vista) => ({ params: { id: vista.id }, props: { vista, todas } }));
 }
 
-const { tema } = Astro.props as { tema: (typeof TEMAS)[number] };
-const lista = await partidos();
-const prog = (await programa()).filter((e) => e.data.tema === tema.id);
-const relacionadas = (await fichas()).filter((f) => f.data.tema === tema.id);
-
-const columnas = await Promise.all(
-  lista.map(async (p) => {
-    const e = prog.find((x) => x.data.partido.id === p.id);
-    return { partido: p, entrada: e, Content: e ? (await render(e)).Content : null };
-  }),
-);
+const { vista, todas } = Astro.props as { vista: Vista; todas: Vista[] };
+const titulo = vista.tema ? `${vista.nombre}: qué proponen y qué han hecho` : vista.nombre;
 ---
 
-<Base titulo={`${tema.nombre}: qué proponen y qué han hecho`}>
-  <section class="tema envoltorio">
-    <nav class="tema__nav" aria-label="Temas">
+<Base titulo={titulo} descripcion={`${vista.nombre}: todos los partidos, uno junto a otro, con fuentes.`}>
+  <header class="cabeza envoltorio">
+    <h1>{vista.nombre}</h1>
+    <p>
       {
-        TEMAS.map((t) => (
-          <a href={temaUrl(t.id)} aria-current={t.id === tema.id ? 'page' : undefined}>
-            {t.nombre}
-          </a>
-        ))
+        vista.tema
+          ? 'Lo que propone cada partido para el 29-N y lo que hizo en la legislatura: lo que cumplió, lo que intentó, lo que ni intentó y dónde hizo lo contrario.'
+          : 'Todos los partidos, uno junto a otro. Cada línea lleva a su ficha con fuentes.'
       }
-    </nav>
-
-    <h1>{tema.nombre}</h1>
-    <p class="tema__intro">
-      Lo que propone cada partido para el 29-N, lo que ha hecho en la legislatura y si una cosa encaja con la otra.
-      Léelos todos antes de sacar conclusiones.
     </p>
-
-    <div class="tema__columnas" style={`--n:${lista.length}`}>
-      {
-        columnas.map(({ partido: p, entrada: e, Content }) => (
-          <article class="col" style={`--c:${p.data.color}`}>
-            <h2>
-              <a href={partidoUrl(p.id)}>{p.data.siglas}</a>
-            </h2>
-            {e && Content ? (
-              <>
-                <p class="col__etiqueta">
-                  <span class={`etiqueta etiqueta--${e.data.coherencia}`} title={COHERENCIA[e.data.coherencia].descripcion}>
-                    {COHERENCIA[e.data.coherencia].texto}
-                  </span>
-                </p>
-                <h3>Propone</h3>
-                <p>{e.data.propuesta}</p>
-                <h3>Ha hecho</h3>
-                <p>{e.data.balance}</p>
-                <details>
-                  <summary>Detalle y fuentes</summary>
-                  <div class="prosa col__prosa">
-                    <Content />
-                  </div>
-                  <Fuentes fuentes={e.data.fuentes} />
-                  <p class="col__editar">
-                    <a href={editarUrl(e.filePath)}>Editar en GitHub</a>
-                  </p>
-                </details>
-              </>
-            ) : (
-              <p class="col__vacia">Pendiente de documentar.</p>
-            )}
-          </article>
-        ))
-      }
-    </div>
-
-    {
-      relacionadas.length > 0 && (
-        <section class="tema__fichas">
-          <h2>Fichas de la legislatura sobre {tema.nombre.toLowerCase()}</h2>
-          <ul>
-            {relacionadas.map((f) => {
-              const p = lista.find((x) => x.id === f.data.partido.id)!;
-              return (
-                <li style={`--c:${p.data.color}`}>
-                  <span class="tema__siglas">{p.data.siglas}</span>
-                  <a href={fichaUrl(f)}>{f.data.titulo}</a>
-                  <span class="tema__cat">{CATEGORIA_INFO[f.data.categoria].titulo}</span>
-                </li>
-              );
-            })}
-          </ul>
-        </section>
-      )
-    }
-  </section>
+  </header>
+  <SelectorTemas vistas={todas} actual={vista.id} />
+  <div class="envoltorio cuerpo">
+    <VistaTema vista={vista} />
+  </div>
 </Base>
 
 <style>
-  .tema {
-    padding-top: 2rem;
+  .cabeza {
+    padding-block: 2rem 1.25rem;
   }
 
-  .tema__nav {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 0.4rem;
-    margin-bottom: 2rem;
-  }
-
-  .tema__nav a {
-    padding: 0.3rem 0.75rem;
-    background: var(--papel-alto);
-    border: 1px solid var(--linea);
-    border-radius: 999px;
-    color: var(--tinta);
-    text-decoration: none;
-    font-size: 0.9375rem;
-  }
-
-  .tema__nav a[aria-current='page'] {
-    background: var(--tinta);
-    color: var(--papel);
-    border-color: var(--tinta);
-  }
-
-  .tema h1 {
+  .cabeza h1 {
     font-size: clamp(2.2rem, 6vw, 3.75rem);
     font-weight: 850;
     font-stretch: 72%;
   }
 
-  .tema__intro {
+  .cabeza p {
     max-width: 62ch;
+    margin: 0;
     font-size: 1.125rem;
   }
 
-  .tema__columnas {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(min(100%, 13rem), 1fr));
-    gap: 1.5rem;
-    margin-top: 2rem;
-    align-items: start;
-  }
-
-  .col {
-    border-top: 6px solid var(--c);
-    padding-top: 0.75rem;
-  }
-
-  .col h2 {
-    font-size: 1.75rem;
-    font-stretch: 70%;
-    font-weight: 850;
-  }
-
-  .col h2 a {
-    color: var(--tinta);
-    text-decoration: none;
-  }
-
-  .col h3 {
-    font-size: 0.9375rem;
-    color: var(--tinta-suave);
-    margin: 1rem 0 0.25rem;
-  }
-
-  .col p {
-    font-size: 0.9375rem;
-  }
-
-  .col details {
-    margin-top: 1rem;
-  }
-
-  .col summary {
-    cursor: pointer;
-    font-weight: 600;
-    color: var(--enlace);
-  }
-
-  .col__prosa {
-    font-size: 0.9375rem;
-    margin-top: 0.75rem;
-  }
-
-  .col__editar,
-  .col__vacia {
-    font-size: 0.875rem;
-    color: var(--tinta-suave);
-  }
-
-  .tema__fichas {
-    margin-top: 3.5rem;
-  }
-
-  .tema__fichas h2 {
-    font-size: 1.4rem;
-  }
-
-  .tema__fichas ul {
-    list-style: none;
-    padding: 0;
-    margin: 0;
-    max-width: 72ch;
-  }
-
-  .tema__fichas li {
-    display: grid;
-    grid-template-columns: 3.5rem 1fr;
-    gap: 0 0.75rem;
-    padding-block: 0.6rem;
-    border-bottom: 1px solid var(--linea);
-  }
-
-  .tema__siglas {
-    font-weight: 800;
-    border-left: 4px solid var(--c);
-    padding-left: 0.4rem;
-    grid-row: span 2;
-  }
-
-  .tema__cat {
-    font-size: 0.8125rem;
-    color: var(--tinta-suave);
-  }
-
-  @media (max-width: 40rem) {
-    .tema__nav {
-      flex-wrap: nowrap;
-      overflow-x: auto;
-      scrollbar-width: none;
-      margin-inline: calc(-1 * var(--gutter));
-      padding-inline: var(--gutter);
-    }
-
-    .tema__nav a {
-      flex: none;
-    }
-
-    .tema__columnas {
-      gap: 2rem;
-    }
+  .cuerpo {
+    padding-top: 1.5rem;
   }
 </style>

@@ -1,6 +1,7 @@
 ---
 partido: frente-amplio
 categoria: cumplido
+tema: economia-impuestos
 titulo: "Ley de servicios de atención a la clientela"
 resumen: "Prometida en el programa de Sumar, la ley que impulsó el Ministerio de Consumo de Pablo Bustinduy se aprobó definitivamente el 11 de diciembre de 2025 (Ley 10/2025): limita las esperas telefónicas, garantiza la atención por una persona y obliga a identificar las llamadas comerciales."
 promesa: "«Aprobación de una ley de servicios de atención a la clientela», que abordaría «la obligatoriedad de la atención personalizada, gratuita y accesible, los tiempos de espera, los plazos de respuesta» (programa de Sumar 2023)."

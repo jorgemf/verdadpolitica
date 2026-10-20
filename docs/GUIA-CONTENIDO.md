@@ -17,19 +17,24 @@ Esta guía es obligatoria para cualquier contenido nuevo o corregido, lo escriba
    Protocolo para causas judiciales:
    - Antes de publicar o actualizar, comprueba cuál es la **última resolución** del procedimiento y cítala, preferentemente desde poderjudicial.es o el propio auto o sentencia.
    - Usa el `estadoJudicial` exacto: `diligencias-fiscalia` (actuaciones preprocesales de la Fiscalía, sin causa abierta en un juzgado), `archivo-fiscalia` (la Fiscalía archiva sus diligencias), `investigacion` (diligencias previas, personas investigadas), `procesamiento` (auto de procesamiento o de continuación por procedimiento abreviado), `juicio-oral` (auto de apertura de juicio oral), `juicio` (juicio celebrándose o visto para sentencia), `condena-no-firme`, `condena-firme`, `absolucion-no-firme`, `absolucion` (firme), `archivo-provisional` (sobreseimiento provisional), `archivado` (sobreseimiento libre o definitivo, acreditado con la resolución, no solo con la falta de recurso), `archivo-sin-tipo` (consta el archivo pero no si es provisional o definitivo; nunca se deduce por analogía) y `sancion-anulada` (un tribunal anula una sanción administrativa; no es una absolución penal).
+   - `faseJudicial` (opcional: `denuncia`, `investigacion`, `juicio-oral`, `sentencia`, `firme`) fija la fase en la que está o terminó la causa cuando no se deduce del estado. Úsalo sobre todo en los archivos: una querella inadmitida o unas diligencias de la Fiscalía archivadas terminan en `denuncia`; un sobreseimiento tras investigar, en `investigacion`. La portada dibuja esa fase en la línea de pasos de cada causa.
    - Las fiscalizaciones del Tribunal de Cuentas sin procedimiento sancionador ni judicial no son fichas `judicial`: van al balance de `regeneracion-democratica` o, si contradicen una promesa concreta, a `contradiccion`.
    - En los títulos de causas no resueltas se escribe «presunto/presunta» o «por presuntos delitos de…».
    - Si no hay información posterior a una fecha, se escribe «última situación documentada (fecha)», sin afirmar que sigue igual.
    - Si hay un archivo, una absolución o un recurso, actualiza también `titulo`, `resumen` y `actualizado`, no solo el estado. Una noticia antigua nunca debe aparecer como la situación vigente.
    - Distingue entre el partido como persona jurídica, sus cargos en activo, antiguos cargos y personas de su entorno, y dilo en `implicados`.
 5. **Contexto que incomoda a todos.** Si un partido no cumplió algo porque no tenía mayoría, se dice. Si lo bloquearon sus propios socios, también. Si un tribunal lo tumbó, se cita la sentencia.
-6. **Fechas exactas.** La legislatura analizada es la XV (17 de agosto de 2023 – disolución del 6 de octubre de 2026). Elecciones: 29 de noviembre de 2026.
+6. **Fechas exactas.** Se analizan dos legislaturas, indicadas en el campo `legislatura` de cada ficha:
+   - **XV** (por defecto): 17 de agosto de 2023 – disolución del 6 de octubre de 2026. Promesas de referencia: programas de las generales de julio de 2023, investidura y acuerdos de la legislatura.
+   - **XIV**: 3 de diciembre de 2019 – disolución del 30 de mayo de 2023. Promesas de referencia: programas de las generales de noviembre de 2019, acuerdo de coalición PSOE–Unidas Podemos (30 de diciembre de 2019) e investidura de enero de 2020.
+
+   Elecciones: 29 de noviembre de 2026. En la XIV, Unidas Podemos era una coalición: las fichas de ministerios o dirigentes de Podemos van a `podemos`; las de IU, los Comuns, Más País/Más Madrid o Yolanda Díaz van a `frente-amplio`, explicando en el cuerpo en qué formación estaban entonces. Un mismo hecho no se cuenta en los dos partidos salvo que ambos lo prometieran por separado.
 
 ## Categorías de fichas
 
 | Categoría | Qué es | Campos obligatorios extra |
 |---|---|---|
-| `cumplido` | Lo prometieron (programa 2023, investidura, compromisos públicos) y lo consiguieron. | `promesa` |
+| `cumplido` | Lo prometieron (programa electoral de la legislatura, investidura, compromisos públicos) y lo consiguieron. | `promesa` |
 | `bloqueado` | Lo prometieron e intentaron, pero lo frenaron la oposición, los socios o los tribunales. | `promesa`, `bloqueadoPor` |
 | `no-intentado` | Lo prometieron y no hicieron ningún intento real. Hay que explicar por qué (razón declarada y contexto). | `promesa`, `motivo` |
 | `contradiccion` | Dijeron una cosa y hicieron la contraria, o cambiaron de posición sin explicarlo. | — |

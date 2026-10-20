@@ -3,6 +3,7 @@ partido: psoe
 categoria: cumplido
 titulo: Reconocimiento del Estado de Palestina
 resumen: "El Consejo de Ministros aprobó el 28 de mayo de 2024 el reconocimiento oficial del Estado de Palestina, de forma coordinada con Irlanda y Noruega, como recogía el acuerdo de coalición PSOE-Sumar."
+tema: exterior-defensa
 promesa: "Reconocer el Estado palestino (acuerdo de Gobierno de coalición PSOE-Sumar, octubre de 2023)."
 importancia: 2
 fecha: 2024-05-28

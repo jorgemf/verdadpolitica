@@ -1,0 +1,82 @@
+---
+// Fila de un partido: etiqueta a la izquierda (siglas con su color) y
+// contenido a la derecha. Es la unidad con la que se comparan partidos en
+// todas las páginas, siempre en filas y en el mismo orden.
+import { partidoUrl, type Partido } from '../lib/datos';
+
+interface Props {
+  partido: Partido;
+  /** Texto pequeño bajo las siglas (p. ej. «5 fichas»). */
+  meta?: string;
+  /** Destino del enlace de las siglas; por defecto, la página del partido. */
+  href?: string;
+  id?: string;
+}
+
+const { partido, meta, href = partidoUrl(partido.id), id } = Astro.props;
+---
+
+<div class="fp" id={id} style={`--c:${partido.data.color}`}>
+  <div class="fp__etiqueta">
+    <a class="fp__siglas" href={href}>{partido.data.siglas}</a>
+    {meta && <span class="fp__meta">{meta}</span>}
+  </div>
+  <div class="fp__contenido">
+    <slot />
+  </div>
+</div>
+
+<style>
+  .fp {
+    display: grid;
+    grid-template-columns: 8.5rem minmax(0, 1fr);
+    gap: 0 1.5rem;
+    padding-block: 1rem;
+    border-top: 1px solid var(--linea);
+    scroll-margin-top: 4rem;
+  }
+
+  .fp__etiqueta {
+    align-self: start;
+    display: flex;
+    flex-direction: column;
+    gap: 0.15rem;
+    padding-left: 0.75rem;
+    border-left: 5px solid var(--c);
+  }
+
+  .fp__siglas {
+    font-size: 1.35rem;
+    font-weight: 850;
+    font-stretch: 72%;
+    line-height: 1.1;
+    color: var(--tinta);
+    text-decoration: none;
+  }
+
+  .fp__siglas:hover {
+    text-decoration: underline;
+  }
+
+  .fp__meta {
+    font-size: 0.8125rem;
+    color: var(--tinta-suave);
+  }
+
+  .fp__contenido {
+    min-width: 0;
+  }
+
+  @media (max-width: 40rem) {
+    .fp {
+      grid-template-columns: minmax(0, 1fr);
+      gap: 0.6rem;
+    }
+
+    .fp__etiqueta {
+      flex-direction: row;
+      align-items: baseline;
+      justify-content: space-between;
+    }
+  }
+</style>

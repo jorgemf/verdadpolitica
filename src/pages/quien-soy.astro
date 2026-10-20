@@ -1,0 +1,74 @@
+---
+import Base from '../layouts/Base.astro';
+import { url, REPO } from '../lib/datos';
+---
+
+<Base titulo="Quién hay detrás" descripcion="Quién hace verdadpolitica.es, por qué y cómo se financia.">
+  <article class="envoltorio pagina">
+    <h1>Quién hay detrás</h1>
+    <p class="entradilla">
+      Me llamo Jorge Muñoz y hago esta web yo solo, en mi tiempo libre. La he creado porque los partidos no cumplen
+      lo que prometen y siento que a los ciudadanos nos están engañando.
+    </p>
+
+    <div class="prosa">
+      <h2>Por qué la he creado</h2>
+      <p>
+        En cada campaña se repiten promesas que luego nadie revisa. Quería un sitio donde cualquiera pudiera
+        comprobar, con fuentes, qué prometió cada partido y qué hizo después. A todos con el mismo criterio, para que
+        cada uno saque sus propias conclusiones antes de votar.
+      </p>
+
+      <h2>Quién soy</h2>
+      <p>
+        Soy ingeniero informático y licenciado en Matemáticas, y llevo más de veinte años dedicándome a la
+        inteligencia artificial. En ese campo hice un máster y pasé cuatro años en un doctorado que no llegué a
+        terminar. También tengo un MBA. Llevo más de diez años como
+        autónomo y tengo mi propia empresa en España. He vivido dos años en Londres, uno en Ecuador y cinco meses en
+        Dinamarca.
+      </p>
+      <p>Puedes saber más de mí en <a href="https://jorgeai.dev">jorgeai.dev</a>.</p>
+
+      <h2>Independencia</h2>
+      <p>
+        No milito en ningún partido. Esta web no representa a ninguna organización y no busca que votes a nadie en
+        concreto.
+      </p>
+
+      <h2>Financiación</h2>
+      <p>
+        Ninguna. No hay publicidad, subvenciones ni donaciones. El dominio y todo lo demás lo pago de mi bolsillo.
+      </p>
+
+      <h2>Cómo se hace</h2>
+      <p>
+        Uso herramientas de inteligencia artificial para buscar fuentes y redactar los borradores de las fichas, y
+        después las reviso. Los criterios están en la <a href={url('metodologia/')}>metodología</a>.
+      </p>
+
+      <h2>Contacto y correcciones</h2>
+      <p>
+        Si ves un error, lo más rápido es <a href={`${REPO}/issues/new/choose`}>avisar en GitHub</a>, donde la
+        corrección queda registrada públicamente. Para cualquier otra cosa, mis datos de contacto están en{' '}
+        <a href="https://jorgeai.dev">jorgeai.dev</a>.
+      </p>
+    </div>
+  </article>
+</Base>
+
+<style>
+  .pagina {
+    padding-top: 2.5rem;
+  }
+
+  .pagina h1 {
+    font-size: clamp(2.2rem, 6vw, 3.75rem);
+    font-weight: 850;
+    font-stretch: 72%;
+  }
+
+  .entradilla {
+    font-size: 1.2rem;
+    max-width: 60ch;
+  }
+</style>

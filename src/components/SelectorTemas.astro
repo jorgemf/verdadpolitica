@@ -1,0 +1,113 @@
+---
+// Fila de temas para elegir qué se compara. Cada opción es un enlace a la
+// página del tema.
+import { temaUrl, porcentaje, type Vista, type VistaId } from '../lib/datos';
+
+interface Props {
+  vistas: Vista[];
+  actual: VistaId;
+}
+
+const { vistas, actual } = Astro.props;
+---
+
+<nav class="st" aria-label="Temas">
+  <div class="envoltorio st__fila">
+    {
+      vistas.map((v) => (
+        <a
+          href={temaUrl(v.id)}
+          aria-current={v.id === actual ? 'true' : undefined}
+          class:list={['st__opcion', { 'st__opcion--aparte': !v.tema }]}
+        >
+          {v.nombre}
+          {v.tema && v.tema.maximo > 0 && <span class="st__pct">{porcentaje(v.tema.maximo)}</span>}
+        </a>
+      ))
+    }
+  </div>
+</nav>
+
+<style>
+  .st {
+    position: sticky;
+    top: var(--alto-cabecera);
+    z-index: 3;
+    background: var(--papel-alto);
+    border-block: 1px solid var(--linea);
+  }
+
+  .st__fila {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+    padding-block: 0.6rem;
+  }
+
+  .st__opcion {
+    display: inline-flex;
+    align-items: baseline;
+    gap: 0.4rem;
+    padding: 0.35rem 0.8rem;
+    border: 1px solid var(--linea);
+    border-radius: 999px;
+    background: var(--papel);
+    color: var(--tinta);
+    font-weight: 600;
+    font-size: 0.9375rem;
+    text-decoration: none;
+    white-space: nowrap;
+  }
+
+  .st__opcion:hover {
+    border-color: var(--tinta);
+  }
+
+  .st__opcion--aparte {
+    border-style: dashed;
+  }
+
+  /* Separa «Causas judiciales» y «Otros temas» de los temas de los programas */
+  .st__opcion:not(.st__opcion--aparte) + .st__opcion--aparte {
+    margin-left: 0.6rem;
+  }
+
+  .st__pct {
+    font-size: 0.8125rem;
+    font-weight: 500;
+    color: var(--tinta-suave);
+    font-variant-numeric: tabular-nums;
+  }
+
+  .st__opcion[aria-current='true'] {
+    background: var(--tinta);
+    border-color: var(--tinta);
+    border-style: solid;
+    color: var(--papel-alto);
+  }
+
+  .st__opcion[aria-current='true'] .st__pct {
+    color: var(--rotulador);
+  }
+
+  /* En pantallas estrechas los catorce temas ocupan varias líneas: se ven
+     todos de una vez y la barra deja de ser fija para no tapar el contenido. */
+  @media (max-width: 64rem) {
+    .st {
+      position: static;
+    }
+
+    .st__fila {
+      gap: 0.35rem;
+    }
+
+    .st__opcion {
+      padding: 0.3rem 0.65rem;
+      font-size: 0.875rem;
+    }
+
+    .st__opcion:not(.st__opcion--aparte) + .st__opcion--aparte {
+      margin-left: 0;
+    }
+  }
+</style>

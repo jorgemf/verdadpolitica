@@ -3,7 +3,7 @@ partido: psoe
 categoria: cumplido
 titulo: Creación de la Agencia Estatal de Salud Pública
 resumen: "Tras un primer intento fallido en marzo de 2025, el Congreso aprobó el 22 de julio de 2025 la ley que crea la Agencia Estatal de Salud Pública, comprometida en el programa de 2023. Es la Ley 7/2025, de 28 de julio."
-tema: sanidad-educacion
+tema: sanidad
 promesa: "Crear una Agencia Estatal de Salud Pública que concentre las capacidades del Estado para identificar, evaluar y vigilar los riesgos para la salud pública (programa electoral de 2023)."
 importancia: 2
 fecha: 2025-07-22

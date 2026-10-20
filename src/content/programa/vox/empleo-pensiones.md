@@ -4,7 +4,7 @@ tema: empleo-pensiones
 propuesta: "Derogar la reforma laboral de 2021, el registro horario obligatorio y los planes de igualdad obligatorios en las empresas. En pensiones, Abascal promete pagarlas \"como sea\" y niega querer privatizarlas; su portavoz económico ha defendido un modelo mixto con capitalización individual."
 balance: "Con PP y Junts tumbó la reducción de jornada a 37,5 horas (septiembre de 2025). Votó contra los decretos ómnibus de enero de 2025 y 2026, que incluían la subida de las pensiones, y fue el único grupo contra el RDL 1/2025 (revalorización y otras medidas) y el RDL 3/2026 (pensiones y Seguridad Social)."
 coherencia: coherente
-actualizado: 2026-10-19
+actualizado: 2026-10-20
 fuentes:
   - titulo: "Programa electoral para las Elecciones Generales del 23J de 2023"
     url: https://theobjective.com/wp-content/uploads/2023/07/programa-vox-23j.pdf
@@ -50,12 +50,22 @@ fuentes:
     medio: Boletín Oficial del Estado
     fecha: 2025-01-29
     tipo: oficial
+  - titulo: "BOCG. Congreso de los Diputados, serie B, núm. 118-2 (Proposición de Ley 122/000106 para la protección de los trabajadores autónomos. Disconformidad del Gobierno)"
+    url: https://www.congreso.es/public_oficiales/L15/CONG/BOCG/B/BOCG-15-B-118-2.PDF
+    medio: Congreso de los Diputados
+    fecha: 2024-09-13
+    tipo: oficial
+  - titulo: "Sentencia 40/2026, de 26 de mayo (recurso de inconstitucionalidad 2191-2022, contra el Real Decreto-ley 32/2021)"
+    url: https://hj.tribunalconstitucional.es/es/Resolucion/Show/32093
+    medio: Tribunal Constitucional
+    fecha: 2026-05-26
+    tipo: judicial
 ---
 
 Vox no ha publicado programa para el 29-N. Se usan el programa de 2023, su plan de junio de 2026 y declaraciones de octubre de 2026.
 
 **Qué proponen.** El programa de 2023 prometía derogar "la reforma laboral de Yolanda Díaz" y dejar exentas de IRPF las pensiones contributivas [1]. El plan de 2026 añade suprimir el registro horario y los planes de igualdad y LGTBI obligatorios en las empresas [2]. En pensiones conviven dos mensajes. José María Figaredo llamó "zombi" al sistema y propuso un "modelo mixto" de reparto y capitalización individual [7]. Santiago Abascal dijo el 11 de octubre que las pensiones se pagarán "al precio que sea y como sea" y negó que Vox quiera privatizarlas [8].
 
-**Qué han hecho.** El 10 de septiembre de 2025, las enmiendas a la totalidad de PP, Vox y Junts devolvieron al Gobierno la ley de reducción de jornada, por 178 votos contra 170 [3]. En pensiones, Vox votó contra los decretos ómnibus de enero de 2025 y enero de 2026, que incluían la subida, junto a PP y Junts [5]. Vox fue también el único grupo en contra de los decretos que los sustituyeron: el RDL 1/2025, que mantenía la subida junto a ayudas al transporte y medidas por la dana (12 de febrero de 2025), y el RDL 3/2026, centrado en las pensiones y la Seguridad Social (26 de febrero de 2026) [4][9][6].
+**Qué han hecho.** El 10 de septiembre de 2025, las enmiendas a la totalidad de PP, Vox y Junts devolvieron al Gobierno la ley de reducción de jornada, por 178 votos contra 170 [3]. En pensiones, Vox votó contra los decretos ómnibus de enero de 2025 y enero de 2026, que incluían la subida, junto a PP y Junts [5]. Vox fue también el único grupo en contra de los decretos que los sustituyeron: el RDL 1/2025, que mantenía la subida junto a ayudas al transporte y medidas por la dana (12 de febrero de 2025), y el RDL 3/2026, centrado en las pensiones y la Seguridad Social (26 de febrero de 2026) [4][9][6]. El Gobierno vetó en septiembre de 2024 su ley para exonerar de la cuota a los autónomos con ingresos inferiores al salario mínimo [10]. En mayo de 2026 el Constitucional desestimó, salvo en dos disposiciones menores, el recurso que 52 diputados de Vox presentaron en 2022 contra la reforma laboral [11].
 
 **Coherencia.** Sus votos en materia laboral se ajustan a lo que propone. En pensiones, el programa de 2023 no se comprometía a revalorizarlas, solo a dejarlas exentas de IRPF [1], así que votar contra esos decretos no contradice una promesa concreta. Sí contrasta con el mensaje de pagarlas "como sea" [8]. Vox lo justifica por la sostenibilidad del sistema [6].

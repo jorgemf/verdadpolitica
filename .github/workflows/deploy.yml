@@ -23,15 +23,11 @@ jobs:
         with:
           node-version: 24
           cache: npm
-      - id: pages
-        uses: actions/configure-pages@v5
+      - uses: actions/configure-pages@v5
       - run: npm ci
       - run: npx astro check
-      # Con dominio propio base_path es vacío; sin él, es /<repo>.
+      # El dominio (https://verdadpolitica.es) está fijado en astro.config.mjs.
       - run: npm run build
-        env:
-          SITE: ${{ steps.pages.outputs.origin }}
-          BASE_PATH: ${{ steps.pages.outputs.base_path }}
       - uses: actions/upload-pages-artifact@v3
         with:
           path: dist

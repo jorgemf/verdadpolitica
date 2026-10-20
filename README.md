@@ -46,7 +46,10 @@ npm run build    # genera la web estática en dist/ y valida todo el contenido
 
 ## Despliegue
 
-Cada cambio en `main` se publica automáticamente en GitHub Pages mediante `.github/workflows/deploy.yml`. Para usar el dominio `verdadpolitica.es`, configúralo en *Settings → Pages → Custom domain* y apunta el DNS a GitHub Pages; el workflow ajusta las rutas solo.
+Cada cambio en `main` se publica automáticamente en https://verdadpolitica.es (GitHub Pages con dominio propio) mediante `.github/workflows/deploy.yml`. El dominio está fijado en `astro.config.mjs` y en *Settings → Pages → Custom domain*; el DNS apunta a los servidores de GitHub Pages:
+
+- `verdadpolitica.es`: registros A `185.199.108.153`, `185.199.109.153`, `185.199.110.153`, `185.199.111.153` (y AAAA `2606:50c0:8000::153` … `2606:50c0:8003::153`).
+- `www.verdadpolitica.es`: CNAME `jorgemf.github.io`.
 
 ## Licencias
 

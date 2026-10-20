@@ -76,11 +76,12 @@ p {
 }
 
 .saltar:focus {
+  position: fixed;
   left: 1rem;
   top: 1rem;
   background: var(--papel-alto);
   padding: 0.5rem 1rem;
-  z-index: 10;
+  z-index: 30;
 }
 
 /* El rotulador: la única marca llamativa de la web. */
@@ -92,18 +93,28 @@ p {
   padding-inline: 0.12em;
 }
 
-/* Cabecera */
+/* Cabecera fija: logo, salto a cada partido y menú */
+:root {
+  --alto-cabecera: 3.75rem;
+}
+
+html {
+  scroll-padding-top: calc(var(--alto-cabecera) + 0.75rem);
+}
+
 .cabecera {
+  position: sticky;
+  top: 0;
+  z-index: 20;
+  background: var(--papel-alto);
   border-bottom: 1px solid var(--linea);
 }
 
 .cabecera__fila {
   display: flex;
-  flex-wrap: wrap;
+  align-items: center;
   gap: 0.5rem 1.5rem;
-  align-items: baseline;
-  justify-content: space-between;
-  padding-block: 1rem;
+  padding-block: 0.55rem;
 }
 
 .logo {
@@ -113,32 +124,176 @@ p {
   letter-spacing: -0.01em;
   color: var(--tinta);
   text-decoration: none;
+  white-space: nowrap;
 }
 
 .logo span {
   font-weight: 400;
 }
 
-.cabecera nav {
+.cabecera__partidos {
+  flex: 1 1 auto;
+  display: flex;
+  justify-content: center;
+  gap: 0.375rem;
+}
+
+.cabecera__partidos a {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  min-height: 2.5rem;
+  padding: 0 0.85rem;
+  border: 1px solid var(--linea);
+  border-radius: 999px;
+  background: var(--papel);
+  color: var(--tinta);
+  font-weight: 800;
+  font-size: 0.9375rem;
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+.cabecera__partidos a:hover {
+  border-color: var(--tinta);
+}
+
+.cabecera__partidos span {
+  width: 0.6rem;
+  height: 0.6rem;
+  border-radius: 50%;
+  background: var(--c);
+}
+
+.cabecera__menu {
   display: flex;
   gap: 1.25rem;
 }
 
-.cabecera nav a {
+.cabecera__menu a,
+.cabecera__desplegable nav a {
   color: var(--tinta);
   text-decoration: none;
-  font-weight: 500;
+  font-weight: 600;
+  white-space: nowrap;
 }
 
-.cabecera nav a:hover {
+.cabecera__menu a:hover,
+.cabecera__menu a[aria-current='page'] {
   text-decoration: underline;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 0.3em;
 }
 
-@media (max-width: 30rem) {
-  .cabecera nav {
-    gap: 1rem;
-    font-size: 0.9375rem;
+.cabecera__desplegable {
+  display: none;
+  position: relative;
+}
+
+.cabecera__desplegable summary {
+  display: grid;
+  place-items: center;
+  width: 2.75rem;
+  height: 2.75rem;
+  cursor: pointer;
+  list-style: none;
+}
+
+.cabecera__desplegable summary::-webkit-details-marker {
+  display: none;
+}
+
+.cabecera__desplegable nav {
+  position: absolute;
+  right: 0;
+  top: 100%;
+  display: flex;
+  flex-direction: column;
+  min-width: 12rem;
+  padding: 0.5rem;
+  background: var(--papel-alto);
+  border: 1px solid var(--linea);
+  border-radius: 6px;
+  box-shadow: 0 6px 18px rgb(26 34 51 / 12%);
+}
+
+.cabecera__desplegable nav a {
+  padding: 0.65rem 0.75rem;
+}
+
+.cabecera__desplegable nav a[aria-current='page'] {
+  background: var(--papel);
+}
+
+@media (max-width: 62rem) {
+  .cabecera__fila {
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding-block: 0.25rem 0.5rem;
   }
+
+  .cabecera__menu {
+    display: none;
+  }
+
+  .cabecera__desplegable {
+    display: block;
+  }
+
+  .cabecera__partidos {
+    order: 3;
+    flex-basis: 100%;
+    justify-content: flex-start;
+    overflow-x: auto;
+    scrollbar-width: none;
+    margin-inline: calc(-1 * var(--gutter));
+    padding-inline: var(--gutter);
+  }
+
+  .cabecera__partidos a {
+    flex: none;
+  }
+}
+
+/* En móvil los cinco partidos caben en una fila sin desplazarse */
+@media (max-width: 40rem) {
+  .cabecera__partidos {
+    gap: 0.3rem;
+  }
+
+  .cabecera__partidos a {
+    flex: 1 1 auto;
+    justify-content: center;
+    gap: 0.3rem;
+    min-height: 2.25rem;
+    padding: 0 0.5rem;
+    font-size: 0.875rem;
+  }
+
+  .cabecera__partidos span {
+    width: 0.5rem;
+    height: 0.5rem;
+  }
+}
+
+@media (max-width: 23rem) {
+  .cabecera__partidos a {
+    padding: 0 0.4rem;
+  }
+
+  .cabecera__partidos span {
+    display: none;
+  }
+}
+
+/* Lema en la cabecera de las páginas interiores */
+.lema-barra {
+  margin-block: 0;
+  padding-block: 0.6rem;
+  font-weight: 700;
+  font-stretch: 85%;
+  font-size: 1.05rem;
+  line-height: 1.5;
 }
 
 /* Pie */

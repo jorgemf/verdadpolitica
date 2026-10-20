@@ -3,7 +3,7 @@ partido: pp
 categoria: cumplido
 titulo: Ley de la ELA, aprobada por unanimidad tras un texto pactado con PSOE, Sumar y Junts
 resumen: "El PP asumió la ley de la ELA que había decaído con la legislatura anterior y la pactó con PSOE, Sumar y Junts. El Congreso la aprobó por unanimidad el 10 de octubre de 2024 y se publicó como Ley 3/2024. La financiación fue después objeto de disputa."
-tema: sanidad-educacion
+tema: sanidad
 promesa: "Tramitar por la vía de urgencia la ley ELA: \"Los enfermos y sus familias no merecen que se aplace por más tiempo\" (discurso de investidura de Feijóo, 26 de septiembre de 2023)."
 importancia: 2
 fecha: 2024-10-31

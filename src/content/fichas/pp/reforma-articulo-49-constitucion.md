@@ -3,7 +3,7 @@ partido: pp
 categoria: cumplido
 titulo: "Reforma del artículo 49 de la Constitución para suprimir el término \"disminuidos\""
 resumen: "El PP pactó con el PSOE la reforma del artículo 49, que sustituye \"disminuidos\" por \"personas con discapacidad\". El Congreso la aprobó el 18 de enero de 2024 con el voto en contra de Vox y entró en vigor el 17 de febrero de 2024."
-tema: sanidad-educacion
+tema: igualdad
 promesa: "Eliminaremos el término \"disminuido\" de la Constitución (programa electoral de 2023, medida 23)."
 importancia: 2
 fecha: 2024-02-17

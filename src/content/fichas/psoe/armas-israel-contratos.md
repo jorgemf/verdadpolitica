@@ -3,6 +3,7 @@ partido: psoe
 categoria: contradiccion
 titulo: "El Gobierno aseguró que no compraba armas a Israel y formalizó un contrato de 15 millones de balas israelíes"
 resumen: "En octubre de 2024 Interior dijo que rescindía un contrato de munición con una empresa israelí y mantenía el compromiso de «no vender o comprar armamento» a Israel. En abril de 2025 formalizó la compra de 15 millones de balas a esa empresa; la rescisión formal llegó en septiembre de 2025."
+tema: exterior-defensa
 importancia: 2
 fecha: 2025-04-24
 actualizado: 2026-10-19

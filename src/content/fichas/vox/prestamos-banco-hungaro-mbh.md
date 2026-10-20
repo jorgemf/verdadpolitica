@@ -5,10 +5,11 @@ titulo: "Préstamos del banco húngaro MBH a Vox: el Tribunal de Cuentas no pudo
 resumen: "Vox financió las campañas de 2023 y 2024 con créditos del banco húngaro MBH. El Tribunal de Cuentas dijo que el banco no le informó y que no pudo comprobar si tiene participación pública extranjera. La Fiscalía Anticorrupción archivó en junio de 2025 la denuncia del PSOE, sin que llegara a abrirse causa judicial."
 tema: regeneracion-democratica
 estadoJudicial: archivo-fiscalia
+faseJudicial: denuncia
 implicados: "Vox como persona jurídica (denuncia del PSOE ante la Fiscalía por financiación ilegal)."
 importancia: 2
 fecha: 2025-06-16
-actualizado: 2026-10-19
+actualizado: 2026-10-20
 fuentes:
   - titulo: "Informe de fiscalización de las contabilidades de las elecciones a Cortes Generales de 23 de julio de 2023 (n.º 1.616)"
     url: https://www.congreso.es/docu/inf_fiscTC/LegXV/251-156.pdf

@@ -3,7 +3,7 @@ partido: psoe
 categoria: cumplido
 titulo: Ley Orgánica de representación paritaria de mujeres y hombres
 resumen: "La Ley Orgánica 2/2024 de representación paritaria, comprometida en el programa de 2023, se publicó en el BOE el 2 de agosto de 2024. Exige una presencia de entre el 40 % y el 60 % de cada sexo en listas electorales, Gobierno y consejos de grandes empresas."
-tema: regeneracion-democratica
+tema: igualdad
 promesa: "Aprobar la Ley Orgánica de Representación Paritaria de Mujeres y Hombres en los órganos de decisión políticos, de la Administración y de las empresas (programa electoral de 2023)."
 importancia: 2
 fecha: 2024-08-02

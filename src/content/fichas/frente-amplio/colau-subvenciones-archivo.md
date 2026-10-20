@@ -1,14 +1,16 @@
 ---
 partido: frente-amplio
 categoria: judicial
+tema: regeneracion-democratica
 titulo: "Archivada la causa contra Ada Colau por presuntos delitos en subvenciones a entidades sociales"
 resumen: "El juzgado de instrucción 21 de Barcelona archivó la querella contra Ada Colau por presunta prevaricación, tráfico de influencias y malversación en subvenciones a entidades sociales, al no ver indicios de su participación. Firme desde marzo de 2025; las fuentes no precisan si el sobreseimiento es libre o provisional."
 estadoJudicial: archivo-sin-tipo
+faseJudicial: investigacion
 implicados: "Ada Colau, exalcaldesa de Barcelona (2015-2023) y actual candidata de Frente Amplio a la presidencia del Gobierno, y la interventora municipal del Ayuntamiento de Barcelona."
 ambito: municipal
 importancia: 1
 fecha: 2025-03-12
-actualizado: 2026-10-19
+actualizado: 2026-10-20
 fuentes:
   - titulo: "Arxivada definitivament la causa contra Colau per les subvencions a entitats socials"
     url: https://www.3cat.cat/3catinfo/arxivada-definitivament-la-causa-contra-colau-per-les-subvencions-a-entitats-socials/noticia/3340512/

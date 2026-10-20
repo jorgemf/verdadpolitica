@@ -3,6 +3,7 @@ partido: psoe
 categoria: bloqueado
 titulo: Ley contra el proxenetismo para abolir la prostitución
 resumen: "El Congreso rechazó el 21 de mayo de 2024 tramitar la proposición de ley del PSOE contra el proxenetismo y la tercería locativa: 122 votos a favor, 184 en contra (PP, Sumar, ERC, Junts, EH Bildu y PNV) y 36 abstenciones."
+tema: igualdad
 promesa: "«Aboliremos la prostitución. Desarrollaremos una ley para prohibir el proxenetismo en todas sus formas, que incluya el castigo de la tercería locativa y la sanción a los proxenetas» (programa electoral de 2023)."
 bloqueadoPor: [PP, Sumar, ERC, Junts, EH Bildu, PNV]
 importancia: 2

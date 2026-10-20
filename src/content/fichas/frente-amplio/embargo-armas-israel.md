@@ -1,6 +1,7 @@
 ---
 partido: frente-amplio
 categoria: cumplido
+tema: exterior-defensa
 titulo: "Embargo de armas a Israel por real decreto-ley, con autorizaciones excepcionales del Consejo de Ministros"
 resumen: "El Real Decreto-ley 10/2025 prohíbe comerciar con Israel material de defensa y doble uso e importar productos de los asentamientos, aunque el Consejo de Ministros puede autorizar excepciones. Se convalidó el 8 de octubre de 2025 (178-169), con críticas de insuficiencia de Podemos y de ONG."
 promesa: "Prohibir la venta de armas a países que vulneren los derechos humanos (programa de Sumar 2023) y aprobar por ley un embargo de armas a Israel (exigencia pública de Sumar durante la legislatura)."

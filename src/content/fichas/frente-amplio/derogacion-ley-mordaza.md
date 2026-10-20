@@ -3,7 +3,7 @@ partido: frente-amplio
 categoria: bloqueado
 titulo: "Reforma de la ley de seguridad ciudadana («ley mordaza»)"
 resumen: "La proposición de PSOE, Sumar, Bildu y PNV para reformar la ley de seguridad ciudadana se tomó en consideración en octubre de 2024, pero la ponencia no se reunió en 2026 por los desacuerdos entre socios de investidura (PNV, EH Bildu y Podemos) y caducó con la disolución de las Cortes el 6 de octubre de 2026."
-tema: regeneracion-democratica
+tema: seguridad-ciudadana
 promesa: "«Se modificará la «ley mordaza» y se establecerán protocolos más estrictos y menos ambiguos» para las identificaciones policiales (programa de Sumar 2023)."
 bloqueadoPor: ["PNV", "Podemos (veto parcial)"]
 importancia: 2

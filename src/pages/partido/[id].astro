@@ -9,6 +9,7 @@ import {
   ORDEN_CATEGORIAS,
   ESTADO_JUDICIAL,
   AMBITO,
+  LEGISLATURA,
   COHERENCIA,
   fichaUrl,
   partidoUrl,
@@ -88,11 +89,12 @@ const otros = lista.filter((p) => p.id !== partido.id);
                   <li>
                     <a href={fichaUrl(f)}>{f.data.titulo}</a>
                     <p>{f.data.resumen}</p>
-                    {(f.data.estadoJudicial || f.data.ambito !== 'estatal') && (
+                    {(f.data.estadoJudicial || f.data.ambito !== 'estatal' || f.data.legislatura === 'XIV') && (
                       <p class="lista__meta">
                         {f.data.estadoJudicial && (
                           <span class="etiqueta etiqueta--judicial">{ESTADO_JUDICIAL[f.data.estadoJudicial]}</span>
                         )}
+                        {f.data.legislatura === 'XIV' && <span class="etiqueta">Legislatura {LEGISLATURA.XIV}</span>}
                         {f.data.ambito !== 'estatal' && <span class="etiqueta">{AMBITO[f.data.ambito]}</span>}
                       </p>
                     )}

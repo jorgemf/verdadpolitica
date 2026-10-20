@@ -59,6 +59,8 @@ const fichas = defineCollection({
       resumen: z.string().max(320),
       tema: z.enum(TEMA_IDS).optional(),
       ambito: z.enum(['estatal', 'autonomico', 'municipal', 'europeo']).default('estatal'),
+      // XIV: 3 de diciembre de 2019 – 30 de mayo de 2023. XV: 17 de agosto de 2023 – 6 de octubre de 2026.
+      legislatura: z.enum(['XIV', 'XV']).default('XV'),
       promesa: z.string().optional(),
       bloqueadoPor: z.array(z.string().min(1)).min(1).optional(),
       motivo: z.string().optional(),
@@ -81,6 +83,9 @@ const fichas = defineCollection({
         ])
         .optional(),
       implicados: z.string().optional(),
+      // Fase en la que está o terminó la causa, si no se deduce del estado
+      // (p. ej. una querella inadmitida se archiva en la fase de denuncia).
+      faseJudicial: z.enum(['denuncia', 'investigacion', 'juicio-oral', 'sentencia', 'firme']).optional(),
       importancia: z.number().int().min(1).max(3).default(2),
       fecha: fechaCampo,
       actualizado: fechaCampo,
@@ -115,4 +120,26 @@ const programa = defineCollection({
   }),
 });
 
-export const collections = { partidos, fichas, programa };
+// Lo que preocupa a la ciudadanía según encuestas públicas. Cada problema puede
+// enlazarse con un tema para ordenar y contextualizar los programas.
+const problema = z.object({
+  nombre: z.string().min(1),
+  porcentaje: z.number().min(0).max(100),
+  tema: z.enum(TEMA_IDS).optional(),
+});
+
+const encuestas = defineCollection({
+  loader: glob({ base: './src/content/encuestas', pattern: '*.yaml' }),
+  schema: z.object({
+    titulo: z.string(),
+    institucion: z.string(),
+    campo: z.string(),
+    publicado: fechaCampo,
+    pregunta: z.string(),
+    problemas: z.array(problema).min(1),
+    personales: z.array(problema).optional(),
+    fuentes: z.array(fuente).min(2).refine(urlsDistintas, 'Las fuentes deben tener URLs distintas'),
+  }),
+});
+
+export const collections = { partidos, fichas, programa, encuestas };

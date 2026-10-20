@@ -1,6 +1,7 @@
 ---
 partido: psoe
 categoria: contradiccion
+tema: regeneracion-democratica
 titulo: "Del «con Bildu no vamos a pactar» a dar la alcaldía de Pamplona a EH Bildu"
 resumen: "Sánchez repitió entre 2015 y 2019 que no pactaría con Bildu, y en mayo de 2023 la candidata socialista en Pamplona prometió no apoyar a su candidato. En diciembre de 2023 el PSN firmó con EH Bildu la moción de censura que hizo alcalde a Joseba Asiron."
 ambito: municipal

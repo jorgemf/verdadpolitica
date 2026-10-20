@@ -1,0 +1,366 @@
+---
+// Un tema, todos los partidos: una fila por partido con lo que propone para el
+// 29-N y lo que hizo en la legislatura, agrupado por categoría. Se usa en la
+// portada (con selector) y en las páginas /tema/<id>/.
+import { render } from 'astro:content';
+import FilaPartido from './FilaPartido.astro';
+import Marca from './Marca.astro';
+import Fuentes from './Fuentes.astro';
+import {
+  partidos,
+  fichas,
+  programa,
+  fichasDeVista,
+  encuestaReciente,
+  porcentaje,
+  CATEGORIA_INFO,
+  ORDEN_CATEGORIAS,
+  ESTADO_JUDICIAL,
+  COHERENCIA,
+  AMBITO,
+  LEGISLATURA,
+  fichaUrl,
+  partidoUrl,
+  editarUrl,
+  url,
+  type Vista,
+} from '../lib/datos';
+
+interface Props {
+  vista: Vista;
+}
+
+const { vista } = Astro.props;
+const lista = await partidos();
+const propias = fichasDeVista(await fichas(), vista.id);
+const prog = (await programa()).filter((e) => e.data.tema === vista.id);
+const encuesta = await encuestaReciente();
+const preocupaciones = vista.tema?.problemas ?? [];
+
+const filas = await Promise.all(
+  lista.map(async (p) => {
+    const entrada = prog.find((e) => e.data.partido.id === p.id);
+    const suyas = propias.filter((f) => f.data.partido.id === p.id);
+    const grupos = ORDEN_CATEGORIAS.map((cat) => ({
+      cat,
+      items: suyas.filter((f) => f.data.categoria === cat),
+    })).filter((g) => g.items.length > 0);
+    return {
+      partido: p,
+      entrada,
+      Detalle: entrada ? (await render(entrada)).Content : null,
+      grupos,
+      total: suyas.length,
+    };
+  }),
+);
+
+const conPrograma = vista.tema !== undefined;
+const fichasEn = (n: number) => (n === 1 ? '1 ficha' : `${n} fichas`);
+const VACIO: Partial<Record<string, string>> = {
+  judicial: 'No se ha encontrado ninguna causa judicial de este partido.',
+  otros: 'No hay fichas de este partido fuera de los temas comunes.',
+};
+---
+
+<div class="vt">
+  <p class="vt__contexto">
+    {
+      vista.id === 'judicial' ? (
+        <>
+          Todas las causas que afectan a los partidos, a sus dirigentes o a su financiación, con su estado procesal. Mientras
+          no haya condena firme rige la presunción de inocencia.
+        </>
+      ) : vista.id === 'otros' ? (
+        <>Fichas de la legislatura que no encajan en ninguno de los temas comunes de los programas.</>
+      ) : preocupaciones.length > 0 ? (
+        <>
+          {preocupaciones.map((p, i) => (
+            <>
+              {i > 0 && (i === preocupaciones.length - 1 ? ' y ' : ', ')}
+              <b>{porcentaje(p.porcentaje)}</b> cita «{p.nombre.toLowerCase()}»
+            </>
+          ))}{' '}
+          entre los tres principales problemas de España (<a href={encuesta.data.fuentes[0].url}>{encuesta.data.institucion}, {encuesta.data.titulo.toLowerCase()}</a>).
+        </>
+      ) : (
+        <>
+          No aparece entre los diez problemas más citados (<a href={encuesta.data.fuentes[0].url}>{encuesta.data.institucion}, {encuesta.data.titulo.toLowerCase()}</a>).
+        </>
+      )
+    }
+  </p>
+
+  {
+    filas.map(({ partido: p, entrada: e, Detalle, grupos, total }) => (
+      <FilaPartido partido={p} meta={conPrograma ? p.data.candidato : fichasEn(total)} href={partidoUrl(p.id)}>
+        <div class:list={['vt__fila', { 'vt__fila--programa': conPrograma }]}>
+          {conPrograma && (
+            <div class="vt__propone">
+              <p class="vt__rotulo">Propone para el 29-N</p>
+              {e && Detalle ? (
+                <>
+                  <p class="vt__propuesta">{e.data.propuesta}</p>
+                  <p class="vt__coherencia">
+                    <span
+                      class={`etiqueta etiqueta--${e.data.coherencia}`}
+                      title={COHERENCIA[e.data.coherencia].descripcion}
+                    >
+                      {COHERENCIA[e.data.coherencia].texto}
+                    </span>{' '}
+                    {COHERENCIA[e.data.coherencia].descripcion}
+                  </p>
+                </>
+              ) : (
+                <p class="vt__vacio">Pendiente de documentar.</p>
+              )}
+            </div>
+          )}
+
+          {conPrograma && e && Detalle && (
+            <details class="vt__detalle">
+              <summary>Balance y fuentes</summary>
+              <p>{e.data.balance}</p>
+              <div class="prosa">
+                <Detalle />
+              </div>
+              <Fuentes fuentes={e.data.fuentes} />
+              <p class="vt__editar">
+                <a href={editarUrl(e.filePath)}>Editar en GitHub</a>
+              </p>
+            </details>
+          )}
+
+          <div class="vt__hechos">
+            {conPrograma && <p class="vt__rotulo">Lo que hizo desde 2019</p>}
+            {grupos.length === 0 ? (
+              <p class="vt__vacio vt__vacio--fuerte">
+                {VACIO[vista.id] ?? 'No se ha encontrado nada de este partido en este tema.'}{' '}
+                <a href={url('colabora/')}>Si conoces algo, propón una ficha</a>.
+              </p>
+            ) : (
+              grupos.map(({ cat, items }) => (
+                <div class="vt__grupo">
+                  <p class="vt__categoria">
+                    <Marca categoria={cat} tamano={16} />
+                    {CATEGORIA_INFO[cat].titulo}
+                  </p>
+                  <ul>
+                    {items.map((f) => (
+                      <li>
+                        <a href={fichaUrl(f)}>{f.data.titulo}</a>
+                        {f.data.promesa ? (
+                          <p class="vt__nota">
+                            <span>Prometió:</span> {f.data.promesa}
+                          </p>
+                        ) : (
+                          cat === 'contradiccion' && <p class="vt__nota">{f.data.resumen}</p>
+                        )}
+                        {(f.data.estadoJudicial || f.data.ambito !== 'estatal' || f.data.legislatura === 'XIV') && (
+                          <p class="vt__etiquetas">
+                            {f.data.estadoJudicial && (
+                              <span class="etiqueta etiqueta--judicial">{ESTADO_JUDICIAL[f.data.estadoJudicial]}</span>
+                            )}
+                            {f.data.legislatura === 'XIV' && <span class="etiqueta">{LEGISLATURA.XIV}</span>}
+                            {f.data.ambito !== 'estatal' && <span class="etiqueta">{AMBITO[f.data.ambito]}</span>}
+                          </p>
+                        )}
+                      </li>
+                    ))}
+                  </ul>
+                </div>
+              ))
+            )}
+          </div>
+        </div>
+      </FilaPartido>
+    ))
+  }
+</div>
+
+<style>
+  .vt__contexto {
+    max-width: 68ch;
+    margin: 0 0 1rem;
+    padding-left: 0.85rem;
+    border-left: 4px solid var(--rotulador);
+  }
+
+  /* Propuesta arriba a la izquierda y «Balance y fuentes» debajo; al abrirlo
+     pasa bajo las dos columnas para leerse a todo el ancho. */
+  .vt__fila--programa {
+    display: grid;
+    grid-template-columns: minmax(0, 2fr) minmax(0, 3fr);
+    grid-template-rows: auto 1fr;
+    gap: 0 2.5rem;
+  }
+
+  .vt__fila--programa .vt__propone {
+    grid-area: 1 / 1;
+  }
+
+  .vt__fila--programa .vt__hechos {
+    grid-area: 1 / 2 / span 2;
+  }
+
+  .vt__fila--programa .vt__detalle {
+    grid-area: 2 / 1;
+    align-self: start;
+  }
+
+  .vt__fila--programa .vt__detalle[open] {
+    grid-area: 3 / 1 / auto / -1;
+    margin-top: 1rem;
+    padding-top: 0.75rem;
+    border-top: 1px dashed var(--linea);
+  }
+
+  .vt__detalle[open] > :not(summary) {
+    max-width: 75ch;
+  }
+
+  .vt__rotulo {
+    margin: 0 0 0.35rem;
+    font-size: 0.8125rem;
+    font-weight: 700;
+    color: var(--tinta-suave);
+  }
+
+  .vt__propuesta {
+    margin: 0;
+  }
+
+  .vt__coherencia {
+    margin: 0.6rem 0 0;
+    font-size: 0.8125rem;
+    color: var(--tinta-suave);
+  }
+
+  .vt__detalle {
+    margin-top: 0.6rem;
+    font-size: 0.9375rem;
+  }
+
+  .vt__detalle summary {
+    cursor: pointer;
+    font-weight: 600;
+    color: var(--enlace);
+  }
+
+  .vt__detalle > p:first-of-type {
+    margin-top: 0.75rem;
+    font-weight: 600;
+  }
+
+  .vt__editar,
+  .vt__vacio {
+    font-size: 0.875rem;
+    color: var(--tinta-suave);
+  }
+
+  .vt__vacio {
+    margin: 0;
+  }
+
+  .vt__vacio--fuerte {
+    padding: 0.5rem 0.75rem;
+    border-left: 3px solid var(--linea);
+    background: var(--papel);
+    color: var(--tinta);
+    font-weight: 600;
+  }
+
+  .vt__vacio--fuerte a {
+    font-weight: 400;
+  }
+
+  .vt__grupo + .vt__grupo {
+    margin-top: 0.9rem;
+  }
+
+  .vt__categoria {
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+    margin: 0 0 0.25rem;
+    font-size: 0.875rem;
+    font-weight: 700;
+  }
+
+  .vt__grupo ul {
+    list-style: none;
+    margin: 0;
+    padding: 0 0 0 1.4rem;
+  }
+
+  .vt__grupo li {
+    padding-block: 0.3rem;
+    line-height: 1.35;
+  }
+
+  .vt__grupo li > a {
+    color: var(--tinta);
+    font-weight: 600;
+    text-decoration-color: var(--linea);
+    text-underline-offset: 0.18em;
+  }
+
+  .vt__grupo li > a:hover {
+    text-decoration-color: currentColor;
+  }
+
+  .vt__nota {
+    margin: 0.2rem 0 0;
+    font-size: 0.875rem;
+    color: var(--tinta-suave);
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+
+  .vt__nota span {
+    font-weight: 600;
+    color: var(--tinta);
+  }
+
+  .vt__etiquetas {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.35rem;
+    margin: 0.3rem 0 0;
+  }
+
+  @media (max-width: 64rem) {
+    .vt__fila--programa {
+      grid-template-columns: minmax(0, 1fr);
+      grid-template-rows: none;
+      row-gap: 1rem;
+    }
+
+    .vt__fila--programa .vt__propone,
+    .vt__fila--programa .vt__hechos,
+    .vt__fila--programa .vt__detalle,
+    .vt__fila--programa .vt__detalle[open] {
+      grid-area: auto;
+      margin-top: 0;
+      padding-top: 0;
+      border-top: 0;
+    }
+
+    .vt__fila--programa .vt__hechos {
+      padding-top: 0.75rem;
+      border-top: 1px dashed var(--linea);
+    }
+  }
+
+  @media (max-width: 40rem) {
+    .vt__grupo ul {
+      padding-left: 0;
+    }
+
+    .vt__nota {
+      -webkit-line-clamp: 3;
+    }
+  }
+</style>

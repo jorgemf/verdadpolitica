@@ -2,20 +2,31 @@
 import '@fontsource-variable/archivo/wdth.css';
 import '@fontsource-variable/literata/opsz.css';
 import '../styles/global.css';
-import { url, REPO } from '../lib/datos';
+import { url, REPO, partidos } from '../lib/datos';
 
 interface Props {
   titulo?: string;
   descripcion?: string;
+  /** Muestra el lema en la cabecera. La portada lo omite porque ya lo destaca. */
+  lema?: boolean;
 }
 
 const {
   titulo,
   descripcion = 'Qué prometieron, qué hicieron y qué no los partidos que se presentan a las elecciones generales del 29 de noviembre de 2026. Con fuentes.',
+  lema = true,
 } = Astro.props;
 
 const tituloCompleto = titulo ? `${titulo} | verdadpolitica.es` : 'verdadpolitica.es · Elecciones generales 29-N';
 const canonical = new URL(Astro.url.pathname, Astro.site);
+const lista = await partidos();
+const esPortada = Astro.url.pathname.replace(/\/$/, '') === url('/').replace(/\/$/, '');
+const MENU = [
+  { href: url('/'), texto: 'Expedientes', actual: esPortada },
+  { href: url('tema/vivienda/'), texto: 'Por tema', actual: Astro.url.pathname.includes('/tema/') },
+  { href: url('metodologia/'), texto: 'Metodología', actual: Astro.url.pathname.includes('/metodologia') },
+  { href: url('colabora/'), texto: 'Colabora', actual: Astro.url.pathname.includes('/colabora') },
+];
 ---
 
 <!doctype html>
@@ -39,14 +50,38 @@ const canonical = new URL(Astro.url.pathname, Astro.site);
     <header class="cabecera">
       <div class="envoltorio cabecera__fila">
         <a class="logo" href={url('/')}>verdad<span>política</span>.es</a>
-        <nav aria-label="Principal">
-          <a href={url('categoria/contradiccion/')}>Comparar</a>
-          <a href={url('tema/vivienda/')}>Programas</a>
-          <a href={url('metodologia/')}>Metodología</a>
-          <a href={url('colabora/')}>Colabora</a>
+        <nav class="cabecera__partidos" aria-label="Ir al expediente de un partido">
+          {
+            lista.map((p) => (
+              <a href={url(`#${p.id}`)} style={`--c:${p.data.color}`}>
+                <span aria-hidden="true" />
+                {p.data.siglas}
+              </a>
+            ))
+          }
         </nav>
+        <nav class="cabecera__menu" aria-label="Principal">
+          {MENU.map((m) => <a href={m.href} aria-current={m.actual ? 'page' : undefined}>{m.texto}</a>)}
+        </nav>
+        <details class="cabecera__desplegable">
+          <summary aria-label="Menú">
+            <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"
+              ><path d="M4 7h16M4 12h16M4 17h16"></path></svg
+            >
+          </summary>
+          <nav aria-label="Principal">
+            {MENU.map((m) => <a href={m.href} aria-current={m.actual ? 'page' : undefined}>{m.texto}</a>)}
+          </nav>
+        </details>
       </div>
     </header>
+    {
+      lema && (
+        <p class="envoltorio lema-barra">
+          <span class="rotulador">Estás usando mal esta web si solo lees una ideología política.</span>
+        </p>
+      )
+    }
 
     <main id="contenido">
       <slot />
@@ -64,6 +99,7 @@ const canonical = new URL(Astro.url.pathname, Astro.site);
         <div>
           <p><a href={url('colabora/')}>Cómo colaborar</a></p>
           <p><a href={url('metodologia/')}>Cómo elaboramos las fichas</a></p>
+          <p><a href={url('quien-soy/')}>Quién hay detrás</a></p>
           <p><a href={REPO}>Código fuente en GitHub</a></p>
           <p><a href={`${REPO}/issues/new/choose`}>Avisar de un error</a></p>
         </div>
@@ -74,5 +110,16 @@ const canonical = new URL(Astro.url.pathname, Astro.site);
         </p>
       </div>
     </footer>
+    <script>
+      // La cabecera es fija y su altura cambia con el ancho; otras barras fijas
+      // se colocan debajo usando --alto-cabecera.
+      const cabecera = document.querySelector<HTMLElement>('.cabecera');
+      if (cabecera) {
+        const medir = () =>
+          document.documentElement.style.setProperty('--alto-cabecera', `${cabecera.offsetHeight}px`);
+        new ResizeObserver(medir).observe(cabecera);
+        medir();
+      }
+    </script>
   </body>
 </html>

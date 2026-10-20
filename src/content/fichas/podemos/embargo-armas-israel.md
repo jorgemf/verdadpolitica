@@ -3,6 +3,7 @@ partido: podemos
 categoria: cumplido
 titulo: "Embargo de armas a Israel por decreto-ley, pero no total: admite excepciones y no rompe relaciones con Israel"
 resumen: "Podemos exigió un embargo total de armas a Israel aprobado por decreto. El Real Decreto-ley 10/2025 prohíbe exportar e importar material de defensa y de doble uso, pero permite excepciones por «intereses generales». Podemos lo llamó «coladero» y votó a favor; se convalidó el 8 de octubre de 2025 por 178 a 169."
+tema: exterior-defensa
 promesa: "«Embargo total» de armas a Israel, que incluya la compra, la venta y el tránsito de material militar destinado al ejército israelí (condición aprobada por las bases de Podemos en octubre de 2024), aprobado por decreto en el Consejo de Ministros (exigencia de mayo de 2025)."
 importancia: 2
 fecha: 2025-10-08

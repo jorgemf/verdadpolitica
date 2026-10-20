@@ -5,10 +5,11 @@ titulo: "Archivadas las denuncias contra Monedero por presunta agresión sexual 
 resumen: "En 2025 la Fiscalía archivó una denuncia contra Juan Carlos Monedero, cofundador de Podemos, por presunta agresión sexual y contra Montero, Belarra y Ángela Rodríguez por presunto encubrimiento, y otra contra él por trato a alumnas. La Complutense lo suspendió un año en 2026; él lo recurre."
 tema: regeneracion-democratica
 estadoJudicial: archivo-fiscalia
+faseJudicial: denuncia
 implicados: "Juan Carlos Monedero, cofundador de Podemos, sin cargos en la dirección desde 2015 (denunciado). Irene Montero, Ione Belarra y Ángela Rodríguez «Pam», dirigentes de Podemos (denunciadas por presunto encubrimiento y omisión del deber de socorro). El partido como persona jurídica no fue denunciado."
 importancia: 2
 fecha: 2025-06-02
-actualizado: 2026-10-19
+actualizado: 2026-10-20
 fuentes:
   - titulo: "Podemos apartó a Monedero tras recibir testimonios de violencia sexual"
     url: https://www.elindependiente.com/espana/2025/02/20/podemos-aparto-monedero-recibir-testimonios-violencia-sexual/amp/

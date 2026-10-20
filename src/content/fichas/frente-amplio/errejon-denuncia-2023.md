@@ -3,7 +3,7 @@ partido: frente-amplio
 categoria: contradiccion
 titulo: "Sumar supo en 2023 de una denuncia anónima contra Errejón y después lo nombró portavoz"
 resumen: "Yolanda Díaz reconoció en octubre de 2024 que en junio de 2023 conoció una denuncia anónima contra Íñigo Errejón y no actuó porque Más Madrid le dijo que había cerrado el expediente. Errejón fue después portavoz del grupo Sumar. Sumar pidió perdón y admitió que «los mecanismos fallaron»."
-tema: regeneracion-democratica
+tema: igualdad
 importancia: 2
 fecha: 2024-10-28
 actualizado: 2026-10-19

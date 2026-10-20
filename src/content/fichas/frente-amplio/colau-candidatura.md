@@ -1,6 +1,7 @@
 ---
 partido: frente-amplio
 categoria: contradiccion
+tema: regeneracion-democratica
 titulo: "Ada Colau descartó en 2025 presentarse a «ninguna» elección y es la candidata de Frente Amplio"
 resumen: "En noviembre de 2025 Ada Colau dijo que no se presentaría «ni a las primarias ni a las próximas elecciones», ni municipales ni estatales. En octubre de 2026, tras el adelanto electoral, IU, Más Madrid, Movimiento Sumar y los comunes la propusieron como candidata a la presidencia y ella aceptó."
 importancia: 1

@@ -2,10 +2,10 @@
 import { defineConfig } from 'astro/config';
 import sitemap from '@astrojs/sitemap';
 
-// SITE y BASE_PATH los fija el workflow de despliegue. En GitHub Pages sin
-// dominio propio la web vive en /<repo>/; con verdadpolitica.es, en la raíz.
+// La web se sirve en la raíz de https://verdadpolitica.es. SITE y BASE_PATH
+// solo hacen falta para publicarla en otro sitio (p. ej. una copia en /<repo>/).
 export default defineConfig({
-  site: process.env.SITE ?? 'https://verdadpolitica.es',
+  site: process.env.SITE || 'https://verdadpolitica.es',
   base: process.env.BASE_PATH || '/',
   trailingSlash: 'always',
   integrations: [sitemap()],

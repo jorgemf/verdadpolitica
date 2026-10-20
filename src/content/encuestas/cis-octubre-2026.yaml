@@ -1,0 +1,102 @@
+titulo: Barómetro de octubre de 2026
+institucion: Centro de Investigaciones Sociológicas (CIS)
+campo: Del 1 al 6 de octubre de 2026
+publicado: 2026-10-14
+pregunta: "¿Cuál es, a su juicio, el principal problema que existe actualmente en España? ¿Y el segundo? ¿Y el tercero? (Respuesta espontánea; se suman las tres menciones)."
+# Fuente: CIS, estudio n.º 3582, «Avance de resultados», pregunta 13R (columna TOTAL,
+# suma de primer, segundo y tercer problema; N = 5.025). Se incluyen los problemas de
+# al menos un 1 %. El 29,9 % de vivienda que da algún medio es solo «primer problema».
+problemas:
+  - { nombre: Vivienda, porcentaje: 55.7, tema: vivienda }
+  - { nombre: Inmigración, porcentaje: 20.9, tema: inmigracion }
+  - { nombre: Crisis económica, porcentaje: 20.3, tema: economia-impuestos }
+  - { nombre: Calidad del empleo, porcentaje: 19.4, tema: empleo-pensiones }
+  - { nombre: El Gobierno y los partidos, porcentaje: 15.1, tema: regeneracion-democratica }
+  - { nombre: Sanidad, porcentaje: 14.4, tema: sanidad }
+  - { nombre: Problemas políticos en general, porcentaje: 10.1, tema: regeneracion-democratica }
+  - { nombre: Paro, porcentaje: 9.6, tema: empleo-pensiones }
+  - { nombre: Educación, porcentaje: 8.7, tema: educacion }
+  - { nombre: Mal comportamiento de los políticos, porcentaje: 8.5, tema: regeneracion-democratica }
+  - { nombre: Los extremismos, porcentaje: 7.7 }
+  - { nombre: Problemas de la juventud (falta de apoyo y oportunidades), porcentaje: 7.2 }
+  - { nombre: Corrupción y fraude, porcentaje: 6.7, tema: regeneracion-democratica }
+  - { nombre: Crisis con Marruecos (fronteras de Ceuta y Melilla), porcentaje: 6.5, tema: exterior-defensa }
+  - { nombre: Lo que hacen los partidos políticos, porcentaje: 5.8, tema: regeneracion-democratica }
+  - { nombre: Problemas de índole social, porcentaje: 4.9 }
+  - { nombre: Inseguridad ciudadana, porcentaje: 4.3, tema: seguridad-ciudadana }
+  - { nombre: Cambio climático, porcentaje: 4.0, tema: energia-medioambiente }
+  - { nombre: "Desigualdades (incluida la de género), diferencias de clases y pobreza", porcentaje: 3.8 }
+  - { nombre: Crisis de valores, porcentaje: 3.6 }
+  - { nombre: Subida de los impuestos, porcentaje: 3.5, tema: economia-impuestos }
+  - { nombre: Aumento de la crispación social, porcentaje: 3.2 }
+  - { nombre: Funcionamiento de los servicios públicos, porcentaje: 3.0 }
+  - { nombre: Funcionamiento de la democracia, porcentaje: 2.1, tema: regeneracion-democratica }
+  - { nombre: Subida de tarifas energéticas y crisis energética, porcentaje: 2.0, tema: energia-medioambiente }
+  - { nombre: Medios de comunicación y redes (desinformación y bulos), porcentaje: 2.0 }
+  - { nombre: Las guerras en general, porcentaje: 1.7, tema: exterior-defensa }
+  - { nombre: Pensiones, porcentaje: 1.4, tema: empleo-pensiones }
+  - { nombre: Administración de Justicia, porcentaje: 1.3, tema: regeneracion-democratica }
+  - { nombre: Política exterior y relaciones internacionales, porcentaje: 1.2, tema: exterior-defensa }
+  - { nombre: Falta de acuerdos e inestabilidad política, porcentaje: 1.2, tema: regeneracion-democratica }
+  - { nombre: Racismo, porcentaje: 1.1 }
+  - { nombre: Infraestructuras, porcentaje: 1.1 }
+  - { nombre: Falta de confianza en los políticos y las instituciones, porcentaje: 1.0, tema: regeneracion-democratica }
+# Pregunta 14R: «¿Y cuál es el problema que a Ud., personalmente, le afecta más? ¿Y el
+# segundo? ¿Y el tercero?» (suma de las tres menciones). Problemas de al menos un 1 %.
+personales:
+  - { nombre: Vivienda, porcentaje: 33.8, tema: vivienda }
+  - { nombre: Crisis económica, porcentaje: 30.3, tema: economia-impuestos }
+  - { nombre: Sanidad, porcentaje: 24.0, tema: sanidad }
+  - { nombre: Calidad del empleo, porcentaje: 18.8, tema: empleo-pensiones }
+  - { nombre: Inmigración, porcentaje: 11.2, tema: inmigracion }
+  - { nombre: Educación, porcentaje: 10.0, tema: educacion }
+  - { nombre: Problemas de la juventud (falta de apoyo y oportunidades), porcentaje: 9.4 }
+  - { nombre: Subida de los impuestos, porcentaje: 7.2, tema: economia-impuestos }
+  - { nombre: Inseguridad ciudadana, porcentaje: 6.7, tema: seguridad-ciudadana }
+  - { nombre: Paro, porcentaje: 6.5, tema: empleo-pensiones }
+  - { nombre: Problemas de índole social, porcentaje: 6.1 }
+  - { nombre: Subida de tarifas energéticas y crisis energética, porcentaje: 5.4, tema: energia-medioambiente }
+  - { nombre: Cambio climático, porcentaje: 4.8, tema: energia-medioambiente }
+  - { nombre: El Gobierno y los partidos, porcentaje: 4.8, tema: regeneracion-democratica }
+  - { nombre: Pensiones, porcentaje: 4.0, tema: empleo-pensiones }
+  - { nombre: "Salud propia, de familiares o allegados", porcentaje: 3.9 }
+  - { nombre: Problemas políticos en general, porcentaje: 3.7, tema: regeneracion-democratica }
+  - { nombre: Los extremismos, porcentaje: 3.3 }
+  - { nombre: Crisis con Marruecos (fronteras de Ceuta y Melilla), porcentaje: 3.0, tema: exterior-defensa }
+  - { nombre: Crisis de valores, porcentaje: 2.9 }
+  - { nombre: Infraestructuras, porcentaje: 2.8 }
+  - { nombre: "Desigualdades (incluida la de género), diferencias de clases y pobreza", porcentaje: 2.8 }
+  - { nombre: Mal comportamiento de los políticos, porcentaje: 2.7, tema: regeneracion-democratica }
+  - { nombre: Las guerras en general, porcentaje: 2.3, tema: exterior-defensa }
+  - { nombre: Corrupción y fraude, porcentaje: 2.1, tema: regeneracion-democratica }
+  - { nombre: Funcionamiento de los servicios públicos, porcentaje: 2.1 }
+  - { nombre: Aumento de la crispación social, porcentaje: 2.0 }
+  - { nombre: Preocupaciones y situaciones personales, porcentaje: 1.9 }
+  - { nombre: Incertidumbre y miedo ante el futuro, porcentaje: 1.7 }
+  - { nombre: Funcionamiento de la democracia, porcentaje: 1.5, tema: regeneracion-democratica }
+  - { nombre: Lo que hacen los partidos políticos, porcentaje: 1.4, tema: regeneracion-democratica }
+  - { nombre: Medios de comunicación y redes (desinformación y bulos), porcentaje: 1.3 }
+  - { nombre: "Problemas psicológicos (soledad, tristeza, desamparo)", porcentaje: 1.1 }
+  - { nombre: Medio ambiente, porcentaje: 1.1, tema: energia-medioambiente }
+  - { nombre: Problemas de los autónomos, porcentaje: 1.0 }
+fuentes:
+  - titulo: "Barómetro de octubre 2026. Avance de resultados. Estudio n.º 3582"
+    url: https://www.cis.es/documents/d/guest/es3582mar_a-pdf
+    medio: CIS
+    fecha: 2026-10-14
+    tipo: oficial
+  - titulo: "Avance de resultados del estudio 3582 «Barómetro de octubre 2026»"
+    url: https://www.cis.es/w/avance-de-resultados-del-estudio-3582-bar%C3%B3metro-de-octubre-2026-
+    medio: CIS
+    fecha: 2026-10-14
+    tipo: oficial
+  - titulo: "La vivienda bate un récord como principal problema; preocupa al 55,7%, según el CIS"
+    url: https://theobjective.com/espana/2026-10-14/vivienda-record-problema-557-cis/
+    medio: The Objective
+    fecha: 2026-10-14
+    tipo: prensa
+  - titulo: "La vivienda marca otro récord como primer problema de España, según el CIS"
+    url: https://www.idealista.com/news/inmobiliario/vivienda/2026/10/14/918887-la-vivienda-marca-otro-record-como-primer-problema-de-espana-segun-el-cis
+    medio: idealista/news
+    fecha: 2026-10-14
+    tipo: prensa

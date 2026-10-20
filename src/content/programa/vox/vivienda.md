@@ -4,7 +4,7 @@ tema: vivienda
 propuesta: "Derogar la Ley de Vivienda de 2023, liberar suelo y desregular la construcción, suprimir impuestos a la compra de la primera vivienda, desalojar viviendas ocupadas en 24 horas y adjudicar la vivienda protegida y las ayudas con \"prioridad nacional\"."
 balance: "Votó contra los RDL 26/2026 y 27/2026 de vivienda, que el Congreso no convalidó en octubre de 2026. El Congreso rechazó en junio su moción de prioridad nacional en vivienda. En Extremadura y en los presupuestos valencianos de 2026 pactó con el PP una prioridad por empadronamiento y arraigo, no por nacionalidad."
 coherencia: parcial
-actualizado: 2026-10-19
+actualizado: 2026-10-20
 fuentes:
   - titulo: "Programa electoral para las Elecciones Generales del 23J de 2023"
     url: https://theobjective.com/wp-content/uploads/2023/07/programa-vox-23j.pdf
@@ -45,13 +45,18 @@ fuentes:
     medio: Artículo 14
     fecha: 2026-04-22
     tipo: prensa
+  - titulo: "BOCG. Congreso de los Diputados, serie B, núm. 47-2 (Proposición de Ley 122/000039 sobre el padrón en casos de ocupación e inmigración ilegal. Rechazada)"
+    url: https://www.congreso.es/public_oficiales/L15/CONG/BOCG/B/BOCG-15-B-47-2.PDF
+    medio: Congreso de los Diputados
+    fecha: 2025-02-24
+    tipo: oficial
 ---
 
 Vox no ha publicado programa para el 29-N. Se recogen el programa de 2023 [1] y su plan de desregulación de junio de 2026 [2].
 
 **Qué proponen.** En 2023 prometía "tolerancia cero con la ocupación ilegal", eximir del IBI a los propietarios afectados y liberar "todo el suelo" que no deba estar protegido [1]. El plan de 2026 añade la derogación de la Ley de Vivienda y el bloqueo de la regulación de precios del alquiler [2]
 
-**Qué han hecho.** Vox votó en contra de los dos reales decretos-ley de vivienda del Gobierno. En octubre de 2026 el Congreso no convalidó el RDL 26/2026, de vivienda asequible (172-178), ni el RDL 27/2026, sobre estabilidad de los contratos de alquiler (166-184). En este último votaron en contra PP, Vox, Junts, PNV y UPN [3][4]. El 18 de junio de 2026, el resto de la Cámara rechazó una moción de Vox que pedía aplicar la "prioridad nacional" en la vivienda protegida y en las ayudas, y suprimir impuestos a la compra de la primera vivienda [5]
+**Qué han hecho.** Vox votó en contra de los dos reales decretos-ley de vivienda del Gobierno. En octubre de 2026 el Congreso no convalidó el RDL 26/2026, de vivienda asequible (172-178), ni el RDL 27/2026, sobre estabilidad de los contratos de alquiler (166-184). En este último votaron en contra PP, Vox, Junts, PNV y UPN [3][4]. El 18 de junio de 2026, el resto de la Cámara rechazó una moción de Vox que pedía aplicar la "prioridad nacional" en la vivienda protegida y en las ayudas, y suprimir impuestos a la compra de la primera vivienda [5]. El 18 de febrero de 2025 el Congreso rechazó tramitar, por 169 votos a 174, su ley para impedir que los okupas se empadronen y anotar en el padrón la situación irregular de los inmigrantes [9].
 
 El pacto de Extremadura (abril de 2026) incluye al menos 3.500 viviendas protegidas adjudicadas con "prioridad nacional" y exige 10 años de empadronamiento para comprarlas [6] Los presupuestos valencianos de 2026, aprobados con el voto de Vox, aplican esa prioridad en el acceso a la vivienda pública [7]. En ambos casos la preferencia se da por años de empadronamiento y arraigo, no por nacionalidad, como propone Vox.
 

@@ -1,6 +1,7 @@
 ---
 partido: frente-amplio
 categoria: bloqueado
+tema: exterior-defensa
 titulo: "Sumar se opuso al aumento del gasto en defensa y el Consejo de Ministros lo aprobó pese a sus objeciones"
 resumen: "En marzo de 2025 los partidos de Sumar acordaron rechazar cualquier aumento del gasto militar. El 22 de abril el Consejo de Ministros aprobó 10.471 millones adicionales para llegar al 2 % del PIB, sin votación en el Congreso. Los ministros de Sumar se opusieron y pidieron retirarlo, sin éxito."
 promesa: "Acuerdo del 10 de marzo de 2025 de los partidos del grupo Sumar: «rechazar cualquier aumento del gasto militar» que planteara el PSOE."
