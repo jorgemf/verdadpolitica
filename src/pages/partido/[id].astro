@@ -89,7 +89,13 @@ const otros = lista.filter((p) => p.id !== partido.id);
     {d.nota && <p class="partido__nota">{d.nota}</p>}
     <p class="partido__enlaces">
       <a href={d.web}>Web oficial</a>
-      {d.programaUrl && <a href={d.programaUrl}>Programa electoral</a>}
+      {
+        d.programaUrl ? (
+          <a href={d.programaUrl}>Programa electoral del 29-N</a>
+        ) : (
+          <span class="partido__pendiente">Programa electoral del 29-N: aún no disponible</span>
+        )
+      }
     </p>
 
     <aside class="partido__recordatorio">
@@ -197,7 +203,12 @@ const otros = lista.filter((p) => p.id !== partido.id);
   .partido__enlaces {
     display: flex;
     gap: 1.5rem;
+    flex-wrap: wrap;
     font-weight: 600;
+  }
+
+  .partido__pendiente {
+    color: var(--tinta-suave);
   }
 
   .partido__recordatorio {

@@ -63,7 +63,7 @@ Para cada partido hay una entrada por tema (ver `src/data/temas.ts`) en `src/con
 
 ### Ficha de partido (`src/content/partidos/<id>.yaml`)
 
-Estructura común para todos, sin balance valorativo (el balance va en las fichas): `resumen` = papel institucional en la legislatura + dónde gobierna + contexto electoral (coalición, candidatura). `nota` = advertencias comunes (por ejemplo, si el programa 2026 aún no está publicado y qué programa enlaza `programaUrl`).
+Estructura común para todos, sin balance valorativo (el balance va en las fichas): `resumen` = papel institucional en la legislatura + dónde gobierna + contexto electoral (coalición, candidatura). `nota` = advertencias comunes (por ejemplo, si el programa 2026 aún no está publicado y cuáles son sus propuestas oficiales más recientes). `programaUrl` solo enlaza el programa del 29-N; mientras no esté publicado se deja vacío y la ficha muestra «aún no disponible» (no se enlaza el de 2023).
 
 ## Formato de una ficha
 

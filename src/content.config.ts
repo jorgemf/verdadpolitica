@@ -42,6 +42,7 @@ const partidos = defineCollection({
     resumen: z.string(),
     nota: z.string().optional(),
     web: urlWeb,
+    // Solo el programa de las generales del 29-N; sin él la ficha muestra «aún no disponible».
     programaUrl: urlWeb.optional(),
   }),
 });
