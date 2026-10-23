@@ -241,7 +241,7 @@ const tituloIssue = encodeURIComponent(`Corrección: ${d.titulo} (${partido.data
 
   .ficha__rejilla {
     display: grid;
-    grid-template-columns: minmax(0, 68ch) minmax(15rem, 22rem);
+    grid-template-columns: minmax(0, 68ch) minmax(15rem, 1fr);
     grid-template-areas: 'principal lateral';
     gap: 3rem 4rem;
     margin-top: 2rem;
@@ -265,7 +265,8 @@ const tituloIssue = encodeURIComponent(`Corrección: ${d.titulo} (${partido.data
 
   .ficha__datos {
     display: grid;
-    gap: 1rem;
+    grid-template-columns: repeat(auto-fit, minmax(12rem, 1fr));
+    gap: 1rem 2rem;
     margin: 0 0 1rem;
     padding: 1.25rem 0;
     border-block: 1px solid var(--linea);

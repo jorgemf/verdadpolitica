@@ -26,7 +26,6 @@ interface Props {
   temas: TemaConPreocupacion[];
 }
 
-const MAX_TEMAS = 6;
 const MAX_FICHAS = 3;
 const MAX_CAUSAS = 6;
 
@@ -128,9 +127,9 @@ const metaFicha = (f: Ficha) =>
   <div class="exp__cuerpo">
     <section class="exp__programa" aria-labelledby={`prop-${p.id}`}>
       <h3 id={`prop-${p.id}`}>Lo que propone para el 29-N</h3>
-      {
-        lotes(propuestas, MAX_TEMAS).map((lote, i) => {
-          const lis = lote.map(({ tema, entrada }) => (
+      <ul>
+        {
+          propuestas.map(({ tema, entrada }) => (
             <li>
               <span class="exp__tema">{tema.nombre}</span>
               <span class="exp__propuesta">{entrada!.data.propuesta}</span>
@@ -141,22 +140,9 @@ const metaFicha = (f: Ficha) =>
                 {COHERENCIA[entrada!.data.coherencia].texto}
               </span>
             </li>
-          ));
-          return i === 0 ? (
-            <ul>{lis}</ul>
-          ) : (
-            lote.length > 0 && (
-              <details class="mas">
-                <summary>
-                  <span class="mas__ver">Ver {lote.length === 1 ? 'otro tema' : `${lote.length} temas más`}</span>
-                  <span class="mas__ocultar">Ocultar</span>
-                </summary>
-                <ul>{lis}</ul>
-              </details>
-            )
-          );
-        })
-      }
+          ))
+        }
+      </ul>
     </section>
 
     <section class="exp__hechos" aria-labelledby={`hechos-${p.id}`}>
@@ -397,9 +383,9 @@ const metaFicha = (f: Ficha) =>
     color: #ffffff;
   }
 
+  /* Propuestas a todo el ancho y, debajo, qué hizo con lo que prometió;
+     cada bloque reparte su lista en columnas cuando cabe. */
   .exp__cuerpo {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(min(100%, 27rem), 1fr));
     border-top: 1px solid var(--linea);
   }
 
@@ -408,7 +394,18 @@ const metaFicha = (f: Ficha) =>
   }
 
   .exp__programa {
-    border-right: 1px solid var(--linea);
+    border-bottom: 1px solid var(--linea);
+  }
+
+  .exp__programa ul,
+  .exp__hechos {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(min(100%, 30rem), 1fr));
+    column-gap: 2.5rem;
+  }
+
+  .exp__hechos h3 {
+    grid-column: 1 / -1;
   }
 
   .exp h3 {
@@ -425,9 +422,10 @@ const metaFicha = (f: Ficha) =>
 
   .exp__programa li {
     display: grid;
-    grid-template-columns: 7.5rem minmax(0, 1fr) 6.5rem;
+    grid-template-columns: 7.5rem minmax(0, 1fr);
+    grid-template-rows: auto 1fr;
     gap: 0.25rem 0.9rem;
-    align-items: baseline;
+    align-items: start;
     padding-block: 0.55rem;
     border-top: 1px solid #ecede9;
   }
@@ -437,14 +435,17 @@ const metaFicha = (f: Ficha) =>
     font-weight: 700;
   }
 
+  .exp__programa .coherencia {
+    grid-column: 1;
+    grid-row: 2;
+  }
+
   .exp__propuesta {
+    grid-column: 2;
+    grid-row: 1 / span 2;
     font-family: var(--serif);
     font-size: 0.9375rem;
     line-height: 1.5;
-    display: -webkit-box;
-    -webkit-line-clamp: 3;
-    -webkit-box-orient: vertical;
-    overflow: hidden;
   }
 
   .coherencia {
@@ -733,11 +734,6 @@ const metaFicha = (f: Ficha) =>
   }
 
   @media (max-width: 64rem) {
-    .exp__programa {
-      border-right: 0;
-      border-bottom: 1px solid var(--linea);
-    }
-
     .causa {
       grid-template-columns: minmax(0, 1fr) 18rem;
     }
@@ -775,6 +771,12 @@ const metaFicha = (f: Ficha) =>
 
     .exp__programa li {
       grid-template-columns: minmax(0, 1fr) auto;
+      grid-template-rows: auto;
+    }
+
+    .exp__programa .coherencia {
+      grid-column: 2;
+      grid-row: 1;
     }
 
     .exp__propuesta {

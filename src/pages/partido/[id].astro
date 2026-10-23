@@ -53,6 +53,38 @@ const otros = lista.filter((p) => p.id !== partido.id);
         </dd>
       </div>
     </dl>
+
+    <section class="bloque bloque--programa" id="programa">
+      <h2>Lo que propone para el 29-N</h2>
+      <ul class="lista">
+        {
+          TEMAS.map((t) => {
+            const e = prog.find((x) => x.data.tema === t.id);
+            return (
+              <li>
+                <a href={temaUrl(t.id)}>{t.nombre}</a>
+                {e ? (
+                  <>
+                    <p>
+                      <b>Propone:</b> {e.data.propuesta}
+                    </p>
+                    <p>
+                      <b>Ha hecho:</b> {e.data.balance}
+                    </p>
+                    <p class="lista__meta">
+                      <span class={`etiqueta etiqueta--${e.data.coherencia}`}>{COHERENCIA[e.data.coherencia].texto}</span>
+                    </p>
+                  </>
+                ) : (
+                  <p class="vacio">Pendiente.</p>
+                )}
+              </li>
+            );
+          })
+        }
+      </ul>
+    </section>
+
     <p class="partido__resumen">{d.resumen}</p>
     {d.nota && <p class="partido__nota">{d.nota}</p>}
     <p class="partido__enlaces">
@@ -107,36 +139,6 @@ const otros = lista.filter((p) => p.id !== partido.id);
       })
     }
 
-    <section class="bloque" id="programa">
-      <h2>Programa frente a hechos</h2>
-      <ul class="lista">
-        {
-          TEMAS.map((t) => {
-            const e = prog.find((x) => x.data.tema === t.id);
-            return (
-              <li>
-                <a href={temaUrl(t.id)}>{t.nombre}</a>
-                {e ? (
-                  <>
-                    <p>
-                      <b>Propone:</b> {e.data.propuesta}
-                    </p>
-                    <p>
-                      <b>Ha hecho:</b> {e.data.balance}
-                    </p>
-                    <p class="lista__meta">
-                      <span class={`etiqueta etiqueta--${e.data.coherencia}`}>{COHERENCIA[e.data.coherencia].texto}</span>
-                    </p>
-                  </>
-                ) : (
-                  <p class="vacio">Pendiente.</p>
-                )}
-              </li>
-            );
-          })
-        }
-      </ul>
-    </section>
   </section>
 </Base>
 
@@ -202,6 +204,18 @@ const otros = lista.filter((p) => p.id !== partido.id);
     margin: 2rem 0 1rem;
     font-size: 1.15rem;
     font-weight: 600;
+  }
+
+  .bloque.bloque--programa {
+    margin-top: 1rem;
+    margin-bottom: 3rem;
+  }
+
+  .bloque--programa .lista {
+    max-width: none;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(min(100%, 30rem), 1fr));
+    column-gap: 3rem;
   }
 
   .bloque {
