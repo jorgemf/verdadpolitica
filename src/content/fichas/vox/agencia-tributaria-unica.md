@@ -8,7 +8,7 @@ promesa: "«La gestión y recaudación de todos los tributos estatales, cedidos 
 motivo: "Vox no lo ha explicado. Sus iniciativas sobre financiación autonómica se centraron en rebajar los impuestos cedidos y en rechazar la condonación de deuda autonómica. La medida exigiría reformar la legislación estatal de financiación autonómica."
 importancia: 1
 fecha: 2026-10-19
-actualizado: 2026-10-19
+actualizado: 2026-10-23
 fuentes:
   - titulo: "Programa electoral para las Elecciones Generales del 23J de 2023"
     url: https://theobjective.com/wp-content/uploads/2023/07/programa-vox-23j.pdf
@@ -59,4 +59,4 @@ Vox no ha explicado por qué no llevó esta medida al Congreso. Su actividad sob
 
 ## Lo que dicen las partes
 
-A 19 de octubre de 2026, Vox no había publicado su programa para el 29-N, por lo que no consta si mantiene la propuesta en los mismos términos.
+En las búsquedas realizadas el 23 de octubre de 2026 no consta que Vox haya publicado su programa para el 29-N, por lo que no consta si mantiene la propuesta en los mismos términos.

@@ -8,14 +8,14 @@ escanos2023: 31
 encuesta:
   porcentaje: 6.3
   escanos: 8
-  fecha: 2026-10-19
+  fecha: 2026-10-21
   fuente:
     titulo: "Media de encuestas elecciones generales 2026"
     url: https://www.democrata.es/elecciones-generales-espana/herramientas/encuestas
     medio: Demócrata
-    fecha: 2026-10-19
+    fecha: 2026-10-21
     tipo: prensa
-resumen: "Sus partidos, agrupados como Sumar, fueron durante toda la legislatura el socio minoritario del Gobierno de coalición con el PSOE, con cinco ministerios: Trabajo (vicepresidencia segunda), Sanidad, Cultura, Derechos Sociales y Consumo, y Juventud e Infancia. IU gobierna en coalición con el PSOE en Asturias desde 2023. Concurre al 29-N como coalición de IU, Movimiento Sumar, Más Madrid y Catalunya en Comú, con Ada Colau de candidata; Podemos concurre por separado."
-nota: "Su historial en la legislatura es el de Sumar y el de los partidos que hoy forman la coalición; Podemos, que concurrió con Sumar en 2023, se separó del grupo en diciembre de 2023 y no forma parte de Frente Amplio. A 19 de octubre de 2026 Frente Amplio no ha publicado su programa para el 29-N; el enlace remite al programa de Sumar para las generales de 2023."
+resumen: "Sus partidos, agrupados como Sumar, fueron durante toda la legislatura el socio minoritario del Gobierno de coalición con el PSOE, con cinco ministerios: Trabajo (vicepresidencia segunda), Sanidad, Cultura, Derechos Sociales y Consumo, y Juventud e Infancia. IU gobierna en coalición con el PSOE en Asturias desde 2023. Concurre al 29-N como coalición de IU, Movimiento Sumar, Más Madrid, Catalunya en Comú y otras formaciones, como Chunta Aragonesista, con Ada Colau de candidata y cabeza de lista por Barcelona y Emilio Delgado por Madrid. En la Comunitat Valenciana y Canarias se integra en listas con Compromís y Nueva Canarias que incluyen a Podemos; en el resto, Podemos concurre por separado. Al Senado presenta con el PSOE listas conjuntas («Senado de Progreso») en la mayoría de las provincias. Su portavoz de campaña es Pablo Bustinduy."
+nota: "Su historial en la legislatura es el de Sumar y el de los partidos que hoy forman la coalición; Podemos, que concurrió con Sumar en 2023, se separó del grupo en diciembre de 2023 y no forma parte de Frente Amplio. A 23 de octubre de 2026 Frente Amplio no ha publicado su programa para el 29-N (su web, frenteamplio.info, solo recoge notas de prensa); el enlace remite al programa de Sumar para las generales de 2023."
 web: https://frenteamplio.info
 programaUrl: https://movimientosumar.es/wp-content/uploads/2023/07/Un-Programa-para-ti.pdf

@@ -4,7 +4,7 @@ tema: igualdad
 propuesta: "Sin programa del 29-N publicado, Sánchez prometió en junio de 2026 abolir la prostitución y blindar el aborto y el matrimonio igualitario en la Constitución. Sus compromisos pendientes son las leyes contra la trata y la violencia vicaria, que su Gobierno no llegó a aprobar."
 balance: "Aprobó la ley de paridad (LO 2/2024) y el Congreso renovó el Pacto de Estado contra la Violencia de Género con su impulso. El Congreso rechazó su ley contra el proxenetismo. La ley de trata pasó por el Consejo de Ministros en 2024 y no llegó a las Cortes; la de violencia vicaria y la reforma del aborto caducaron."
 coherencia: coherente
-actualizado: 2026-10-20
+actualizado: 2026-10-23
 fuentes:
   - titulo: "Pedro Sánchez fija su horizonte en 2031 y promete otros cuatro años de gobierno progresista: “España será un país mucho mejor”"
     url: https://www.moncloa.com/2026/06/27/pedro-sanchez-psoe-3391192/
@@ -47,7 +47,7 @@ fuentes:
     tipo: oficial
 ---
 
-A 20 de octubre de 2026 el PSOE no ha publicado su programa para el 29-N. En el Comité Federal de junio de 2026, Sánchez dijo que su partido «se atreverá a abolir la infamia de la prostitución» y prometió «blindar el matrimonio igualitario, el derecho al aborto y la sanidad pública en una constitución del siglo XXI» [1]. Su programa de 2023 incluía abolir la prostitución, aprobar la ley integral contra la trata y renovar el Pacto de Estado contra la Violencia de Género [2].
+A 23 de octubre de 2026 el PSOE no ha publicado su programa para el 29-N. En el Comité Federal de junio de 2026, Sánchez dijo que su partido «se atreverá a abolir la infamia de la prostitución» y prometió «blindar el matrimonio igualitario, el derecho al aborto y la sanidad pública en una constitución del siglo XXI» [1]. Su programa de 2023 incluía abolir la prostitución, aprobar la ley integral contra la trata y renovar el Pacto de Estado contra la Violencia de Género [2].
 
 En la legislatura:
 - Se aprobó la Ley Orgánica 2/2024 de representación paritaria, publicada en el BOE el 2 de agosto de 2024 [3].

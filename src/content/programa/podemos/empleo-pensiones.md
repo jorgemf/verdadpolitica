@@ -1,10 +1,10 @@
 ---
 partido: podemos
 tema: empleo-pensiones
-propuesta: "Salario mínimo de 1.800 euros al mes, jornada de 30 horas semanales (presentación de la candidatura de Irene Montero, septiembre de 2026) y jubilación anticipada sin recortes en la pensión con 40 años cotizados (proposición de ley de 2024)."
-balance: "Votó contra el primer decreto del subsidio por rebajar la cotización de los parados mayores de 52 años y apoyó el segundo, que la mantuvo. Su ley de jubilación sin penalización con 40 años cotizados se tomó en consideración en septiembre de 2026 (178 a favor, 33 en contra) y caducó con la disolución."
+propuesta: "Salario mínimo de 1.800 euros al mes por ley y jornada de 30 horas semanales (candidatura de Irene Montero, septiembre de 2026, y web de campaña de octubre) y jubilación anticipada sin recortes en la pensión con 40 años cotizados (proposición de ley de 2024)."
+balance: "Votó contra el primer decreto del subsidio por rebajar la cotización de los parados mayores de 52 años y apoyó el segundo, que la mantuvo. Su jubilación sin recortes con 40 años cotizados se aprobó como moción en 2025, PSOE y PP la rechazaron como enmienda en junio de 2026 y su ley caducó tras tomarse en consideración."
 coherencia: coherente
-actualizado: 2026-10-19
+actualizado: 2026-10-23
 fuentes:
   - titulo: "Irene Montero presenta su candidatura a las generales: \"La gente buena es mayoría\""
     url: https://es.ara.cat/politica/irene-montero-presenta-candidatura-generales-gente-buena_1_5848007.html
@@ -41,12 +41,27 @@ fuentes:
     medio: Congreso de los Diputados
     fecha: 2025-10-14
     tipo: oficial
+  - titulo: "Votación de la moción del Grupo Mixto (Sra. Belarra Urteaga) relativa a los planes del Gobierno para facilitar la jubilación con más de 40 años cotizados sin penalización (13 de noviembre de 2025)"
+    url: https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion146/20251113/Votacion060/VOT_20251113131331.json
+    medio: Congreso de los Diputados
+    fecha: 2025-11-13
+    tipo: oficial
+  - titulo: "Votación de la enmienda núm. 1 del Grupo Mixto (Sra. Belarra Urteaga) a la proposición de ley de mutualidades alternativas (11 de junio de 2026)"
+    url: https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion185/20260611/Votacion003/VOT_20260611145704.json
+    medio: Congreso de los Diputados
+    fecha: 2026-06-11
+    tipo: oficial
+  - titulo: "Paz, casa y trabajo. Cinco cosas (web de campaña de Podemos para el 29-N)"
+    url: https://pazcasaytrabajo.es/
+    medio: Podemos
+    fecha: 2026-10-19
+    tipo: partido
 ---
 
-A 19 de octubre de 2026 Podemos no ha publicado su programa para el 29-N. Al presentar su candidatura, Irene Montero propuso un salario mínimo de 1.800 euros mensuales y «las treinta horas de trabajo a la semana» [1]. Su proposición de ley de 2024 establece que con 40 años cotizados no se apliquen coeficientes reductores a la jubilación anticipada, también para quienes ya están jubilados [2].
+A 23 de octubre de 2026 Podemos no ha publicado un programa completo para el 29-N. Al presentar su candidatura, Irene Montero propuso un salario mínimo de 1.800 euros mensuales y «las treinta horas de trabajo a la semana» [1]; su web de campaña, de octubre, recoge ambas medidas y precisa que el salario mínimo se fijaría por ley [10]. Su proposición de ley de 2024 establece que con 40 años cotizados no se apliquen coeficientes reductores a la jubilación anticipada, también para quienes ya están jubilados [2].
 
 En la legislatura, Podemos votó el 10 de enero de 2024 contra el Real Decreto-ley 7/2023 del subsidio por desempleo porque rebajaba la cotización para la jubilación de los parados mayores de 52 años; el decreto se derogó por 167 votos a favor y 176 en contra [5]. Apoyó en junio el Real Decreto-ley 2/2024, que mantuvo esa cotización en el 125 % [6].
 
-Su ley de jubilación sin penalización se tomó en consideración el 22 de septiembre de 2026 con 178 votos a favor, 33 en contra de Vox y 136 abstenciones del PP; el Gobierno apoyó tramitarla [3] [4]. Caducó dos semanas después con la disolución de las Cortes. No registró en la legislatura una iniciativa propia sobre el salario mínimo de 1.800 euros ni sobre la jornada de 30 horas; votó a favor de la ley del BNG para reducirla a 35, rechazada el 14 de octubre de 2025 por 162 votos a favor y 178 en contra [7].
+Sobre la jubilación anticipada, el Pleno aprobó el 13 de noviembre de 2025 su moción para no penalizar a quien acredite más de 40 años cotizados, por 180 votos a favor, entre ellos los del PSOE, y 170 abstenciones de PP y Vox [8]. El 11 de junio de 2026 PSOE y PP rechazaron la misma medida presentada por Podemos como enmienda a la ley de mutualidades alternativas: 54 votos a favor, 260 en contra y 33 abstenciones de Vox [9]. Su ley de jubilación sin penalización se tomó en consideración el 22 de septiembre de 2026 con 178 votos a favor, 33 en contra de Vox y 136 abstenciones del PP; el Gobierno apoyó tramitarla [3] [4]. Caducó dos semanas después con la disolución de las Cortes. No registró en la legislatura una iniciativa propia sobre el salario mínimo de 1.800 euros ni sobre la jornada de 30 horas; votó a favor de la ley del BNG para reducirla a 35, rechazada el 14 de octubre de 2025 por 162 votos a favor y 178 en contra [7].
 
 La coherencia mide las actuaciones, no el resultado: sus votos e iniciativas van en la línea de su propuesta.

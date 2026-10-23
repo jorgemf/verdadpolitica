@@ -1,16 +1,16 @@
 ---
 partido: pp
 tema: modelo-territorial
-propuesta: "Defender la soberanía nacional y la integridad territorial y garantizar la igualdad de los ciudadanos, \"con los mismos derechos y servicios, vivan donde vivan\". Rechaza la financiación autonómica \"bilateral\" y pide que pese más la despoblación."
+propuesta: "Defender la soberanía nacional y la integridad territorial y la igualdad de los ciudadanos: \"Un español debe tener los mismos derechos y los mismos servicios viva donde viva\". Rechaza la financiación autonómica \"bilateral\" y pide que pese más la despoblación."
 balance: "Votó contra la amnistía y la recurrió ante el TC, que la avaló en 2025. Pidió por mociones una reforma multilateral de la financiación y rechazó el modelo del Gobierno, sin un sistema propio con cifras. En 2024 fuentes del PP admitieron un indulto condicionado a Puigdemont, que Feijóo rechazó dos días después."
 coherencia: coherente
-actualizado: 2026-10-19
+actualizado: 2026-10-23
 fuentes:
-  - titulo: "Los 15 compromisos de Feijóo en su \"Contrato con España\": de \"garantizar las pensiones\" a \"ordenar la inmigración\""
-    url: https://www.elespanol.com/espana/politica/20261019/compromisos-feijoo-contrato-espana-garantizar-pensiones-ordenar-inmigracion/1003744426020_0.amp.html
-    medio: El Español
+  - titulo: "Mi contrato con España"
+    url: https://www.pp.es/wp-content/uploads/2026/10/CONTRATO-CON-ESPANA-.pdf
+    medio: Partido Popular
     fecha: 2026-10-19
-    tipo: prensa
+    tipo: partido
   - titulo: "Sentencia 137/2025, de 26 de junio. Recurso de inconstitucionalidad 6436-2024"
     url: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-15939
     medio: Boletín Oficial del Estado
@@ -66,9 +66,14 @@ fuentes:
     medio: El Debate
     fecha: 2024-02-12
     tipo: prensa
+  - titulo: "Intervención del presidente del PP, Alberto Núñez Feijóo, en la presentación del Contrato con España"
+    url: https://www.pp.es/wp-content/uploads/2026/10/26.10.19-ANF-Intervencion-Contrato-con-Espana.pdf
+    medio: Partido Popular
+    fecha: 2026-10-19
+    tipo: partido
 ---
 
-A 19 de octubre de 2026 el PP no ha publicado su programa para el 29-N. El "Contrato con España" (citado según la prensa; no se ha localizado el texto del partido) defiende la soberanía, la integridad territorial y la igualdad, "con los mismos derechos y servicios, vivan donde vivan" [1]. En 2023 prometía reformar la financiación y el Código Penal en sedición, malversación y referéndum ilegal [6].
+A 23 de octubre de 2026 el PP no ha publicado su programa para el 29-N. El "Contrato con España" (19 de octubre de 2026) se compromete a "defender la soberanía nacional y la integridad territorial" y a que los españoles vuelvan "a ser tratados como ciudadanos libres e iguales" [1]. En su presentación, Feijóo añadió: "Un español debe tener los mismos derechos y los mismos servicios viva donde viva" [13]. En 2023 prometía reformar la financiación y el Código Penal en sedición, malversación y referéndum ilegal [6].
 
 El PP votó contra la amnistía y la recurrió ante el TC, que la avaló casi en su totalidad en la STC 137/2025 [2]; tras el fallo del TJUE de julio de 2026, Feijóo dijo que no cerraba el debate político [7].
 

@@ -8,7 +8,7 @@ promesa: "«Acabaremos con las listas de espera, estableciendo por ley unos tiem
 motivo: "No hay una explicación oficial. El Ministerio de Sanidad, dirigido por Mónica García (Sumar), estudiaba en 2024 «el mecanismo jurídico más efectivo» a partir de los decretos de 2003 y 2011, y en marzo de 2026 anunció una reforma del decreto de listas de espera centrada en medir los tiempos, sin fijar plazos máximos. La gestión de las listas es autonómica."
 importancia: 2
 fecha: 2026-10-06
-actualizado: 2026-10-20
+actualizado: 2026-10-23
 fuentes:
   - titulo: "Programa electoral del PSOE. Elecciones generales 23 de julio de 2023"
     url: https://www.psoe.es/media-content/2023/07/PROGRAMA_ELECTORAL-GENERALES-2023.pdf
@@ -21,7 +21,7 @@ fuentes:
     fecha: 2023-10-24
     tipo: prensa
   - titulo: "Sanidad ultima un \"nuevo marco legal\" de listas de espera basado en 2 leyes"
-    url: https://www.redaccionmedica.com/secciones/ministerio-sanidad/sanidad-ultima-un-nuevo-marco-legal-de-listas-de-espera-basado-en-2-leyes-3712
+    url: https://www.redaccionmedica.com/politica/ministerio-sanidad/20240322/sanidad-ultima-un-nuevo-marco-legal-de-listas-espera-basado-en-leyes/222883_0.html
     medio: Redacción Médica
     fecha: 2024-03-22
     tipo: prensa

@@ -4,13 +4,13 @@ categoria: judicial
 legislatura: XIV
 ambito: municipal
 titulo: "Absolución firme de Carlos Sánchez Mato (IU) y otros dos excargos de Carmena en el caso del Open de Tenis"
-resumen: "La Audiencia de Madrid absolvió en 2022 al dirigente de IU y exconcejal de Ahora Madrid Carlos Sánchez Mato, a Celia Mayer y a Ana Varela de prevaricación y malversación por unos informes externos sobre el Open de Tenis. Acusaba el PP; la Fiscalía no veía delito. Firme desde enero de 2023."
+resumen: "La Audiencia de Madrid absolvió en 2022 a Carlos Sánchez Mato (IU), exconcejal de Ahora Madrid, a Celia Mayer y a Ana Varela de prevaricación y malversación por unos informes externos sobre el Open de Tenis. Acusaba el PP; la Fiscalía no veía delito. Firme desde enero de 2023."
 tema: regeneracion-democratica
 estadoJudicial: absolucion
-implicados: "Carlos Sánchez Mato, exdelegado de Economía y Hacienda del Ayuntamiento de Madrid (Ahora Madrid) y dirigente de Izquierda Unida; Celia Mayer, exconcejala de Ahora Madrid; Ana Varela, exdirectora de Madrid Destino."
+implicados: "Carlos Sánchez Mato, exdelegado de Economía y Hacienda del Ayuntamiento de Madrid (Ahora Madrid) y dirigente de Izquierda Unida en 2023, según elDiario.es; Celia Mayer, exconcejala de Ahora Madrid; Ana Varela, exconsejera delegada de Madrid Destino."
 importancia: 1
 fecha: 2023-01-13
-actualizado: 2026-10-20
+actualizado: 2026-10-23
 fuentes:
   - titulo: "Absueltos los ex concejales de Carmena en el caso del Open de Tenis de Madrid"
     url: https://www.elindependiente.com/espana/2022/05/18/absueltos-los-ex-concejales-de-carmena-en-el-caso-del-open-de-tenis-de-madrid/amp/
@@ -31,9 +31,9 @@ fuentes:
 
 ## Hechos
 
-El grupo municipal del PP en el Ayuntamiento de Madrid y la asociación Transparencia y Justicia se querellaron contra Carlos Sánchez Mato y Celia Mayer, concejales de Ahora Madrid en el gobierno de Manuela Carmena, y contra Ana Varela, directora de Madrid Destino. Les atribuían presuntos delitos de prevaricación y malversación por encargar "a dedo" y "sin publicidad" informes jurídicos externos para revisar la gestión del Open de Tenis de Madrid durante el mandato anterior [2]. Los informes advertían de un posible perjuicio económico para el Ayuntamiento, que en marzo de 2017 presentó una denuncia ante la Fiscalía Anticorrupción; el juzgado n.º 41 de Madrid la rechazó [2].
+El grupo municipal del PP en el Ayuntamiento de Madrid y la asociación Transparencia y Justicia se querellaron contra Carlos Sánchez Mato y Celia Mayer, concejales de Ahora Madrid en el gobierno de Manuela Carmena, y contra Ana Varela, entonces consejera delegada de Madrid Destino [3]. Les atribuían presuntos delitos de prevaricación y malversación por encargar "a dedo" y "sin publicidad" informes jurídicos externos para revisar la gestión del Open de Tenis de Madrid durante el mandato anterior [2]. Los informes advertían de un posible perjuicio económico para el Ayuntamiento, que en marzo de 2017 presentó una denuncia ante la Fiscalía Anticorrupción; el juzgado n.º 41 de Madrid la rechazó [2].
 
-Sánchez Mato es dirigente de Izquierda Unida [3], partido que forma hoy parte de Frente Amplio.
+En 2023 elDiario.es lo presentaba como dirigente de Izquierda Unida [3], partido que forma hoy parte de Frente Amplio. No se ha localizado información sobre su cargo actual en IU.
 
 ## Estado procesal
 

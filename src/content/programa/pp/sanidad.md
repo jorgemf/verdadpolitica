@@ -4,13 +4,13 @@ tema: sanidad
 propuesta: "Fortalecer la sanidad pública con más médicos y mejores condiciones laborales y retributivas (Contrato con España, octubre de 2026; el programa del 29-N no está publicado). En 2023 proponía un plan de choque de atención primaria con un MIR extraordinario y un plan nacional contra las agresiones a sanitarios."
 balance: "Pactó y votó la ley de la ELA (2024). El Congreso rechazó en 2025 su ley contra las agresiones a sanitarios. Votó contra la primera ley de la Agencia de Salud Pública y se abstuvo en el Senado en la segunda. Apoyó a los médicos frente al Estatuto Marco. En Andalucía, la consejera de Salud dimitió por los cribados."
 coherencia: coherente
-actualizado: 2026-10-20
+actualizado: 2026-10-23
 fuentes:
-  - titulo: "Feijóo recita todos sus compromisos para \"restaurar\" la ley y la unidad en España, pero todavía no concreta ninguna medida"
-    url: https://www.infobae.com/espana/2026/10/19/feijoo-recita-todos-sus-compromisos-para-restaurar-la-ley-y-la-unidad-en-espana-pero-todavia-no-concreta-ninguna-medida-me-comprometo-a-cumplir/
-    medio: Infobae
+  - titulo: "Mi contrato con España"
+    url: https://www.pp.es/wp-content/uploads/2026/10/CONTRATO-CON-ESPANA-.pdf
+    medio: Partido Popular
     fecha: 2026-10-19
-    tipo: prensa
+    tipo: partido
   - titulo: "Resumen del programa electoral del PP: 50 principales medidas"
     url: https://www.pp.es/storage/2023/07/23.07.04._resumen_programa_electoral.pdf
     medio: Partido Popular
@@ -58,7 +58,7 @@ fuentes:
     tipo: prensa
 ---
 
-A 20 de octubre de 2026 el PP no ha publicado su programa para el 29-N. Su propuesta oficial más reciente es el "Contrato con España" (citado según la prensa; no se ha localizado el texto del partido), que se compromete a "fortalecer la sanidad pública con más médicos y mejores condiciones laborales y retributivas", sin medidas concretas [1]. El programa de 2023 prometía "un Plan de Choque en atención sanitaria" contra el déficit de especialistas y "un Plan Nacional contra las agresiones a los profesionales sanitarios" (medida 16), además de una tarjeta sanitaria única y la historia clínica electrónica compartida (medida 22) [2]. En la investidura, Feijóo concretó el plan de choque de atención primaria: "convocar un MIR extraordinario para médicos de familia y primar a aquellos que decidan ejercer su actividad en el medio rural", y otro plan para la salud mental [3].
+A 23 de octubre de 2026 el PP no ha publicado su programa para el 29-N. Su propuesta oficial más reciente es el "Contrato con España" (19 de octubre de 2026), que se compromete a "fortalecer la Sanidad Pública: más médicos y con mejores condiciones". Lo justifica en que la población ha crecido en más de cuatro millones de personas "sin que los servicios públicos se hayan preparado para ello" y propone "mejorar las plantillas de los profesionales sanitarios, velando especialmente por el aumento de médicos y la mejora de sus condiciones laborales y retributivas", sin cifras ni medidas concretas [1]. El programa de 2023 prometía "un Plan de Choque en atención sanitaria" contra el déficit de especialistas y "un Plan Nacional contra las agresiones a los profesionales sanitarios" (medida 16), además de una tarjeta sanitaria única y la historia clínica electrónica compartida (medida 22) [2]. En la investidura, Feijóo concretó el plan de choque de atención primaria: "convocar un MIR extraordinario para médicos de familia y primar a aquellos que decidan ejercer su actividad en el medio rural", y otro plan para la salud mental [3].
 
 La sanidad es competencia sobre todo autonómica, y en el Estado el PP estuvo en la oposición. En el Congreso pactó con PSOE, Sumar y Junts la ley de la ELA, aprobada por unanimidad el 10 de octubre de 2024 [4]. El 11 de febrero de 2025 el Pleno rechazó, por 173 votos a 171, tomar en consideración su proposición de ley sobre la violencia en el ámbito sanitario [5]. Con la ley de la Agencia Estatal de Salud Pública, el PP votó en contra en marzo de 2025, junto a Vox y Junts, y el texto decayó; en el segundo intento se abstuvo en el Senado, donde incorporó enmiendas, y la ley salió adelante en julio de 2025. Su portavoz, Elvira Velasco, criticó la falta de memoria económica [6]. En 2026 rechazó el proyecto de ley de gestión pública del Sistema Nacional de Salud, al que acusó de "criminalizar" la colaboración público-privada [9]; el proyecto caducó con la disolución.
 

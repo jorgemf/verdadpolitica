@@ -8,7 +8,7 @@ ambito: autonomico
 promesa: "«Prioridad nacional»: que los españoles tengan preferencia en el acceso a las ayudas sociales y a la vivienda protegida («los españoles primero»)."
 importancia: 2
 fecha: 2026-07-22
-actualizado: 2026-10-19
+actualizado: 2026-10-23
 fuentes:
   - titulo: "Pérez Llorca saca adelante sus primeros presupuestos con Vox y estrena la «prioridad nacional» en las ayudas y la vivienda"
     url: https://www.menorca.info/actualidad/nacional/2026/07/22/2675189/perez-llorca-saca-adelante-primeros-presupuestos-vox-estrena-prioridad-nacional-ayudas-vivienda.html
@@ -35,6 +35,16 @@ fuentes:
     medio: Moncloa.com
     fecha: 2026-10-18
     tipo: prensa
+  - titulo: "Los presupuestos de la Generalitat Valenciana 2026 entran en vigor con la 'prioridad nacional' contra ayudas a migrantes"
+    url: https://www.moncloa.com/2026/08/11/presupuestos-generalitat-valenciana-2026-prioridad-nacional-3413893/
+    medio: Moncloa.com
+    fecha: 2026-08-11
+    tipo: prensa
+  - titulo: "El Congreso da la espalda a la prioridad nacional sanitaria de Vox"
+    url: https://www.redaccionmedica.com/politica/20260422/el-congreso-da-la-espalda-prioridad-nacional-sanitaria-de-vox/261353_0.amp.html
+    medio: Redacción Médica
+    fecha: 2026-04-22
+    tipo: prensa
 ---
 
 ## Qué se prometió
@@ -49,8 +59,8 @@ En Extremadura, el pacto de gobierno PP-Vox de abril de 2026 establece la priori
 
 ## Grado de cumplimiento
 
-El cumplimiento es parcial. Vox consiguió que la expresión y un criterio de preferencia entraran en una ley de presupuestos y en un pacto de gobierno, porque sus votos eran imprescindibles para el PP. Pero lo aprobado no da preferencia por ser español, que es lo que promete: según El Español, dar preferencia por nacionalidad exigiría reformar la Ley de Extranjería en el Congreso, por lo que ambos partidos se comprometieron a respetar la ley vigente [2]. Pérez Llorca explica que la preferencia se concede a quienes llevan más tiempo empadronados, es decir, por arraigo y no por nacionalidad [1]. Vox sigue reclamando en el Congreso la preferencia por nacionalidad (ver ficha sobre la enmienda del PP).
+El cumplimiento es parcial. Vox consiguió que la expresión y un criterio de preferencia entraran en una ley de presupuestos y en un pacto de gobierno, porque sus votos eran imprescindibles para el PP. Pero lo aprobado no da preferencia por ser español, que es lo que promete: según El Español, dar preferencia por nacionalidad exigiría reformar la Ley de Extranjería en el Congreso, por lo que ambos partidos se comprometieron a respetar la ley vigente [2]. Pérez Llorca explica que la preferencia se concede a quienes llevan más tiempo empadronados, es decir, por arraigo y no por nacionalidad [1]. En el Congreso, Vox mantuvo la "prioridad nacional" frente a la "prioridad al arraigo" del PP: el 22 de abril de 2026 el Pleno rechazó por 33 votos a favor y 310 en contra una moción suya sobre la prioridad nacional en la sanidad, a la que el PP había presentado una enmienda que la sustituía por la "prioridad al arraigo" [7].
 
 ## Lo que dicen las partes
 
-Llanos celebró que sean los primeros presupuestos con "prioridad nacional por ley" y dijo que su objetivo es poner "a los españoles primero" [3]. En mayo la había vinculado a la lucha contra "la inmigración ilegal, masiva y descontrolada y el fraude en el acceso a ayudas públicas" [2]. Pérez Llorca sostiene que se trata de arraigo y niega que discrimine por origen [1]. El PSPV anunció que llevará la ley al Tribunal Constitucional por considerar que vulnera el artículo 14 de la Constitución, que prohíbe discriminar por origen [3].
+Llanos celebró que sean los primeros presupuestos con "prioridad nacional por ley" y dijo que su objetivo es poner "a los españoles primero" [3]. En mayo la había vinculado a la lucha contra "la inmigración ilegal, masiva y descontrolada y el fraude en el acceso a ayudas públicas" [2]. Pérez Llorca sostiene que se trata de arraigo y niega que discrimine por origen [1]. El PSPV anunció que llevaría la ley al Tribunal Constitucional por considerar que vulnera el artículo 14 de la Constitución, que prohíbe discriminar por origen [3]. Las leyes de presupuestos y de medidas fiscales se publicaron en el DOGV el 11 de agosto de 2026. Ese día PSPV y Compromís anunciaron recursos, y el Ministerio de Política Territorial dijo que estudiaría si invaden competencias estatales en extranjería [6]. En las búsquedas realizadas el 23 de octubre de 2026 no consta que se haya interpuesto un recurso de inconstitucionalidad contra ellas.

@@ -2,14 +2,14 @@
 partido: pp
 categoria: bloqueado
 titulo: "Ley contra las agresiones a sanitarios: el Congreso rechazó tramitarla por 173 votos a 171"
-resumen: "El PP llevó al Congreso en noviembre de 2024 una ley contra la violencia en el ámbito sanitario, con un registro nacional de agresiones y un seguro para las víctimas. El Pleno rechazó tomarla en consideración el 11 de febrero de 2025 por 173 votos a 171. El Senado, con mayoría del PP, la admitió a trámite en marzo."
+resumen: "El PP llevó al Congreso en noviembre de 2024 una ley contra la violencia en el ámbito sanitario. El Pleno rechazó tomarla en consideración el 11 de febrero de 2025 por 173 votos a 171. El Senado la tomó en consideración en marzo y la remitió al Congreso, donde su plazo de enmiendas se amplió 51 veces hasta que caducó."
 tema: sanidad
 legislatura: XV
 promesa: "Promoveremos un Plan de Choque en atención sanitaria para dar solución al grave problema de déficit de especialistas y aprobaremos un Plan Nacional contra las agresiones a los profesionales sanitarios (programa electoral de 2023, medida 16)."
-bloqueadoPor: ["Mayoría del Congreso: PSOE, Sumar, Junts, PNV, ERC, EH Bildu y Podemos"]
+bloqueadoPor: ["Mayoría del Congreso: PSOE, Sumar, Junts, PNV, ERC, EH Bildu y Podemos", "Ampliaciones sucesivas del plazo de enmiendas del texto del Senado, acordadas por la Mesa del Congreso"]
 importancia: 1
 fecha: 2025-02-11
-actualizado: 2026-10-20
+actualizado: 2026-10-23
 fuentes:
   - titulo: "Resumen del programa electoral del PP: 50 principales medidas"
     url: https://www.pp.es/storage/2023/07/23.07.04._resumen_programa_electoral.pdf
@@ -36,6 +36,16 @@ fuentes:
     medio: Diario Estrategia (Europa Press)
     fecha: 2025-03-26
     tipo: prensa
+  - titulo: "BOCG Congreso, serie B, núm. 203-1: Proposición de Ley relativa a la violencia en el ámbito sanitario, remitida por el Senado (124/000021)"
+    url: https://www.congreso.es/public_oficiales/L15/CONG/BOCG/B/BOCG-15-B-203-1.PDF
+    medio: Congreso de los Diputados
+    fecha: 2025-04-11
+    tipo: oficial
+  - titulo: "Ficha de tramitación de la iniciativa 124/000021 (XV legislatura)"
+    url: https://www.congreso.es/es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=124%2F000021
+    medio: Congreso de los Diputados
+    fecha: 2026-10-23
+    tipo: oficial
 ---
 
 ## Qué se prometió
@@ -46,11 +56,11 @@ La medida 16 del programa del PP para las generales de 2023 decía: "aprobaremos
 
 En noviembre de 2024 el Grupo Popular registró en el Congreso la proposición de ley relativa a la violencia en el ámbito sanitario. Fijaba medidas mínimas para los empleadores públicos y privados: planes de prevención, un registro nacional de agresiones a cargo del Ministerio de Sanidad, apoyo psicológico, un seguro que cubriera la asistencia jurídica y una indemnización a las víctimas, y la personación del servicio de salud como acusación particular [2].
 
-El 11 de febrero de 2025 el Pleno del Congreso votó su toma en consideración y la rechazó: 344 votos emitidos, 171 a favor y 173 en contra [3]. En marzo de 2025 el Senado, donde el PP tiene mayoría absoluta, aprobó tramitar el mismo texto con el apoyo de Vox y UPN; el texto incluía además videovigilancia en pasillos y salas de espera y alarmas en las consultas, y debía remitirse después al Congreso [5]. En las fuentes consultadas no consta que completara su tramitación antes de la disolución de las Cortes, el 6 de octubre de 2026.
+El 11 de febrero de 2025 el Pleno del Congreso votó su toma en consideración y la rechazó: 344 votos emitidos, 171 a favor y 173 en contra [3]. En marzo de 2025 el Senado, donde el PP tiene mayoría absoluta, aprobó tramitar el mismo texto con el apoyo de Vox y UPN; el texto incluía además videovigilancia en pasillos y salas de espera y alarmas en las consultas [5]. Lo remitió al Congreso, cuya Mesa lo encargó a la Comisión de Sanidad con competencia legislativa plena y un plazo de enmiendas que acababa el 5 de mayo de 2025 (124/000021) [6]. Ese plazo se amplió 51 veces, la última hasta el 7 de octubre de 2026, y la iniciativa caducó con la disolución de las Cortes el 6 de octubre de 2026 [7].
 
 ## Por qué
 
-Los grupos que se opusieron alegaron que la ley "erosiona el marco competencial" de las comunidades autónomas, que ya tienen planes propios contra las agresiones [4]. Sin mayoría propia en el Congreso, el PP dependía de que Junts o el PNV no votaran en contra.
+Los grupos que se opusieron alegaron que la ley "erosiona el marco competencial" de las comunidades autónomas, que ya tienen planes propios contra las agresiones [4]. Sin mayoría propia en el Congreso, el PP dependía de que Junts o el PNV no votaran en contra. El texto remitido por el Senado no llegó a debatirse porque su plazo de enmiendas, cuyas prórrogas acuerda la Mesa del Congreso, siguió abierto hasta la disolución [7].
 
 ## Lo que dicen las partes
 

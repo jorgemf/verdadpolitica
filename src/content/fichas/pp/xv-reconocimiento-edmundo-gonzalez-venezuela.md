@@ -2,14 +2,14 @@
 partido: pp
 categoria: bloqueado
 titulo: "Reconocimiento de Edmundo González en Venezuela: el Congreso aprobó la petición del PP, pero el Gobierno no lo reconoció"
-resumen: "El PP pidió que España reconociera a Edmundo González como ganador de las elecciones venezolanas de julio de 2024. El 11 de septiembre de 2024 el Congreso aprobó su proposición no de ley con PP, Vox, PNV, CC y UPN. No era vinculante, y en enero de 2025 el Gobierno seguía sin reconocerlo."
+resumen: "El PP pidió reconocer a Edmundo González como ganador de las elecciones venezolanas de 2024. El Congreso aprobó su proposición no de ley el 11 de septiembre de 2024 con PP, Vox, PNV, CC y UPN. No era vinculante y el Gobierno no lo reconoció; tras la captura de Maduro en enero de 2026 apoyó una transición negociada."
 tema: exterior-defensa
 legislatura: XV
 promesa: "Que el Gobierno reconozca a Edmundo González Urrutia como \"el legítimo ganador\" de las elecciones presidenciales venezolanas del 28 de julio de 2024 y lidere ese reconocimiento en la Unión Europea (proposición no de ley del Grupo Popular, septiembre de 2024)."
 bloqueadoPor: ["Gobierno (PSOE y Sumar), que no aplicó la proposición aprobada"]
 importancia: 1
 fecha: 2024-09-11
-actualizado: 2026-10-20
+actualizado: 2026-10-23
 fuentes:
   - titulo: "La oposición española pide que la UE se pronuncie de forma más rotunda sobre Venezuela"
     url: https://diariodelosandes.com/la-oposicion-espanola-pide-que-la-ue-se-pronuncie-de-forma-mas-rotunda-sobre-venezuela
@@ -41,6 +41,11 @@ fuentes:
     medio: Vanguardia (resumen de agencias)
     fecha: 2025-01-08
     tipo: prensa
+  - titulo: "Pedro Sánchez habla por teléfono con Delcy Rodríguez y Edmundo González: \"España respalda una transición liderada por los venezolanos\""
+    url: https://www.infobae.com/espana/2026/01/09/pedro-sanchez-habla-por-telefono-con-delcy-rodriguez-y-edmundo-gonzalez-espana-respalda-una-transicion-democratica-en-venezuela-liderada-por-los-venezolanos/
+    medio: Infobae
+    fecha: 2026-01-09
+    tipo: prensa
 ---
 
 ## Qué se prometió
@@ -51,7 +56,7 @@ Tras las elecciones presidenciales venezolanas del 28 de julio de 2024, Feijóo 
 
 El 11 de septiembre de 2024 el Congreso aprobó la proposición con 177 votos a favor, de PP, Vox, PNV, Coalición Canaria y UPN. PSOE, Sumar y los socios habituales del Gobierno votaron en contra; los diputados de Junts no participaron [3][4].
 
-Las proposiciones no de ley no obligan al Gobierno, y el reconocimiento de un jefe de Estado corresponde al Ejecutivo [4]. Dos días después, Feijóo acusó a Sánchez de "desoír el mandato del Congreso" [5]. El 8 de enero de 2025 el Gobierno anunció que no enviaría representante a la toma de posesión de Maduro, al que no consideraba presidente legítimo. Tampoco reconocía a González como presidente electo, pese a las peticiones del Congreso y del Senado [6]. Última situación documentada (8 de enero de 2025): el Gobierno no había reconocido a González.
+Las proposiciones no de ley no obligan al Gobierno, y el reconocimiento de un jefe de Estado corresponde al Ejecutivo [4]. Dos días después, Feijóo acusó a Sánchez de "desoír el mandato del Congreso" [5]. El 8 de enero de 2025 el Gobierno anunció que no enviaría representante a la toma de posesión de Maduro, al que no consideraba presidente legítimo. Tampoco reconocía a González como presidente electo, pese a las peticiones del Congreso y del Senado [6]. Tras la captura de Maduro por Estados Unidos en una operación armada el 3 de enero de 2026, Sánchez habló el 9 de enero con Delcy Rodríguez, su sucesora, y con Edmundo González, y dijo que España respaldaría una transición "pacífica, dialogada y democrática" liderada por los venezolanos; el Gobierno seguía sin reconocer a González como presidente electo [7]. En las búsquedas realizadas el 23 de octubre de 2026 no consta que ese reconocimiento se haya producido.
 
 ## Por qué
 

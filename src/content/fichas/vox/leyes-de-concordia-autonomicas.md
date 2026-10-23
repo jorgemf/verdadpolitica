@@ -1,15 +1,15 @@
 ---
 partido: vox
 categoria: bloqueado
-titulo: "Las leyes de «concordia» que Vox impulsó con el PP para derogar la memoria democrática, suspendidas o tumbadas"
-resumen: "PP y Vox derogaron en 2024 la ley de memoria democrática de Aragón y aprobaron una ley de concordia valenciana. El Constitucional suspendió ambas tras los recursos del Gobierno. En Castilla y León, el PP votó contra la ley que había registrado con Vox tras la ruptura."
+titulo: "Leyes de «concordia» de Vox y el PP: recurridas ante el Constitucional en Aragón y Valencia, tumbadas en Castilla y León"
+resumen: "PP y Vox derogaron en 2024 la ley de memoria democrática de Aragón y aprobaron una ley de concordia valenciana. El Gobierno recurrió ambas: la derogación aragonesa rige desde octubre de 2024, al caducar su suspensión, y la valenciana sigue suspendida en parte. En Castilla y León, el PP tumbó la ley que pactó con Vox."
 tema: regeneracion-democratica
 ambito: autonomico
 promesa: "Derogar toda la legislación de «memoria histórica» o «democrática», incluidas las leyes autonómicas, y sustituirla por leyes de concordia."
-bloqueadoPor: ["Tribunal Constitucional (suspensión cautelar a petición del Gobierno)", "PP y PSOE en las Cortes de Castilla y León"]
+bloqueadoPor: ["Tribunal Constitucional (suspensión cautelar a petición del Gobierno; en Aragón caducó en octubre de 2024)", "PP y PSOE en las Cortes de Castilla y León"]
 importancia: 2
 fecha: 2024-06-17
-actualizado: 2026-10-19
+actualizado: 2026-10-23
 fuentes:
   - titulo: "Programa electoral para las Elecciones Generales del 23J de 2023"
     url: https://theobjective.com/wp-content/uploads/2023/07/programa-vox-23j.pdf
@@ -50,6 +50,11 @@ fuentes:
     medio: El Debate
     fecha: 2024-06-19
     tipo: prensa
+  - titulo: "La ley de PP y Vox que derogó la ley de memoria democrática del PSOE en Aragón recobra su vigencia"
+    url: https://www.infobae.com/espana/agencias/2024/11/05/la-ley-de-pp-y-vox-que-derogo-la-ley-de-memoria-democratica-del-psoe-en-aragon-recobra-su-vigencia/
+    medio: Infobae (Europa Press)
+    fecha: 2024-11-20
+    tipo: prensa
 ---
 
 ## Qué se prometió
@@ -58,9 +63,9 @@ El programa de Vox de 2023 promete la "derogación de toda legislación de 'memo
 
 ## Qué pasó
 
-En Aragón, las Cortes aprobaron con los votos de PP y Vox la Ley 1/2024, de 15 de febrero, que derogó la ley aragonesa de memoria democrática de 2018 [2]. El presidente del Gobierno la recurrió ante el Tribunal Constitucional, que admitió el recurso el 17 de junio de 2024. Por haber invocado el artículo 161.2 de la Constitución, la ley quedó suspendida desde el 29 de mayo de 2024, y con ello volvió a aplicarse la norma de 2018 [3][6].
+En Aragón, las Cortes aprobaron con los votos de PP y Vox la Ley 1/2024, de 15 de febrero, que derogó la ley aragonesa de memoria democrática de 2018 [2]. El presidente del Gobierno la recurrió ante el Tribunal Constitucional, que admitió el recurso el 17 de junio de 2024. Por haber invocado el artículo 161.2 de la Constitución, la ley quedó suspendida desde el 29 de mayo de 2024, y durante la suspensión volvió a aplicarse la norma de 2018 [3][6]. La suspensión caducó a los cinco meses, el 29 de octubre de 2024: en noviembre el Pleno del Constitucional rechazó una ponencia que proponía prorrogarla, y la ley de derogación recuperó su vigencia a la espera de la sentencia [9].
 
-En la Comunitat Valenciana, PP y Vox aprobaron en julio de 2024 una ley de concordia. El Gobierno la recurrió y el Constitucional la suspendió en mayo de 2025. En septiembre de 2025 levantó la suspensión del artículo que extiende el reconocimiento a las víctimas de la Segunda República y del terrorismo, pero la mantuvo sobre el artículo 2 y parte del 3. No ha dictado sentencia sobre el fondo [4].
+En la Comunitat Valenciana, PP y Vox aprobaron en julio de 2024 una ley de concordia. El Gobierno la recurrió y el Constitucional la suspendió en mayo de 2025. En septiembre de 2025 levantó la suspensión del artículo que extiende el reconocimiento a las víctimas de la Segunda República y del terrorismo, pero la mantuvo sobre el artículo 2 y parte del 3 [4]. En las búsquedas realizadas el 23 de octubre de 2026 no consta que el Constitucional haya dictado sentencia sobre el fondo de ninguno de los dos recursos, el aragonés y el valenciano.
 
 En Castilla y León, PP y Vox registraron una proposición de ley de concordia en la primavera de 2024. Tras la salida de Vox del gobierno, el PP votó en contra de tramitarla el 25 de septiembre de 2024, junto al PSOE y el resto de grupos [5].
 

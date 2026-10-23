@@ -4,18 +4,18 @@ tema: energia-medioambiente
 propuesta: "Elaborar una estrategia energética que evite otro apagón, alargar la vida de las centrales nucleares y construir infraestructuras hídricas frente a inundaciones y sequías. En 2023 proponía desbloquear permisos de renovables y no intervenir el mercado eléctrico mayorista."
 balance: "Presentó en 2025 una ley para retrasar el cierre nuclear, que se admitió a trámite pero no se aprobó. Una enmienda suya en el mismo sentido cayó por un voto. En julio de 2025 votó contra el decreto antiapagones, que cayó, y anunció una ley propia. En 2026 el Gobierno prorrogó Almaraz hasta 2030."
 coherencia: coherente
-actualizado: 2026-10-19
+actualizado: 2026-10-23
 fuentes:
   - titulo: "Feijóo promete rebajar un 60% los impuestos a los jóvenes que compren vivienda y movilizar 300.000 millones en infraestructuras"
     url: https://www.menorca.info/actualidad/nacional/2026/07/22/2675179/feijoo-promete-rebajar-impuestos-jovenes-compren-vivienda-movilizar-300000-millones-infraestructuras.html
     medio: Menorca.info (Europa Press)
     fecha: 2026-07-22
     tipo: prensa
-  - titulo: "Los 15 compromisos de Feijóo en su \"Contrato con España\": de \"garantizar las pensiones\" a \"ordenar la inmigración\""
-    url: https://www.elespanol.com/espana/politica/20261019/compromisos-feijoo-contrato-espana-garantizar-pensiones-ordenar-inmigracion/1003744426020_0.amp.html
-    medio: El Español
+  - titulo: "Intervención del presidente del PP, Alberto Núñez Feijóo, en la presentación del Contrato con España"
+    url: https://www.pp.es/wp-content/uploads/2026/10/26.10.19-ANF-Intervencion-Contrato-con-Espana.pdf
+    medio: Partido Popular
     fecha: 2026-10-19
-    tipo: prensa
+    tipo: partido
   - titulo: "El Congreso da luz verde a la ley del PP para prolongar la vida útil de las nucleares"
     url: https://www.vozpopuli.com/espana/politica/el-congreso-da-luz-verde-a-la-ley-del-pp-para-prolongar-la-vida-util-de-las-nucleares-.html
     medio: Vozpópuli
@@ -51,9 +51,14 @@ fuentes:
     medio: Congreso de los Diputados
     fecha: 2024-12-09
     tipo: oficial
+  - titulo: "Mi contrato con España"
+    url: https://www.pp.es/wp-content/uploads/2026/10/CONTRATO-CON-ESPANA-.pdf
+    medio: Partido Popular
+    fecha: 2026-10-19
+    tipo: partido
 ---
 
-A 19 de octubre de 2026 el PP no ha publicado su programa para el 29-N. El "Contrato con España" (citado según la prensa; no se ha localizado el texto del partido) no menciona la energía, pero incluye "infraestructuras hídricas que nos preparen mejor para inundaciones y sequías" [2]. En julio de 2026 Feijóo prometió una estrategia energética para evitar otro apagón y movilizar hasta 300.000 millones en infraestructuras, también energéticas y de agua. Criticó además la tardanza del Gobierno en decidir la prórroga de las nucleares [1]. En 2023 el programa proponía desbloquear los permisos de renovables, eliminar la intervención del mercado eléctrico mayorista y un Pacto Nacional del Agua [7].
+A 23 de octubre de 2026 el PP no ha publicado su programa para el 29-N. Los doce compromisos del "Contrato con España" no mencionan la energía ni el agua [10]. En el acto de presentación, el 19 de octubre, Feijóo se comprometió además a "invertir en infraestructuras hídricas que nos preparen mejor para afrontar inundaciones y sequías" [2]. En julio de 2026 Feijóo prometió una estrategia energética para evitar otro apagón y movilizar hasta 300.000 millones en infraestructuras, también energéticas y de agua. Criticó además la tardanza del Gobierno en decidir la prórroga de las nucleares [1]. En 2023 el programa proponía desbloquear los permisos de renovables, eliminar la intervención del mercado eléctrico mayorista y un Pacto Nacional del Agua [7].
 
 Tras el apagón de abril de 2025, el Congreso tomó en consideración en junio la ley del PP para alargar la vida de las centrales nucleares, con la abstención de Junts [3].
 

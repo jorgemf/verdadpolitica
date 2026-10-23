@@ -7,7 +7,7 @@ tema: inmigracion
 promesa: "Apoyar la regularización extraordinaria pedida por la ILP y aprobarla \"cuanto antes\" (Sumar, 2024-2025); a medio plazo, un procedimiento de regularización permanente en la ley de extranjería (programa de Sumar 2023)."
 importancia: 2
 fecha: 2026-04-14
-actualizado: 2026-10-19
+actualizado: 2026-10-23
 fuentes:
   - titulo: "Un programa para ti. Programa electoral de Sumar para las elecciones generales de 2023"
     url: https://movimientosumar.es/wp-content/uploads/2023/07/Un-Programa-para-ti.pdf
@@ -28,8 +28,8 @@ fuentes:
     medio: Metro (Europa Press)
     fecha: 2026-01-27
     tipo: prensa
-  - titulo: "Real Decreto 316/2026, de 14 de abril, por el que se modifica el Reglamento de la Ley Orgánica 4/2000 sobre derechos y libertades de los extranjeros"
-    url: https://boe.es/buscar/doc.php?amp=&id=BOE-A-2026-8284
+  - titulo: "Real Decreto 316/2026, de 14 de abril, por el que se modifica el Real Decreto 1155/2024, de 19 de noviembre, por el que se aprueba el Reglamento de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social"
+    url: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-8284
     medio: BOE
     fecha: 2026-04-15
     tipo: oficial

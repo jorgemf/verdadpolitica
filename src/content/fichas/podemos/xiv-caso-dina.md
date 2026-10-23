@@ -6,10 +6,10 @@ resumen: "En 2020 un juez pidió al Supremo investigar al vicepresidente Pablo I
 tema: regeneracion-democratica
 legislatura: XIV
 estadoJudicial: archivo-sin-tipo
-implicados: "El estado judicial de esta ficha se refiere a Pablo Iglesias y Gloria Elizo (archivo del Supremo de 2021, sin que conste si es provisional o definitivo); la condena no firme de 2026 es de Villarejo. Condenado: José Manuel Villarejo, comisario jubilado, sin relación con Podemos. Pablo Iglesias, entonces secretario general de Podemos y vicepresidente segundo del Gobierno: objeto de una exposición razonada que el Supremo archivó; nunca fue imputado y en el juicio figuró como perjudicado. Gloria Elizo, diputada de Unidas Podemos: el Supremo archivó la causa respecto de ella. Dina Bousselham, exasesora de Iglesias: perjudicada. El partido como persona jurídica no fue investigado."
+implicados: "El estado judicial de esta ficha se refiere a Pablo Iglesias y Gloria Elizo (archivo del Supremo de 2021, sin que conste si es provisional o definitivo); la condena no firme de 2026 es de Villarejo. Condenado: José Manuel Villarejo, comisario jubilado, sin relación con Podemos. Pablo Iglesias, entonces secretario general de Podemos y vicepresidente segundo del Gobierno: objeto de una exposición razonada que el Supremo archivó; nunca fue imputado y en el juicio figuró como perjudicado. Gloria Elizo, diputada de Unidas Podemos: el Supremo archivó la causa respecto de ella. Dina Bousselham, exasesora de Iglesias: perjudicada; en octubre de 2026 Podemos la incluyó entre los primeros puestos de su lista por Madrid al Congreso para el 29-N. El partido como persona jurídica no fue investigado."
 importancia: 2
 fecha: 2026-05-05
-actualizado: 2026-10-20
+actualizado: 2026-10-23
 fuentes:
   - titulo: "El Tribunal Supremo archiva la causa contra el vicepresidente del Gobierno por el 'caso Dina'"
     url: https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Sala-de-Prensa/Archivo-de-notas-de-prensa/El-Tribunal-Supremo-archiva-la-causa-contra-el-vicepresidente-del-Gobierno-por-el--caso-Dina--
@@ -46,6 +46,16 @@ fuentes:
     medio: elDiario.es
     fecha: 2026-05-05
     tipo: prensa
+  - titulo: "Dina Bousselham y Serigne Mbayé irán en la lista de Montero y Cambrollé será la número uno de Podemos en Sevilla"
+    url: https://www.pressdigital.es/articulo/politica/2026-10-22/6061666-dina-bousselham-serigne-mbaye-iran-lista-montero-cambrolle-sera-numero-podemos-sevilla
+    medio: Press Digital (Europa Press)
+    fecha: 2026-10-22
+    tipo: prensa
+  - titulo: "Irene Montero recupera como número 3 a Dina Bousselham, la exasesora del móvil de Pablo Iglesias"
+    url: https://www.libertaddigital.com/espana/2026-10-22/montero-mete-en-las-listas-de-podemos-a-perfiles-radicales-y-rescata-a-dina-bousselham-la-exasesora-de-pablo-iglesias-7480239/
+    medio: Libertad Digital
+    fecha: 2026-10-22
+    tipo: prensa
 ---
 
 ## Hechos
@@ -60,7 +70,9 @@ En octubre de 2020 el juez Manuel García-Castellón, de la Audiencia Nacional, 
 - **Instrucción.** El juez dio por terminada la instrucción en enero de 2022 sin imputar a Iglesias [3]. En marzo de 2022 rechazó la petición de Vox de citarlo como investigado porque «únicamente se sustenta en sospechas» [4]. Un juzgado de Madrid rechazó en 2023 investigar a Bousselham por presunto falso testimonio, como había pedido García-Castellón; la decisión era recurrible y no consta su resultado (última situación documentada: 1 de octubre de 2023) [5].
 - **Sentencia (5 de mayo de 2026).** La Sección Cuarta de la Sala de lo Penal de la Audiencia Nacional condenó a Villarejo a tres años y medio de prisión por revelación de secretos de particulares con difusión a terceros, cometido por funcionario público. Considera probado que suministró el contenido para publicar informaciones «en descrédito» de Podemos y de Iglesias. Le obliga a indemnizar con 5.000 euros a Bousselham y 1.000 a Iglesias. Los dos periodistas acusados quedaron exonerados tras el perdón de las víctimas [6] [7].
 
-Respecto de Iglesias y Elizo, la nota del CGPJ habla de archivo, pero no precisa si es provisional o definitivo, por lo que se indica como archivo sin tipo [1]. La sentencia contra Villarejo es de primera instancia. No consta en las fuentes consultadas si se ha recurrido; última situación documentada (5 de mayo de 2026).
+Respecto de Iglesias y Elizo, la nota del CGPJ habla de archivo, pero no precisa si es provisional o definitivo, por lo que se indica como archivo sin tipo [1]. La sentencia contra Villarejo es de primera instancia. En las búsquedas realizadas el 23 de octubre de 2026 no consta si se ha recurrido ni que sea firme; última situación documentada (5 de mayo de 2026).
+
+El 22 de octubre de 2026 Podemos anunció que Bousselham figurará en los primeros puestos de la lista de Irene Montero por Madrid para las generales del 29 de noviembre; según Libertad Digital, como número tres [8] [9].
 
 ## Lo que dicen las partes
 

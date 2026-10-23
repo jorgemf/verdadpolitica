@@ -8,7 +8,7 @@ promesa: "«A través de una Ley de nacionalidad, que se plantea también como u
 motivo: "No consta una explicación pública del PSOE ni del Gobierno. La reforma exige modificar el Código Civil por ley y el Gobierno no tenía mayoría estable en el Congreso, pero no registró ningún texto ni incluyó una ley de nacionalidad en sus planes anuales normativos de 2024, 2025 y 2026."
 importancia: 1
 fecha: 2026-10-06
-actualizado: 2026-10-20
+actualizado: 2026-10-23
 fuentes:
   - titulo: "Programa electoral del PSOE. Elecciones generales 23 de julio de 2023"
     url: https://www.psoe.es/media-content/2023/07/PROGRAMA_ELECTORAL-GENERALES-2023.pdf
@@ -19,15 +19,14 @@ fuentes:
     url: https://img.beteve.cat/wp-content/uploads/2019/11/programa-psoe-10-n.pdf
     medio: PSOE (copia publicada por betevé)
     tipo: partido
-  - titulo: "Datos abiertos: proyectos de ley de la XV legislatura"
-    url: https://www.congreso.es/webpublica/opendata/iniciativas/ProyectosDeLey__20261020050029.json
+  - titulo: "Datos abiertos del Congreso: iniciativas (proyectos y proposiciones de ley de la XV legislatura)"
+    url: https://www.congreso.es/es/opendata/iniciativas
     medio: Congreso de los Diputados
-    fecha: 2026-10-20
+    fecha: 2026-10-22
     tipo: oficial
-  - titulo: "Datos abiertos: proposiciones de ley de la XV legislatura"
-    url: https://www.congreso.es/webpublica/opendata/iniciativas/ProposicionesDeLey__20261020050137.json
+  - titulo: "Proposición de Ley sobre concesión de nacionalidad española a las y los saharauis nacidos bajo la administración española (122/000072)"
+    url: https://www.congreso.es/es/proposiciones-de-ley?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=122%2F000072
     medio: Congreso de los Diputados
-    fecha: 2026-10-20
     tipo: oficial
   - titulo: "BOCG. Congreso de los Diputados, serie B, núm. 274-1: Proposición de Ley del Grupo Plurinacional SUMAR relativa a la obtención de la nacionalidad española por residencia y la conservación de la nacionalidad de origen (122/000230)"
     url: https://www.congreso.es/public_oficiales/L15/CONG/BOCG/B/BOCG-15-B-274-1.PDF
@@ -98,20 +97,20 @@ El programa de 2023 sostenía que el acceso a la nacionalidad por residencia deb
 
 ## Qué pasó
 
-No consta ningún proyecto de ley del Gobierno ni ninguna proposición de ley, proposición no de ley o enmienda del Grupo Socialista para reformar el acceso a la nacionalidad por residencia en la XV legislatura [3][4][10][11]. Tampoco hubo cambios por vía reglamentaria o de planificación:
+No consta ningún proyecto de ley del Gobierno ni ninguna proposición de ley, proposición no de ley o enmienda del Grupo Socialista para reformar el acceso a la nacionalidad por residencia en la XV legislatura [3][10][11]. Tampoco hubo cambios por vía reglamentaria o de planificación:
 - Los artículos 21 y 22 del Código Civil, que regulan la nacionalidad por residencia, no se modifican desde 2021, y el 23 desde 2015 [16].
 - El reglamento del procedimiento (Real Decreto 1004/2015) solo cambió en 2024, cuando una sentencia del Tribunal Supremo anuló un inciso [17].
 - Los planes anuales normativos del Gobierno para 2024, 2025 y 2026 no incluyen ninguna ley de nacionalidad. Los de 2024 y 2025 prevén un real decreto sobre la nacionalidad de los voluntarios de las Brigadas Internacionales [13][14][15].
 
 Las iniciativas sobre la materia fueron de otros grupos:
 - **Ley de Sumar sobre los saharauis (122/000072).** Sumar la registró en marzo de 2024 y se tomó en consideración en febrero de 2025 [4]. Además de la nacionalidad por carta de naturaleza, el texto aprobado por el Congreso añadía a los saharauis a los colectivos que pueden pedir la nacionalidad tras dos años de residencia legal, en el artículo 22.1 del Código Civil [8]. El Grupo Socialista presentó cinco enmiendas sobre la acreditación de la condición de saharaui, el procedimiento, el Registro Civil, la habilitación al Ministerio de Justicia y la entrada en vigor. Ninguna trataba de la nacionalidad por residencia [7]. El 10 de septiembre de 2026 el Pleno aprobó el dictamen por 168 votos a favor (entre ellos 119 del PSOE), 31 en contra (Vox) y 145 abstenciones (PP, Junts y dos diputados del Grupo Mixto) [9]. Caducó en el Senado con la disolución [4].
-- **Ley de Sumar sobre nacionalidad por residencia (122/000230).** Sumar la registró en octubre de 2025 para tratar la nacionalidad por residencia y la conservación de la de origen. No llegó a debatirse y caducó [4][5].
+- **Ley de Sumar sobre nacionalidad por residencia (122/000230).** Sumar la registró en octubre de 2025 para tratar la nacionalidad por residencia y la conservación de la de origen. No llegó a debatirse y caducó [3][5].
 - **Ley orgánica de Vox (122/000054).** Vox la registró en 2024 para endurecer el régimen de nacionalidad. El 15 de octubre de 2024 el Pleno rechazó tramitarla por 33 votos a favor, 175 en contra (entre ellos los del PSOE) y 135 abstenciones del PP [6].
 
 La ley de los saharauis no se cuenta aquí como intento de cumplir la promesa. La registró otro grupo, y su cambio en la residencia se limita a añadir un colectivo a la lista de dos años. No toca los plazos generales, la renuncia a la nacionalidad anterior ni la valoración de la integración que prometía el PSOE [2][8].
 
 **Búsqueda realizada el 20 de octubre de 2026:**
-- Datos abiertos del Congreso: los 115 proyectos y las 371 proposiciones de ley de la XV legislatura, buscando «nacionalidad» en el objeto [3][4].
+- Datos abiertos del Congreso: los 115 proyectos y las 371 proposiciones de ley de la XV legislatura, buscando «nacionalidad» en el objeto [3]. Repetida el 23 de octubre de 2026 con los ficheros del día anterior, con el mismo resultado.
 - Buscador de iniciativas del Congreso: las 361 iniciativas de la XV legislatura con «nacionalidad» en el título, de cualquier tipo (proposiciones no de ley, mociones, preguntas, comparecencias). Ninguna del Grupo Socialista ni del Gobierno propone cambiar el acceso a la nacionalidad. La única pregunta socialista que incluye la palabra pide datos de las trabajadoras del hogar por nacionalidad [10].
 - Buscador de publicaciones, en el Boletín Oficial de las Cortes Generales de la XV legislatura (Congreso y Senado), con las expresiones «nacionalidad por residencia», «nacionalidad española por residencia», «acceso a la nacionalidad», «adquisición de la nacionalidad», «artículo 22 del Código Civil» y «examen de nacionalidad» [11]. Aparecen las iniciativas de Sumar y Vox ya citadas, las enmiendas y vetos a la ley de los saharauis, proposiciones no de ley de Vox y del PP, preguntas de Vox, Junts y Sumar y mociones de otros grupos en el Senado. Del PSOE solo aparece una moción en el Senado sobre el voto exterior, que pide culminar la tramitación de las solicitudes de nacionalidad de la Ley de Memoria Democrática, no reformar la nacionalidad por residencia [12].
 - Planes anuales normativos de 2024 a 2026 y textos consolidados del BOE del Código Civil y del reglamento de nacionalidad por residencia [13][14][15][16][17].

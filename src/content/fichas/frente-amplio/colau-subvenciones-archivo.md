@@ -10,7 +10,7 @@ implicados: "Ada Colau, exalcaldesa de Barcelona (2015-2023) y actual candidata 
 ambito: municipal
 importancia: 1
 fecha: 2025-03-12
-actualizado: 2026-10-20
+actualizado: 2026-10-23
 fuentes:
   - titulo: "Arxivada definitivament la causa contra Colau per les subvencions a entitats socials"
     url: https://www.3cat.cat/3catinfo/arxivada-definitivament-la-causa-contra-colau-per-les-subvencions-a-entitats-socials/noticia/3340512/

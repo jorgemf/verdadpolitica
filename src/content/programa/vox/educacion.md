@@ -4,7 +4,7 @@ tema: educacion
 propuesta: "Devolver al Estado las competencias educativas, previa consulta del artículo 92; una ley nacional de educación con contenidos comunes; garantizar la enseñanza en español; consentimiento previo de los padres para contenidos afectivo-sexuales o ideológicos, y derogar la LOMLOE."
 balance: "En la Comunitat Valenciana registró con el PP y aprobó en 2024 la ley que deja a las familias elegir el castellano como lengua base, recurrida ante el TC. Su ley para modificar la LOMLOE (2025) caducó sin debatirse. En Extremadura pactó la escuela 0-3 gratuita y suprimir el programa de lengua árabe."
 coherencia: coherente
-actualizado: 2026-10-20
+actualizado: 2026-10-23
 fuentes:
   - titulo: "Programa electoral para las Elecciones Generales del 23J de 2023"
     url: https://theobjective.com/wp-content/uploads/2023/07/programa-vox-23j.pdf
@@ -33,7 +33,7 @@ fuentes:
   - titulo: "Datos abiertos: iniciativas legislativas (proposiciones de ley de la XV legislatura)"
     url: https://www.congreso.es/es/opendata/iniciativas
     medio: Congreso de los Diputados
-    fecha: 2026-10-20
+    fecha: 2026-10-23
     tipo: oficial
   - titulo: "Claves pacto PP-Vox en Extremadura: revolución fiscal, freno a la inmigración y defensa del campo"
     url: https://www.moncloa.com/2026/04/18/pacto-pp-vox-extremadura-3371604/
@@ -42,7 +42,7 @@ fuentes:
     tipo: prensa
 ---
 
-A 20 de octubre de 2026, Vox no ha publicado programa para el 29-N. Se recogen el programa de 2023 [1] y su actuación en la legislatura.
+A 23 de octubre de 2026, Vox no ha publicado programa para el 29-N. Se recogen el programa de 2023 [1] y su actuación en la legislatura.
 
 **Qué proponen.** El programa de 2023 promete iniciar "el proceso de devolución al Estado de las competencias en Educación", con una consulta previa del artículo 92 de la Constitución (medida 47), y aprobar una "Ley Nacional de Educación" con contenidos comunes (medida 46). Promete asegurar "el derecho a ser educado en español en todo el territorio nacional" (medida 49) y "el conocimiento previo y aceptación de los padres de cualquier contenido afectivo-sexual o ideológico" que reciban sus hijos en el aula (medida 51). También plantea impedir que se pase de curso con asignaturas suspensas (medida 56) [1].
 

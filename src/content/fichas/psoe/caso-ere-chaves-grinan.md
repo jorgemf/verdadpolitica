@@ -10,7 +10,7 @@ ambito: autonomico
 legislatura: XIV
 importancia: 3
 fecha: 2025-07-14
-actualizado: 2026-10-20
+actualizado: 2026-10-23
 fuentes:
   - titulo: "Confirmados 6 años de cárcel para a Griñán y 9 de inhabilitación a Chaves"
     url: https://rtvc.es/confirmados-6-anos-de-carcel-para-a-grinan-y-9-de-inhabilitacion-a-chaves
@@ -47,6 +47,11 @@ fuentes:
     medio: Público
     fecha: 2024-07-18
     tipo: prensa
+  - titulo: "La Audiencia de Sevilla acuerda plantear una cuestión prejudicial ante el TJUE tras las sentencias del Tribunal Constitucional sobre el caso ERE"
+    url: https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/La-Audiencia-de-Sevilla-acuerda-plantear-una-cuestion-prejudicial-ante-el-TJUE-tras-las-sentencias-del-Tribunal-Constitucional-sobre-el-caso-ERE
+    medio: Consejo General del Poder Judicial
+    fecha: 2025-07-15
+    tipo: judicial
 ---
 
 ## Hechos
@@ -58,10 +63,10 @@ La causa de los ERE juzgó el reparto, entre 2000 y 2011, de hasta 680 millones 
 Pendiente de nueva sentencia, con el procedimiento suspendido. No hay ahora una condena firme vigente para Chaves ni para Griñán.
 - **26 de julio de 2022. Supremo.** Confirmó por tres votos a dos seis años de prisión a Griñán por malversación y prevaricación y nueve años de inhabilitación a Chaves por prevaricación; absolvió a tres exaltos cargos de la Consejería de Empleo. Las magistradas Ana Ferrer y Susana Polo discreparon sobre la malversación de Griñán [1].
 - **Julio de 2024. Constitucional.** Estimó en parte los amparos, por siete votos a cuatro [3]. A Chaves le anuló la condena y ordenó a la Audiencia una nueva sentencia limitada a la posible prevaricación de 2000 y 2001; sostuvo que aprobar proyectos de ley de presupuestos no puede ser prevaricación [6]. A Griñán le anuló la inhabilitación y apreció vulnerada su presunción de inocencia en la malversación, por lo que también ordenó una nueva resolución. Griñán no llegó a entrar en prisión [2].
-- **14 de julio de 2025. Audiencia de Sevilla.** Su Sección Primera planteó una cuestión prejudicial al Tribunal de Justicia de la UE para «evitar que se produzca un riesgo sistémico de impunidad futura en escenarios similares». Suspendió además la ejecución de lo ordenado por el Constitucional para los acusados afectados hasta la respuesta europea [3].
+- **14 de julio de 2025. Audiencia de Sevilla.** Su Sección Primera planteó una cuestión prejudicial al Tribunal de Justicia de la UE para «evitar que se produzca un riesgo sistémico de impunidad futura en escenarios similares». Suspendió además la ejecución de lo ordenado por el Constitucional para los acusados afectados hasta la respuesta europea [3][8].
 - **Abril de 2026.** La Comisión Europea pidió al TJUE que inadmita la cuestión porque considera que es «manifiestamente incompetente»: el programa de ayudas se financió con presupuesto autonómico, no europeo [4].
 
-Última situación documentada (7 de mayo de 2026): pendiente la respuesta del TJUE [5]. En las búsquedas hechas el 20 de octubre de 2026 no consta una resolución posterior ni la nueva sentencia de la Audiencia.
+Última situación documentada (7 de mayo de 2026): pendiente la respuesta del TJUE [5]. En las búsquedas hechas el 23 de octubre de 2026 no consta una resolución posterior del TJUE ni la nueva sentencia de la Audiencia.
 
 ## Lo que dicen las partes
 

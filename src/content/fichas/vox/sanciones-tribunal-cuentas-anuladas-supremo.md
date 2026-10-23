@@ -8,7 +8,7 @@ estadoJudicial: sancion-anulada
 implicados: "Vox como persona jurídica (sanciones administrativas del Tribunal de Cuentas recurridas ante la Sala Tercera del Tribunal Supremo)."
 importancia: 3
 fecha: 2026-06-05
-actualizado: 2026-10-19
+actualizado: 2026-10-23
 fuentes:
   - titulo: "El Tribunal Supremo anula una sanción de 860.000 euros del Tribunal de Cuentas a VOX porque carece de base probatoria"
     url: https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/Noticias-Judiciales/El-Tribunal-Supremo-anula-una-sancion-de-860-000-euros-del-Tribunal-de-Cuentas-a-VOX-porque-carece-de-base-probatoria
@@ -35,6 +35,11 @@ fuentes:
     medio: El Independiente
     fecha: 2025-05-01
     tipo: prensa
+  - titulo: "El Supremo anula una sanción impuesta por el Tribunal de Cuentas a Vox de 860.000 euros"
+    url: https://www.libertaddigital.com/espana/2026-06-05/el-tribunal-supremo-anula-una-sancion-impuesta-por-el-tribunal-de-cuentas-a-vox-de-860-000-euros-7415896/
+    medio: Libertad Digital
+    fecha: 2026-06-05
+    tipo: prensa
 ---
 
 ## Hechos
@@ -49,9 +54,9 @@ Durante la legislatura, el Tribunal de Cuentas abrió procedimientos sancionador
 Vox recurrió las dos sanciones ante la Sala de lo Contencioso-Administrativo del Tribunal Supremo y las dos fueron anuladas:
 
 - En una sentencia de 13 de octubre de 2025, el Supremo anuló la multa de 233.324 euros. Consideró que el Tribunal de Cuentas había hecho una interpretación demasiado formalista del concepto de donación finalista, porque fue el propio partido quien fijó el destino de los fondos y no los donantes [3][4].
-- El 5 de junio de 2026, el Supremo anuló la multa de 862.496 euros, sin costas. Según la nota del CGPJ, la resolución "carece de base probatoria": no justifica que la mayor parte de esos ingresos no vinieran de ventas, no se acreditaron aportaciones anónimas de más de 300 euros y las cifras contables no encajan con la simulación que se atribuía al partido. El tribunal también atribuyó el problema a una regulación "rudimentaria" de la actividad promocional de los partidos [1][2].
+- En una sentencia difundida por el CGPJ el 5 de junio de 2026 (ECLI:ES:TS:2026:2366), el Supremo anuló la multa de 862.496 euros, sin costas [6]. Según la nota del CGPJ, la resolución "carece de base probatoria": no justifica que la mayor parte de esos ingresos no vinieran de ventas, no se acreditaron aportaciones anónimas de más de 300 euros y las cifras contables no encajan con la simulación que se atribuía al partido. El tribunal también atribuyó el problema a una regulación "rudimentaria" de la actividad promocional de los partidos [1][2].
 
-Como consecuencia, a octubre de 2026 no consta ninguna sanción firme del Tribunal de Cuentas contra Vox por estos hechos.
+Como consecuencia, no consta ninguna sanción firme del Tribunal de Cuentas contra Vox por estos hechos, ni un nuevo procedimiento sancionador, en las búsquedas realizadas el 23 de octubre de 2026.
 
 ## Lo que dicen las partes
 

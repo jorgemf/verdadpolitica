@@ -4,7 +4,7 @@ tema: empleo-pensiones
 propuesta: "Derogar la reforma laboral de 2021, el registro horario obligatorio y los planes de igualdad obligatorios en las empresas. En pensiones, Abascal promete pagarlas \"como sea\" y niega querer privatizarlas; su portavoz económico ha defendido un modelo mixto con capitalización individual."
 balance: "Con PP y Junts tumbó la reducción de jornada a 37,5 horas (septiembre de 2025). Votó contra los decretos ómnibus de enero de 2025 y 2026, que incluían la subida de las pensiones, y fue el único grupo contra el RDL 1/2025 (revalorización y otras medidas) y el RDL 3/2026 (pensiones y Seguridad Social)."
 coherencia: coherente
-actualizado: 2026-10-20
+actualizado: 2026-10-23
 fuentes:
   - titulo: "Programa electoral para las Elecciones Generales del 23J de 2023"
     url: https://theobjective.com/wp-content/uploads/2023/07/programa-vox-23j.pdf
@@ -62,7 +62,7 @@ fuentes:
     tipo: judicial
 ---
 
-Vox no ha publicado programa para el 29-N. Se usan el programa de 2023, su plan de junio de 2026 y declaraciones de octubre de 2026.
+A 23 de octubre de 2026, Vox no ha publicado programa para el 29-N. Se usan el programa de 2023, su plan de junio de 2026 y declaraciones de octubre de 2026.
 
 **Qué proponen.** El programa de 2023 prometía derogar "la reforma laboral de Yolanda Díaz" y dejar exentas de IRPF las pensiones contributivas [1]. El plan de 2026 añade suprimir el registro horario y los planes de igualdad y LGTBI obligatorios en las empresas [2]. En pensiones conviven dos mensajes. José María Figaredo llamó "zombi" al sistema y propuso un "modelo mixto" de reparto y capitalización individual [7]. Santiago Abascal dijo el 11 de octubre que las pensiones se pagarán "al precio que sea y como sea" y negó que Vox quiera privatizarlas [8].
 

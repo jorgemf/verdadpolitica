@@ -4,7 +4,7 @@ tema: energia-medioambiente
 propuesta: "Nacionalizar Repsol y crear una empresa pública de energía que asuma las centrales hidroeléctricas al vencer sus concesiones; prohibir los cortes de suministros, crear un cheque energético y mejorar el bono social (Irene Montero, marzo de 2026, y proposiciones de ley de Podemos)."
 balance: "Apoyó en 2024 una PNL de Sumar para una empresa pública de hidroeléctricas (rechazada 44 a 302). Su ley de hidroeléctricas caducó y el Gobierno vetó por su coste la nacionalización de Repsol. Votó contra el decreto antiapagones, derogado en julio de 2025 (165 a 183), por no obligar a invertir a las eléctricas."
 coherencia: coherente
-actualizado: 2026-10-19
+actualizado: 2026-10-23
 fuentes:
   - titulo: "Irene Montero exige a Sánchez medidas para paliar las consecuencias de la guerra en Irán: \"España debe nacionalizar Repsol\""
     url: https://www.elindependiente.com/espana/2026/03/07/irene-montero-exige-a-sanchez-medidas-para-paliar-las-consecuencias-de-la-guerra-en-iran-espana-debe-nacionalizar-repsol/amp/
@@ -38,7 +38,7 @@ fuentes:
     tipo: prensa
 ---
 
-A 19 de octubre de 2026 Podemos no ha publicado su programa para el 29-N. En marzo de 2026 Irene Montero dijo que «España debe nacionalizar Repsol y contar con una empresa pública de energía», y pidió prohibir los cortes de suministros, crear un cheque energético y mejorar el bono social [1].
+A 23 de octubre de 2026 Podemos no ha publicado un programa completo para el 29-N. En marzo de 2026 Irene Montero dijo que «España debe nacionalizar Repsol y contar con una empresa pública de energía», y pidió prohibir los cortes de suministros, crear un cheque energético y mejorar el bono social [1].
 
 En la legislatura, Podemos votó en septiembre de 2024 a favor de la proposición no de ley de Sumar para crear una empresa pública que gestionara las centrales hidroeléctricas; se rechazó por 44 votos a favor y 302 en contra [2]. En abril de 2025 registró su propia ley para que una entidad pública asumiera las centrales al extinguirse las concesiones, que caducó sin debatirse [3]. Su ley de nacionalización de Repsol decayó en febrero de 2026 porque el Gobierno ejerció su veto presupuestario [4].
 

@@ -4,7 +4,7 @@ tema: exterior-defensa
 propuesta: "«Ni un euro más a armas» y «ser socio de EEUU en la OTAN nos pone en peligro» (web de campaña, octubre de 2026); referéndum sobre la permanencia en la OTAN, fin del convenio de defensa con EE. UU. sobre Rota y Morón y revertir el aumento del gasto militar (moción de abril de 2026)."
 balance: "Votó a favor del decreto-ley de embargo de armas a Israel, convalidado en octubre de 2025 por 178 a 169, aunque lo llamó «coladero». Su moción del 22 de abril de 2026 se rechazó punto por punto: el referéndum sobre la OTAN obtuvo 20 votos a favor y 300 en contra, con PSOE, PP, Vox, Junts y PNV en contra."
 coherencia: coherente
-actualizado: 2026-10-20
+actualizado: 2026-10-23
 fuentes:
   - titulo: "Paz, casa y trabajo. Cinco cosas (web de campaña de Podemos para el 29-N)"
     url: https://pazcasaytrabajo.es/
@@ -53,7 +53,7 @@ fuentes:
     tipo: prensa
 ---
 
-A 20 de octubre de 2026 Podemos no ha publicado su programa para el 29-N. Su web de campaña dedica uno de sus cinco ejes a la paz: «Parar las guerras», «Ni un euro más a armas» y «Ser socio de EEUU en la OTAN nos pone en peligro», con la petición de destinar el dinero público a servicios públicos [1]. En marzo de 2026 Ione Belarra pidió al presidente del Gobierno cerrar las bases de Rota y Morón y salir de la OTAN, a la que llamó «alianza criminal» [9].
+A 23 de octubre de 2026 Podemos no ha publicado un programa completo para el 29-N. Su web de campaña dedica uno de sus cinco ejes a la paz: «Parar las guerras», «Ni un euro más a armas» y «Ser socio de EEUU en la OTAN nos pone en peligro», con la petición de destinar el dinero público a servicios públicos [1]. En marzo de 2026 Ione Belarra pidió al presidente del Gobierno cerrar las bases de Rota y Morón y salir de la OTAN, a la que llamó «alianza criminal» [9].
 
 En la legislatura, su moción del 22 de abril de 2026 pedía convocar un referéndum sobre la permanencia de España en la OTAN, dar por finalizado el convenio de cooperación para la defensa con Estados Unidos (con el cese de su actividad militar en Rota y Morón), incluir en la Constitución la renuncia a la guerra y revertir el aumento del gasto militar [2]. El Pleno la rechazó por puntos. El del referéndum obtuvo 20 votos a favor, 300 en contra (PSOE, PP, Vox, Junts y PNV) y 25 abstenciones, casi todas de Sumar [3] [2]; los demás puntos, con el voto favorable de Sumar, se rechazaron con entre 38 y 45 votos a favor [4] [2]. En el debate Belarra llamó a Pedro Sánchez «el señor de la paz por el día y el señor de la guerra por la noche» [5].
 

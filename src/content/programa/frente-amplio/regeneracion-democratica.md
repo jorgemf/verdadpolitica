@@ -4,7 +4,7 @@ tema: regeneracion-democratica
 propuesta: "Frente Amplio no ha presentado propuestas nuevas de regeneración. Las últimas oficiales son las de Sumar: reformar la «ley mordaza» para proteger los derechos de reunión y expresión y, tras el caso Cerdán en 2025, suprimir los aforamientos y vetar en la contratación pública a las empresas condenadas por corrupción."
 balance: "Su proposición para crear una agencia anticorrupción fue rechazada en septiembre de 2025 por PP, Vox y Junts, y la reforma de la «ley mordaza» que coimpulsó caducó sin salir de la ponencia. Díaz reconoció en 2024 que supo en 2023 de una denuncia anónima contra Errejón y no actuó."
 coherencia: coherente
-actualizado: 2026-10-19
+actualizado: 2026-10-23
 fuentes:
   - titulo: "Un programa para ti. Programa electoral de Sumar para las elecciones generales de 2023"
     url: https://movimientosumar.es/wp-content/uploads/2023/07/Un-Programa-para-ti.pdf
@@ -31,7 +31,7 @@ fuentes:
     tipo: prensa
 ---
 
-A 19 de octubre de 2026 Frente Amplio no ha publicado su programa para el 29-N, y en la presentación de la candidatura no anunció medidas concretas de regeneración. Las propuestas oficiales más recientes son las del programa de Sumar de 2023, que incluía modificar la «ley mordaza» [1]. A ellas se suman las exigencias de Yolanda Díaz al PSOE en junio de 2025, tras conocerse la implicación de Santos Cerdán en el caso Koldo: suprimir los aforamientos, excluir de la contratación pública a las empresas condenadas por corrupción y garantizar una "limpieza absoluta" [2].
+A 23 de octubre de 2026 Frente Amplio no ha publicado su programa para el 29-N, y en la presentación de la candidatura no anunció medidas concretas de regeneración. Las propuestas oficiales más recientes son las del programa de Sumar de 2023, que incluía modificar la «ley mordaza» [1]. A ellas se suman las exigencias de Yolanda Díaz al PSOE en junio de 2025, tras conocerse la implicación de Santos Cerdán en el caso Koldo: suprimir los aforamientos, excluir de la contratación pública a las empresas condenadas por corrupción y garantizar una "limpieza absoluta" [2].
 
 En la legislatura, el Congreso rechazó el 16 de septiembre de 2025 la toma en consideración de la proposición de Sumar para crear una agencia anticorrupción, con los votos de PP, Vox y Junts. Junts la calificó de "ocurrencia de última hora" [3]. La reforma de la ley de seguridad ciudadana, que Sumar firmó con PSOE, EH Bildu y PNV, se tomó en consideración en octubre de 2024 pero caducó con la disolución de las Cortes [4]. En octubre de 2024 Díaz reconoció que en junio de 2023 conoció una denuncia anónima contra Íñigo Errejón y no actuó porque Más Madrid le dijo que había cerrado el expediente [5].
 

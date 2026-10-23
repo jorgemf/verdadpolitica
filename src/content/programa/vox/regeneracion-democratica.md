@@ -4,7 +4,7 @@ tema: regeneracion-democratica
 propuesta: "Que los jueces elijan a todos los vocales del CGPJ, integrar el Tribunal Constitucional en el Supremo, prohibir los indultos por corrupción o por delitos contra el Estado, recuperar la sedición, agravar la malversación y derogar las leyes de amnistía y de memoria democrática."
 balance: "El Congreso rechazó en 2024 (170-176) su ley para que los jueces elijan al CGPJ, y la amnistía sigue vigente. El Supremo anuló las dos multas del Tribunal de Cuentas a Vox, Anticorrupción archivó en 2025 la denuncia por el préstamo de MBH y Vox votó contra fiscalizar su fundación Disenso."
 coherencia: parcial
-actualizado: 2026-10-19
+actualizado: 2026-10-23
 fuentes:
   - titulo: "Programa electoral para las Elecciones Generales del 23J de 2023"
     url: https://theobjective.com/wp-content/uploads/2023/07/programa-vox-23j.pdf
@@ -57,7 +57,7 @@ fuentes:
     tipo: prensa
 ---
 
-Vox no ha publicado programa para el 29-N; se usa el de 2023 [1].
+A 23 de octubre de 2026, Vox no ha publicado programa para el 29-N; se usa el de 2023 [1].
 
 **Qué proponen.** "Los jueces deben elegir a los jueces": una ley orgánica para que "todos los miembros del CGPJ" sean designados o propuestos por jueces y magistrados. También proponen derogar las leyes de amnistía y de memoria democrática y "la fiscalización de los caudales públicos" (medida 176) [1].
 

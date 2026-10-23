@@ -8,7 +8,7 @@ promesa: "«Reformar y derogar aquellos aspectos de la normativa vigente que lim
 bloqueadoPor: ["PNV", "Podemos (veto parcial)"]
 importancia: 2
 fecha: 2026-10-06
-actualizado: 2026-10-20
+actualizado: 2026-10-23
 fuentes:
   - titulo: "Cuando Pedro Sánchez prometía en 2015 derogar la ley mordaza"
     url: https://maldita.es/malditahemeroteca/20250331/sanchez-2015-derogar-ley-mordaza/
@@ -29,15 +29,20 @@ fuentes:
     medio: Moncloa.com
     fecha: 2026-07-01
     tipo: prensa
+  - titulo: "Programa electoral del PSOE. Elecciones generales 23 de julio de 2023"
+    url: https://www.psoe.es/media-content/2023/07/PROGRAMA_ELECTORAL-GENERALES-2023.pdf
+    medio: PSOE
+    fecha: 2023-07-07
+    tipo: partido
 ---
 
 ## Qué se prometió
 
-El programa electoral del PSOE de 2023 no mencionaba la ley de seguridad ciudadana. El compromiso llegó con el acuerdo de Gobierno con Sumar del 24 de octubre de 2023: «reformar y derogar aquellos aspectos de la normativa vigente que limita los derechos de reunión y libertad de expresión (la “ley mordaza” y el Código Penal)» [1]. La reforma ya había fracasado en la legislatura anterior (ver ficha de la XIV).
+El programa electoral del PSOE de 2023 tenía un apartado de seguridad ciudadana, pero no mencionaba la reforma de la ley de 2015 [5]. El compromiso llegó con el acuerdo de Gobierno con Sumar del 24 de octubre de 2023: «reformar y derogar aquellos aspectos de la normativa vigente que limita los derechos de reunión y libertad de expresión (la “ley mordaza” y el Código Penal)» [1]. La reforma ya había fracasado en la legislatura anterior (ver ficha de la XIV).
 
 ## Qué pasó
 
-En octubre de 2024 EH Bildu anunció un acuerdo con PSOE y Sumar para aprobar una nueva ley orgánica de libertades y seguridad ciudadana que sustituyera a la de 2015; entre otros cambios, las faltas de respeto a la autoridad pasarían de infracciones graves a leves [1].
+El 3 de octubre de 2024 EH Bildu anunció un acuerdo con PSOE y Sumar para aprobar una nueva ley orgánica de libertades y seguridad ciudadana que sustituyera a la de 2015; entre otros cambios, las faltas de respeto a la autoridad pasarían de infracciones graves a leves [1].
 
 La proposición de ley orgánica de protección de las libertades y seguridad ciudadana (122/000131), firmada por los grupos Socialista, Sumar, EH Bildu y PNV, se registró el 4 de octubre de 2024 [2]:
 - El Pleno la tomó en consideración el 29 de octubre de 2024, por 176 votos a favor y 170 en contra.

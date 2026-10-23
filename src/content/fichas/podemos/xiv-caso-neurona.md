@@ -10,7 +10,7 @@ faseJudicial: investigacion
 implicados: "Podemos como persona jurídica (investigado hasta septiembre de 2023). Cargos de la época: Juan Manuel del Olmo (exsecretario de Comunicación), Daniel de Frutos y Carlos García Ramos (administradores de la coalición Unidas Podemos) y Rocío Esther Val (gerente, en la pieza de presuntos sobresueldos). Juan Carlos Monedero, cofundador sin cargos en la dirección. En la pieza de la «niñera», dos colaboradoras de Irene Montero. También el administrador de Neurona en España, ajeno al partido."
 importancia: 3
 fecha: 2024-09-25
-actualizado: 2026-10-20
+actualizado: 2026-10-23
 fuentes:
   - titulo: "La Audiencia de Madrid confirma el archivo de la investigación por supuestos sobresueldos en Podemos"
     url: https://www.eldiario.es/politica/audiencia-madrid-confirma-archivo-investigacion-supuestos-sobresueldos_1_8525554.html
@@ -66,7 +66,7 @@ El 16 de julio de 2020 José Manuel Calvente, abogado despedido por Podemos, den
 - **Contrato con Neurona.** En diciembre de 2023 decretó el sobreseimiento provisional respecto de Del Olmo, De Frutos, García Ramos y el administrador de Neurona: «no se ha acreditado» que el dinero de la cuenta electoral «fuera distraído para fines distintos a los contemplados». Un peritaje concluyó que el precio pagado estaba en el rango medio del mercado o «levemente por debajo» [5].
 - **Apelación.** La Sección 30 de la Audiencia Provincial desestimó el recurso de Vox por auto de 25 de septiembre de 2024. Consideró el peritaje «concluyente» y extemporánea la recusación del perito [6] [7].
 
-Ninguna pieza llegó a juicio. La prensa describió la decisión de la Audiencia como un archivo «definitivo» [6] [8], pero el último auto del juez era de sobreseimiento provisional [5] [8]. En las búsquedas realizadas el 20 de octubre de 2026 no consta que la causa se haya reabierto.
+Ninguna pieza llegó a juicio. La prensa describió la decisión de la Audiencia como un archivo «definitivo» [6] [8], pero el último auto del juez era de sobreseimiento provisional [5] [8]. En las búsquedas realizadas el 23 de octubre de 2026 no consta que la causa se haya reabierto.
 
 ## Lo que dicen las partes
 

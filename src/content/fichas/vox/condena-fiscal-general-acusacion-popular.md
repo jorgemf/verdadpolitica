@@ -7,7 +7,7 @@ tema: regeneracion-democratica
 promesa: "Personarse como acusación popular en la causa del Tribunal Supremo contra el fiscal general del Estado y exigir su dimisión o su cese."
 importancia: 2
 fecha: 2025-11-20
-actualizado: 2026-10-19
+actualizado: 2026-10-23
 fuentes:
   - titulo: "Vox pide al Supremo personarse en la causa contra el fiscal general del Estado"
     url: https://www.noticiasdenavarra.com/politica/2025/05/21/vox-pide-personarse-causa-fiscal-general-9663655.amp.html
@@ -34,6 +34,11 @@ fuentes:
     medio: Menorca.info (Europa Press)
     fecha: 2026-06-11
     tipo: prensa
+  - titulo: "El recurso de García Ortiz se atasca en el Constitucional mientras Justicia sigue la tramitación del indulto"
+    url: https://www.vozpopuli.com/tribunales/el-recurso-de-garcia-ortiz-se-atasca-en-el-constitucional-mientras-justicia-sigue-la-tramitacion-del-indulto.html
+    medio: Vozpópuli
+    fecha: 2026-09-21
+    tipo: prensa
   - titulo: "Abascal dice que «no habrá democracia» hasta que Sánchez rinda cuentas por la corrupción, tras la condena a García Ortiz"
     url: https://www.diarioestrategia.cl/texto-diario/mostrar/5678554/abascal-dice-no-habra-democracia-hasta-sanchez-rinda-cuentas-corrupcion-condena-garcia-ortiz
     medio: Diario Estrategia
@@ -53,8 +58,8 @@ Lo que se valora aquí es la actuación de Vox, no el fallo, que corresponde al 
 
 ## Situación posterior
 
-García Ortiz y la Fiscalía recurrieron la sentencia en amparo ante el Tribunal Constitucional. Además, tres ciudadanos pidieron al Gobierno su indulto. El 11 de junio de 2026 el Supremo emitió un informe desfavorable, que es preceptivo pero no vinculante [5]. No consta que el Constitucional ni el Gobierno se hayan pronunciado. Esta es la última situación documentada, de junio de 2026.
+García Ortiz y la Fiscalía recurrieron la sentencia en amparo ante el Tribunal Constitucional. Además, tres ciudadanos pidieron al Gobierno su indulto. El 11 de junio de 2026 el Supremo emitió un informe desfavorable, que es preceptivo pero no vinculante [5]. En septiembre de 2026 el Constitucional aún no había decidido si admitía a trámite los recursos de amparo, registrados en abril, y el indulto seguía pendiente de decisión del Gobierno [6]. Es la última situación documentada (21 de septiembre de 2026); en las búsquedas realizadas el 23 de octubre de 2026 no consta ninguna resolución posterior.
 
 ## Lo que dicen las partes
 
-Tras la condena, Abascal responsabilizó a Pedro Sánchez, de quien "depende" el fiscal general, y acusó al Gobierno y a sus socios de una "campaña de acoso y derribo" contra el Supremo [6]. García Ortiz negó en el juicio haber filtrado información confidencial, y dos magistradas firmaron un voto discrepante [4].
+Tras la condena, Abascal responsabilizó a Pedro Sánchez, de quien "depende" el fiscal general, y acusó al Gobierno y a sus socios de una "campaña de acoso y derribo" contra el Supremo [7]. García Ortiz negó en el juicio haber filtrado información confidencial, y dos magistradas firmaron un voto discrepante [4].

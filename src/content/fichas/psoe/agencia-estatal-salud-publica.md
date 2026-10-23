@@ -7,7 +7,7 @@ tema: sanidad
 promesa: "Crear una Agencia Estatal de Salud Pública que concentre las capacidades del Estado para identificar, evaluar y vigilar los riesgos para la salud pública (programa electoral de 2023)."
 importancia: 2
 fecha: 2025-07-22
-actualizado: 2026-10-19
+actualizado: 2026-10-23
 fuentes:
   - titulo: "Programa electoral del PSOE. Elecciones generales 23 de julio de 2023"
     url: https://www.psoe.es/media-content/2023/07/PROGRAMA_ELECTORAL-GENERALES-2023.pdf
@@ -15,7 +15,7 @@ fuentes:
     fecha: 2023-07-07
     tipo: partido
   - titulo: "La Agencia de Salud Pública ve la luz finalmente tras una ardua negociación"
-    url: https://www.redaccionmedica.com/secciones/parlamentarios/la-agencia-de-salud-publica-ve-la-luz-finalmente-tras-una-ardua-negociacion-8422
+    url: https://www.redaccionmedica.com/politica/20250722/la-agencia-de-salud-publica-ve-la-luz-finalmente-tras-una-ardua-negociacion/247676_0.html
     medio: Redacción Médica
     fecha: 2025-07-22
     tipo: prensa

@@ -4,7 +4,7 @@ tema: sanidad
 propuesta: "Sin programa del 29-N publicado, sus propuestas más recientes son de Sánchez (junio de 2026): blindar la sanidad pública en una reforma constitucional y erradicar las listas de espera. Defiende la ley de gestión pública del SNS. En 2023 prometió esperas máximas por ley de 120, 60 y 30 días."
 balance: "Creó la Agencia Estatal de Salud Pública (Ley 7/2025) tras un primer intento fallido. El proyecto de ley de gestión pública del SNS (mayo de 2026) caducó con la disolución. No presentó la ley de esperas máximas. El Ministerio de Sanidad fue de Sumar y la gestión sanitaria es autonómica."
 coherencia: coherente
-actualizado: 2026-10-20
+actualizado: 2026-10-23
 fuentes:
   - titulo: "Pedro Sánchez fija su horizonte en 2031 y promete otros cuatro años de gobierno progresista: “España será un país mucho mejor”"
     url: https://www.moncloa.com/2026/06/27/pedro-sanchez-psoe-3391192/
@@ -42,7 +42,7 @@ fuentes:
     tipo: prensa
 ---
 
-A 20 de octubre de 2026 el PSOE no ha publicado su programa para el 29-N. Sus propuestas sanitarias más recientes son las que hizo Sánchez ante el Comité Federal en junio de 2026: «blindar» la sanidad pública en «una constitución del siglo XXI» y erradicar las listas de espera sanitarias [1]. Defiende además el proyecto de su Gobierno sobre gestión pública del Sistema Nacional de Salud [4]. Su programa de 2023 prometía fijar por ley esperas máximas de 120 días para operarse, 60 para el especialista y 30 para pruebas [2].
+A 23 de octubre de 2026 el PSOE no ha publicado su programa para el 29-N. Sus propuestas sanitarias más recientes son las que hizo Sánchez ante el Comité Federal en junio de 2026: «blindar» la sanidad pública en «una constitución del siglo XXI» y erradicar las listas de espera sanitarias [1]. Defiende además el proyecto de su Gobierno sobre gestión pública del Sistema Nacional de Salud [4]. Su programa de 2023 prometía fijar por ley esperas máximas de 120 días para operarse, 60 para el especialista y 30 para pruebas [2].
 
 En la legislatura:
 - Se creó la Agencia Estatal de Salud Pública, comprometida en el programa de 2023. Necesitó dos intentos, porque el primero cayó en marzo de 2025 por los votos de PP, Vox y Junts [3].

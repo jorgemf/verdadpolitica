@@ -4,7 +4,7 @@ tema: energia-medioambiente
 propuesta: "Priorizar a las rentas bajas en las ayudas para electrificar vehículos, empezar la rehabilitación energética por los barrios populares y crear empleo industrial en renovables, almacenamiento y economía circular. Su programa de 2023 prometía mantener el calendario de cierre nuclear."
 balance: "Pactó incluir en la Ley de Movilidad Sostenible la reducción de vuelos con tren de menos de 2,5 horas. No logró frenar la prórroga de Almaraz hasta 2030, aprobada en 2026 por Transición Ecológica (PSOE). El gravamen a las energéticas se derogó en 2025 y la ley de consumo sostenible de Bustinduy no llegó a las Cortes."
 coherencia: coherente
-actualizado: 2026-10-20
+actualizado: 2026-10-23
 fuentes:
   - titulo: "Ada Colau lanza el Frente Amplio contra los fondos buitre y advierte al PSOE: «No basta con movilizar el miedo»"
     url: https://diariosabemos.com/analisis/cronica/ada-colau-frente-amplio-psoe-podemos-vivienda-elecciones_519414_102.html
@@ -82,7 +82,7 @@ fuentes:
     tipo: prensa
 ---
 
-A 19 de octubre de 2026 Frente Amplio no ha publicado su programa para el 29-N. En la presentación de la candidatura, Emilio Delgado propuso priorizar a las rentas bajas en las ayudas para electrificar vehículos, empezar las rehabilitaciones energéticas por los barrios populares y crear empleo industrial ligado a las renovables, el almacenamiento, la movilidad y la economía circular [1]. El programa de Sumar de 2023 se comprometía además a mantener el calendario de cierre del parque nuclear, con una moratoria a cualquier nueva iniciativa nuclear [2].
+A 23 de octubre de 2026 Frente Amplio no ha publicado su programa para el 29-N. En la presentación de la candidatura, Emilio Delgado propuso priorizar a las rentas bajas en las ayudas para electrificar vehículos, empezar las rehabilitaciones energéticas por los barrios populares y crear empleo industrial ligado a las renovables, el almacenamiento, la movilidad y la economía circular [1]. El programa de Sumar de 2023 se comprometía además a mantener el calendario de cierre del parque nuclear, con una moratoria a cualquier nueva iniciativa nuclear [2].
 
 El acuerdo de coalición que PSOE y Sumar firmaron en octubre de 2023 preveía escalonar "el cese de operación de todas las centrales españolas entre 2027 y 2035" [14]. En febrero de 2025 Sumar votó, junto al PSOE, contra la proposición no de ley del PP que pedía alargar la vida de los siete reactores [6]; salió adelante por 171 votos a favor (PP, Vox y UPN), 164 en contra y 14 abstenciones (ERC y Junts), sin carácter vinculante [13]. El 13 de noviembre de 2025 el grupo votó contra la enmienda del PP a la Ley de Movilidad Sostenible que suprimía las fechas de cierre de Almaraz, Ascó I y Cofrentes, rechazada por 171 votos a favor, 172 en contra y 7 abstenciones de Junts; en ese debate Sumar sostuvo que el cierre o la prórroga de una central es competencia "exclusiva" del Gobierno [12]. En octubre de 2025 su portavoz, Verónica Martínez Barbero, dijo: "Almaraz debe cerrar en el 2027, porque el cierre de las centrales forma parte del acuerdo de gobierno y debe cumplirse" [7].
 

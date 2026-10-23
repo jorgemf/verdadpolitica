@@ -8,7 +8,7 @@ promesa: "En el proyecto de gobierno \"no figura la amnistía, ni la autodetermi
 bloqueadoPor: ["Mayoría de investidura de Sánchez en el Congreso", "Tribunal Constitucional", "Tribunal de Justicia de la UE"]
 importancia: 3
 fecha: 2025-06-26
-actualizado: 2026-10-19
+actualizado: 2026-10-23
 fuentes:
   - titulo: "Sentencia 137/2025, de 26 de junio. Recurso de inconstitucionalidad 6436-2024"
     url: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-15939
@@ -35,6 +35,16 @@ fuentes:
     medio: Partido Popular
     fecha: 2023-09-26
     tipo: partido
+  - titulo: "El Constitucional avala la amnistía de la malversación y firma la vuelta de Puigdemont"
+    url: https://theobjective.com/espana/tribunales/2026-10-06/constitucional-puigdemont/
+    medio: The Objective
+    fecha: 2026-10-06
+    tipo: prensa
+  - titulo: "El juez Llarena levanta la orden de detención contra Puigdemont y afea al Constitucional que censure un criterio que ha «fracturado al tribunal»"
+    url: https://www.infobae.com/espana/2026/10/19/el-juez-llarena-levanta-la-orden-de-detencion-contra-puigdemont-y-afea-al-constitucional-que-censure-un-criterio-que-ha-fracturado-al-tribunal/
+    medio: Infobae
+    fecha: 2026-10-19
+    tipo: prensa
 ---
 
 ## Qué se prometió
@@ -48,6 +58,8 @@ La Ley Orgánica 1/2024, de 10 de junio, de amnistía, salió adelante con la ma
 El 26 de junio de 2025 el Tribunal Constitucional, por seis votos a cuatro, estimó solo parcialmente el recurso. Declaró que la Constitución no prohíbe las amnistías, anuló aspectos concretos de su ámbito objetivo y temporal y rechazó elevar consultas al TJUE [1][2]. La sentencia no resolvía casos concretos, como el de Carles Puigdemont, a quien el Supremo no aplicó la amnistía por el delito de malversación [2].
 
 El 16 de julio de 2026 el Tribunal de Justicia de la UE dictó dos sentencias, en respuesta a cuestiones prejudiciales de tribunales españoles, que concluyen que la ley no vulnera el Derecho de la Unión en los aspectos examinados [3][4].
+
+El 6 de octubre de 2026 el Constitucional, por siete votos a cinco, amparó a los exconsejeros Dolors Bassa y Jordi Turull: anuló los autos del Supremo que excluían de la amnistía la malversación y ordenó dictar otros [6]. Ese día el juez Pablo Llarena dejó sin efecto la orden de detención contra Puigdemont, y por auto de 16 de octubre rechazó el recurso de la acusación popular y mantuvo levantadas las órdenes contra Puigdemont, Antoni Comín y Lluís Puig. Última situación documentada (19 de octubre de 2026): la extinción de la responsabilidad penal sigue pendiente de la Sala de lo Penal del Supremo [7].
 
 ## Por qué
 

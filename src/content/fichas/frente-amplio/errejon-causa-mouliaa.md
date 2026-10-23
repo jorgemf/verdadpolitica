@@ -8,7 +8,7 @@ implicados: "Íñigo Errejón, exportavoz del grupo parlamentario Sumar y exdipu
 tema: regeneracion-democratica
 importancia: 2
 fecha: 2026-01-07
-actualizado: 2026-10-19
+actualizado: 2026-10-23
 fuentes:
   - titulo: "El juez instructor abre juicio oral a Íñigo Errejón por la presunta agresión sexual a Elisa Mouliaá"
     url: https://www.infobae.com/espana/2026/01/07/el-juez-instructor-abre-juicio-oral-a-inigo-errejon-por-un-presunto-caso-de-agresion-sexual-a-elisa-mouliaa/
@@ -39,7 +39,7 @@ El 24 de octubre de 2024 la actriz Elisa Mouliaá denunció ante la policía a �
 
 El 14 de noviembre de 2025 el juez procesó a Errejón y siguió la causa por procedimiento abreviado. El 1 de diciembre la acusación particular pidió tres años de prisión y 30.000 euros de indemnización, y el 17 de diciembre la Fiscalía pidió el archivo [3]. El 7 de enero de 2026 el juez abrió juicio oral por presunta agresión sexual y fijó una fianza de 30.000 euros [1].
 
-El 4 de febrero Mouliaá anunció que retiraba su acusación, aunque mantenía su relato. Entre el 9 y el 10 de febrero no ratificó la retirada y dijo que seguiría adelante [2] [3]. También acusa la asociación Adive como acusación popular y pide tres años de prisión [2]. El juez rechazó archivar la causa, y los recursos de la defensa ante la Audiencia Provincial de Madrid, a los que se sumó la Fiscalía, seguían pendientes en la última situación documentada (septiembre de 2026), sin fecha de juicio [2] [3]. Una segunda denuncia contra Errejón se archivó el 16 de marzo de 2026 porque la denunciante no la ratificó [3].
+El 4 de febrero Mouliaá anunció que retiraba su acusación, aunque mantenía su relato. Entre el 9 y el 10 de febrero no ratificó la retirada y dijo que seguiría adelante [2] [3]. También acusa la asociación Adive como acusación popular y pide tres años de prisión [2]. El juez rechazó archivar la causa, y los recursos de la defensa ante la Audiencia Provincial de Madrid, a los que se sumó la Fiscalía, seguían pendientes en la última situación documentada (septiembre de 2026), sin fecha de juicio [2] [3]. En las búsquedas realizadas el 23 de octubre de 2026 no consta ninguna resolución posterior de la Audiencia. Una segunda denuncia contra Errejón se archivó el 16 de marzo de 2026 porque la denunciante no la ratificó [3].
 
 Errejón denunció por calumnias a Mouliaá. El juez Arturo Zamarriego archivó esa querella el 27 de agosto de 2026 y Errejón recurrió el 9 de septiembre [3] [4].
 

@@ -4,7 +4,7 @@ tema: regeneracion-democratica
 propuesta: "Cambiar la elección del CGPJ para que no dependa del acuerdo entre PP y PSOE, prohibir en la ley mordaza las pelotas de goma y los rechazos en frontera, y vetar en la contratación pública a empresas implicadas en corrupción (proposiciones de ley de Podemos, 2024-2025)."
 balance: "Votó contra la reforma del CGPJ pactada por PP y PSOE en julio de 2024 (259 a 43), tras ver rechazado su texto alternativo (4 a 297). Sus leyes sobre el CGPJ, la ley mordaza y la corrupción caducaron sin debatirse. En la reforma conjunta de la ley mordaza pidió un plazo para prohibir las pelotas de goma."
 coherencia: coherente
-actualizado: 2026-10-19
+actualizado: 2026-10-23
 fuentes:
   - titulo: "Proposición de Ley Orgánica por la que se modifica la Ley Orgánica 6/1985, del Poder Judicial, para la reforma del procedimiento de elección de los Vocales del Consejo General del Poder Judicial (122/000094)"
     url: https://www.congreso.es/public_oficiales/L15/CONG/BOCG/B/BOCG-15-B-107-1.PDF
@@ -43,7 +43,7 @@ fuentes:
     tipo: oficial
 ---
 
-A 19 de octubre de 2026 Podemos no ha publicado su programa para el 29-N. La propuesta recoge sus proposiciones de ley de la legislatura. La del CGPJ (abril de 2024) prevé que, si no se alcanzan los tres quintos, los vocales del turno judicial se elijan por mayoría absoluta con el respaldo de la mitad de los grupos parlamentarios [1]. La de seguridad ciudadana prohíbe expresamente el uso de pelotas de goma y busca evitar las «devoluciones en caliente» [2]. La de junio de 2025 veta la contratación pública de empresas que hayan participado en casos de corrupción [3].
+A 23 de octubre de 2026 Podemos no ha publicado un programa completo para el 29-N. La propuesta recoge sus proposiciones de ley de la legislatura. La del CGPJ (abril de 2024) prevé que, si no se alcanzan los tres quintos, los vocales del turno judicial se elijan por mayoría absoluta con el respaldo de la mitad de los grupos parlamentarios [1]. La de seguridad ciudadana prohíbe expresamente el uso de pelotas de goma y busca evitar las «devoluciones en caliente» [2]. La de junio de 2025 veta la contratación pública de empresas que hayan participado en casos de corrupción [3].
 
 En la legislatura, Podemos presentó un texto alternativo a la reforma del Poder Judicial pactada por PP y PSOE, que obtuvo 4 votos a favor y 297 en contra [4]. El 23 de julio de 2024 votó contra la reforma, aprobada por 259 votos a favor, 43 en contra y 32 abstenciones [5]. Ninguna de sus leyes sobre estos asuntos llegó a debatirse; todas caducaron con la disolución [7].
 

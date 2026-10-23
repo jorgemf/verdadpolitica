@@ -6,7 +6,7 @@ resumen: "Vox promete reducir los impuestos sobre la luz y el gas de los hogares
 tema: economia-impuestos
 importancia: 2
 fecha: 2026-03-26
-actualizado: 2026-10-19
+actualizado: 2026-10-23
 fuentes:
   - titulo: "Programa electoral para las Elecciones Generales del 23J de 2023"
     url: https://theobjective.com/wp-content/uploads/2023/07/programa-vox-23j.pdf
@@ -57,11 +57,16 @@ fuentes:
     medio: Congreso de los Diputados
     fecha: 2026-04-06
     tipo: oficial
+  - titulo: "BOCG. Congreso de los Diputados, serie B, núm. 204-2 (Proposición de Ley 122/000177. Disconformidad del Gobierno con su tramitación)"
+    url: https://www.congreso.es/public_oficiales/L15/CONG/BOCG/B/BOCG-15-B-204-2.PDF
+    medio: Congreso de los Diputados
+    fecha: 2025-05-30
+    tipo: oficial
 ---
 
 ## Qué se comprometió a hacer
 
-El programa de Vox de 2023 dice en su medida 154: "aplicaremos una reducción progresiva de impuestos y gravámenes que pesan sobre los suministros del hogar familiar y, especialmente, sobre las familias numerosas (electricidad, agua, gas…)" [1]. En diciembre de 2023 lo concretó en la proposición no de ley 161/000064, que pedía "suprimir el Impuesto Especial sobre la Electricidad" y "rebajar el tipo del Impuesto sobre el Valor Añadido al 4 % en las facturas de luz y de gas para hogares" [9][7]. En abril de 2025 registró una proposición de ley para suprimir el impuesto sobre el valor de la producción de energía eléctrica, que decayó sin debatirse [8].
+El programa de Vox de 2023 dice en su medida 154: "aplicaremos una reducción progresiva de impuestos y gravámenes que pesan sobre los suministros del hogar familiar y, especialmente, sobre las familias numerosas (electricidad, agua, gas…)" [1]. En diciembre de 2023 lo concretó en la proposición no de ley 161/000064, que pedía "suprimir el Impuesto Especial sobre la Electricidad" y "rebajar el tipo del Impuesto sobre el Valor Añadido al 4 % en las facturas de luz y de gas para hogares" [9][7]. En abril de 2025 registró una proposición de ley para suprimir el impuesto sobre el valor de la producción de energía eléctrica, que no llegó a debatirse porque el Gobierno la vetó por su efecto presupuestario [8][11].
 
 ## Qué votó y qué efecto tenía su voto
 
@@ -69,4 +74,4 @@ El Real Decreto-ley 7/2026 bajó del 21 % al 10 % el IVA de la electricidad (con
 
 ## Su argumento y su alternativa
 
-Los decretos incluían otras medidas, como deducciones por renovables y vehículos eléctricos [2][6]. José María Figaredo justificó el voto de marzo en que el aumento de las ayudas a las renovables tenía un impacto "mínimo" [3]. El mismo 26 de marzo el Pleno rechazó una moción de Vox que pedía rebajar "permanentemente" el IVA de la electricidad al 4 % y eliminar el impuesto especial sobre la electricidad y el de la producción eléctrica [10]. Esa moción no era vinculante. La única alternativa con rango de ley, la proposición de 2025 sobre el impuesto a la producción, ya había decaído [8]. El PP, que también defiende bajar impuestos, se abstuvo en ambas votaciones [4][5].
+Los decretos incluían otras medidas, como deducciones por renovables y vehículos eléctricos [2][6]. José María Figaredo justificó el voto de marzo en que el aumento de las ayudas a las renovables tenía un impacto "mínimo" [3]. El mismo 26 de marzo el Pleno rechazó una moción de Vox que pedía rebajar "permanentemente" el IVA de la electricidad al 4 % y eliminar el impuesto especial sobre la electricidad y el de la producción eléctrica [10]. Esa moción no era vinculante. La única alternativa con rango de ley, la proposición de 2025 sobre el impuesto a la producción, había sido vetada por el Gobierno en mayo de 2025 [11]. El PP, que también defiende bajar impuestos, se abstuvo en ambas votaciones [4][5].

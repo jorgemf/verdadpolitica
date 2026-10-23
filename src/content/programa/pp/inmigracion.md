@@ -1,16 +1,16 @@
 ---
 partido: pp
 tema: inmigracion
-propuesta: "Reducir la inmigración irregular, prohibir por ley las regularizaciones colectivas, endurecer el acceso a la nacionalidad y reforzar el control de fronteras. Para las ayudas sociales, defiende una \"prioridad\" basada en el arraigo, no en la nacionalidad."
+propuesta: "Reducir la inmigración irregular, prohibir por ley las regularizaciones colectivas, endurecer el acceso a la nacionalidad (y retirarla por delitos graves) y reforzar el control de fronteras. Para las ayudas sociales, defiende una \"prioridad\" basada en el arraigo, no en la nacionalidad."
 balance: "Votó a favor de tramitar la ILP de regularización (2024), pidiendo que fuera individual. Votó contra el reparto obligatorio de menores, que recurrieron diez de sus comunidades. En 2026 sacó mociones contra la regularización y sus comunidades la recurrieron. Con Vox pactó una \"prioridad nacional\" ligada al arraigo."
 coherencia: coherente
-actualizado: 2026-10-20
+actualizado: 2026-10-23
 fuentes:
-  - titulo: "Feijóo recita todos sus compromisos para \"restaurar\" la ley y la unidad en España, pero todavía no concreta ninguna medida"
-    url: https://www.infobae.com/espana/2026/10/19/feijoo-recita-todos-sus-compromisos-para-restaurar-la-ley-y-la-unidad-en-espana-pero-todavia-no-concreta-ninguna-medida-me-comprometo-a-cumplir/
-    medio: Infobae
+  - titulo: "Mi contrato con España"
+    url: https://www.pp.es/wp-content/uploads/2026/10/CONTRATO-CON-ESPANA-.pdf
+    medio: Partido Popular
     fecha: 2026-10-19
-    tipo: prensa
+    tipo: partido
   - titulo: "El respaldo del PP a la regularización de 500.000 inmigrantes traza una frontera crucial con Vox"
     url: https://elespanol.com/espana/politica/20240410/respaldo-pp-regularizacion-inmigrantes-traza-frontera-crucial-vox/846415835_0.html
     medio: El Español
@@ -66,9 +66,19 @@ fuentes:
     medio: El Debate
     fecha: 2026-03-18
     tipo: prensa
+  - titulo: "Hablemos claro: España, primero"
+    url: https://www.pp.es/wp-content/uploads/2026/10/26-10-18-HC-ESPANA-PRIMERO.pdf
+    medio: Partido Popular
+    fecha: 2026-10-19
+    tipo: partido
+  - titulo: "Hablemos claro: Votaremos decencia"
+    url: https://www.pp.es/wp-content/uploads/2026/10/26-10-20-VOTAREMOS-DECENCIA.pdf
+    medio: Partido Popular
+    fecha: 2026-10-21
+    tipo: partido
 ---
 
-A 19 de octubre de 2026 el PP no ha publicado su programa para el 29-N. El "Contrato con España" (citado según la prensa; no se ha localizado el texto del partido) se compromete a reducir la inmigración irregular, a prohibir por ley las regularizaciones colectivas y a endurecer la nacionalidad, y lo vincula a un mayor control de fronteras [1].
+A 23 de octubre de 2026 el PP no ha publicado su programa para el 29-N. El "Contrato con España" (19 de octubre de 2026) sostiene que "reducir la inmigración irregular es irrenunciable", que "quien venga a delinquir, deberá marcharse" y que "se establecerá por ley la prohibición de regulaciones [sic] colectivas"; también reforzará los criterios de acceso a la nacionalidad y las fronteras [1]. Los argumentarios de campaña añaden una reforma de la Ley de Extranjería [13] y una ley de nacionalidad con "más requisitos" y pérdida de la nacionalidad "si se cometen graves delitos" [14].
 
 En abril de 2024 votó a favor de tomar en consideración la iniciativa legislativa popular para regularizar a unos 500.000 inmigrantes y marcó distancias con Vox [2]. Votar su tramitación no equivale a respaldar su texto: en septiembre de 2024 sus enmiendas pedían una regularización individualizada, sin antecedentes penales [6]. La ILP quedó bloqueada. En enero de 2026 el Gobierno anunció una regularización extraordinaria por vía reglamentaria [3]. El PP la presentó como un "efecto llamada" y propuso regularizaciones individuales ligadas a contrato de trabajo [3], en la línea del "fin de regularizaciones generalizadas" de su Plan Nacional de Inmigración de octubre de 2025 [7]. El Senado (4 de febrero de 2026) [8] y el Congreso (18 de marzo, por 176 votos a 172) [12] aprobaron mociones del PP en su contra, pero el Gobierno la aprobó en abril por real decreto. Comunidades gobernadas por el PP, como la Valenciana y Aragón, la recurrieron ante el Supremo, que rechazó suspenderla y no ha resuelto el fondo [9]. Su propuesta actual excluye las regularizaciones colectivas [1].
 

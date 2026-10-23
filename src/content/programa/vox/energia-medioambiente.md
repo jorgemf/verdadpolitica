@@ -4,7 +4,7 @@ tema: energia-medioambiente
 propuesta: "Prolongar la vida de las centrales nucleares (Almaraz) e impulsar los pequeños reactores modulares, derogar la Ley de Cambio Climático y las zonas de bajas emisiones, y frenar el Pacto Verde europeo y el fin de los coches de combustión en 2035."
 balance: "Apoyó la PNL del PP para prorrogar las nucleares (febrero de 2025) y votó contra el decreto antiapagones, derogado en julio de 2025. En Extremadura pactó suprimir la ecotasa sobre Almaraz, cuya autorización prorrogó el Gobierno hasta junio de 2030. Salvo Almaraz, el calendario de cierre nuclear sigue vigente."
 coherencia: coherente
-actualizado: 2026-10-20
+actualizado: 2026-10-23
 fuentes:
   - titulo: "Programa electoral para las Elecciones Generales del 23J de 2023"
     url: https://theobjective.com/wp-content/uploads/2023/07/programa-vox-23j.pdf
@@ -42,7 +42,7 @@ fuentes:
     tipo: oficial
 ---
 
-Vox no ha publicado programa para el 29-N. Se usan el programa de 2023 y su plan de junio de 2026.
+A 23 de octubre de 2026, Vox no ha publicado programa para el 29-N. Se usan el programa de 2023 y su plan de junio de 2026.
 
 **Qué proponen.** El programa de 2023 promete "la extensión de la vida útil de las centrales nucleares existentes" e instalar minirreactores (SMR) en los emplazamientos de centrales cerradas. También pide la "derogación de la Ley de cambio climático" [1]. El plan de 2026 incluye esa derogación y la eliminación de las zonas de bajas emisiones y de la prohibición de vender coches de combustión desde 2035. Además, garantiza la continuidad de Almaraz [2].
 

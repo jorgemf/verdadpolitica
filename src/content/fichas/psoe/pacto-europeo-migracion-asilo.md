@@ -8,7 +8,7 @@ ambito: europeo
 promesa: "«Trabajaremos para conseguir a nivel europeo la adopción de un nuevo Pacto de Migración y Asilo, que esté en línea con los valores de dignidad humana y solidaridad establecidos en nuestros tratados» (programa electoral del PSOE de 2023)."
 importancia: 2
 fecha: 2024-05-14
-actualizado: 2026-10-20
+actualizado: 2026-10-23
 fuentes:
   - titulo: "Programa electoral del PSOE. Elecciones generales 23 de julio de 2023"
     url: https://www.psoe.es/media-content/2023/07/PROGRAMA_ELECTORAL-GENERALES-2023.pdf
@@ -50,10 +50,10 @@ fuentes:
     medio: elDiario.es
     fecha: 2026-08-25
     tipo: prensa
-  - titulo: "Datos abiertos: proyectos de ley de la XV legislatura"
-    url: https://www.congreso.es/webpublica/opendata/iniciativas/ProyectosDeLey__20261020050029.json
+  - titulo: "Datos abiertos del Congreso: iniciativas (proyectos de ley de la XV legislatura)"
+    url: https://www.congreso.es/es/opendata/iniciativas
     medio: Congreso de los Diputados
-    fecha: 2026-10-20
+    fecha: 2026-10-22
     tipo: oficial
 ---
 
@@ -71,7 +71,7 @@ El Parlamento Europeo lo aprobó el 10 de abril de 2024 [3] y el Consejo adoptó
 
 España no logró el reparto que pedía para el primer año. En diciembre de 2025 los Veintisiete fijaron para 2026 un contingente de solidaridad de 21.000 reubicaciones y 420 millones de euros. España había defendido 30.000 reubicaciones y 600 millones, y Marlaska anunció que se abstendría [7].
 
-La adaptación de la ley española llegó después de la fecha de aplicación. El 25 de agosto de 2026 el Consejo de Ministros aprobó dos anteproyectos, una nueva ley de asilo y una reforma de la Ley de Extranjería, [8]. En los datos abiertos del Congreso no consta que se remitieran como proyectos de ley antes de la disolución [9].
+La adaptación de la ley española llegó después de la fecha de aplicación. El 25 de agosto de 2026 el Consejo de Ministros aprobó dos anteproyectos, una nueva ley de asilo y una reforma de la Ley de Extranjería, [8]. En los datos abiertos del Congreso, consultados el 23 de octubre de 2026, ninguno de los 115 proyectos de ley de la legislatura trata de asilo o extranjería: no se remitieron antes de la disolución [9].
 
 ## Por qué
 

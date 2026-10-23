@@ -4,7 +4,7 @@ tema: modelo-territorial
 propuesta: "Frente Amplio no ha presentado propuestas territoriales nuevas. Las últimas oficiales son las de Sumar en 2023: reconocer a España como «una realidad plurinacional, un país de países» y negociar un nuevo pacto territorial para desarrollar los autogobiernos y el gobierno compartido."
 balance: "Firmó la reforma del Reglamento que permite las lenguas cooficiales en el Congreso (2023) y votó la ley de amnistía, aprobada en 2024 por 177 votos a 172, que había propuesto antes de la investidura. Apoyó la delegación de inmigración a Cataluña, rechazada en 2025 con dos votos en contra de sus diputados."
 coherencia: coherente
-actualizado: 2026-10-20
+actualizado: 2026-10-23
 fuentes:
   - titulo: "Un programa para ti. Programa electoral de Sumar para las elecciones generales de 2023"
     url: https://movimientosumar.es/wp-content/uploads/2023/07/Un-Programa-para-ti.pdf
@@ -50,12 +50,22 @@ fuentes:
     medio: Congreso de los Diputados
     fecha: 2026-10-20
     tipo: oficial
+  - titulo: "Llarena aplica la amnistía a Puigdemont entre críticas al Constitucional"
+    url: https://www.noticiasdenavarra.com/politica/2026/10/19/llarena-aplica-amnistia-puigdemont-da-11663817.html
+    medio: Noticias de Navarra
+    fecha: 2026-10-19
+    tipo: prensa
+  - titulo: "El juez Llarena considera aplicable la amnistía a Puigdemont y confirma el fin de la orden de detención"
+    url: https://www.eldebate.com/espana/20261019/juez-llarena-considera-aplicable-amnistia-puigdemont-confirma-fin-orden-detencion_471096.html
+    medio: El Debate (Europa Press)
+    fecha: 2026-10-19
+    tipo: prensa
 ---
 
-A 19 de octubre de 2026 Frente Amplio no ha publicado su programa para el 29-N. Las propuestas oficiales más recientes son las del programa de Sumar de 2023, que definía España como "una realidad plurinacional, un país de países" y proponía un nuevo pacto territorial "para un mejor desarrollo de los autogobiernos y del gobierno compartido" [1]. La coalición integra partidos de ámbito autonómico como Catalunya en Comú y Chunta Aragonesista.
+A 23 de octubre de 2026 Frente Amplio no ha publicado su programa para el 29-N. Las propuestas oficiales más recientes son las del programa de Sumar de 2023, que definía España como "una realidad plurinacional, un país de países" y proponía un nuevo pacto territorial "para un mejor desarrollo de los autogobiernos y del gobierno compartido" [1]. La coalición integra partidos de ámbito autonómico como Catalunya en Comú y Chunta Aragonesista.
 
 En septiembre de 2023 Sumar registró con PSOE, ERC, PNV, EH Bildu y BNG la reforma del Reglamento del Congreso que permite usar el catalán, el euskera y el gallego en la Cámara [5]. Tras anunciarlo a principios de octubre [6], el 10 de octubre de 2023, antes de la investidura, presentó en Barcelona una propuesta de ley de amnistía elaborada por un grupo de juristas [8]. En noviembre de 2025 cuatro de sus diputados firmaron con ERC, EH Bildu, PNV y BNG una ley de garantía del plurilingüismo, que se tomó en consideración el 9 de diciembre de 2025 por 174 votos a 170 [7]; su plazo de enmiendas se amplió hasta la disolución y caducó el 6 de octubre de 2026 [9].
 
-En la legislatura, el grupo Sumar votó a favor de la ley de amnistía, que el Congreso aprobó definitivamente el 30 de mayo de 2024 por 177 votos a 172, con PP, Vox, UPN y Coalición Canaria en contra [3]. Se publicó como Ley Orgánica 1/2024 [2]. También apoyó la proposición de ley pactada por PSOE y Junts para delegar en Cataluña competencias de inmigración, entre ellas los permisos de residencia y la gestión de los CIE, que el Congreso rechazó el 23 de septiembre de 2025 por 177 votos a 173. En esa votación el grupo se dividió: Alberto Ibáñez (Compromís) y Jorge Pueyo (CHA) votaron en contra junto a PP, Vox, Podemos y UPN [4].
+En la legislatura, el grupo Sumar votó a favor de la ley de amnistía, que el Congreso aprobó definitivamente el 30 de mayo de 2024 por 177 votos a 172, con PP, Vox, UPN y Coalición Canaria en contra [3]. Se publicó como Ley Orgánica 1/2024 [2]. Su aplicación corresponde a los tribunales: el 6 de octubre de 2026 el Tribunal Constitucional amparó, por 7 votos a 5, a la exconsellera Dolors Bassa y consideró amnistiable la malversación del 1-O, y por auto de 16 de octubre, difundido el 19, el juez del Supremo Pablo Llarena confirmó por esa doctrina el levantamiento de las órdenes de detención contra Carles Puigdemont, Toni Comín y Lluís Puig, sin que ello suponga el sobreseimiento de la causa [10] [11]. También apoyó la proposición de ley pactada por PSOE y Junts para delegar en Cataluña competencias de inmigración, entre ellas los permisos de residencia y la gestión de los CIE, que el Congreso rechazó el 23 de septiembre de 2025 por 177 votos a 173. En esa votación el grupo se dividió: Alberto Ibáñez (Compromís) y Jorge Pueyo (CHA) votaron en contra junto a PP, Vox, Podemos y UPN [4].
 
 La propuesta es coherente con los votos de Sumar en la legislatura, con la excepción de esos dos diputados en la delegación de inmigración.

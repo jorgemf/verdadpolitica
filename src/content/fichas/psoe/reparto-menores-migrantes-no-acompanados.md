@@ -7,7 +7,7 @@ tema: inmigracion
 promesa: "«Iniciar el proceso que culmine en las modificaciones normativas necesarias al efecto de que las competencias de menores extranjeros no acompañados no sean responsabilidad exclusiva de las comunidades a las que llegan» (acuerdo de investidura PSOE–Coalición Canaria, 10 de noviembre de 2023)."
 importancia: 3
 fecha: 2025-04-10
-actualizado: 2026-10-20
+actualizado: 2026-10-23
 fuentes:
   - titulo: "Acuerdo PSOE – Coalición Canaria para la investidura (10 de noviembre de 2023)"
     url: https://www.elindependiente.com/wp-content/uploads/2023/11/Acuerdo-PSOE-CC.pdf
@@ -59,10 +59,9 @@ fuentes:
     medio: Moncloa.com
     fecha: 2026-08-12
     tipo: prensa
-  - titulo: "Datos abiertos: proyectos de ley de la XV legislatura (expediente 121/000055)"
-    url: https://www.congreso.es/webpublica/opendata/iniciativas/ProyectosDeLey__20261020050029.json
+  - titulo: "Proyecto de Ley por la que se aprueban medidas urgentes para la garantía del interés superior de la infancia y adolescencia ante situaciones de contingencias migratorias extraordinarias (121/000055)"
+    url: https://www.congreso.es/es/proyectos-de-ley?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=121%2F000055
     medio: Congreso de los Diputados
-    fecha: 2026-10-20
     tipo: oficial
 ---
 
@@ -84,7 +83,7 @@ El 10 de abril de 2025 el Congreso lo convalidó por 179 votos a favor, 170 en c
 
 Según el Gobierno, a 13 de enero de 2026 se habían reubicado 803 menores: 395 por el nuevo mecanismo del artículo 35 y 408 solicitantes de asilo trasladados desde Canarias a centros estatales. El ministro Torres señaló que Canarias estimaba unos 1.700 menores a trasladar, pero que el Estado solo había recibido 536 expedientes [9]. En agosto de 2026 Canarias seguía en contingencia migratoria, con unos 2.600 menores en 86 centros, y rechazaba acoger a menores llegados a Ceuta [10].
 
-El Gobierno balear recurrió el decreto ante el Tribunal Constitucional, que admitió el recurso el 8 de julio de 2025 [8]. Otras comunidades gobernadas por el PP anunciaron recursos [7]. No consta sentencia del Constitucional en las fuentes consultadas a 20 de octubre de 2026.
+El Gobierno balear recurrió el decreto ante el Tribunal Constitucional, que admitió el recurso el 8 de julio de 2025 [8]. Otras comunidades gobernadas por el PP anunciaron recursos [7]. No consta sentencia del Constitucional en las búsquedas realizadas el 23 de octubre de 2026.
 
 ## Por qué
 

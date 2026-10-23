@@ -8,7 +8,7 @@ estadoJudicial: diligencias-fiscalia
 implicados: "José Ángel Antelo, presidente de Vox en la Región de Murcia en 2025 (diligencias de la Fiscalía, sin causa judicial abierta). Santiago Abascal, presidente de Vox (denuncia archivada)."
 importancia: 2
 fecha: 2025-07-23
-actualizado: 2026-10-19
+actualizado: 2026-10-23
 fuentes:
   - titulo: "La Fiscalía abre diligencias por presuntos delitos de odio contra el líder de Vox en Murcia"
     url: https://www.eldiario.es/murcia/fiscalia-abre-diligencias-presuntos-delitos-odio-lider-vox-murcia_1_12528822.html
@@ -48,7 +48,7 @@ En julio de 2025, tras la agresión a un vecino de 68 años en Torre Pacheco (Mu
 
 ## Estado procesal
 
-- **Antelo:** por decreto de 23 de julio de 2025, la Fiscalía de Delitos de Odio de Murcia abrió diligencias de investigación preprocesal, que incluyen sus publicaciones en redes sociales [1][2]. El 30 de enero de 2026 se prorrogaron seis meses por el volumen del atestado de la Guardia Civil [3]. En junio de 2026 la prensa seguía describiéndolo como investigado por la Fiscalía [4]. Esa es la última situación documentada: no se ha encontrado información pública sobre lo ocurrido al vencer la prórroga, a finales de julio de 2026, ni consta que la Fiscalía haya presentado denuncia o querella ante un juzgado o haya archivado las diligencias. Son diligencias de investigación de la Fiscalía, previas a cualquier proceso judicial. Antelo fue apartado de la dirección regional y expulsado del grupo parlamentario de Vox en marzo de 2026 por motivos ajenos a esta causa [6].
+- **Antelo:** por decreto de 23 de julio de 2025, la Fiscalía de Delitos de Odio de Murcia abrió diligencias de investigación preprocesal, que incluyen sus publicaciones en redes sociales [1][2]. El 30 de enero de 2026 se prorrogaron seis meses por el volumen del atestado de la Guardia Civil [3]. En junio de 2026 la prensa seguía describiéndolo como investigado por la Fiscalía [4]. Esa es la última situación documentada (junio de 2026): en las búsquedas realizadas el 23 de octubre de 2026 no se ha encontrado información pública sobre lo ocurrido al vencer la prórroga, a finales de julio de 2026, ni consta que la Fiscalía haya presentado denuncia o querella ante un juzgado o haya archivado las diligencias. Son diligencias de investigación de la Fiscalía, previas a cualquier proceso judicial. Antelo fue apartado de la dirección regional y expulsado del grupo parlamentario de Vox en marzo de 2026 por motivos ajenos a esta causa [6].
 - **Abascal:** la parte de las denuncias que le afectaba se remitió a la Fiscalía General del Estado por su condición de diputado aforado [1]. La fiscal del Tribunal Supremo Consuelo Madrigal archivó en octubre de 2025 la denuncia de los Comuns al concluir que sus palabras ("esto ya es una auténtica plaga") no encajaban en la incitación al odio y tenían "escasa potencialidad" para generar hostilidad real [5].
 
 ## Lo que dicen las partes

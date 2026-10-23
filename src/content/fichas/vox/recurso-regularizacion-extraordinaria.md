@@ -8,7 +8,7 @@ promesa: "Impedir cualquier regularización de inmigrantes en situación irregul
 bloqueadoPor: ["Mayoría del Congreso", "Tribunal Supremo (rechazo de la suspensión cautelar)"]
 importancia: 3
 fecha: 2026-05-22
-actualizado: 2026-10-19
+actualizado: 2026-10-23
 fuentes:
   - titulo: "Programa electoral para las Elecciones Generales del 23J de 2023"
     url: https://theobjective.com/wp-content/uploads/2023/07/programa-vox-23j.pdf
@@ -44,6 +44,16 @@ fuentes:
     medio: LegalToday
     fecha: 2026-05-25
     tipo: prensa
+  - titulo: "Real Decreto 316/2026, de 14 de abril, por el que se modifica el Reglamento de la Ley Orgánica 4/2000 sobre derechos y libertades de los extranjeros"
+    url: https://www.boe.es/buscar/doc.php?id=BOE-A-2026-8284
+    medio: BOE
+    fecha: 2026-04-15
+    tipo: oficial
+  - titulo: "El Tribunal Supremo acuerda no plantear en este momento procesal cuestión prejudicial al TJUE sobre el Real Decreto de regularización de extranjeros"
+    url: https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/Oficina-de-Comunicacion/Notas-de-prensa/El-Tribunal-Supremo-acuerda-no-plantear-en-este-momento-procesal-cuestion-prejudicial-al-TJUE-sobre-el-Real-Decreto-de-regularizacion-de-extranjeros
+    medio: Consejo General del Poder Judicial
+    fecha: 2026-07-08
+    tipo: judicial
 ---
 
 ## Qué se prometió
@@ -54,7 +64,7 @@ El programa de Vox de 2023 promete la "inmediata expulsión de todos los inmigra
 
 El 9 de abril de 2024, el Congreso tomó en consideración la iniciativa legislativa popular para regularizar a unos 500.000 inmigrantes por 310 votos contra 33. Vox fue el único grupo en contra [2]. En mayo de 2025 registró una ley para restringir la regularización por arraigo, que el Pleno rechazó el 16 de septiembre de 2025 [3].
 
-El 14 de abril de 2026, el Consejo de Ministros aprobó una regularización extraordinaria mediante una reforma del Reglamento de Extranjería. Permite solicitarla a quienes estuvieran en España antes del 1 de enero de 2026, acrediten cinco meses de residencia y no tengan antecedentes penales [4]. Vox la recurrió ante el Tribunal Supremo y pidió su suspensión cautelar. El 22 de mayo de 2026, el tribunal le reconoció legitimación para recurrir, pero denegó la suspensión, igual que la pedida por la Comunidad de Madrid. Inadmitió por falta de legitimación los recursos de Hazte Oír y otras dos asociaciones [5]. Según la Abogacía del Estado, para entonces ya lo habían solicitado 549.596 personas [6]. El recurso sobre el fondo sigue pendiente.
+El 14 de abril de 2026, el Consejo de Ministros aprobó una regularización extraordinaria mediante el Real Decreto 316/2026, que reforma el Reglamento de Extranjería [8]. Permite solicitarla a quienes estuvieran en España antes del 1 de enero de 2026, acrediten cinco meses de residencia y no tengan antecedentes penales [4]. Vox la recurrió ante el Tribunal Supremo y pidió su suspensión cautelar. El 22 de mayo de 2026, el tribunal le reconoció legitimación para recurrir, pero denegó la suspensión, igual que la pedida por la Comunidad de Madrid. Inadmitió por falta de legitimación los recursos de Hazte Oír y otras dos asociaciones [5]. Según la Abogacía del Estado, para entonces ya lo habían solicitado 549.596 personas [6]. El 8 de julio de 2026 el Supremo rechazó también las suspensiones pedidas por la Generalitat Valenciana y Aragón y decidió no plantear "en este momento procesal" una cuestión prejudicial al Tribunal de Justicia de la UE [9]. En las búsquedas realizadas el 23 de octubre de 2026 no consta sentencia sobre el fondo de los recursos.
 
 ## Por qué
 

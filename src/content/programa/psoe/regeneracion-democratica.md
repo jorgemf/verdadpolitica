@@ -4,7 +4,7 @@ tema: regeneracion-democratica
 propuesta: "Aprobar la Ley Orgánica de Integridad Pública que su Gobierno remitió al Congreso en julio de 2026 y una nueva Ley de Enjuiciamiento Criminal que traslada la instrucción a los fiscales y limita la acusación popular."
 balance: "Pactó con el PP la renovación del CGPJ y remitió al Congreso las leyes de Integridad Pública y de Enjuiciamiento Criminal, que caducaron con la disolución. Renunció a suprimir los aforamientos. Ábalos, exsecretario de Organización, fue condenado en firme; Cerdán y la gerente del partido están investigados."
 coherencia: parcial
-actualizado: 2026-10-19
+actualizado: 2026-10-23
 fuentes:
   - titulo: "Aprobado el Anteproyecto de Ley Orgánica de Integridad Pública"
     url: https://elderecho.com/?p=475257

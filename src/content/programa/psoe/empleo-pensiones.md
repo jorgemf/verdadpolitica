@@ -4,7 +4,7 @@ tema: empleo-pensiones
 propuesta: "Revalorizar las pensiones con el IPC cuatro años más, incluir en la Constitución la obligación de revalorizar el SMI para que siempre supere el 60 % del salario medio y reducir la jornada para que no se trabajen más de 36 horas en 2030."
 balance: "Subió el SMI cada año hasta 1.221 euros en 2026, amplió el permiso por nacimiento a 19 de las 20 semanas prometidas y mantuvo la revalorización de las pensiones con el IPC. El Congreso tumbó la jornada de 37,5 horas. El Gobierno vetó una enmienda que fijaba el SMI en el 60 % en el Estatuto."
 coherencia: parcial
-actualizado: 2026-10-19
+actualizado: 2026-10-23
 fuentes:
   - titulo: "Sánchez acusa a PP y Vox de «recortar» el derecho al voto y promete revalorizar las pensiones durante otros cuatro años"
     url: https://www.democrata.es/elecciones-generales-espana/sanchez-acusa-pp-vox-recortar-derecho-voto-promete-revalorizar-pensiones-durante-otros-cuatro-anos/
@@ -36,10 +36,15 @@ fuentes:
     medio: Congreso de los Diputados
     fecha: 2025-03-18
     tipo: oficial
+  - titulo: "Sánchez lanza la precampaña apelando a la movilización y alertando contra \"la motosierra\" a las pensiones"
+    url: https://www.infobae.com/espana/agencias/2026/10/17/sanchez-lanza-la-precampana-apelando-a-la-movilizacion-y-alertando-contra-la-motosierra-a-las-pensiones/
+    medio: Infobae (Europa Press)
+    fecha: 2026-10-17
+    tipo: prensa
 ---
 
 Sin programa publicado para el 29-N, las propuestas proceden de los mítines de precampaña y de los acuerdos del 41.º Congreso Federal:
-- En Zaragoza, el 14 de octubre de 2026, Sánchez prometió mantener cuatro años más la revalorización de las pensiones con el IPC si sigue en el Gobierno [1].
+- En Zaragoza, el 14 de octubre de 2026, Sánchez prometió mantener cuatro años más la revalorización de las pensiones con el IPC si sigue en el Gobierno [1]. En el mitin de Fuenlabrada que abrió la precampaña, el 17 de octubre, insistió: «las pensiones no se tocan» [7].
 - En su congreso de noviembre de 2024, el partido acordó «incluir en la Constitución la obligatoriedad de revalorizar el Salario Mínimo Interprofesional (SMI) para que siempre esté por encima del 60 % del salario medio» [2].
 - También acordó avanzar hacia una jornada en la que «no se trabajen más de 36 horas en 2030» [2].
 

@@ -8,7 +8,7 @@ promesa: "Delegar en la Generalitat de Cataluña competencias estatales de inmig
 bloqueadoPor: [PP, Vox, Podemos, UPN, "Dos diputados del grupo Sumar (Compromís y Chunta Aragonesista)"]
 importancia: 2
 fecha: 2025-09-23
-actualizado: 2026-10-20
+actualizado: 2026-10-23
 fuentes:
   - titulo: "La ley de inmigración pone a prueba la relación entre Junts y el PSOE"
     url: https://es.ara.cat/politica/ley-inmigracion-pone-prueba-relacion-junts-psoe_1_5244825.html
@@ -35,11 +35,15 @@ fuentes:
     medio: RTVC
     fecha: 2025-09-23
     tipo: prensa
-  - titulo: "Datos abiertos: proposiciones de ley de la XV legislatura (expedientes 122/000172 y 122/000299)"
-    url: https://www.congreso.es/webpublica/opendata/iniciativas/ProposicionesDeLey__20261020050137.json
+  - titulo: "Proposición de Ley Orgánica de delegación en la Comunidad Autónoma de Cataluña de competencias estatales en materia de inmigración (122/000299)"
+    url: https://www.congreso.es/es/proposiciones-de-ley?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=122%2F000299
     medio: Congreso de los Diputados
-    fecha: 2026-10-20
     tipo: oficial
+  - titulo: "Junts vuelve a registrar en el Congreso la ley para delegar competencias en inmigración a Catalunya"
+    url: https://www.publico.es/politica/junts-vuelve-registrar-congreso-ley-delegar-competencias-inmigracion-catalunya.html
+    medio: Público
+    fecha: 2026-08-26
+    tipo: prensa
 ---
 
 ## Qué se prometió
@@ -55,7 +59,7 @@ El 4 de marzo de 2025 los grupos Socialista y Junts registraron la proposición 
 - La gestión integral de los centros de internamiento de extranjeros (CIE).
 - Funciones de los Mossos d'Esquadra en puertos y aeropuertos y en el control fronterizo ligado a las devoluciones [3].
 
-El 23 de septiembre de 2025 el Pleno rechazó tomarla en consideración por 173 votos a favor y 177 en contra, sin abstenciones [4]. Votaron en contra PP, Vox, Podemos, UPN y dos diputados del grupo Sumar, Alberto Ibáñez (Compromís) y Jorge Pueyo (Chunta Aragonesista). A favor votaron PSOE, Junts, ERC, EH Bildu, PNV, BNG, CC y el resto de Sumar [5]. El 26 de agosto de 2026 Junts volvió a registrar la iniciativa en solitario (122/000299); caducó con la disolución de las Cortes [6].
+El 23 de septiembre de 2025 el Pleno rechazó tomarla en consideración por 173 votos a favor y 177 en contra, sin abstenciones [4]. Votaron en contra PP, Vox, Podemos, UPN y dos diputados del grupo Sumar, Alberto Ibáñez (Compromís) y Jorge Pueyo (Chunta Aragonesista). A favor votaron PSOE, Junts, ERC, EH Bildu, PNV, BNG, CC y el resto de Sumar [5]. El 26 de agosto de 2026 Junts volvió a registrar la iniciativa en solitario (122/000299), con el mismo articulado y sin la exposición de motivos que Podemos había rechazado; caducó con la disolución de las Cortes [6][7].
 
 ## Por qué
 

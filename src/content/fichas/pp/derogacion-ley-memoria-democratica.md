@@ -8,7 +8,7 @@ promesa: "Impulsaremos, derogando la mal llamada Ley de Memoria Democrática, un
 motivo: "El PP vincula la derogación a llegar al Gobierno. En la oposición no registró ninguna iniciativa para derogarla, y su mayoría en el Senado no bastaba sin apoyos en el Congreso, donde PP, Vox y UPN no sumaban mayoría. En las comunidades la promovió sobre todo donde dependía de Vox."
 importancia: 2
 fecha: 2026-07-13
-actualizado: 2026-10-19
+actualizado: 2026-10-23
 fuentes:
   - titulo: "Feijóo se compromete a derogar la Ley de Memoria Democrática en su primer Consejo de Ministros"
     url: https://www.que.es/2026/07/14/feijoo-derogar-ley-memoria-democratica-primer-consejo/
@@ -50,6 +50,21 @@ fuentes:
     medio: Senado
     fecha: 2026-10-19
     tipo: oficial
+  - titulo: "El Gobierno central avisa a la nueva Junta de PP y Vox: recurrirá al Constitucional si deroga la Ley de Memoria andaluza"
+    url: https://www.eldiario.es/andalucia/gobierno-central-avisa-nueva-junta-pp-vox-recurrira-constitucional-si-deroga-ley-memoria-andaluza_1_13354979.html
+    medio: elDiario.es
+    fecha: 2026-07-03
+    tipo: prensa
+  - titulo: "Tres años de PP y Vox en Balears: rebajas de impuestos a ricos, derogación de la ley de memoria y fracaso contra el catalán"
+    url: https://www.eldiario.es/illes-balears/politica/tres-anos-pp-vox-balears-rebajas-impuestos-ricos-derogacion-ley-memoria-fracaso-catalan_1_13592176.html
+    medio: elDiario.es
+    fecha: 2026-10-17
+    tipo: prensa
+  - titulo: "El TC intentó mantener viva la ley aragonesa de Memoria en pro de las víctimas pero no pudo por plazos"
+    url: https://www.infobae.com/espana/agencias/2024/11/09/el-tc-intento-mantener-viva-la-ley-aragonesa-de-memoria-en-pro-de-las-victimas-pero-no-pudo-por-plazos/
+    medio: Infobae (Europa Press)
+    fecha: 2024-11-09
+    tipo: prensa
 ---
 
 ## Qué se prometió
@@ -66,7 +81,7 @@ Búsqueda realizada el 19 de octubre de 2026 en tres fuentes:
 
 El 13 de julio de 2026, en el aniversario del asesinato de Miguel Ángel Blanco, el secretario general, Miguel Tellado, anunció que la ley se derogaría "en el primer Consejo de Ministros" de Feijóo [1].
 
-En las comunidades, Aragón derogó su ley de memoria en febrero de 2024 con PP y Vox, y la ley valenciana de "concordia" tiene artículos suspendidos por el TC. Andalucía y Madrid, gobernadas por el PP en solitario, no modificaron sus normas [2].
+En las comunidades, Aragón derogó su ley de memoria en febrero de 2024 con PP y Vox; el Constitucional suspendió la derogación en junio de 2024 a petición del Gobierno, pero no pudo prorrogar la suspensión al vencer el plazo de cinco meses, de modo que la derogación volvió a aplicarse a la espera de sentencia [11]. La ley valenciana de "concordia" tiene artículos suspendidos por el TC [2]. Baleares aprobó en 2026 la derogación de su ley de memoria, que el TC suspendió cautelarmente tras un recurso del Gobierno [10]. En octubre de 2025, Ara señalaba que Andalucía, gobernada entonces por el PP en solitario, no había modificado su ley, y que en Madrid Ayuso no había impulsado ninguna ley de concordia [2]. Tras entrar Vox en el Gobierno andaluz, el acuerdo de gobierno de julio de 2026 incluye "aprobar una Ley de Concordia que sustituya la normativa vigente en materia de memoria histórica", con el compromiso de registrarla en el Parlamento antes de que acabe 2026 [9].
 
 ## Por qué
 
@@ -74,4 +89,4 @@ El PP presentó la derogación como una decisión de su futuro Gobierno [1]. Al 
 
 ## Lo que dicen las partes
 
-Tellado sostiene que la ley permite un relato que "diluye" a ETA y favorece a EH Bildu [1]. El Gobierno defiende la norma y llevó al Constitucional las leyes autonómicas de PP y Vox [2].
+Tellado sostiene que la ley permite un relato que "diluye" a ETA y favorece a EH Bildu [1]. El Gobierno defiende la norma y llevó al Constitucional las leyes autonómicas de PP y Vox [2]; el secretario de Estado de Memoria Democrática, Fernando Martínez, anunció que también recurrirá si se deroga la ley andaluza [9].

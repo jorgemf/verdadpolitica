@@ -6,7 +6,7 @@ resumen: "Feijóo prometió en 2023 garantizar \"siempre y en cualquier circunst
 tema: empleo-pensiones
 importancia: 3
 fecha: 2026-01-27
-actualizado: 2026-10-19
+actualizado: 2026-10-23
 fuentes:
   - titulo: "Discurso de investidura de Alberto Núñez Feijóo"
     url: https://www.pp.es/storage/2023/09/23.09.26_discurso_investidura_anf.pdf
@@ -53,11 +53,11 @@ fuentes:
     medio: The Objective
     fecha: 2026-02-04
     tipo: prensa
-  - titulo: "Feijóo recita todos sus compromisos para \"restaurar\" la ley y la unidad en España, pero todavía no concreta ninguna medida"
-    url: https://www.infobae.com/espana/2026/10/19/feijoo-recita-todos-sus-compromisos-para-restaurar-la-ley-y-la-unidad-en-espana-pero-todavia-no-concreta-ninguna-medida-me-comprometo-a-cumplir/
-    medio: Infobae
+  - titulo: "Contrato con España"
+    url: https://www.pp.es/wp-content/uploads/2026/10/CONTRATO-CON-ESPANA-.pdf
+    medio: Partido Popular
     fecha: 2026-10-19
-    tipo: prensa
+    tipo: partido
   - titulo: "Datos abiertos: proposiciones de ley de la XV legislatura (expedientes 122/000151 y 122/000235)"
     url: https://www.congreso.es/es/opendata/iniciativas
     medio: Congreso de los Diputados
@@ -72,7 +72,7 @@ fuentes:
 
 ## Qué se prometió
 
-En su investidura del 26 de septiembre de 2023, Feijóo propuso "devolver las pensiones al Pacto de Toledo. Garantizar siempre y en cualquier circunstancia su revaloración. Ni congelar ni reducir" [1]. En octubre de 2026 repitió el de actualizarlas con el IPC [10].
+En su investidura del 26 de septiembre de 2023, Feijóo propuso "devolver las pensiones al Pacto de Toledo. Garantizar siempre y en cualquier circunstancia su revaloración. Ni congelar ni reducir" [1]. En su "Contrato con España" de octubre de 2026 se compromete a "actualizar conforme al IPC las pensiones actuales" [10].
 
 ## Qué pasó
 

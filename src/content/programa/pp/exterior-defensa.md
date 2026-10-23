@@ -1,21 +1,21 @@
 ---
 partido: pp
 tema: exterior-defensa
-propuesta: "\"Recuperar el prestigio internacional de España\" y las \"alianzas rotas\" en la Unión Europea, en Hispanoamérica y con los aliados históricos, sin medidas concretas. En defensa pide que todo aumento del gasto militar y el envío de ayuda militar al extranjero pasen por las Cortes."
+propuesta: "\"Recuperar el prestigio internacional de España\" y las \"alianzas rotas\" en la UE, Hispanoamérica y con los aliados históricos, con una política exterior \"con aval del Parlamento\", sin medidas concretas. En defensa pide que todo aumento del gasto militar y el envío de ayuda militar al extranjero pasen por las Cortes."
 balance: "Logró en 2024 que el Congreso pidiera reconocer a Edmundo González como presidente electo de Venezuela. Sus leyes para que las Cortes autoricen el gasto y la ayuda militar caducaron. Votó contra el embargo de armas a Israel (2025). Su promesa de 2019 de hacer de Rota la sede de la VI Flota dependía de gobernar."
 coherencia: coherente
-actualizado: 2026-10-20
+actualizado: 2026-10-23
 fuentes:
-  - titulo: "Feijóo recita todos sus compromisos para \"restaurar\" la ley y la unidad en España, pero todavía no concreta ninguna medida"
-    url: https://www.infobae.com/espana/2026/10/19/feijoo-recita-todos-sus-compromisos-para-restaurar-la-ley-y-la-unidad-en-espana-pero-todavia-no-concreta-ninguna-medida-me-comprometo-a-cumplir/
-    medio: Infobae
+  - titulo: "Mi contrato con España"
+    url: https://www.pp.es/wp-content/uploads/2026/10/CONTRATO-CON-ESPANA-.pdf
+    medio: Partido Popular
     fecha: 2026-10-19
-    tipo: prensa
-  - titulo: "Los 15 compromisos de Feijóo en su \"Contrato con España\": de \"garantizar las pensiones\" a \"ordenar la inmigración\""
-    url: https://www.elespanol.com/espana/politica/20261019/compromisos-feijoo-contrato-espana-garantizar-pensiones-ordenar-inmigracion/1003744426020_0.amp.html
-    medio: El Español
+    tipo: partido
+  - titulo: "Intervención del presidente del PP, Alberto Núñez Feijóo, en la presentación del Contrato con España"
+    url: https://www.pp.es/wp-content/uploads/2026/10/26.10.19-ANF-Intervencion-Contrato-con-Espana.pdf
+    medio: Partido Popular
     fecha: 2026-10-19
-    tipo: prensa
+    tipo: partido
   - titulo: "El Congreso reconoce como presidente de Venezuela a Edmundo González con el voto en contra del Gobierno"
     url: https://www.vozpopuli.com/espana/politica/el-congreso-reconoce-como-presidente-de-venezuela-a-edmundo-gonzalez-con-el-voto-en-contra-del-gobierno.html
     medio: Vozpópuli
@@ -75,13 +75,18 @@ fuentes:
     medio: Congreso de los Diputados
     fecha: 2026-10-20
     tipo: oficial
+  - titulo: "Hablemos claro: España volverá a contar en el mundo"
+    url: https://www.pp.es/wp-content/uploads/2026/10/26-10-15-HC-ESPANA-VOLVERA-A-CONTAR-EN-EL-MUNDO.pdf
+    medio: Partido Popular
+    fecha: 2026-10-16
+    tipo: partido
 ---
 
-A 20 de octubre de 2026 el PP no ha publicado su programa para el 29-N. El "Contrato con España" (citado según la prensa; no se ha localizado el texto del partido) se compromete a "recuperar el prestigio internacional de España" y las "alianzas rotas" en la Unión Europea, en Hispanoamérica y con los "aliados históricos" [1][2]. No incluye medidas concretas ni menciona la OTAN ni el gasto en defensa. Lo que el PP propone en defensa sale de sus iniciativas parlamentarias.
+A 23 de octubre de 2026 el PP no ha publicado su programa para el 29-N. El "Contrato con España" (19 de octubre de 2026) se compromete a "recuperar el prestigio internacional de España" y "las alianzas rotas en la Unión Europea e Hispanoamérica y con nuestros aliados históricos", y afirma que "el apoyo a la paz y a la democracia en el mundo es innegociable y no admite excepciones". También a reforzar las fronteras "con medios humanos, materiales y tecnológicos" [1]. En la presentación, Feijóo describió a España como "potencia atlántica, puente entre Europa e Hispanoamérica y frontera sur europea" [2], y un argumentario del partido añade que recuperará el interés nacional en la política exterior "con aval del Parlamento" [15]. No incluye medidas concretas ni menciona la OTAN ni el gasto en defensa. Lo que el PP propone en defensa sale de sus iniciativas parlamentarias.
 
 **Venezuela.** El 11 de septiembre de 2024 el Congreso aprobó, con 177 votos de PP, Vox, PNV, CC y UPN, una proposición no de ley del PP que pedía al Gobierno reconocer a Edmundo González como presidente electo [3]. No era vinculante. En enero de 2025 el Gobierno seguía sin reconocerlo, pese a las peticiones del Congreso y del Senado, aunque tampoco reconocía a Maduro [4]. El detalle está en la ficha correspondiente.
 
-**Defensa.** En abril de 2025 el Gobierno aprobó 10.471 millones más para llegar al 2 % del PIB en gasto militar, sin votación en las Cortes. El PP sostuvo que, sin presupuestos aprobados, el plan "requiere votación previa" [5]. En noviembre de 2025 registró una ley para que los créditos extraordinarios de defensa y seguridad pasen por las Cortes y para prohibir las transferencias de crédito entre ministerios [6]. El Pleno la debatió el 10 de febrero de 2026 [7], pasó a la fase de enmiendas y caducó con la disolución [9]. Lo mismo ocurrió con su ley de 2024 para que el Congreso autorice el envío de ayuda militar al extranjero y fije el número máximo de efectivos de cada misión [8][9].
+**Defensa.** En abril de 2025 el Gobierno aprobó 10.471 millones más para llegar al 2 % del PIB en gasto militar, sin votación en las Cortes. El PP sostuvo que, sin presupuestos aprobados, el plan "requiere votación previa" [5]. En noviembre de 2025 registró una ley para que los créditos extraordinarios de defensa y seguridad pasen por las Cortes y para prohibir las transferencias de crédito entre ministerios [6]. El Pleno la debatió el 10 de febrero de 2026 [7], pasó a la fase de enmiendas y caducó con la disolución [9]. Lo mismo ocurrió con su ley de 2024 para que el Congreso autorice el envío de ayuda militar al extranjero y fije el número máximo de efectivos de cada misión [8][9]. El detalle está en la ficha correspondiente.
 
 **Israel.** El 8 de octubre de 2025 el PP votó con Vox contra la convalidación del Real Decreto-ley 10/2025, que prohíbe exportar e importar material de defensa a Israel e importar productos de los asentamientos [10][11]. En la votación para tramitarlo como proyecto de ley, que permitía modificarlo, fue el único grupo que no lo apoyó [11]. Las fuentes consultadas no recogen sus argumentos.
 

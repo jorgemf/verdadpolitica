@@ -4,11 +4,11 @@ categoria: bloqueado
 titulo: Prórroga del gravamen extraordinario a las grandes energéticas
 resumen: "El Congreso derogó el 22 de enero de 2025 el decreto que mantenía en 2025 el gravamen a las energéticas, con los votos en contra de PP, Vox, Junts, PNV y UPN. El de la banca se sustituyó por un impuesto aplicable a tres periodos impositivos desde 2024."
 tema: economia-impuestos
-promesa: "Prorrogar y ajustar los gravámenes temporales sobre la banca y las energéticas para que ambos sectores sigan contribuyendo (programa de 2023 y acuerdo de coalición)."
+promesa: "«Evaluaremos la prórroga y ajustes de los gravámenes temporales sobre la banca y energéticas, para que ambos sectores sigan contribuyendo a la justicia fiscal y al sostenimiento del estado de bienestar» (programa de 2023); el acuerdo de coalición PSOE-Sumar preveía revisarlos para «readaptarlos y mantenerlos» más allá de 2024."
 bloqueadoPor: [PP, Vox, Junts, PNV, UPN]
 importancia: 2
 fecha: 2025-01-22
-actualizado: 2026-10-19
+actualizado: 2026-10-23
 fuentes:
   - titulo: "Programa electoral del PSOE. Elecciones generales 23 de julio de 2023"
     url: https://www.psoe.es/media-content/2023/07/PROGRAMA_ELECTORAL-GENERALES-2023.pdf
@@ -35,11 +35,16 @@ fuentes:
     medio: Boletín Oficial del Estado
     fecha: 2024-12-21
     tipo: oficial
+  - titulo: "La guerra entre Díaz, Calviño y Ribera por el impuesto a los beneficios mantiene al margen a la banca y las energéticas"
+    url: https://www.elindependiente.com/economia/2023/12/18/impuesto-banca-energeticas-diaz-ribera-calvino/amp/
+    medio: El Independiente
+    fecha: 2023-12-18
+    tipo: prensa
 ---
 
 ## Qué se prometió
 
-El programa socialista de 2023 se comprometía a evaluar «la prórroga y ajustes de los gravámenes temporales sobre la banca y energéticas, para que ambos sectores sigan contribuyendo a la justicia fiscal» [1]. El Gobierno pactó después con Podemos, ERC, EH Bildu y BNG mantener el de las energéticas [2].
+El programa socialista de 2023 se comprometía a evaluar «la prórroga y ajustes de los gravámenes temporales sobre la banca y energéticas, para que ambos sectores sigan contribuyendo a la justicia fiscal» [1]. El acuerdo de coalición con Sumar fue más concreto: revisar ambos gravámenes para «readaptarlos y mantenerlos» más allá de 2024 [6]. El Gobierno pactó después con Podemos, ERC, EH Bildu y BNG mantener el de las energéticas [2].
 
 ## Qué pasó
 

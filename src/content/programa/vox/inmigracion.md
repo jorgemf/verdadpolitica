@@ -4,7 +4,7 @@ tema: inmigracion
 propuesta: "\"Prioridad nacional\" en ayudas, vivienda y servicios públicos y \"remigración\": repatriar a quien entre de forma irregular, deportar a los extranjeros que delincan o que cumplan condena en su país, auditar las nacionalidades concedidas y desplegar el Ejército en Ceuta y Melilla."
 balance: "Único grupo contra tramitar la ILP de regularización (2024). En julio de 2024 dejó cinco gobiernos autonómicos por el reparto de menores. Recurrió la regularización de 2026; el Supremo no la suspendió. Su PNL de prioridad nacional fue rechazada en 2026, y en sus pactos autonómicos entró como arraigo, no nacionalidad."
 coherencia: parcial
-actualizado: 2026-10-19
+actualizado: 2026-10-23
 fuentes:
   - titulo: "Votaciones del Pleno de 25 de junio de 2026: proposición no de ley del Grupo VOX sobre el principio de prioridad nacional en las prestaciones públicas (162/000784)"
     url: https://www.congreso.es/docu/tramit/LegXV/tramit_pleno20260625_191.pdf
@@ -53,7 +53,7 @@ fuentes:
     tipo: oficial
 ---
 
-Vox no ha publicado programa para el 29-N. Sus ejes de campaña son la "prioridad nacional" y la "remigración". El 18 de octubre de 2026 Abascal admitió que sus medidas exigen superar "dificultades legislativas en España, en Europa o en convenios internacionales" [5].
+A 23 de octubre de 2026, Vox no ha publicado programa para el 29-N. Sus ejes de campaña son la "prioridad nacional" y la "remigración". El 18 de octubre de 2026 Abascal admitió que sus medidas exigen superar "dificultades legislativas en España, en Europa o en convenios internacionales" [5].
 
 **Qué han hecho en el Congreso.** El 9 de abril de 2024, Vox fue el único grupo que votó contra tramitar la iniciativa legislativa popular para regularizar a unos 500.000 inmigrantes (310 a 33) [2]. En 2026 recurrió ante el Tribunal Supremo la regularización extraordinaria aprobada por el Gobierno. El 22 de mayo el tribunal rechazó suspenderla cautelarmente [4]. El 25 de junio de 2026, el pleno rechazó su proposición no de ley para establecer la prioridad nacional en las prestaciones públicas [1].
 

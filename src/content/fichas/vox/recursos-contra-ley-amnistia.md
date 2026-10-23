@@ -8,7 +8,7 @@ promesa: "Impedir la aplicación de la ley de amnistía y llevarla al Tribunal C
 bloqueadoPor: ["Mayoría de investidura en el Congreso", "Tribunal Constitucional"]
 importancia: 3
 fecha: 2025-06-26
-actualizado: 2026-10-19
+actualizado: 2026-10-23
 fuentes:
   - titulo: "Constitución Española (artículo 162.1.a)"
     url: https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229
@@ -48,6 +48,16 @@ fuentes:
     medio: Diario Estrategia (Europa Press)
     fecha: 2025-06-02
     tipo: prensa
+  - titulo: "El Constitucional avala la amnistía de la malversación y firma la vuelta de Puigdemont"
+    url: https://theobjective.com/espana/tribunales/2026-10-06/constitucional-puigdemont/
+    medio: The Objective
+    fecha: 2026-10-06
+    tipo: prensa
+  - titulo: "El juez Llarena levanta la orden de detención contra Puigdemont y afea al Constitucional que censure un criterio que ha «fracturado al tribunal»"
+    url: https://www.infobae.com/espana/2026/10/19/el-juez-llarena-levanta-la-orden-de-detencion-contra-puigdemont-y-afea-al-constitucional-que-censure-un-criterio-que-ha-fracturado-al-tribunal/
+    medio: Infobae
+    fecha: 2026-10-19
+    tipo: prensa
 ---
 
 ## Qué se prometió
@@ -59,6 +69,8 @@ La ley de amnistía para los encausados del 'procés' fue uno de los ejes de la 
 El Congreso aprobó la Ley Orgánica 1/2024 de amnistía con la mayoría de investidura. Para interponer un recurso de inconstitucionalidad hacen falta 50 diputados o 50 senadores, o un gobierno o parlamento autonómico [1]. Vox tenía 33 diputados, así que no podía recurrir por sí solo. En junio de 2024, su secretario general, Ignacio Garriga, anunció recursos "de forma coordinada con los populares" desde Castilla y León, Aragón, Murcia, la Comunitat Valenciana y Baleares, donde entonces gobernaba o era socio del PP [2].
 
 El Tribunal Constitucional resolvió primero el recurso de los diputados y senadores del PP. En la sentencia 137/2025, de 26 de junio de 2025, declaró que la Constitución no prohíbe las amnistías y anuló solo aspectos parciales del ámbito de la ley [3]. Con esa doctrina desestimó o dio por perdidos de objeto los recursos de las comunidades: el de las Cortes de Aragón en octubre de 2025 [4], los de Andalucía, Murcia, la Comunitat Valenciana y Castilla y León en noviembre de 2025 [6] y el del Gobierno de Aragón en junio de 2026 [5].
+
+El 6 de octubre de 2026 el Constitucional, por siete votos a cinco, amparó a los exconsejeros Dolors Bassa y Jordi Turull: anuló los autos del Supremo que excluían de la amnistía la malversación y ordenó dictar otros [9]. Ese día el juez Pablo Llarena dejó sin efecto la orden de detención contra Puigdemont, y por auto de 16 de octubre rechazó el recurso de la acusación popular y mantuvo levantadas las órdenes contra Puigdemont, Antoni Comín y Lluís Puig. Última situación documentada (19 de octubre de 2026): la extinción de la responsabilidad penal sigue pendiente de la Sala de lo Penal del Supremo [10].
 
 ## Por qué
 

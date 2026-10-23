@@ -9,7 +9,7 @@ estadoJudicial: juicio-oral
 implicados: "Francisco Granados, exconsejero y ex secretario general del PP de Madrid, y Beltrán Gutiérrez, exgerente del PP de Madrid (antiguos cargos), con otros seis acusados. El archivo para Esperanza Aguirre, Ignacio González y cuatro exconsejeros fue confirmado en apelación en 2023. Las informaciones publicadas no recogen al PP como persona jurídica entre los acusados."
 importancia: 2
 fecha: 2026-05-31
-actualizado: 2026-10-19
+actualizado: 2026-10-23
 fuentes:
   - titulo: "La Audiencia Nacional confirma archivo de Esperanza Aguirre, Ignacio González y 4 exconsejeros en la pieza de Púnica sobre financiación del PP de Madrid"
     url: https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Audiencia-Nacional/Oficina-de-Comunicacion/Notas-de-prensa/La-Audiencia-Nacional-confirma-archivo-de-Esperanza-Aguirre--Ignacio-Gonzalez-y-4-exconsejeros-en-la-pieza-de-Punica-sobre-financiacion-del-PP-de-Madrid
@@ -36,7 +36,7 @@ La pieza 9 del caso Púnica investigó si el PP de Madrid financió sus campaña
 
 En noviembre de 2023 la Audiencia Nacional confirmó el archivo para Esperanza Aguirre, Ignacio González, cuatro exconsejeros y dos empresarios. La Sala concluyó que la supuesta financiación del partido con dinero público "se ha quedado sin respaldo indiciario incriminatorio" y que no se acreditaba un entramado organizado desde la cúpula del PP; además, varios hechos habían prescrito [1].
 
-En abril de 2024 el juez Manuel García-Castellón dictó auto de apertura de juicio oral contra ocho acusados. Solo se juzgarán los hechos de las autonómicas de 2011, porque los de 2007 y 2008 prescribieron. El juez rechazó declarar a Aguirre y González partícipes a título lucrativo [2]. Última situación documentada (31 de mayo de 2026): el juicio no tenía fecha [3]. Los acusados gozan de la presunción de inocencia.
+En abril de 2024 el juez Manuel García-Castellón dictó auto de apertura de juicio oral contra ocho acusados. Solo se juzgarán los hechos de las autonómicas de 2011, porque los de 2007 y 2008 prescribieron. El juez rechazó declarar a Aguirre y González partícipes a título lucrativo [2]. Última situación documentada (31 de mayo de 2026): el juicio no tenía fecha [3]. En las búsquedas realizadas el 23 de octubre de 2026 no consta que se haya señalado. Los acusados gozan de la presunción de inocencia.
 
 ## Lo que dicen las partes
 

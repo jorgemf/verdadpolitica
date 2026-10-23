@@ -2,13 +2,13 @@
 partido: psoe
 categoria: judicial
 titulo: "Begoña Gómez, esposa del presidente, a juicio con jurado por presuntos delitos de tráfico de influencias y malversación"
-resumen: "El juez Peinado abrió el 21 de septiembre de 2026 juicio oral con jurado contra Begoña Gómez por presuntos tráfico de influencias y malversación, y contra su asistente en la Moncloa por presunta malversación. La Fiscalía pidió el archivo; la acusación popular, 13 años de prisión. No hay fecha de juicio."
+resumen: "El juez Peinado abrió el 21 de septiembre de 2026 juicio oral con jurado contra Begoña Gómez por presuntos tráfico de influencias y malversación, y contra su asistente en la Moncloa por presunta malversación. La Fiscalía pidió el archivo; la acusación popular, 13 años de prisión. Sin fecha de juicio a 19 de octubre."
 estadoJudicial: juicio-oral
 implicados: "Begoña Gómez (esposa del presidente del Gobierno; sin cargo en el partido) y Cristina Álvarez (asistente en la Moncloa)."
 tema: regeneracion-democratica
 importancia: 2
 fecha: 2026-09-21
-actualizado: 2026-10-19
+actualizado: 2026-10-23
 fuentes:
   - titulo: "El juez Peinado da el último paso para que Begoña Gómez sea juzgada por un tribunal del jurado"
     url: https://www.eldiario.es/politica/juez-peinado-da-ultimo-paso-begona-gomez-sea-juzgada-tribunal-jurado_1_13507684.html
@@ -35,6 +35,11 @@ fuentes:
     medio: Diario de León
     fecha: 2026-09-09
     tipo: prensa
+  - titulo: "La justicia madrileña 'congela' el juicio a Begoña Gómez y ni siquiera elige al juez que presidirá el jurado"
+    url: https://vozpopuli.com/tribunales/la-justicia-madrilena-congela-el-juicio-a-begona-gomez-y-ni-siquiera-elige-al-juez-que-presidira-el-jurado.html
+    medio: Vozpópuli
+    fecha: 2026-10-19
+    tipo: prensa
 ---
 
 ## Hechos
@@ -53,7 +58,7 @@ La Fiscalía pidió el archivo, no la absolución:
 
 No consta en las fuentes consultadas un escrito de conclusiones de la Fiscalía posterior a la apertura de juicio oral.
 
-Última situación documentada (21 de septiembre de 2026): la Audiencia Provincial debe designar al magistrado-presidente y fijar la fecha; no hay juicio señalado [1].
+Última situación documentada (19 de octubre de 2026): la causa seguía en el juzgado de instrucción y no se había remitido a la Audiencia Provincial, que debe repartirla a una sección, designar al magistrado-presidente del jurado y fijar la fecha; no hay juicio señalado [1][6].
 
 ## Lo que dicen las partes
 

@@ -4,7 +4,7 @@ tema: modelo-territorial
 propuesta: "Aprobar el nuevo modelo de financiación autonómica (20.975 millones más en 2027, cesión del 55 % del IRPF y del 56,5 % del IVA), que el Estado asuma más de 83.000 millones de deuda autonómica y federalizar la dirección de la Agencia Tributaria."
 balance: "Aprobó la ley de amnistía, avalada por el Constitucional en 2025. El nuevo modelo de financiación, prometido en 2023 «en el plazo máximo de un año», pasó por el Consejo de Política Fiscal en septiembre de 2026 con el rechazo de las comunidades del PP, Asturias y Castilla-La Mancha, y no llegó a votarse en las Cortes."
 coherencia: parcial
-actualizado: 2026-10-19
+actualizado: 2026-10-23
 fuentes:
   - titulo: "La reforma de la financiación autonómica de España avanza entre el rechazo territorial y político"
     url: https://es.euronews.com/my-europe/2026/09/04/reforma-financiacion-autonomica-avanza-rechazo-territorial

@@ -6,7 +6,7 @@ resumen: "Sánchez y su Gobierno sostuvieron hasta la campaña del 23-J que la a
 tema: modelo-territorial
 importancia: 3
 fecha: 2024-06-11
-actualizado: 2026-10-19
+actualizado: 2026-10-23
 fuentes:
   - titulo: "Cuando Pedro Sánchez decía 'no' a la amnistía: «No entra en la Constitución»"
     url: https://maldita.es/malditahemeroteca/20250627/pedro-sanchez-amnistia-constitucion/
@@ -38,6 +38,16 @@ fuentes:
     medio: Partido Popular
     fecha: 2023-09-07
     tipo: partido
+  - titulo: "El Constitucional avala la amnistía de la malversación y firma la vuelta de Puigdemont"
+    url: https://theobjective.com/espana/tribunales/2026-10-06/constitucional-puigdemont/
+    medio: The Objective
+    fecha: 2026-10-06
+    tipo: prensa
+  - titulo: "El juez Llarena levanta la orden de detención contra Puigdemont y afea al Constitucional que censure un criterio que ha «fracturado al tribunal»"
+    url: https://www.infobae.com/espana/2026/10/19/el-juez-llarena-levanta-la-orden-de-detencion-contra-puigdemont-y-afea-al-constitucional-que-censure-un-criterio-que-ha-fracturado-al-tribunal/
+    medio: Infobae
+    fecha: 2026-10-19
+    tipo: prensa
 ---
 
 ## Qué dijeron
@@ -48,7 +58,7 @@ En junio de 2021, el informe del Ministerio de Justicia que proponía indultar a
 
 Tras las elecciones, el PSOE necesitaba los votos de ERC y Junts. El 28 de octubre de 2023, ante el Comité Federal, Sánchez defendió por primera vez la amnistía como condición para la investidura [1]. La proposición de ley se registró en noviembre de 2023, el Congreso la aprobó definitivamente el 30 de mayo de 2024 y la Ley Orgánica 1/2024 entró en vigor el 11 de junio [1][2]. Cubre hechos vinculados a las consultas de 2014 y 2017 [2].
 
-El Tribunal Constitucional la avaló el 26 de junio de 2025 por seis votos a cuatro, desestimando casi todo el recurso del PP [3]. El Tribunal de Justicia de la UE concluyó el 16 de julio de 2026 que es compatible con el derecho europeo; aun así, el juez del Supremo Pablo Llarena siguió negándose en septiembre de 2026 a aplicarla a Carles Puigdemont por la malversación, al apreciar ánimo de beneficio personal [4].
+El Tribunal Constitucional la avaló el 26 de junio de 2025 por seis votos a cuatro, desestimando casi todo el recurso del PP [3]. El Tribunal de Justicia de la UE concluyó el 16 de julio de 2026 que es compatible con el derecho europeo; aun así, el juez del Supremo Pablo Llarena siguió negándose en septiembre de 2026 a aplicarla a Carles Puigdemont por la malversación, al apreciar ánimo de beneficio personal [4]. El 6 de octubre de 2026 el Constitucional, por siete votos a cinco, amparó a la exconsellera Dolors Bassa: anuló los autos del Supremo que excluían la malversación de la amnistía por enriquecimiento personal y ordenó dictar otros [7][8]. Ese mismo día Llarena dejó sin efecto la orden de detención contra Puigdemont, y el 16 de octubre confirmó el levantamiento de las órdenes contra Puigdemont, Antoni Comín y Lluís Puig al rechazar un recurso de la acusación popular. Última situación documentada (19 de octubre de 2026): la responsabilidad penal no se ha declarado extinguida; esa decisión corresponde a la Sala de lo Penal del Supremo [8].
 
 ## Lo que dicen las partes
 

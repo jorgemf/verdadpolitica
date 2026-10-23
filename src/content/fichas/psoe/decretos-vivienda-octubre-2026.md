@@ -2,13 +2,13 @@
 partido: psoe
 categoria: bloqueado
 titulo: "Decretos-ley de vivienda 26/2026 y 27/2026: el Congreso los deroga y el Gobierno los reaprueba tras anunciar elecciones"
-resumen: "El Congreso derogó el 2 de octubre de 2026 el RDL 26/2026 (función social de la vivienda, 172-178) y el RDL 27/2026 (estabilidad de los alquileres, 166-184). El Gobierno los reaprobó el 6 de octubre como RDL 29/2026 y RDL 28/2026, pendientes de la Diputación Permanente."
+resumen: "El Congreso derogó el 2 de octubre de 2026 el RDL 26/2026 (función social de la vivienda, 172-178) y el RDL 27/2026 (estabilidad de los alquileres, 166-184). El Gobierno los reaprobó el 6 de octubre como RDL 29/2026 y RDL 28/2026; la Diputación Permanente prevé votarlos el 12 de noviembre."
 tema: vivienda
 promesa: "Aprobar por real decreto-ley un paquete urgente de vivienda: suspensión de desahucios de familias vulnerables hasta 2030, prórroga extraordinaria de los alquileres, límite del 2 % a su actualización y medidas fiscales (Consejo de Ministros, 29 de septiembre de 2026)."
 bloqueadoPor: [PP, Vox, Junts, UPN, "PNV y Coalición Canaria (solo el RDL 27/2026, estabilidad de los contratos)"]
 importancia: 3
 fecha: 2026-10-02
-actualizado: 2026-10-19
+actualizado: 2026-10-23
 fuentes:
   - titulo: "El BOE publica la derogación de los dos decretos-ley de vivienda tras su rechazo en el Congreso"
     url: https://www.democrata.es/politica/boe-publica-derogacion-dos-decretos-vivienda-su-rechazo-en-congreso/
@@ -50,6 +50,16 @@ fuentes:
     medio: Artículo 14 (Europa Press)
     fecha: 2026-10-05
     tipo: prensa
+  - titulo: "El Congreso votará los decretos de vivienda el 12 de noviembre, un día después de la huelga general"
+    url: https://www.laregion.es/espana/congreso-votara-decretos-vivienda-12-comision-permanente-huelga-general_1_20261016-4454547.html
+    medio: La Región (Europa Press)
+    fecha: 2026-10-16
+    tipo: prensa
+  - titulo: "El Congreso plantea votar los decretos de vivienda el 12 de noviembre, tras la huelga general y en víspera de la campaña electoral"
+    url: https://www.elplural.com/politica/espana/congreso-plantea-votar-decretos-vivienda-12-noviembre-huelga-general-vispera-campana-electoral_801602102
+    medio: El Plural
+    fecha: 2026-10-16
+    tipo: prensa
 ---
 
 ## Qué se prometió
@@ -70,7 +80,7 @@ Tras anunciar Sánchez el 5 de octubre la disolución de las Cortes, el Gobierno
 - El RDL 29/2026 reproduce las medidas del RDL 26/2026 y entró en vigor el 8 de octubre [6].
 - El RDL 28/2026 reproduce el RDL 27/2026 sobre estabilidad de los contratos y fija su entrada en vigor el 15 de noviembre de 2026 [5].
 
-Última situación documentada (7 de octubre de 2026): ambos, pendientes de convalidar en la Diputación Permanente.
+Última situación documentada (16 de octubre de 2026): ambos siguen pendientes de convalidar y la Diputación Permanente prevé votarlos el 12 de noviembre, un día después de la huelga general por la vivienda [9][10]. Si se rechaza el RDL 28/2026 ese día, no llegaría a aplicarse, porque su entrada en vigor está fijada para el 15 de noviembre [9].
 
 ## Por qué
 

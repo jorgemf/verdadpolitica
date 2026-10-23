@@ -8,7 +8,7 @@ promesa: "«Prohibición de las ayudas directas públicas a medios privados de i
 motivo: "Vox no lo ha explicado. Sus iniciativas sobre medios de comunicación se centraron en el control de RTVE, no en las ayudas públicas a los medios privados."
 importancia: 1
 fecha: 2026-10-19
-actualizado: 2026-10-19
+actualizado: 2026-10-23
 fuentes:
   - titulo: "Programa electoral para las Elecciones Generales del 23J de 2023"
     url: https://theobjective.com/wp-content/uploads/2023/07/programa-vox-23j.pdf
@@ -49,4 +49,4 @@ Vox no ha explicado por qué no llevó esta medida al Congreso. Sus iniciativas 
 
 ## Lo que dicen las partes
 
-A 19 de octubre de 2026, Vox no había publicado su programa para el 29-N, por lo que no consta si mantiene esta propuesta.
+En las búsquedas realizadas el 23 de octubre de 2026 no consta que Vox haya publicado su programa para el 29-N, por lo que no consta si mantiene esta propuesta.

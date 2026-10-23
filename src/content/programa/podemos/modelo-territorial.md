@@ -4,7 +4,7 @@ tema: modelo-territorial
 propuesta: "Apoyar el autogobierno de las comunidades, con la condición de que las competencias de inmigración se deleguen sin lo que considera sesgos racistas, y concurrir en Cataluña dentro de las listas de ERC para «fortalecer las izquierdas nacionales» (declaraciones de febrero y octubre de 2026)."
 balance: "Votó a favor de la ley de amnistía, aprobada definitivamente el 30 de mayo de 2024 por 177 votos a 172. En septiembre de 2025 sus cuatro votos decidieron el rechazo (173 a 177) de la ley de PSOE y Junts que delegaba en Cataluña competencias de inmigración, por considerarla racista."
 coherencia: coherente
-actualizado: 2026-10-19
+actualizado: 2026-10-23
 fuentes:
   - titulo: "Podemos eleva sus requisitos: pide acabar con los CIE si el PSOE retoma el traspaso migratorio a Catalunya"
     url: https://www.noticiasdenavarra.com/politica/2026/02/02/eleva-requisitos-pide-acabar-cie-migratorio-catalunya-10647567.html
@@ -38,7 +38,7 @@ fuentes:
     tipo: prensa
 ---
 
-A 19 de octubre de 2026 Podemos no ha publicado su programa para el 29-N. En febrero de 2026 su coportavoz Pablo Fernández reiteró que Podemos «apoya el autogobierno», pero exigió que cualquier texto sobre inmigración elimine sesgos que considera racistas, y pidió completar antes la regularización de migrantes [1]. En octubre de 2026 pactó con ERC contribuir a sus listas en las cuatro circunscripciones catalanas, porque considera necesario fortalecer «las izquierdas nacionales» frente al conservadurismo del Estado [2].
+A 23 de octubre de 2026 Podemos no ha publicado un programa completo para el 29-N. En febrero de 2026 su coportavoz Pablo Fernández reiteró que Podemos «apoya el autogobierno», pero exigió que cualquier texto sobre inmigración elimine sesgos que considera racistas, y pidió completar antes la regularización de migrantes [1]. En octubre de 2026 pactó con ERC contribuir a sus listas en las cuatro circunscripciones catalanas, porque considera necesario fortalecer «las izquierdas nacionales» frente al conservadurismo del Estado [2].
 
 En la legislatura, Podemos votó a favor de la ley de amnistía. El Congreso la aprobó el 14 de marzo de 2024 por 178 votos a favor y 172 en contra [3] y, tras el veto del Senado, de forma definitiva el 30 de mayo por 177 a 172; una diputada de Podemos no asistió a esa votación [6].
 

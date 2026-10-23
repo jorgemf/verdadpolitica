@@ -8,7 +8,7 @@ promesa: "Promovamos un gran Acuerdo Nacional del Agua que incluya un plan de ac
 bloqueadoPor: ["Gobierno (PSOE y Sumar), que no aplicó la moción aprobada"]
 importancia: 1
 fecha: 2024-11-28
-actualizado: 2026-10-19
+actualizado: 2026-10-23
 fuentes:
   - titulo: "Discurso de investidura de Alberto Núñez Feijóo"
     url: https://www.pp.es/storage/2023/09/23.09.26_discurso_investidura_anf.pdf
@@ -20,11 +20,11 @@ fuentes:
     medio: Última Hora (Europa Press)
     fecha: 2025-09-28
     tipo: prensa
-  - titulo: "Los 15 compromisos de Feijóo en su \"Contrato con España\": de \"garantizar las pensiones\" a \"ordenar la inmigración\""
-    url: https://www.elespanol.com/espana/politica/20261019/compromisos-feijoo-contrato-espana-garantizar-pensiones-ordenar-inmigracion/1003744426020_0.amp.html
-    medio: El Español
+  - titulo: "Intervención de Alberto Núñez Feijóo en la presentación del Contrato con España"
+    url: https://www.pp.es/wp-content/uploads/2026/10/26.10.19-ANF-Intervencion-Contrato-con-Espana.pdf
+    medio: Partido Popular
     fecha: 2026-10-19
-    tipo: prensa
+    tipo: partido
   - titulo: "Resumen del programa electoral del PP: 50 principales medidas"
     url: https://www.pp.es/storage/2023/07/23.07.04._resumen_programa_electoral.pdf
     medio: Partido Popular
@@ -75,7 +75,7 @@ En la oposición, el PP llevó la propuesta al Congreso en varias iniciativas, s
 - **28 de noviembre de 2024.** El Pleno aprobó sin modificaciones una moción del PP sobre las ayudas a los afectados por la DANA (173/000065). Su punto 10 insta al Gobierno a "abordar, de manera urgente, un Pacto Nacional del Agua", con una Autoridad Nacional del Agua y "un incremento hasta los 40.000 millones de euros de la planificación en vigor" [8].
 - **Octubre de 2025.** Registró otra proposición no de ley para un Pacto Nacional del Agua (161/002618) [9].
 
-La moción no era vinculante, y a la disolución de las Cortes no se había constituido ningún pacto. El PP lo siguió reclamando en la Declaración de Murcia de septiembre de 2025 [2] y lo incluye, como "infraestructuras hídricas", en el "Contrato con España" de octubre de 2026 [3].
+La moción no era vinculante, y a la disolución de las Cortes no se había constituido ningún pacto. El PP lo siguió reclamando en la Declaración de Murcia de septiembre de 2025 [2] y Feijóo se comprometió a "invertir en infraestructuras hídricas que nos preparen mejor para afrontar inundaciones y sequías" en el discurso de presentación del "Contrato con España", el 19 de octubre de 2026; el documento del Contrato no lo recoge entre sus doce compromisos [3].
 
 ## Por qué
 

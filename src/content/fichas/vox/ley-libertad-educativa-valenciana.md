@@ -8,7 +8,7 @@ ambito: autonomico
 promesa: "«Aseguraremos de forma clara e inmediata el derecho a ser educado en español en todo el territorio nacional» (programa de 2023, medida 49)."
 importancia: 2
 fecha: 2024-06-27
-actualizado: 2026-10-20
+actualizado: 2026-10-23
 fuentes:
   - titulo: "Programa electoral para las Elecciones Generales del 23J de 2023"
     url: https://theobjective.com/wp-content/uploads/2023/07/programa-vox-23j.pdf
@@ -35,8 +35,8 @@ fuentes:
     fecha: 2024-06-27
     tipo: prensa
   - titulo: "Recurso de inconstitucionalidad n.º 7174-2024, contra la Ley 1/2024, de 27 de junio, de la Generalitat Valenciana, de libertad educativa"
-    url: https://laadministracionaldia.inap.es/noticia.asp?id=1249973
-    medio: INAP (reproduce el anuncio del BOE de 27 de noviembre de 2024)
+    url: https://www.boe.es/buscar/doc.php?id=BOE-A-2024-24668
+    medio: BOE (Tribunal Constitucional)
     fecha: 2024-11-27
     tipo: judicial
 ---
@@ -53,7 +53,7 @@ La ley reconoce a los representantes legales del alumnado el derecho a "elegir l
 
 ## Grado de cumplimiento
 
-Se cumplió en la comunidad donde Vox cogobernaba y lo impulsó con su propia firma, no en el conjunto de España, como promete el programa. El 19 de noviembre de 2024, el Tribunal Constitucional admitió a trámite el recurso de inconstitucionalidad 7174-2024, presentado por cincuenta diputados de varios grupos del Congreso contra buena parte del articulado. El anuncio no menciona ninguna suspensión de la ley [6]. En una búsqueda hecha el 20 de octubre de 2026 no se encontró ninguna sentencia del Constitucional sobre ese recurso.
+Se cumplió en la comunidad donde Vox cogobernaba y lo impulsó con su propia firma, no en el conjunto de España, como promete el programa. El 19 de noviembre de 2024, el Tribunal Constitucional admitió a trámite el recurso de inconstitucionalidad 7174-2024, presentado por cincuenta diputados de varios grupos del Congreso contra buena parte del articulado. El anuncio no menciona ninguna suspensión de la ley [6]. En una búsqueda hecha el 23 de octubre de 2026 no se encontró ninguna sentencia del Constitucional sobre ese recurso.
 
 ## Lo que dicen las partes
 

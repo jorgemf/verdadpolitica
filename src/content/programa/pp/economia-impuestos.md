@@ -1,16 +1,16 @@
 ---
 partido: pp
 tema: economia-impuestos
-propuesta: "Revisar las subidas fiscales de los últimos años y bajar impuestos, en especial a los jóvenes que compren vivienda, que pagarían un 60 % menos. En 2023 proponía bajar el IRPF a las rentas de menos de 40.000 euros y una reforma fiscal integral."
+propuesta: "Revisar «una a una» las más de cien subidas fiscales recientes y bajar impuestos: menos IRPF, IVA del 0 % en alimentos básicos y menos IVA en la luz. Para los jóvenes, IRPF cero el primer año de trabajo y un 60 % menos de IVA e ITP al comprar vivienda. En 2023 proponía bajar el IRPF a rentas de menos de 40.000 €."
 balance: "Logró en 2024 que el Congreso pidiera deflactar el IRPF, algo que el Gobierno no aplicó, y en 2026 registró una rebaja fiscal de 3.200 millones. En las comunidades que gobierna ha bajado impuestos; la Comunitat Valenciana, por ejemplo, bonificó al 99 % sucesiones y donaciones en 2023."
 coherencia: coherente
-actualizado: 2026-10-19
+actualizado: 2026-10-23
 fuentes:
-  - titulo: "Feijóo recita todos sus compromisos para \"restaurar\" la ley y la unidad en España, pero todavía no concreta ninguna medida"
-    url: https://www.infobae.com/espana/2026/10/19/feijoo-recita-todos-sus-compromisos-para-restaurar-la-ley-y-la-unidad-en-espana-pero-todavia-no-concreta-ninguna-medida-me-comprometo-a-cumplir/
-    medio: Infobae
+  - titulo: "Mi contrato con España"
+    url: https://www.pp.es/wp-content/uploads/2026/10/CONTRATO-CON-ESPANA-.pdf
+    medio: Partido Popular
     fecha: 2026-10-19
-    tipo: prensa
+    tipo: partido
   - titulo: "Feijóo promete rebajar un 60% los impuestos a los jóvenes que compren vivienda y movilizar 300.000 millones en infraestructuras"
     url: https://www.menorca.info/actualidad/nacional/2026/07/22/2675179/feijoo-promete-rebajar-impuestos-jovenes-compren-vivienda-movilizar-300000-millones-infraestructuras.html
     medio: Menorca.info (Europa Press)
@@ -36,9 +36,19 @@ fuentes:
     medio: Valencia Plaza
     fecha: 2023-07-21
     tipo: prensa
+  - titulo: "Hablemos claro: Una España de currantes, no de jetas"
+    url: https://www.pp.es/wp-content/uploads/2026/10/26-10-16-UNA-ESPANA-DE-CURRANTES-NO-DE-JETAS.pdf
+    medio: Partido Popular
+    fecha: 2026-10-17
+    tipo: partido
+  - titulo: "Hablemos claro: Votaremos decencia"
+    url: https://www.pp.es/wp-content/uploads/2026/10/26-10-20-VOTAREMOS-DECENCIA.pdf
+    medio: Partido Popular
+    fecha: 2026-10-21
+    tipo: partido
 ---
 
-A 19 de octubre de 2026 el PP no ha publicado su programa para el 29-N. El "Contrato con España" (citado según la prensa; no se ha localizado el texto del partido) se compromete a revisar las subidas fiscales de los últimos años, a bajar impuestos y a subir el salario medio, sin concretar medidas [1]. En julio de 2026 Feijóo prometió rebajar un 60 % los impuestos, IVA y transmisiones, a los jóvenes que compren vivienda [2]. En 2023 el programa proponía bajar el IRPF a las rentas de menos de 40.000 euros y una reforma integral del sistema fiscal [3].
+A 23 de octubre de 2026 el PP no ha publicado su programa para el 29-N. El "Contrato con España" que firmó Feijóo el 19 de octubre se compromete a acabar con el "infierno fiscal": "Revisaremos una a una las más de cien subidas fiscales de los últimos años y bajaremos los impuestos". También fija como objetivo subir el salario medio [1]. Los argumentarios de campaña del partido concretan algunas rebajas: del IRPF, IVA del 0 % en alimentos básicos, menos IVA en la luz y una ayuda adicional a las familias con hijos [7], e IRPF "cero" para los jóvenes en su primer año de trabajo [8]. En julio de 2026 Feijóo prometió rebajar un 60 % el IVA y el impuesto de transmisiones a los jóvenes que compren vivienda [2]. No se ha publicado el coste de estas rebajas. En 2023 el programa proponía bajar el IRPF a las rentas de menos de 40.000 euros y una reforma integral del sistema fiscal [3].
 
 En la oposición, el PP mantuvo la misma línea. En abril de 2024 logró que el Congreso aprobara una proposición no de ley para deflactar el IRPF, gracias a la abstención de Junts, PNV y BNG. No era vinculante y el Gobierno no la aplicó [4]. En junio de 2026 registró en el Congreso una rebaja fiscal de unos 3.200 millones como alternativa al decreto energético del Gobierno [5].
 

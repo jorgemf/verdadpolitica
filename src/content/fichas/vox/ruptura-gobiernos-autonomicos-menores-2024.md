@@ -8,7 +8,7 @@ ambito: autonomico
 promesa: "Dar por rotos los gobiernos autonómicos compartidos con el PP y abandonarlos de inmediato si no usaban «todos los medios políticos y legales» para evitar la distribución de menores migrantes."
 importancia: 3
 fecha: 2024-07-11
-actualizado: 2026-10-19
+actualizado: 2026-10-23
 fuentes:
   - titulo: "Ultimátum de Abascal al PP: «Se considerarán rotos los gobiernos que no eviten la distribución de menas»"
     url: https://valenciaplaza.com/valenciaplaza/abascal-avisa-dara-rotos-pactos-pp-si-aceptan-distribucion-menores-migrantes
@@ -28,11 +28,22 @@ fuentes:
   - titulo: "Vox asegura que el Gobierno extremeño rechaza «de manera unánime» acoger más menores migrantes"
     url: https://www.eldiario.es/extremadura/politica/vox-asegura-gobierno-extremeno-rechaza-manera-unanime-acoger-menores-migrantes_1_13433942.html
     medio: elDiario.es
+    fecha: 2026-08-07
     tipo: prensa
   - titulo: "PP y Vox cierran en Castilla y León un pacto con prioridad nacional y privatización como ejes"
     url: https://www.moncloa.com/2026/09/03/pacto-pp-vox-castilla-3425455/
     medio: Moncloa.com
     fecha: 2026-09-03
+    tipo: prensa
+  - titulo: "PP y Vox cierran un acuerdo en Aragón con el mismo modelo pactado en Extremadura"
+    url: https://www.elindependiente.com/espana/2026/04/22/pp-y-vox-cierran-un-acuerdo-en-aragon-con-el-mismo-modelo-pactado-en-extremadura/amp/
+    medio: El Independiente
+    fecha: 2026-04-22
+    tipo: prensa
+  - titulo: "Vox entra en el Gobierno de Moreno con la Consejería de Turismo y Desregulación con rango de vicepresidencia"
+    url: https://www.elespanol.com/espana/andalucia/20260702/pp-vox-cierran-acuerdo-firman-pacto-formar-gobierno-andalucia/1003744308093_0.html
+    medio: El Español
+    fecha: 2026-07-02
     tipo: prensa
 ---
 
@@ -44,7 +55,7 @@ Tras las autonómicas de 2023, Vox entró en los gobiernos de Castilla y León, 
 
 Las comunidades gobernadas por el PP aceptaron acoger a 347 menores. El 11 de julio, el Comité Ejecutivo de Vox decidió salir de los cinco gobiernos de coalición y retirar su apoyo al Govern balear. Sus consejeros dejaron los gobiernos y el partido pasó a la oposición en esas comunidades [2]. Al día siguiente, Abascal extendió la amenaza a los pactos municipales en los que el PP "colaborara activamente" en el reparto [3].
 
-Vox cumplió así su advertencia, pero no consiguió el objetivo de fondo: el reparto se aplicó igualmente. En 2026, Vox volvió a gobernar con el PP en Extremadura, Aragón, Castilla y León y Andalucía. Los pactos de Extremadura y Castilla y León incluyen el rechazo a acoger más menores no acompañados [4][5].
+Vox cumplió así su advertencia, pero no consiguió el objetivo de fondo: el reparto se aplicó igualmente. En 2026, Vox volvió a gobernar con el PP en Extremadura, Aragón, Castilla y León y Andalucía [4][5][6][7]. Los pactos de Extremadura y Castilla y León incluyen el rechazo a acoger más menores no acompañados, y el vicepresidente de Vox en Aragón, Alejandro Nolasco, anunció que el nuevo Gobierno rechazaría "totalmente la llegada de menores migrantes" [4][5][6].
 
 ## Por qué
 

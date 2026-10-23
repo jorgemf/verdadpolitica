@@ -7,7 +7,7 @@ tema: exterior-defensa
 promesa: "«Reforzaremos el presupuesto específico de Defensa que permita desarrollar los proyectos de planeamiento y programas del Ministerio, así como el cumplimiento del incremento de las inversiones de Defensa en el marco de los compromisos internacionales asumidos por España» (programa electoral de 2023)."
 importancia: 2
 fecha: 2025-04-22
-actualizado: 2026-10-20
+actualizado: 2026-10-23
 fuentes:
   - titulo: "Programa electoral del PSOE. Elecciones generales 23 de julio de 2023"
     url: https://www.psoe.es/media-content/2023/07/PROGRAMA_ELECTORAL-GENERALES-2023.pdf
@@ -29,6 +29,11 @@ fuentes:
     medio: Ara
     fecha: 2025-08-28
     tipo: prensa
+  - titulo: "El presupuesto de defensa de España crece más del 50% y supera el 2% del PIB"
+    url: https://www.diariodeleon.es/internacional/260428/2083160/presupuesto-defensa-espana-crece-50-supera-2-pib.html
+    medio: Diario de León (agencias, datos del SIPRI)
+    fecha: 2026-04-28
+    tipo: prensa
 ---
 
 ## Qué se prometió
@@ -40,6 +45,7 @@ El programa del PSOE de 2023 se comprometía a reforzar el presupuesto de Defens
 - **Abril de 2025.** La OTAN situó el gasto español de 2024 en el 1,24 % del PIB; el Ministerio de Defensa defendió que era el 1,43 % [3].
 - **22 de abril de 2025.** El Consejo de Ministros aprobó un plan industrial y tecnológico de seguridad y defensa con 10.471 millones adicionales, hasta más de 33.000 millones, para llegar al 2 % ese mismo año [2]. Se financió reorientando fondos europeos Next Generation, con el margen de un déficit de 2024 menor del previsto y con partidas de los presupuestos de 2023 prorrogados. Alrededor del 35 % iba a mejoras salariales y formación, el 31 % a telecomunicaciones y ciberseguridad y el 19 % a armamento y equipamiento [2].
 - **Agosto de 2025.** La OTAN estimó que España alcanzaba el 2 % por primera vez, con un gasto que pasaba de 22.693 millones en 2024 a 33.123 millones en 2025, un 43,1 % más [4].
+- **Abril de 2026.** El informe anual del Instituto Internacional de Estudios para la Paz de Estocolmo (SIPRI) situó el gasto militar español de 2025 por encima del 2 % del PIB por primera vez desde 1994 [5].
 
 En la cumbre de La Haya, en junio de 2025, los aliados acordaron llegar al 5 % del PIB en 2035. Sánchez comprometió solo el 2,1 % y sostuvo que el secretario general, Mark Rutte, había concedido a España «flexibilidad» [4].
 

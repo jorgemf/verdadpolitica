@@ -8,7 +8,7 @@ implicados: "José Luis Ábalos (exministro de Transportes y exsecretario de Org
 tema: regeneracion-democratica
 importancia: 3
 fecha: 2026-10-14
-actualizado: 2026-10-19
+actualizado: 2026-10-23
 fuentes:
   - titulo: "El Tribunal Supremo condena al exministro José Luis Ábalos y a su exasesor Koldo García a 24 años y 19 años de prisión, respectivamente, por delitos de organización criminal, cohecho, malversación y tráfico de influencias"
     url: https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/El-Tribunal-Supremo-condena-al-exministro-Jose-Luis-Abalos-y-a-su-exasesor-Koldo-Garcia-a-24-anos-y-19-anos-de-prision--respectivamente--por-delitos-de-organizacion-criminal--cohecho--malversacion-y-trafico-de-influencias
@@ -35,9 +35,9 @@ fuentes:
     medio: El Español
     fecha: 2026-06-25
     tipo: prensa
-  - titulo: "Amor, mentiras y poder: las campañas que descarrilaron y el caso Ábalos"
-    url: https://www.democrata.es/elecciones-generales-espana/amor-mentiras-poder-campanas-descarrilaron-caso-abalos/
-    medio: Demócrata
+  - titulo: "Ábalos anuncia que recurrirá su condena ante el Tribunal Constitucional"
+    url: https://www.infobae.com/espana/agencias/2026/10/15/abalos-anuncia-que-recurrira-su-condena-ante-el-tribunal-constitucional/
+    medio: Infobae (EFE)
     fecha: 2026-10-15
     tipo: prensa
   - titulo: "El PSOE cree que el caso Ábalos está amortizado y la condena no romperá la mayoría de Gobierno"
@@ -53,7 +53,7 @@ La Sala de lo Penal del Tribunal Supremo, en una sentencia unánime redactada po
 
 ## Estado procesal
 
-Condena firme. Ábalos fue condenado a 24 años y 3 meses de prisión (con un cumplimiento máximo de 15 años y 8 meses) y Koldo García a 19 años y 8 meses, por organización criminal, cohecho, tráfico de influencias y malversación; el tribunal absolvió a Ábalos del tráfico de influencias relativo a una licencia de hidrocarburos [2]. Aldama fue condenado a cuatro años y medio por cohecho, con la pena suspendida por su colaboración con la justicia [2]. Como el Supremo juzgó en única instancia por la condición de aforado de Ábalos, no cabe recurso ordinario. El 14 de octubre de 2026 la Sala rechazó los incidentes de nulidad de ambas defensas [3]; Ábalos ha anunciado un recurso de amparo ante el Tribunal Constitucional [6]. Última situación documentada: 14 de octubre de 2026. La parte de la investigación que no juzgó el Supremo sigue abierta en la Audiencia Nacional (ver la ficha de Santos Cerdán).
+Condena firme. Ábalos fue condenado a 24 años y 3 meses de prisión (con un cumplimiento máximo de 15 años y 8 meses) y Koldo García a 19 años y 8 meses, por organización criminal, cohecho, tráfico de influencias y malversación; el tribunal absolvió a Ábalos del tráfico de influencias relativo a una licencia de hidrocarburos [2]. Aldama fue condenado a cuatro años y medio por cohecho, con la pena suspendida por su colaboración con la justicia [2]. Como el Supremo juzgó en única instancia por la condición de aforado de Ábalos, no cabe recurso ordinario. El 14 de octubre de 2026 la Sala rechazó los incidentes de nulidad de ambas defensas [3]; El 15 de octubre Ábalos anunció un recurso de amparo ante el Tribunal Constitucional por vulneración de derechos fundamentales; sostiene, entre otras cosas, que el Supremo no era competente para juzgarlo tras renunciar a su escaño [6]. Un amparo no suspende por sí solo la condena. Última situación documentada: 15 de octubre de 2026; en las búsquedas del 23 de octubre no consta que el recurso se haya presentado. La parte de la investigación que no juzgó el Supremo sigue abierta en la Audiencia Nacional (ver la ficha de Santos Cerdán).
 
 ## Lo que dicen las partes
 

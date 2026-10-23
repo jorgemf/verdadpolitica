@@ -4,7 +4,7 @@ tema: seguridad-ciudadana
 propuesta: "Sin programa publicado ni propuestas de seguridad en su web de campaña, su última propuesta es su ley de 2024 de reforma de la ley de seguridad ciudadana: prohibir las pelotas de goma y evitar las «devoluciones en caliente» (proposición de ley 122/000103)."
 balance: "Su ley de seguridad ciudadana caducó sin debatirse. Votó a favor de tramitar la reforma de PSOE, Sumar, EH Bildu y PNV (176 a 170, octubre de 2024), que caducó en ponencia, y en contra de la ley de multirreincidencia, aprobada en el Congreso el 12 de febrero de 2026 por 302 votos a 36."
 coherencia: coherente
-actualizado: 2026-10-20
+actualizado: 2026-10-23
 fuentes:
   - titulo: "Paz, casa y trabajo. Cinco cosas (web de campaña de Podemos para el 29-N)"
     url: https://pazcasaytrabajo.es/
@@ -52,7 +52,7 @@ fuentes:
     tipo: prensa
 ---
 
-A 20 de octubre de 2026 Podemos no ha publicado su programa para el 29-N, y su web de campaña no incluye propuestas sobre seguridad ciudadana [1]. La propuesta recoge su proposición de ley de mayo de 2024 para reformar la Ley Orgánica 4/2015 («ley mordaza»): prohíbe expresamente el uso de pelotas de goma por las fuerzas de seguridad y busca evitar las «devoluciones en caliente» en frontera [2]. El tratamiento de la ley desde el punto de vista de las libertades y los derechos figura también en el tema de corrupción, justicia e instituciones.
+A 23 de octubre de 2026 Podemos no ha publicado un programa completo para el 29-N, y su web de campaña no incluye propuestas sobre seguridad ciudadana [1]. La propuesta recoge su proposición de ley de mayo de 2024 para reformar la Ley Orgánica 4/2015 («ley mordaza»): prohíbe expresamente el uso de pelotas de goma por las fuerzas de seguridad y busca evitar las «devoluciones en caliente» en frontera [2]. El tratamiento de la ley desde el punto de vista de las libertades y los derechos figura también en el tema de corrupción, justicia e instituciones.
 
 En la legislatura, su proposición de ley no llegó a debatirse en el Pleno y caducó con la disolución [3]. El 29 de octubre de 2024 sus cuatro diputados votaron a favor de tomar en consideración la reforma de la ley de seguridad ciudadana registrada por PSOE, Sumar, EH Bildu y PNV, que salió adelante por 176 votos a favor y 170 en contra [4]. Su diputada Martina Velarde la calificó de «reforma parcial que llega tarde, es insuficiente y no supone un gran avance», pero dio un voto de confianza para corregirla en las enmiendas [5]. Durante la tramitación, Podemos exigió un plazo concreto para prohibir las pelotas de goma y que el rechazo en frontera quedara expresamente prohibido; la ponencia no se reunió en 2026 y la reforma caducó [6].
 

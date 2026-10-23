@@ -6,10 +6,10 @@ resumen: "La UCO detuvo en noviembre de 2025 al presidente de la Diputación y d
 tema: regeneracion-democratica
 ambito: municipal
 estadoJudicial: investigacion
-implicados: "Javier Aureliano García, entonces presidente de la Diputación de Almería y del PP provincial (suspendido de militancia; dejó ambos cargos), Fernando Giménez, vicepresidente segundo de la Diputación, el exvicepresidente Óscar Liria (expulsado del PP), el alcalde de Fines, Rodrigo Sánchez, y varios empresarios y familiares."
+implicados: "Javier Aureliano García, entonces presidente de la Diputación de Almería y del PP provincial (suspendido de militancia; dejó ambos cargos), Fernando Giménez, entonces vicepresidente segundo de la Diputación, el exvicepresidente Óscar Liria (expulsado del PP), el alcalde de Fines, Rodrigo Sánchez, y varios empresarios y familiares."
 importancia: 2
 fecha: 2026-06-26
-actualizado: 2026-10-19
+actualizado: 2026-10-23
 fuentes:
   - titulo: "Comisiones por vender mascarillas y coches de alta gama: la trama que acorrala al PP de Almería"
     url: https://www.eldiario.es/andalucia/almeria/comisiones-vender-mascarillas-coches-alta-gama-trama-acorrala-pp-almeria_1_12776043.html
@@ -34,7 +34,7 @@ El Juzgado de Instrucción número 1 de Almería investiga una presunta trama de
 
 ## Estado procesal
 
-El 18 de noviembre de 2025 la UCO detuvo a Javier Aureliano García, a Fernando Giménez y al alcalde de Fines, Rodrigo Sánchez, tras registrar el Palacio Provincial y varias viviendas [1][2]. Según la UCO, Giménez estaría en el núcleo de la trama, que se comunicaba por un grupo de WhatsApp llamado "Naranjito" [2]. En junio de 2026, en una nueva ronda de declaraciones ante el juez Manuel Rey Bellot, Giménez (el 12 de junio) y García (el 26 de junio) se acogieron a su derecho a no declarar [2][3]. Última situación documentada (26 de junio de 2026): la instrucción esperaba los informes de la Guardia Civil sobre los dispositivos intervenidos [3]. Todos los investigados gozan de la presunción de inocencia.
+El 18 de noviembre de 2025 la UCO detuvo a Javier Aureliano García, a Fernando Giménez y al alcalde de Fines, Rodrigo Sánchez, tras registrar el Palacio Provincial y varias viviendas [1][2]. Según la UCO, Giménez estaría en el núcleo de la trama, que se comunicaba por un grupo de WhatsApp llamado "Naranjito" [2]. En junio de 2026, en una nueva ronda de declaraciones ante el juez Manuel Rey Bellot, Giménez (el 12 de junio) y García (el 26 de junio) se acogieron a su derecho a no declarar [2][3]. Última situación documentada (26 de junio de 2026): la instrucción esperaba los informes de la Guardia Civil sobre los dispositivos intervenidos [3]; en las búsquedas realizadas el 23 de octubre de 2026 no constan resoluciones posteriores. Todos los investigados gozan de la presunción de inocencia.
 
 ## Lo que dicen las partes
 

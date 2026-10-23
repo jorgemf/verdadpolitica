@@ -4,7 +4,7 @@ tema: energia-medioambiente
 propuesta: "Cumplir el Plan Nacional Integrado de Energía y Clima 2023-2030 (81 % de electricidad renovable y un 32 % menos de emisiones que en 1990) y alcanzar un pacto de Estado frente a la emergencia climática, como propuso Sánchez en agosto de 2025."
 balance: "Mantuvo el calendario de cierre nuclear salvo Almaraz, cuya autorización prorrogó en agosto de 2026 hasta junio de 2030. Lanzó en enero de 2026 el abono único de transporte de 60 euros al mes. No logró prorrogar el gravamen a las energéticas."
 coherencia: parcial
-actualizado: 2026-10-19
+actualizado: 2026-10-23
 fuentes:
   - titulo: "El Gobierno prorroga la central nuclear de Almaraz hasta 2030 tras casi un año de negociación"
     url: https://elperiodicodelaenergia.com/el-gobierno-prorroga-la-central-nuclear-de-almaraz-hasta-2030-tras-casi-un-ano-de-negociacion/

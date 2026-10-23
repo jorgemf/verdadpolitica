@@ -8,7 +8,7 @@ promesa: "«Daremos marcha atrás con celeridad al cambio de posición adoptado 
 bloqueadoPor: ["PSOE (Presidencia del Gobierno y Ministerio de Asuntos Exteriores)"]
 importancia: 2
 fecha: 2026-02-07
-actualizado: 2026-10-20
+actualizado: 2026-10-23
 fuentes:
   - titulo: "Un programa para ti. Programa electoral de Sumar para las elecciones generales de 2023"
     url: https://movimientosumar.es/wp-content/uploads/2023/07/Un-Programa-para-ti.pdf
@@ -38,6 +38,11 @@ fuentes:
     url: https://www.congreso.es/es/proposiciones-de-ley?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=122%2F000072
     medio: Congreso de los Diputados
     tipo: oficial
+  - titulo: "La ley que otorga la nacionalidad a los saharauis decae con la disolución de las Cortes"
+    url: https://theobjective.com/espana/2026-10-05/ley-nacionalidad-saharauis-decae-disolucion/
+    medio: The Objective
+    fecha: 2026-10-05
+    tipo: prensa
 ---
 
 ## Qué se prometió
@@ -52,7 +57,7 @@ El 3 de noviembre de 2025 el portavoz de IU, Enrique Santiago, registró otra pr
 
 El Gobierno no cambió de posición. En diciembre de 2025 el ministro de Asuntos Exteriores, José Manuel Albares, dijo que la resolución 2797 del Consejo de Seguridad "reconfirma completamente la posición española" [4]. En febrero de 2026 el Gobierno seguía considerando el plan de autonomía marroquí la base "más seria, creíble y realista" para resolver el conflicto [5].
 
-La proposición de ley de Sumar para conceder la nacionalidad española a los saharauis nacidos bajo la administración española (122/000072) fue aprobada por el Congreso en septiembre de 2026, pero caducó con la disolución de las Cortes antes de que el Senado terminara su tramitación [6]. No cambia la posición del Gobierno sobre el conflicto.
+La proposición de ley de Sumar para conceder la nacionalidad española a los saharauis nacidos bajo la administración española (122/000072) fue aprobada por el Pleno del Congreso en septiembre de 2026, con el voto en contra de Vox y la abstención de PP y UPN. En el Senado el PP presentó enmiendas que obligaban a votarla en un Pleno que no llegó a celebrarse, y la iniciativa caducó con la disolución de las Cortes [6] [7]. Sumar planteó entonces que el Gobierno concediera la nacionalidad por carta de naturaleza mediante real decreto [7]. No cambia la posición del Gobierno sobre el conflicto.
 
 ## Por qué
 

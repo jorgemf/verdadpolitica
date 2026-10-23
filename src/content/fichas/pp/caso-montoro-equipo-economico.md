@@ -8,7 +8,7 @@ estadoJudicial: investigacion
 implicados: "Cristóbal Montoro, exministro de Hacienda con Rajoy (antiguo cargo; se dio de baja como afiliado del PP el 17 de julio de 2025), y unos treinta investigados más: ex altos cargos de Hacienda, socios de Equipo Económico y directivos de empresas. El PP como partido no está investigado."
 importancia: 2
 fecha: 2026-10-05
-actualizado: 2026-10-19
+actualizado: 2026-10-23
 fuentes:
   - titulo: "El Supremo rechaza decidir si envía el 'caso Montoro' a Madrid y deja la cuestión en manos de la Audiencia de Tarragona"
     url: https://www.eldiario.es/politica/supremo-rechaza-decidir-si-envia-caso-montoro-madrid-deja-cuestion-manos-audiencia-tarragona_1_13564150.html
@@ -30,6 +30,11 @@ fuentes:
     medio: Diari de Tarragona
     fecha: 2026-09-14
     tipo: prensa
+  - titulo: "La Audiencia de Tarragona deja en manos del Supremo decidir si el 'caso Montoro' debe seguir en Tarragona o pasar a Madrid"
+    url: https://www.infobae.com/espana/2026/09/22/la-audiencia-de-tarragona-deja-en-manos-del-supremo-decidir-si-el-caso-montoro-debe-seguir-en-tarragona-o-pasar-a-madrid/
+    medio: Infobae
+    fecha: 2026-09-22
+    tipo: prensa
 ---
 
 ## Hechos
@@ -40,7 +45,7 @@ El Juzgado de Instrucción número 2 de Tarragona, a cargo del juez Rubén Rus, 
 
 La imputación de Montoro se conoció el 16 de julio de 2025, y al día siguiente comunicó al PP que dejaba de ser afiliado [3]. La causa tiene unos treinta investigados. El juez prorrogó la instrucción en el verano de 2026: el auto fija su final el 26 de julio de 2027 y encarga a los Mossos analizar los movimientos bancarios de Montoro y de seis personas de su entorno. En agosto de 2026 Montoro aún no había sido citado a declarar [2].
 
-Las defensas piden trasladar la causa a Madrid. El juez lo rechazó en abril de 2026 porque parte de los hechos ocurrió en Tarragona [4]. La Audiencia de Tarragona entendió que la decisión correspondía al Supremo, pero el 5 de octubre de 2026 se conoció que el Supremo se declaraba incompetente y devolvía la cuestión a la Audiencia Provincial [1]. Última situación documentada (5 de octubre de 2026): instrucción abierta y competencia pendiente de decidir. Montoro y el resto de investigados gozan de la presunción de inocencia.
+Las defensas piden trasladar la causa a Madrid. El juez lo rechazó en abril de 2026 porque parte de los hechos ocurrió en Tarragona [4]. En septiembre de 2026 la Audiencia de Tarragona entendió que la decisión correspondía al Supremo [5], pero el 5 de octubre de 2026 se conoció que el Supremo se declaraba incompetente y devolvía la cuestión a la Audiencia Provincial [1]. Última situación documentada (5 de octubre de 2026): instrucción abierta y competencia pendiente de decidir; en las búsquedas realizadas el 23 de octubre de 2026 no consta una resolución posterior de la Audiencia de Tarragona. Montoro y el resto de investigados gozan de la presunción de inocencia.
 
 ## Lo que dicen las partes
 

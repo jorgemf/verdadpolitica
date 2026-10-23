@@ -1,21 +1,21 @@
 ---
 partido: pp
 tema: seguridad-ciudadana
-propuesta: "Más seguridad en las calles, \"con más recursos y más autoridad\" para las Fuerzas y Cuerpos de Seguridad, y desalojos de viviendas ocupadas en 48 horas. En 2023 proponía ampliar la prisión permanente revisable a los asesinatos con ocultación del cadáver."
+propuesta: "Más seguridad en las calles, con \"más recursos económicos y materiales, reconocimiento y autoridad\" para las Fuerzas y Cuerpos de Seguridad, y echar a los okupas \"en 48 horas\" (en 2023 prometía 24). En 2023 proponía también ampliar la prisión permanente revisable a los asesinatos con ocultación del cadáver."
 balance: "Votó la ley de multirreincidencia de Junts (Ley Orgánica 1/2026); la suya, en tramitación desde 2024, caducó. El Congreso rechazó en marzo de 2026 su ley para ampliar la prisión permanente revisable. En junio de 2026 registró una ley sobre el uso de armas de fuego por la policía que no llegó a debatirse."
 coherencia: coherente
-actualizado: 2026-10-20
+actualizado: 2026-10-23
 fuentes:
-  - titulo: "Feijóo recita todos sus compromisos para \"restaurar\" la ley y la unidad en España, pero todavía no concreta ninguna medida"
-    url: https://www.infobae.com/espana/2026/10/19/feijoo-recita-todos-sus-compromisos-para-restaurar-la-ley-y-la-unidad-en-espana-pero-todavia-no-concreta-ninguna-medida-me-comprometo-a-cumplir/
-    medio: Infobae
+  - titulo: "Mi contrato con España"
+    url: https://www.pp.es/wp-content/uploads/2026/10/CONTRATO-CON-ESPANA-.pdf
+    medio: Partido Popular
     fecha: 2026-10-19
-    tipo: prensa
-  - titulo: "Los 15 compromisos de Feijóo en su \"Contrato con España\": de \"garantizar las pensiones\" a \"ordenar la inmigración\""
-    url: https://www.elespanol.com/espana/politica/20261019/compromisos-feijoo-contrato-espana-garantizar-pensiones-ordenar-inmigracion/1003744426020_0.amp.html
-    medio: El Español
-    fecha: 2026-10-19
-    tipo: prensa
+    tipo: partido
+  - titulo: "Hablemos claro: Una nueva generación de propietarios"
+    url: https://www.pp.es/wp-content/uploads/2026/10/26-10-21-UNA-NUEVA-GENERACION-DE-PROPIETARIOS.pdf
+    medio: Partido Popular
+    fecha: 2026-10-22
+    tipo: partido
   - titulo: "Resumen del programa electoral del PP: 50 principales medidas"
     url: https://www.pp.es/storage/2023/07/23.07.04._resumen_programa_electoral.pdf
     medio: Partido Popular
@@ -51,9 +51,14 @@ fuentes:
     medio: Congreso de los Diputados
     fecha: 2026-10-20
     tipo: oficial
+  - titulo: "BOCG Congreso, serie B, núm. 304-1: Proposición de Ley Orgánica del Grupo Popular contra la ocupación ilegal de inmuebles (122/000254)"
+    url: https://www.congreso.es/public_oficiales/L15/CONG/BOCG/B/BOCG-15-B-304-1.PDF
+    medio: Congreso de los Diputados
+    fecha: 2026-02-13
+    tipo: oficial
 ---
 
-A 20 de octubre de 2026 el PP no ha publicado su programa para el 29-N. El "Contrato con España" (citado según la prensa; no se ha localizado el texto del partido) incluye "más seguridad en las calles, con más recursos y más autoridad para las Fuerzas y Cuerpos de Seguridad del Estado" y medidas "para echar a los okupas en 48 horas" [1][2]. No concreta cuántos agentes ni qué reformas legales. El programa de 2023 prometía ampliar la prisión permanente revisable a los asesinatos con ocultación del cadáver y desalojos de viviendas ocupadas en 24 horas (medidas 37 y 38) [3].
+A 23 de octubre de 2026 el PP no ha publicado su programa para el 29-N. El "Contrato con España" (19 de octubre de 2026) promete "más seguridad en las calles": combatir "la creciente inseguridad en muchos barrios y, en especial, la violencia contra las mujeres", con "más recursos económicos y materiales, reconocimiento y autoridad" para las Fuerzas y Cuerpos de Seguridad del Estado. En su punto de vivienda incluye "echar a los okupas en 48 horas" [1], y un argumentario del partido anuncia que la ley antiokupación se aprobará en los cien primeros días de Gobierno [2]. No concreta cuántos agentes ni qué otras reformas legales. El programa de 2023 prometía ampliar la prisión permanente revisable a los asesinatos con ocultación del cadáver y desalojos de viviendas ocupadas en un plazo máximo de 24 horas (medidas 37 y 38) [3], el mismo plazo que recogía la ley antiokupación que el PP llevó al Congreso en 2026 [10]. Los documentos de campaña consultados no explican el paso de 24 a 48 horas.
 
 En la oposición, el PP llevó a las Cortes varias reformas penales:
 

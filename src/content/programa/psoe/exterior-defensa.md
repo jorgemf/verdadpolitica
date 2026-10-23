@@ -4,7 +4,7 @@ tema: exterior-defensa
 propuesta: "Sin programa del 29-N publicado, mantiene el gasto en defensa en torno al 2,1 % del PIB y rechaza el 5 % acordado en la OTAN para 2035: Sánchez dijo en junio de 2026 que no destruirá el Estado del bienestar «con la excusa» de ese objetivo. Defiende la solución de los dos Estados en Oriente Medio."
 balance: "Reconoció el Estado de Palestina (mayo de 2024) y aprobó por decreto-ley medidas contra Israel, entre ellas consolidar el embargo de armas (2025). En 2025 compró munición a una empresa israelí que había dicho que no compraría. Llegó al 2 % del PIB en defensa en 2025 con un plan no votado en el Congreso."
 coherencia: parcial
-actualizado: 2026-10-20
+actualizado: 2026-10-23
 fuentes:
   - titulo: "Pedro Sánchez fija su horizonte en 2031 y promete otros cuatro años de gobierno progresista: “España será un país mucho mejor”"
     url: https://www.moncloa.com/2026/06/27/pedro-sanchez-psoe-3391192/
@@ -42,7 +42,7 @@ fuentes:
     tipo: prensa
 ---
 
-A 20 de octubre de 2026 el PSOE no ha publicado su programa para el 29-N. En el Comité Federal de junio de 2026, Sánchez se comprometió a no destruir el Estado del bienestar «con la excusa del 5% de presupuesto en Defensa» [1]. En la cumbre de la OTAN de La Haya (junio de 2025) los aliados acordaron llegar al 5 % del PIB en 2035, y España se comprometió solo al 2,1 % [2]. Su programa de 2023 apoyaba retomar las conversaciones de paz para avanzar «en la solución de los dos Estados» entre israelíes y palestinos, y reforzar el presupuesto de Defensa para cumplir los compromisos internacionales [3].
+A 23 de octubre de 2026 el PSOE no ha publicado su programa para el 29-N. En el Comité Federal de junio de 2026, Sánchez se comprometió a no destruir el Estado del bienestar «con la excusa del 5% de presupuesto en Defensa» [1]. En la cumbre de la OTAN de La Haya (junio de 2025) los aliados acordaron llegar al 5 % del PIB en 2035, y España se comprometió solo al 2,1 % [2]. Su programa de 2023 apoyaba retomar las conversaciones de paz para avanzar «en la solución de los dos Estados» entre israelíes y palestinos, y reforzar el presupuesto de Defensa para cumplir los compromisos internacionales [3].
 
 En la legislatura:
 - El Consejo de Ministros aprobó el 28 de mayo de 2024 el reconocimiento del Estado de Palestina [4].

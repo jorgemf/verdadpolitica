@@ -1,16 +1,16 @@
 ---
 partido: pp
 tema: regeneracion-democratica
-propuesta: "Poner al frente del TC y de la Fiscalía a personas independientes, presentar presupuestos cada año y convocar elecciones si se prorrogan más de una vez, auditar el gasto, reducir ministerios y asesores y exigir responsabilidades políticas por la corrupción de los subordinados."
+propuesta: "Que los jueces elijan a los jueces y personas independientes dirijan el TC y la Fiscalía; presentar presupuestos cada año y convocar elecciones si se prorrogan más de una vez; auditar el gasto, reducir ministerios y asesores y exigir responsabilidades por la corrupción de los subordinados."
 balance: "En 2024 pactó con el PSOE renovar el CGPJ con el sistema vigente, aunque había exigido cambiar antes el modelo; su reforma posterior no se votó. Desde el Senado investigó el caso Koldo. Hay causas abiertas contra antiguos cargos suyos (Kitchen, Montoro, Diputación de Almería)."
 coherencia: parcial
-actualizado: 2026-10-19
+actualizado: 2026-10-23
 fuentes:
-  - titulo: "Feijóo recita todos sus compromisos para \"restaurar\" la ley y la unidad en España, pero todavía no concreta ninguna medida"
-    url: https://www.infobae.com/espana/2026/10/19/feijoo-recita-todos-sus-compromisos-para-restaurar-la-ley-y-la-unidad-en-espana-pero-todavia-no-concreta-ninguna-medida-me-comprometo-a-cumplir/
-    medio: Infobae
+  - titulo: "Mi contrato con España"
+    url: https://www.pp.es/wp-content/uploads/2026/10/CONTRATO-CON-ESPANA-.pdf
+    medio: Partido Popular
     fecha: 2026-10-19
-    tipo: prensa
+    tipo: partido
   - titulo: "El PSOE y el PP logran un acuerdo para la renovación inmediata del CGPJ"
     url: https://www.menorca.info/actualidad/nacional/2024/06/25/2191605/poder-judicial-espana-psoe-logran-acuerdo-para-renovacion-inmediata.html
     medio: Menorca.info (Europa Press)
@@ -46,9 +46,14 @@ fuentes:
     medio: RTVC
     fecha: 2025-10-30
     tipo: prensa
+  - titulo: "Hablemos claro: Votaremos decencia"
+    url: https://www.pp.es/wp-content/uploads/2026/10/26-10-20-VOTAREMOS-DECENCIA.pdf
+    medio: Partido Popular
+    fecha: 2026-10-21
+    tipo: partido
 ---
 
-A 19 de octubre de 2026 el PP no ha publicado su programa para el 29-N. El "Contrato con España" (citado según la prensa; no se ha localizado el texto del partido) se compromete a que el Tribunal Constitucional y la Fiscalía General estén dirigidos por personas independientes, a presentar presupuestos cada año y a convocar elecciones si se prorrogan más de una vez. También a auditar el gasto público, reducir ministerios, altos cargos y asesores y exigir responsabilidades políticas por la corrupción de los subordinados [1]. El programa de 2023 ya incluía reformar la Ley del Tribunal Constitucional y fijar un periodo de cinco años sin cargo electo para dirigir organismos independientes [7].
+A 23 de octubre de 2026 el PP no ha publicado su programa para el 29-N. El "Contrato con España" (19 de octubre de 2026) se compromete a que "los jueces elegirán a los jueces", a que los órganos reguladores, el Tribunal Constitucional y la Fiscalía General estén "dirigidos por personas independientes" y a que el Gobierno presente presupuestos cada año y convoque "obligatoriamente elecciones si acumula más de una prórroga". También a auditar "cada euro", reducir ministerios, altos cargos y asesores y a que "todo cargo político responderá por la corrupción de sus subordinados" [1]. Según un argumentario del partido, su primer Consejo de Ministros reduciría a la mitad los altos cargos y encargaría una auditoría integral de las cuentas [9]. El programa de 2023 ya incluía reformar la Ley del Tribunal Constitucional y fijar un periodo de cinco años sin cargo electo para dirigir organismos independientes [7].
 
 En la legislatura, Feijóo había exigido renovar el CGPJ y cambiar su modelo de elección a la vez. En junio de 2024 pactó con el PSOE la renovación con el sistema vigente [2]. En junio de 2026 presentó su reforma del modelo, asumiendo que no se aprobaría antes de las elecciones [3]. Con su mayoría en el Senado creó una comisión de investigación sobre el caso Koldo, ante la que compareció Pedro Sánchez en octubre de 2025 [8].
 

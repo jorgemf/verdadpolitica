@@ -9,7 +9,7 @@ faseJudicial: denuncia
 implicados: "Vox como persona jurídica (denuncia del PSOE ante la Fiscalía por financiación ilegal)."
 importancia: 2
 fecha: 2025-06-16
-actualizado: 2026-10-20
+actualizado: 2026-10-23
 fuentes:
   - titulo: "Informe de fiscalización de las contabilidades de las elecciones a Cortes Generales de 23 de julio de 2023 (n.º 1.616)"
     url: https://www.congreso.es/docu/inf_fiscTC/LegXV/251-156.pdf
@@ -41,6 +41,16 @@ fuentes:
     medio: El Independiente (Europa Press)
     fecha: 2026-06-24
     tipo: prensa
+  - titulo: "Vox reclama al Estado los 1,7 millones que pagó en intereses a un banco de Orbán por un crédito que ocultaron"
+    url: https://www.elplural.com/politica/espana/vox-reclama-estado-17-millones-pago-intereses-banco-orban-credito-ocultaron_393932102
+    medio: El Plural
+    fecha: 2026-06-25
+    tipo: prensa
+  - titulo: "Vox eleva a los tribunales el coste de sus préstamos con el banco de Orbán"
+    url: https://www.mundiario.com/articulo/politica/vox-eleva-tribunales-coste-prestamos-banco-orban/20260625130154391800.html
+    medio: Mundiario
+    fecha: 2026-06-25
+    tipo: prensa
   - titulo: "Vox admite haber recibido nueve millones de un banco húngaro y alega que las entidades españolas no les financian"
     url: https://www.ondavasca.com/vox-admite-haber-recibido-nueve-millones-de-un-banco-hungaro-y-alega-que-las-entidades-espanolas-no-les-financian/
     medio: Onda Vasca
@@ -58,8 +68,10 @@ En diciembre de 2024 el PSOE denunció a Vox ante la Fiscalía por financiación
 
 La Fiscalía Anticorrupción archivó sus diligencias sobre la denuncia el 16 de junio de 2025, sin llevar el asunto a un juzgado. Se trata de un archivo de la Fiscalía, no de una resolución judicial. Sobre el préstamo, concluyó que "no hubo ninguna donación" porque Vox lo amortizó íntegramente, y que no se pudo acreditar que el banco esté participado por el Gobierno húngaro. Sobre el merchandising, sostuvo que los hechos ya habían sido sancionados en vía administrativa por el Tribunal de Cuentas y no podían llevarse a la vía penal [4][5]. Esa sanción fue anulada después por el Tribunal Supremo (ver ficha correspondiente).
 
-Según las cuentas de 2025 de Vox, a las que tuvo acceso Europa Press, el partido terminó ese año de pagar el préstamo de MBH para las europeas de 2024 y abonó 209.000 euros en intereses [6].
+Según las cuentas de 2025 de Vox, a las que tuvo acceso Europa Press, el partido terminó ese año de pagar el préstamo de MBH para las europeas de 2024 y los intereses derivados, que esa información cifra en 209.000 euros [6].
+
+En junio de 2026 se conoció que Vox ha demandado al Estado para que le abone unos 1,7 millones de euros que, según el partido, pagó en intereses por los dos créditos de MBH, a un tipo del 11 %. Sostiene que tuvo que endeudarse por el retraso en el pago de las subvenciones electorales, de las que dice que se le adeudan más de 3 millones. Las informaciones no identifican el tribunal y no consta ninguna resolución sobre esa demanda [7][8]. Es una reclamación de Vox, no una causa contra el partido.
 
 ## Lo que dicen las partes
 
-Vox reconoció los créditos, sostiene que actuó dentro de la ley y que los necesitó para financiar las campañas porque, según el partido, los bancos españoles no le concedían crédito [7]. El PSOE y otros partidos sostienen que la operación podría vulnerar la prohibición de financiación pública extranjera. El Tribunal de Cuentas no ha llegado a una conclusión sobre ese punto por la falta de respuesta del banco [1].
+Vox reconoció los créditos, sostiene que actuó dentro de la ley y que los necesitó para financiar las campañas porque, según el partido, los bancos españoles no le concedían crédito [9]. El PSOE y otros partidos sostienen que la operación podría vulnerar la prohibición de financiación pública extranjera. El Tribunal de Cuentas no ha llegado a una conclusión sobre ese punto por la falta de respuesta del banco [1].

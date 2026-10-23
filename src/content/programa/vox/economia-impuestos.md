@@ -4,7 +4,7 @@ tema: economia-impuestos
 propuesta: "IRPF con dos tipos (15 % hasta 70.000 € y 25 % por encima) y 22.000 € exentos, IVA general del 18 % y del 4 % para luz, gas y agua, supresión de Patrimonio y Sucesiones, y un plan de desregulación que suprime tres normas por cada una nueva."
 balance: "El Gobierno vetó en 2024 su ley de IRPF de dos tipos. En 2026 votó en solitario contra los decretos que bajaban el IVA de la luz y el gas. Pactó en Extremadura y Andalucía rebajas del IRPF autonómico de 0,25 puntos al año y fue decisivo para los presupuestos valencianos de 2025."
 coherencia: parcial
-actualizado: 2026-10-19
+actualizado: 2026-10-23
 fuentes:
   - titulo: "Vox presenta en el Congreso su plan fiscal: reducción del IVA, dos tipos de IRPF y deducciones por hijo"
     url: https://forbes.es/economia/452984/vox-presenta-en-el-congreso-su-plan-fiscal-reduccion-del-iva-dos-tipos-de-irpf-y-deducciones-por-hijo/
@@ -62,7 +62,7 @@ fuentes:
     tipo: prensa
 ---
 
-Vox no ha publicado programa para el 29-N. Se usan el programa de 2023, el plan fiscal que llevó al Congreso en 2024 y su plan de desregulación de 2026 [3][1][4].
+A 23 de octubre de 2026, Vox no ha publicado programa para el 29-N. Se usan el programa de 2023, el plan fiscal que llevó al Congreso en 2024 y su plan de desregulación de 2026 [3][1][4].
 
 **Qué proponen.** Un IRPF de dos tipos, 15 % y 25 %, con 22.000 euros exentos y cuatro puntos menos por hijo, un IVA general del 18 % y la supresión de Patrimonio y Sucesiones [1][3]. Para la luz, el gas y el agua de los hogares propone un IVA del 4 % y suprimir el impuesto eléctrico [1][9]. El plan de desregulación plantea eliminar tres normas por cada una nueva [4].
 

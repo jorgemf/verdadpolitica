@@ -8,7 +8,7 @@ estadoJudicial: juicio
 implicados: "Antiguos cargos del Gobierno del PP: Jorge Fernández Díaz (exministro del Interior) y Francisco Martínez (ex secretario de Estado de Seguridad). También el ex DAO Eugenio Pino, el excomisario José Manuel Villarejo y otros policías. El PP como persona jurídica no está acusado, y María Dolores de Cospedal fue exonerada en 2021."
 importancia: 3
 fecha: 2026-07-28
-actualizado: 2026-10-19
+actualizado: 2026-10-23
 fuentes:
   - titulo: "Visto para sentencia el juicio del caso Kitchen cuatro meses después de que arrancara"
     url: https://www.eldiario.es/politica/visto-sentencia-juicio-caso-kitchen-cuatro-meses-despues-arrancara_1_13411715.html
@@ -38,7 +38,7 @@ La Fiscalía Anticorrupción sostiene que entre 2013 y 2014 el Ministerio del In
 
 ## Estado procesal
 
-El juicio empezó el 6 de abril de 2026 en la Audiencia Nacional, en un tribunal presidido por la magistrada Teresa Palacios [1][4]. Al final de la vista quedaban ocho acusados, entre ellos Fernández Díaz, Martínez, Pino, Villarejo y Ríos [2]. Anticorrupción pide 15 años de prisión para Fernández Díaz, Martínez y Pino y 19 para Villarejo; la acusación de la familia Bárcenas pide 17 para el exministro [1][2]. El juicio quedó visto para sentencia el 28 de julio de 2026, tras 37 sesiones [1]. Última situación documentada (28 de julio de 2026): visto para sentencia. En las búsquedas realizadas el 19 de octubre de 2026 no consta que se haya dictado sentencia. Todos los acusados gozan de la presunción de inocencia.
+El juicio empezó el 6 de abril de 2026 en la Audiencia Nacional, en un tribunal presidido por la magistrada Teresa Palacios [1][4]. Al final de la vista quedaban ocho acusados, entre ellos Fernández Díaz, Martínez, Pino, Villarejo y Ríos [2]. Anticorrupción pide 15 años de prisión para Fernández Díaz, Martínez y Pino y 19 para Villarejo; la acusación de la familia Bárcenas pide 17 para el exministro [1][2]. El juicio quedó visto para sentencia el 28 de julio de 2026, tras 37 sesiones [1]. Última situación documentada (28 de julio de 2026): visto para sentencia. En las búsquedas realizadas el 23 de octubre de 2026 no consta que se haya dictado sentencia. Todos los acusados gozan de la presunción de inocencia.
 
 En julio de 2026 el juez instructor encargó analizar audios entre Cospedal y Villarejo, pero ella no está imputada: la exoneraron en 2021 [3].
 

@@ -9,7 +9,7 @@ estadoJudicial: condena-firme
 implicados: "Isabel (Isa) Serra, diputada autonómica y portavoz de Podemos en la Asamblea de Madrid cuando fue condenada; después coportavoz estatal de Podemos. El partido no fue parte del procedimiento."
 importancia: 2
 fecha: 2021-07-05
-actualizado: 2026-10-20
+actualizado: 2026-10-23
 fuentes:
   - titulo: "La diputada Isa Serra, condenada a 19 meses de cárcel, multa e inhabilitación"
     url: https://www.publico.es/politica/diputada-isa-serra-condenada-19-meses-carcel-multa-e-inhabilitacion.html
@@ -44,7 +44,7 @@ El 22 de abril de 2020 el Tribunal Superior de Justicia de Madrid la condenó po
 - **Supremo.** Desestimó el recurso de casación y confirmó la condena, que se hizo pública el 5 de julio de 2021 y es firme. Incluye una indemnización de 5.250 euros a los dos agentes heridos. El tribunal no la consideró cabecilla ni instigadora [2] [3].
 - **Ejecución.** El 23 de septiembre de 2022, tras pagar las responsabilidades económicas, el tribunal suspendió la pena de prisión durante tres años con la condición de no delinquir. La inhabilitación no se suspendió y se computó desde la sentencia firme. En abril de 2023 el tribunal comunicó que la había cumplido, tras corregir un error sobre su cancelación [4].
 
-Serra anunció en 2021 que acudiría al Tribunal Europeo de Derechos Humanos [2]. En las búsquedas realizadas el 20 de octubre de 2026 no consta ninguna resolución de ese tribunal sobre el caso.
+Serra anunció en 2021 que acudiría al Tribunal Europeo de Derechos Humanos [2]. En las búsquedas realizadas el 23 de octubre de 2026 no consta ninguna resolución de ese tribunal sobre el caso.
 
 ## Lo que dicen las partes
 

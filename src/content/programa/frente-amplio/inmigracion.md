@@ -4,7 +4,7 @@ tema: inmigracion
 propuesta: "Frente Amplio no ha presentado propuestas nuevas de inmigración. Las últimas oficiales son las de Sumar en 2023: reformar la ley de extranjería para crear un procedimiento de regularización permanente, simplificar los trámites de residencia y cerrar los centros de internamiento de extranjeros (CIE)."
 balance: "Apoyó la ILP de regularización y pidió hacerla por decreto. El Real Decreto 316/2026 abrió en abril una regularización extraordinaria, desbloqueada por un pacto PSOE-Podemos. No hubo regularización permanente y los CIE siguen abiertos. Dos de sus diputados votaron contra la delegación de competencias a Cataluña."
 coherencia: coherente
-actualizado: 2026-10-19
+actualizado: 2026-10-23
 fuentes:
   - titulo: "Un programa para ti. Programa electoral de Sumar para las elecciones generales de 2023"
     url: https://movimientosumar.es/wp-content/uploads/2023/07/Un-Programa-para-ti.pdf
@@ -16,7 +16,7 @@ fuentes:
     fecha: 2025-09-30
     tipo: prensa
   - titulo: "Real Decreto 316/2026, de 14 de abril, por el que se modifica el Reglamento de la Ley Orgánica 4/2000 sobre derechos y libertades de los extranjeros"
-    url: https://boe.es/buscar/doc.php?amp=&id=BOE-A-2026-8284
+    url: https://www.boe.es/buscar/doc.php?id=BOE-A-2026-8284
     medio: BOE
     fecha: 2026-04-15
     tipo: oficial
@@ -30,11 +30,28 @@ fuentes:
     medio: RTVC (EFE)
     fecha: 2025-09-23
     tipo: prensa
+  - titulo: "Proposición de Ley sobre acceso al derecho de asilo y solicitudes de protección internacional en embajadas y consulados (122/000071), presentada por el Grupo Parlamentario Plurinacional SUMAR"
+    url: https://www.congreso.es/public_oficiales/L15/CONG/BOCG/B/BOCG-15-B-83-1.PDF
+    medio: Boletín Oficial de las Cortes Generales
+    fecha: 2024-03-22
+    tipo: oficial
+  - titulo: "Proposición de Ley relativa a la obtención de la nacionalidad española por residencia y la conservación de la nacionalidad de origen (122/000230), presentada por el Grupo Parlamentario Plurinacional SUMAR"
+    url: https://www.congreso.es/public_oficiales/L15/CONG/BOCG/B/BOCG-15-B-274-1.PDF
+    medio: Boletín Oficial de las Cortes Generales
+    fecha: 2025-11-14
+    tipo: oficial
+  - titulo: "Datos abiertos del Congreso: proposiciones de ley de la XV legislatura"
+    url: https://www.congreso.es/es/opendata/iniciativas
+    medio: Congreso de los Diputados
+    fecha: 2026-10-23
+    tipo: oficial
 ---
 
-A 19 de octubre de 2026 Frente Amplio no ha publicado su programa para el 29-N, y en la presentación de la candidatura no anunció medidas concretas de inmigración. Las propuestas oficiales más recientes son las del programa de Sumar de 2023: reformar la ley de extranjería para "introducir un procedimiento de regularización permanente", simplificar los trámites de residencia y cerrar los CIE [1].
+A 23 de octubre de 2026 Frente Amplio no ha publicado su programa para el 29-N, y en la presentación de la candidatura no anunció medidas concretas de inmigración. Las propuestas oficiales más recientes son las del programa de Sumar de 2023: reformar la ley de extranjería para "introducir un procedimiento de regularización permanente", simplificar los trámites de residencia y cerrar los CIE [1].
 
 Durante la legislatura, Sumar apoyó la ILP que pedía regularizar a unas 500.000 personas. En septiembre de 2025 pidió al PSOE aprobarla por decreto [2]. El Real Decreto 316/2026, de 14 de abril, abrió una regularización extraordinaria por arraigo para quienes estuvieran en España antes de 2026 [3]. Su aprobación se desbloqueó tras un pacto entre PSOE y Podemos. La medida fue extraordinaria y por reglamento, no el procedimiento permanente que pedía el programa. Interior, en manos del PSOE, sustituyó en febrero de 2026 el CIE de Algeciras por uno nuevo [4].
+
+El grupo Sumar registró además dos proposiciones de ley. La primera, de marzo de 2024, permitía pedir asilo en embajadas y consulados, como proponía su programa [6] [1]. La segunda, de octubre de 2025, contaba también los periodos de estancia legal en los diez años de residencia exigidos para la nacionalidad y suprimía la obligación de renunciar a la nacionalidad de origen [7]. Según los datos abiertos del Congreso, ninguna llegó a debatirse en el Pleno y ambas caducaron con la disolución [8].
 
 El 23 de septiembre de 2025 el Congreso rechazó, por 177 votos a 173, la ley pactada por PSOE y Junts para delegar en Cataluña competencias de inmigración, entre ellas la gestión de los CIE. El grupo Sumar votó a favor, salvo Alberto Ibáñez (Compromís) y Jorge Pueyo (CHA), que votaron en contra [5].
 

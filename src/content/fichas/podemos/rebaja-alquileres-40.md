@@ -8,7 +8,7 @@ promesa: "«Rebajar la cuantía de todos los alquileres un 40% con respecto a lo
 bloqueadoPor: [PSOE, PP, Vox, Junts, PNV]
 importancia: 3
 fecha: 2026-09-16
-actualizado: 2026-10-19
+actualizado: 2026-10-23
 fuentes:
   - titulo: "Romper con Israel y bajar el alquiler el 40%: las condiciones de Podemos para apoyar los presupuestos"
     url: https://www.elsaltodiario.com/pge/romper-israel-bajar-alquiler-40-ciento-condiciones-podemos-apoyar-presupuestos
@@ -60,6 +60,26 @@ fuentes:
     medio: Congreso de los Diputados
     fecha: 2026-10-19
     tipo: oficial
+  - titulo: "Real Decreto-ley 28/2026, de 6 de octubre, por el que se adoptan medidas urgentes para reforzar la estabilidad de los contratos de arrendamiento de vivienda habitual"
+    url: https://www.boe.es/buscar/doc.php?id=BOE-A-2026-20822
+    medio: BOE
+    fecha: 2026-10-07
+    tipo: oficial
+  - titulo: "Real Decreto-ley 29/2026, de 6 de octubre, por el que se adoptan medidas urgentes para la protección de la función social de la vivienda y la ampliación de la oferta de vivienda asequible"
+    url: https://www.boe.es/buscar/doc.php?id=BOE-A-2026-20823
+    medio: BOE
+    fecha: 2026-10-07
+    tipo: oficial
+  - titulo: "El Congreso votará el 12N los decretos de vivienda: las claves de una sesión entre la huelga general y el 29N"
+    url: https://www.moncloa.com/2026/10/17/decretos-vivienda-congreso-12n-3450016
+    medio: Moncloa.com (Europa Press)
+    fecha: 2026-10-17
+    tipo: prensa
+  - titulo: "Los dos nuevos decretos de vivienda se votarán previsiblemente el 12 de noviembre, un día después de la huelga general"
+    url: https://www.noticiastrabajo.es/economia/los-dos-nuevos-decretos-de-vivienda-se-votaran-previsiblemente-el-12-de-noviembre-un-dia-despues-de-la-huelga-general/
+    medio: NoticiasTrabajo
+    fecha: 2026-10-16
+    tipo: prensa
 ---
 
 ## Qué se prometió
@@ -72,7 +92,7 @@ En octubre de 2024 las bases de Podemos aprobaron condicionar su apoyo a los Pre
 - **Moción 173/000076 (19 de febrero de 2025).** La rebaja del 40 % se rechazó por 12 votos a favor (Podemos, ERC y una diputada de Sumar), 301 en contra (PSOE, PP, Vox, Junts, PNV, entre otros) y 31 abstenciones de Sumar y EH Bildu. Los contratos indefinidos, por 43 a 301 [3] [4] [5].
 - **Moción 173/000187 (16 de septiembre de 2026).** Repetía la rebaja y añadía expropiar el uso de las viviendas turísticas ilegales. El primer punto obtuvo 19 votos a favor, 183 en contra (PP, Vox, Junts, PNV y UPN) y 144 abstenciones de PSOE y Sumar [6] [7].
 
-Podemos votó el 2 de octubre de 2026 a favor de los decretos 26/2026 y 27/2026, más limitados (prórrogas de cinco años y tope del 2 %), que el Congreso derogó [8] [9].
+Podemos votó el 2 de octubre de 2026 a favor de los decretos 26/2026 y 27/2026, más limitados (prórrogas de cinco años y tope del 2 %), que el Congreso derogó [8] [9]. El Gobierno los volvió a aprobar el 6 de octubre, el día de la disolución de las Cortes, como reales decretos-ley 28/2026 y 29/2026 [11] [12]; están pendientes de convalidación en la Diputación Permanente, que prevé votarlos el 12 de noviembre y en la que Podemos tiene un voto en representación del Grupo Mixto [13] [14] (última situación documentada: 17 de octubre de 2026).
 
 ## Por qué
 

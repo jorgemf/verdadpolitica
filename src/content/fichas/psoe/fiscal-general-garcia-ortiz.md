@@ -8,7 +8,7 @@ implicados: "Álvaro García Ortiz (fiscal general del Estado entre 2022 y 2025,
 tema: regeneracion-democratica
 importancia: 2
 fecha: 2025-11-20
-actualizado: 2026-10-19
+actualizado: 2026-10-23
 fuentes:
   - titulo: "El Tribunal Supremo condena al fiscal general a dos años de inhabilitación por revelación de secretos"
     url: https://noticias.juridicas.com/actualidad/noticias/20701-el-tribunal-supremo-condena-al-fiscal-general-a-dos-anos-de-inhabilitacion-por-revelacion-de-secretos/
@@ -35,6 +35,16 @@ fuentes:
     medio: The Objective
     fecha: 2025-11-26
     tipo: prensa
+  - titulo: "Conde-Pumpido, sobre el caso García Ortiz: «No podemos indultar a nadie, esa potestad corresponde al Gobierno»"
+    url: https://www.eldebate.com/espana/20260901/condepumpido-sobre-caso-garcia-ortiz-no-podemos-indultar-nadie-solo-resolver-recurso_453976.html
+    medio: El Debate
+    fecha: 2026-09-01
+    tipo: prensa
+  - titulo: "La fiscal general recuerda el informe favorable al indulto de su antecesor García Ortiz"
+    url: https://www.infobae.com/espana/agencias/2026/10/09/la-fiscal-general-recuerda-el-informe-favorable-al-indulto-de-su-antecesor-garcia-ortiz/
+    medio: Infobae (agencias)
+    fecha: 2026-10-09
+    tipo: prensa
 ---
 
 ## Hechos
@@ -43,7 +53,7 @@ fuentes:
 
 ## Estado procesal
 
-Condena firme. La Sala de lo Penal del Supremo lo condenó el 20 de noviembre de 2025, por cinco votos a dos, a dos años de inhabilitación para el cargo de fiscal general, una multa de 7.200 euros y una indemnización de 10.000 euros a González Amador; las magistradas Ana María Ferrer y Susana Polo firmaron votos particulares discrepantes [1][3]. García Ortiz dimitió y le sucedió Teresa Peramato [2]. Tras rechazarse el incidente de nulidad, la Fiscalía y la Abogacía del Estado presentaron recursos de amparo ante el Tribunal Constitucional, pendientes de admisión en la última situación documentada, de junio de 2026 [2][3]. Hay además una petición de indulto: el Supremo informó en contra de un indulto total o parcial y la Fiscalía apoyó una conmutación parcial [3]. La parte económica de la condena está pagada y García Ortiz ejerce como fiscal en la Sala de lo Social del Supremo [3].
+Condena firme. La Sala de lo Penal del Supremo lo condenó el 20 de noviembre de 2025, por cinco votos a dos, a dos años de inhabilitación para el cargo de fiscal general, una multa de 7.200 euros y una indemnización de 10.000 euros a González Amador; las magistradas Ana María Ferrer y Susana Polo firmaron votos particulares discrepantes [1][3]. García Ortiz dimitió y le sucedió Teresa Peramato [2]. Tras rechazarse el incidente de nulidad, la Fiscalía y la Abogacía del Estado presentaron recursos de amparo ante el Tribunal Constitucional [2][3]. A 1 de septiembre de 2026, según su presidente, Cándido Conde-Pumpido, el tribunal aún estudiaba si los admitía a trámite [6]. Hay además una petición de indulto: el Supremo informó en contra de un indulto total o parcial y la Fiscalía apoyó una conmutación parcial [3]. La parte económica de la condena está pagada y García Ortiz ejerce como fiscal en la Sala de lo Social del Supremo [3]. Última situación documentada (9 de octubre de 2026): el Consejo de Ministros no había aprobado el indulto y la fiscal general, Teresa Peramato, recordó el informe favorable de la Fiscalía [4][7]. En las búsquedas del 23 de octubre de 2026 no consta ni la admisión de los amparos ni la concesión del indulto.
 
 ## Lo que dicen las partes
 

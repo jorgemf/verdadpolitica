@@ -9,7 +9,7 @@ tema: regeneracion-democratica
 legislatura: XIV
 importancia: 2
 fecha: 2026-09-21
-actualizado: 2026-10-20
+actualizado: 2026-10-23
 fuentes:
   - titulo: "Caso Mediador: la jueza manda al banquillo a 'Tito Berni', su sobrino Taishet y otros doce encausados"
     url: https://www.canarias7.es/politica/mediador-jueza-manda-banquillo-tito-berni-sobrino-20260924155602-nt.html
@@ -57,7 +57,7 @@ La Fiscalía pide [2][3]:
 
 La apertura de juicio oral no implica una condena [3]. En una pieza separada juzgada por un jurado, Navarro Tacoronte fue condenado a cuatro meses y medio de prisión y Espinosa y el empresario Antonio Bautista a nueve meses por cohecho continuado [2]. Esa pieza no afecta a Fuentes Curbelo.
 
-Última situación documentada (21 de septiembre de 2026): la Audiencia Provincial de Santa Cruz de Tenerife debe fijar la fecha del juicio [1]. Todos los acusados gozan de la presunción de inocencia.
+Última situación documentada (21 de septiembre de 2026): la Audiencia Provincial de Santa Cruz de Tenerife debe fijar la fecha del juicio [1]; en las búsquedas del 23 de octubre de 2026 no consta que la haya fijado. Todos los acusados gozan de la presunción de inocencia.
 
 ## Lo que dicen las partes
 

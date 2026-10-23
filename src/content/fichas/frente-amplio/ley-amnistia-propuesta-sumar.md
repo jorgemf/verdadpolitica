@@ -7,7 +7,7 @@ tema: modelo-territorial
 promesa: "Propuesta de ley de amnistía presentada por Sumar en octubre de 2023: «Queden amnistiades totes les accions o omissions d'intencionalitat política» vinculadas a la autodeterminación de Cataluña desde el 1 de enero de 2013, incluidas la consulta de 2014 y el referéndum de 2017."
 importancia: 3
 fecha: 2024-06-11
-actualizado: 2026-10-20
+actualizado: 2026-10-23
 fuentes:
   - titulo: "Sumar presentará este martes un informe jurídico sobre la amnistía"
     url: https://rtvc.es/sumar-informe-juridico-amnistia/
@@ -49,6 +49,16 @@ fuentes:
     medio: elDiario.es
     fecha: 2023-10-10
     tipo: prensa
+  - titulo: "El Constitucional avala la amnistía de la malversación y firma la vuelta de Puigdemont"
+    url: https://theobjective.com/espana/tribunales/2026-10-06/constitucional-puigdemont/
+    medio: The Objective
+    fecha: 2026-10-06
+    tipo: prensa
+  - titulo: "El juez Llarena levanta la orden de detención contra Puigdemont y afea al Constitucional que censure un criterio que ha «fracturado al tribunal»"
+    url: https://www.infobae.com/espana/2026/10/19/el-juez-llarena-levanta-la-orden-de-detencion-contra-puigdemont-y-afea-al-constitucional-que-censure-un-criterio-que-ha-fracturado-al-tribunal/
+    medio: Infobae
+    fecha: 2026-10-19
+    tipo: prensa
 ---
 
 ## Qué se prometió
@@ -60,6 +70,8 @@ El programa de Sumar de 2023 no mencionaba la amnistía. Tras las elecciones del
 El PSOE registró la proposición de ley en solitario el 13 de noviembre de 2023. Estaba previsto que la firmaran también Sumar, ERC, Junts, EH Bildu, PNV y BNG; Sumar explicó que "era importante la rúbrica de todos los grupos que apoyarán la ley de amnistía" y que, al no conseguirse, "hemos preferido no firmar" [4]. El Congreso la aprobó definitivamente el 30 de mayo de 2024, tras levantar el veto del Senado, por 177 votos a favor (PSOE, Sumar, Junts, ERC, EH Bildu, PNV, Podemos y BNG) y 172 en contra (PP, Vox, UPN y CC) [5].
 
 La Ley Orgánica 1/2024 entró en vigor el 11 de junio de 2024. Abarca los hechos cometidos entre el 1 de noviembre de 2011 y el 13 de noviembre de 2023, y excluye, entre otros, las torturas y los tratos inhumanos o degradantes [6]. Su periodo difiere del de la propuesta de Sumar en los dos extremos: empieza antes (el 1 de noviembre de 2011, frente al 1 de enero de 2013), pero termina antes, el 13 de noviembre de 2023, mientras que la propuesta de Sumar llegaba hasta la entrada en vigor de la ley [2] [6]. Los hechos posteriores al 13 de noviembre de 2023 que habría cubierto la propuesta quedan fuera de la ley aprobada. El Tribunal Constitucional desestimó el 26 de junio de 2025, por seis votos a cuatro, el recurso del PP salvo en aspectos menores [7]; el texto consolidado del BOE recoge la inconstitucionalidad parcial de algunos apartados [6].
+
+El 6 de octubre de 2026 el Constitucional, por siete votos a cinco, amparó a los exconsejeros Dolors Bassa y Jordi Turull: anuló los autos del Supremo que excluían de la amnistía la malversación y ordenó dictar otros [9]. Ese día el juez Pablo Llarena dejó sin efecto la orden de detención contra Puigdemont, y por auto de 16 de octubre rechazó el recurso de la acusación popular y mantuvo levantadas las órdenes contra Puigdemont, Antoni Comín y Lluís Puig. Última situación documentada (19 de octubre de 2026): la extinción de la responsabilidad penal sigue pendiente de la Sala de lo Penal del Supremo [10].
 
 El compromiso de Sumar con una ley de amnistía se cumplió con una ley que no redactó ni firmó, pero que votó a favor.
 

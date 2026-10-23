@@ -7,7 +7,7 @@ tema: regeneracion-democratica
 promesa: "Llevar a Pedro Sánchez a comparecer en la comisión de investigación del Senado sobre el caso Koldo (anuncio de Feijóo, 8 de octubre de 2025)."
 importancia: 2
 fecha: 2025-10-30
-actualizado: 2026-10-19
+actualizado: 2026-10-23
 fuentes:
   - titulo: "El PP llevará a Sánchez en octubre a la comisión del 'caso Koldo' del Senado"
     url: https://www.publico.es/politica/congreso/pp-llevara-sanchez-octubre-comision-caso-koldo-senado.html
@@ -29,6 +29,11 @@ fuentes:
     medio: Última Hora (Europa Press)
     fecha: 2024-03-13
     tipo: prensa
+  - titulo: "El Senado prorroga la comisión de investigación del caso Koldo seis meses más"
+    url: https://www.noticiasdenavarra.com/politica/2026/05/27/senado-prorroga-comision-investigacion-caso-11124851.html
+    medio: Noticias de Navarra (EFE)
+    fecha: 2026-05-27
+    tipo: prensa
 ---
 
 ## Qué se prometió
@@ -39,7 +44,7 @@ El PP propuso en el Senado, donde tiene mayoría absoluta, una comisión de inve
 
 El Senado aprobó la comisión en marzo de 2024, a propuesta del PP y con el voto favorable de los socialistas [4]. Se constituyó el 1 de abril de 2024. Fue la primera de las siete comisiones de investigación creadas en la Cámara Alta en esta legislatura [3]. Sánchez compareció el 30 de octubre de 2025. Según Público, ningún presidente en ejercicio había comparecido antes ante una comisión parlamentaria de investigación [1]. Durante la sesión defendió la legalidad de la financiación del PSOE, reconoció haber liquidado gastos en efectivo "en alguna ocasión", siempre contra factura, y calificó las comisiones del Senado de "comisiones de difamación" [2].
 
-En mayo de 2026 el pleno del Senado prorrogó los trabajos seis meses más con los votos de PP, Junts, Vox, UPN y CC; buena parte del resto de la Cámara no participó en la votación. Hasta entonces la comisión había celebrado 106 comparecencias, entre ellas la del expresidente Zapatero [3]. Las fuentes consultadas no recogen un dictamen final aprobado antes de la disolución de las Cortes el 6 de octubre de 2026.
+El 27 de mayo de 2026 el pleno del Senado prorrogó los trabajos seis meses más con 151 votos de PP, Junts, Vox, UPN y CC, sin votos en contra ni abstenciones: buena parte del resto de la Cámara no participó en la votación en señal de protesta [5]. Hasta entonces la comisión había celebrado 106 comparecencias, entre ellas la del expresidente Zapatero [3]. Las fuentes consultadas no recogen un dictamen final aprobado antes de la disolución de las Cortes el 6 de octubre de 2026.
 
 ## Por qué
 

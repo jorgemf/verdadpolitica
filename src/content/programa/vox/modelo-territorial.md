@@ -4,7 +4,7 @@ tema: modelo-territorial
 propuesta: "Un Estado unitario y administrativamente descentralizado: devolver al Estado educación, sanidad, seguridad y justicia, limitar la capacidad legislativa autonómica, aprobar leyes de armonización y de mercado único, derogar la amnistía y rechazar la condonación de deuda autonómica."
 balance: "En 2024 registró PNL para devolver al Estado la sanidad e impulsó recursos al TC contra la amnistía desde los gobiernos autonómicos que compartía con el PP; el TC avaló la ley en lo esencial. Votó contra la condonación de deuda autonómica (julio de 2026). Desde 2026 forma parte de cuatro gobiernos autonómicos."
 coherencia: coherente
-actualizado: 2026-10-19
+actualizado: 2026-10-23
 fuentes:
   - titulo: "Programa electoral para las Elecciones Generales del 23J de 2023"
     url: https://theobjective.com/wp-content/uploads/2023/07/programa-vox-23j.pdf
@@ -42,7 +42,7 @@ fuentes:
     tipo: prensa
 ---
 
-Vox no ha publicado programa para el 29-N. Se recogen el programa de 2023 y sus posiciones de 2026.
+A 23 de octubre de 2026, Vox no ha publicado programa para el 29-N. Se recogen el programa de 2023 y sus posiciones de 2026.
 
 **Qué proponen.** El programa de 2023 defiende "un estado unitario administrativamente descentralizado". Mientras no se logre, propone "la devolución inmediata al Estado de las competencias en Educación, Sanidad, Seguridad y Justicia" y limitar "en todo lo posible" la capacidad legislativa autonómica [1].
 
