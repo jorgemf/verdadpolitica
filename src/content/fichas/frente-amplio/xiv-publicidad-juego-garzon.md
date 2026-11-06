@@ -7,8 +7,13 @@ resumen: "El acuerdo de coalición prometía regular la publicidad del juego com
 tema: sanidad
 promesa: "«Aprobaremos una regulación de la publicidad de los juegos de azar y apuestas en línea, de ámbito estatal y similar a la de los productos del tabaco» (acuerdo de coalición PSOE-Unidas Podemos, 2019, punto 2.10.1)."
 importancia: 2
+alcance:
+  grado: parcial
+  medida: "Anuncios en TV y radio solo de 1:00 a 5:00 (RD 958/2020); el tabaco tiene prohibida casi toda publicidad. El TS anuló en 2024 partes de 5 artículos"
+  vigencia: anulada-parcial
+  ejecucion: no-consta
 fecha: 2020-11-03
-actualizado: 2026-10-20
+actualizado: 2026-10-23
 fuentes:
   - titulo: "Coalición progresista. Un nuevo acuerdo para España (acuerdo de Gobierno PSOE-Unidas Podemos)"
     url: https://www.diariodepontevedra.es/media/diariodepontevedra/files/2019/12/30/Pacto%20PSOE%20-%20Podemos%20para%20un%20gobierno%20de%20coalici%C3%B3n.pdf
@@ -35,6 +40,11 @@ fuentes:
     medio: elDiario.es
     fecha: 2021-03-16
     tipo: prensa
+  - titulo: "Ley 28/2005, de 26 de diciembre, de medidas sanitarias frente al tabaquismo (artículo 9, limitaciones de la publicidad)"
+    url: https://www.boe.es/buscar/act.php?id=BOE-A-2005-21261
+    medio: BOE
+    fecha: 2005-12-27
+    tipo: oficial
 ---
 
 ## Qué se prometió

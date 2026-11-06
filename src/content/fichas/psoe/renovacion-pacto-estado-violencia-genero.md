@@ -6,6 +6,12 @@ resumen: "El Congreso aprobó el 26 de febrero de 2025 la renovación del Pacto 
 tema: igualdad
 promesa: "«Es imprescindible culminar cuanto antes los trabajos de renovación del Pacto» de Estado contra la Violencia de Género (programa electoral de 2023)."
 importancia: 1
+alcance:
+  grado: completo
+  medida: "Renovado el 26-2-2025 para cinco años, con más de 460 medidas y al menos 1.500 millones; la ley de violencia vicaria decayó en 2026"
+  vigencia: en-vigor
+  ejecucion: parcial
+  magnitud: "160 millones repartidos entre las comunidades para el Pacto en 2025 (Ministerio de Igualdad)"
 fecha: 2025-02-26
 actualizado: 2026-10-23
 fuentes:
@@ -34,6 +40,11 @@ fuentes:
     medio: Artículo 14
     fecha: 2026-10-06
     tipo: prensa
+  - titulo: "Igualdad y las comunidades autónomas acuerdan la distribución de 179,8 millones de euros para la lucha contra la violencia de género"
+    url: https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/igualdad/Paginas/2025/220425-igualdad-ccaa-recursos-violencia-genero.aspx
+    medio: "La Moncloa"
+    fecha: 2025-04-22
+    tipo: oficial
 ---
 
 ## Qué se prometió

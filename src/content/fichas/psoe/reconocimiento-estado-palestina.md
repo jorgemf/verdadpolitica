@@ -6,8 +6,13 @@ resumen: "El Consejo de Ministros aprobó el 28 de mayo de 2024 el reconocimient
 tema: exterior-defensa
 promesa: "Reconocer el Estado palestino (acuerdo de Gobierno de coalición PSOE-Sumar, octubre de 2023)."
 importancia: 2
+alcance:
+  grado: completo
+  medida: "Reconocimiento aprobado por el Consejo de Ministros el 28-5-2024, como recogía el acuerdo PSOE-Sumar"
+  vigencia: no-aplica
+  ejecucion: no-aplica
 fecha: 2024-05-28
-actualizado: 2026-10-19
+actualizado: 2026-10-23
 fuentes:
   - titulo: "El Gobierno aprueba el reconocimiento del Estado de Palestina"
     url: https://www.lamoncloa.gob.es/consejodeministros/resumenes/Paginas/2024/280524-rueda-de-prensa-ministros.aspx

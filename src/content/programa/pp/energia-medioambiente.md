@@ -4,7 +4,7 @@ tema: energia-medioambiente
 propuesta: "Elaborar una estrategia energética que evite otro apagón, alargar la vida de las centrales nucleares y construir infraestructuras hídricas frente a inundaciones y sequías. En 2023 proponía desbloquear permisos de renovables y no intervenir el mercado eléctrico mayorista."
 balance: "Presentó en 2025 una ley para retrasar el cierre nuclear, que se admitió a trámite pero no se aprobó. Una enmienda suya en el mismo sentido cayó por un voto. En julio de 2025 votó contra el decreto antiapagones, que cayó, y anunció una ley propia. En 2026 el Gobierno prorrogó Almaraz hasta 2030."
 coherencia: coherente
-actualizado: 2026-10-23
+actualizado: 2026-11-06
 fuentes:
   - titulo: "Feijóo promete rebajar un 60% los impuestos a los jóvenes que compren vivienda y movilizar 300.000 millones en infraestructuras"
     url: https://www.menorca.info/actualidad/nacional/2026/07/22/2675179/feijoo-promete-rebajar-impuestos-jovenes-compren-vivienda-movilizar-300000-millones-infraestructuras.html
@@ -58,7 +58,7 @@ fuentes:
     tipo: partido
 ---
 
-A 23 de octubre de 2026 el PP no ha publicado su programa para el 29-N. Los doce compromisos del "Contrato con España" no mencionan la energía ni el agua [10]. En el acto de presentación, el 19 de octubre, Feijóo se comprometió además a "invertir en infraestructuras hídricas que nos preparen mejor para afrontar inundaciones y sequías" [2]. En julio de 2026 Feijóo prometió una estrategia energética para evitar otro apagón y movilizar hasta 300.000 millones en infraestructuras, también energéticas y de agua. Criticó además la tardanza del Gobierno en decidir la prórroga de las nucleares [1]. En 2023 el programa proponía desbloquear los permisos de renovables, eliminar la intervención del mercado eléctrico mayorista y un Pacto Nacional del Agua [7].
+A 6 de noviembre de 2026 el PP no ha publicado su programa para el 29-N. Los doce compromisos del "Contrato con España" no mencionan la energía ni el agua [10]. En el acto de presentación, el 19 de octubre, Feijóo se comprometió además a "invertir en infraestructuras hídricas que nos preparen mejor para afrontar inundaciones y sequías" [2]. En julio de 2026 Feijóo prometió una estrategia energética para evitar otro apagón y movilizar hasta 300.000 millones en infraestructuras, también energéticas y de agua. Criticó además la tardanza del Gobierno en decidir la prórroga de las nucleares [1]. En 2023 el programa proponía desbloquear los permisos de renovables, eliminar la intervención del mercado eléctrico mayorista y un Pacto Nacional del Agua [7].
 
 Tras el apagón de abril de 2025, el Congreso tomó en consideración en junio la ley del PP para alargar la vida de las centrales nucleares, con la abstención de Junts [3].
 

@@ -11,6 +11,9 @@ import {
   AMBITO,
   situacionJudicial,
   porDesenlace,
+  etiquetasAlcance,
+  etiquetasGravedad,
+  resumenAlcance,
   fichaUrl,
   partidoUrl,
   type Ficha,
@@ -35,7 +38,11 @@ const d = p.data;
 const CATS = ['cumplido', 'bloqueado', 'no-intentado', 'contradiccion'] as const;
 const grupos = CATS.map((cat) => ({ cat, items: fichas.filter((f) => f.data.categoria === cat) }));
 const total = grupos.reduce((n, g) => n + g.items.length, 0);
-const barraTexto = grupos.map((g) => `${g.items.length} ${COLOR_CATEGORIA[g.cat].corto}`).join(', ');
+// Lo cumplido no pesa igual: se desglosa por grado de cumplimiento.
+const alcanceTexto = resumenAlcance(grupos[0].items);
+const barraTexto = grupos
+  .map((g) => `${g.items.length} ${COLOR_CATEGORIA[g.cat].corto}${g.cat === 'cumplido' && alcanceTexto ? ` (${alcanceTexto})` : ''}`)
+  .join(', ');
 
 const propuestas = temas
   .map((t) => ({ tema: t, entrada: programa.find((e) => e.data.tema === t.id) }))
@@ -103,6 +110,7 @@ const metaFicha = (f: Ficha) =>
             <span>
               <i style={`background:${COLOR_CATEGORIA[g.cat].fondo}`} />
               <b>{g.items.length}</b> {COLOR_CATEGORIA[g.cat].corto}
+              {g.cat === 'cumplido' && alcanceTexto && <small>({alcanceTexto})</small>}
             </span>
           ))
         }
@@ -163,6 +171,9 @@ const metaFicha = (f: Ficha) =>
                   <li>
                     <a href={fichaUrl(f)}>{f.data.titulo}</a>
                     {metaFicha(f) && <span class="grupo__meta">{metaFicha(f)}</span>}
+                    {etiquetasAlcance(f).map((e) => (
+                      <span class={`etiqueta etiqueta--mini ${e.clase}`}>{e.texto}</span>
+                    ))}
                   </li>
                 ));
                 return i === 0 ? (
@@ -208,7 +219,12 @@ const metaFicha = (f: Ficha) =>
           {lotes(causas, MAX_CAUSAS).map((lote, n) => {
             const lis = lote.map((c) => (
               <li class={`causa causa--${c.desenlace}`}>
-                <a href={fichaUrl(c.ficha)}>{c.ficha.data.titulo}</a>
+                <span class="causa__caso">
+                  <a href={fichaUrl(c.ficha)}>{c.ficha.data.titulo}</a>
+                  {etiquetasGravedad(c.ficha).map((e) => (
+                    <span class={`etiqueta etiqueta--mini ${e.clase}`}>{e.texto}</span>
+                  ))}
+                </span>
                 <span class="pasos" role="img" aria-label={`Fase: ${FASES_JUDICIALES[c.fase].toLowerCase()}`}>
                   {FASES_JUDICIALES.map((_, i) => (
                     <span class={`paso ${claseFase(i, c.fase, c.desenlace)}`} />
@@ -550,6 +566,24 @@ const metaFicha = (f: Ficha) =>
     text-decoration-color: currentColor;
   }
 
+  .etiqueta--mini {
+    white-space: normal;
+    margin-left: 0.35rem;
+    font-size: 0.6875rem;
+    padding: 0 0.35rem;
+    vertical-align: 0.1em;
+  }
+
+  .causa__caso .etiqueta--mini {
+    margin-left: 0;
+  }
+
+  .barra__leyenda small {
+    margin-left: 0.25rem;
+    font-size: 0.75rem;
+    color: var(--tinta-suave);
+  }
+
   .grupo__meta {
     margin-left: 0.35rem;
     font-size: 0.75rem;
@@ -592,7 +626,8 @@ const metaFicha = (f: Ficha) =>
     border-radius: 4px;
   }
 
-  .causa > a {
+  .causa__caso a {
+    margin-right: 0.4rem;
     font-weight: 600;
     font-size: 0.9375rem;
     line-height: 1.35;

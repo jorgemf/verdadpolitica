@@ -7,6 +7,22 @@ tema: inmigracion
 estadoJudicial: diligencias-fiscalia
 implicados: "José Ángel Antelo, presidente de Vox en la Región de Murcia en 2025 (diligencias de la Fiscalía, sin causa judicial abierta). Santiago Abascal, presidente de Vox (denuncia archivada)."
 importancia: 2
+gravedad:
+  naturaleza: penal
+  sujetos:
+    - nombre: "José Ángel Antelo"
+      vinculo: cargo
+      cuando: "presidente de Vox en la Región de Murcia"
+      enFunciones: false
+      delito: "incitación al odio (art. 510.1 CP: prisión de 1 a 4 años)"
+      clasificacion: menos-grave
+    - nombre: "Santiago Abascal"
+      vinculo: direccion
+      cuando: "presidente de Vox y diputado en el Congreso"
+      enFunciones: false
+      delito: "incitación al odio (art. 510.1 CP: prisión de 1 a 4 años)"
+      clasificacion: menos-grave
+      estado: archivo-fiscalia
 fecha: 2025-07-23
 actualizado: 2026-10-23
 fuentes:

@@ -7,8 +7,13 @@ tema: energia-medioambiente
 legislatura: XIV
 promesa: "«Con carácter inmediato, impulsaremos la aprobación de la Ley de Cambio Climático y Transición Energética […]. Nuestro objetivo es alcanzar en 2030 un porcentaje de electricidad producida con energías renovables del 74 %» (programa electoral del PSOE de noviembre de 2019)."
 importancia: 2
+alcance:
+  grado: completo
+  medida: "La Ley 7/2021 fija el 74 % de electricidad renovable prometido para 2030; en julio de 2025, 55 de 169 municipios obligados tenían ZBE"
+  vigencia: en-vigor
+  ejecucion: parcial
 fecha: 2021-05-20
-actualizado: 2026-10-20
+actualizado: 2026-10-23
 fuentes:
   - titulo: "Ahora, progreso. Programa electoral del PSOE para las elecciones generales del 10 de noviembre de 2019"
     url: https://img.beteve.cat/wp-content/uploads/2019/11/programa-psoe-10-n.pdf
@@ -33,6 +38,11 @@ fuentes:
     medio: Congreso de los Diputados
     fecha: 2021-05-13
     tipo: oficial
+  - titulo: "Dos de cada tres municipios obligados por ley no tienen Zona de Bajas Emisiones"
+    url: https://rtvc.es/dos-de-cada-tres-municipios-obligados-no-disponen-zona-bajas-emisiones-zbe/
+    medio: "RTVC (EFE, datos del Ministerio para la Transición Ecológica)"
+    fecha: 2025-07-08
+    tipo: prensa
 ---
 
 ## Qué se prometió

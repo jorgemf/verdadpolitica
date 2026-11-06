@@ -9,8 +9,17 @@ estadoJudicial: archivado
 faseJudicial: denuncia
 implicados: "Javier Ortega Smith, entonces secretario general de Vox y diputado en el Congreso (querellado). El partido no era parte en el procedimiento."
 importancia: 2
+gravedad:
+  naturaleza: penal
+  sujetos:
+    - nombre: "Javier Ortega Smith"
+      vinculo: direccion
+      cuando: "secretario general de Vox y diputado en el Congreso"
+      enFunciones: false
+      delito: "incitación al odio (art. 510 CP: prisión de 1 a 4 años) y calumnias e injurias graves con publicidad (arts. 206 y 209 CP: prisión de 6 meses a 2 años o multa de 12 a 24 meses, y multa de 6 a 14 meses)"
+      clasificacion: menos-grave
 fecha: 2020-11-26
-actualizado: 2026-10-20
+actualizado: 2026-10-23
 fuentes:
   - titulo: "Archivada una querella contra el diputado de Vox Francisco Javier Ortega Smith-Molina por sus declaraciones en TVE sobre las 'Trece Rosas'"
     url: https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/Archivada-una-querella-contra-el-diputado-de-Vox-Francisco-Javier-Ortega-Smith-Molina-por-sus-declaraciones-en-TVE-sobre-las--Trece-Rosas-

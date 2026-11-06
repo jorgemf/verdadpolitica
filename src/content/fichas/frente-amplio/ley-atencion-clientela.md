@@ -6,8 +6,13 @@ titulo: "Ley de servicios de atención a la clientela"
 resumen: "Prometida en el programa de Sumar, la ley que impulsó el Ministerio de Consumo de Pablo Bustinduy se aprobó definitivamente el 11 de diciembre de 2025 (Ley 10/2025): limita las esperas telefónicas, garantiza la atención por una persona y obliga a identificar las llamadas comerciales."
 promesa: "«Aprobación de una ley de servicios de atención a la clientela», que abordaría «la obligatoriedad de la atención personalizada, gratuita y accesible, los tiempos de espera, los plazos de respuesta» (programa de Sumar 2023)."
 importancia: 1
+alcance:
+  grado: completo
+  medida: "Ley 10/2025: atención personal y gratuita, el 95 % de las llamadas en menos de 3 minutos de media y 15 días hábiles para resolver; 12 meses para adaptarse"
+  vigencia: en-vigor
+  ejecucion: no-consta
 fecha: 2025-12-11
-actualizado: 2026-10-19
+actualizado: 2026-10-23
 fuentes:
   - titulo: "Un programa para ti. Programa electoral de Sumar para las elecciones generales de 2023"
     url: https://movimientosumar.es/wp-content/uploads/2023/07/Un-Programa-para-ti.pdf
@@ -43,7 +48,7 @@ El programa de Sumar de 2023 incluía aprobar una ley de servicios de atención 
 
 El Consejo de Ministros aprobó el proyecto el 27 de febrero de 2024, partiendo del texto que había preparado el anterior ministro de Consumo, Alberto Garzón (IU), y que decayó en 2023 con la disolución de las Cortes [2]. Tras su paso por el Senado, el Congreso lo aprobó definitivamente el 11 de diciembre de 2025 [3] [5]. Es la Ley 10/2025, de 26 de diciembre, publicada en el BOE el 27 de diciembre [4].
 
-La ley obliga a las empresas afectadas a atender la mayoría de las llamadas en menos de tres minutos, prohíbe que la atención se preste solo con contestadores automáticos o inteligencia artificial, fija un mes para resolver las reclamaciones y exige que las llamadas comerciales usen un código numérico propio; las que no lo usen deben ser bloqueadas por los operadores [3] [4].
+La ley obliga a las empresas afectadas a atender la mayoría de las llamadas en menos de tres minutos, prohíbe que la atención se preste solo con contestadores automáticos o inteligencia artificial, fija un plazo máximo de quince días hábiles para resolver las reclamaciones, salvo que la normativa sectorial establezca otro [4] y exige que las llamadas comerciales usen un código numérico propio; las que no lo usen deben ser bloqueadas por los operadores [3] [4].
 
 ## Por qué
 

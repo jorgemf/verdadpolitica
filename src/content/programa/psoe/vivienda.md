@@ -4,7 +4,7 @@ tema: vivienda
 propuesta: "Convalidar los RDL 29/2026 (desahucios suspendidos hasta 2030, prórroga de alquileres y límite del 2 % a su actualización) y 28/2026 (estabilidad de los contratos), préstamos ICO para la entrada de la primera vivienda y un parque público de al menos el 6 % del total."
 balance: "Creó Casa 47 y suprimió la «golden visa», pero no publica cuántas de las 183.000 viviendas prometidas están terminadas (cuenta 120.479 «movilizadas»). Su ley del impuesto del 100 % a compradores extracomunitarios caducó sin votarse. El Congreso derogó los RDL 26/2026 y 27/2026; el Gobierno los reaprobó."
 coherencia: coherente
-actualizado: 2026-10-23
+actualizado: 2026-11-06
 fuentes:
   - titulo: "Real Decreto-ley 29/2026, de 6 de octubre, por el que se adoptan medidas urgentes para la protección de la función social de la vivienda y la ampliación de la oferta de vivienda asequible"
     url: https://www.boe.es/buscar/doc.php?id=BOE-A-2026-20823
@@ -63,7 +63,7 @@ fuentes:
     tipo: oficial
 ---
 
-A 23 de octubre de 2026 el PSOE no ha publicado su programa para el 29-N. Su propuesta de vivienda se apoya en los decretos que aprobó el Gobierno. El Congreso derogó el 2 de octubre el RDL 26/2026 y el RDL 27/2026 [4], y el Gobierno los reaprobó el 6 de octubre para que los convalide la Diputación Permanente, que según la última información publicada (16 de octubre) tenía previsto votarlos el 12 de noviembre [8]:
+A 6 de noviembre de 2026 el PSOE no ha publicado su programa para el 29-N. Su propuesta de vivienda se apoya en los decretos que aprobó el Gobierno. El Congreso derogó el 2 de octubre el RDL 26/2026 y el RDL 27/2026 [4], y el Gobierno los reaprobó el 6 de octubre para que los convalide la Diputación Permanente, que según la última información publicada (16 de octubre) tenía previsto votarlos el 12 de noviembre [8]:
 - El RDL 29/2026 suspende hasta 2030 los desahucios de personas vulnerables sin alternativa habitacional, prevé una prórroga extraordinaria de los alquileres y limita su actualización al 2 % hasta 2027. Incluye también medidas fiscales sobre pisos turísticos y socimis [1][2].
 - El RDL 28/2026 refuerza la estabilidad de los contratos [2].
 

@@ -6,6 +6,12 @@ resumen: "El Real Decreto 316/2026 abrió una regularización extraordinaria par
 tema: inmigracion
 promesa: "Apoyar la regularización extraordinaria pedida por la ILP y aprobarla \"cuanto antes\" (Sumar, 2024-2025); a medio plazo, un procedimiento de regularización permanente en la ley de extranjería (programa de Sumar 2023)."
 importancia: 2
+alcance:
+  grado: parcial
+  medida: "Regularización extraordinaria por RD 316/2026 (solicitudes hasta el 30-6-2026); sin el procedimiento permanente prometido en el programa"
+  vigencia: en-vigor
+  ejecucion: parcial
+  magnitud: "1.174.978 solicitudes; 609.737 en tramitación a 2-7-2026 (Ministerio de Inclusión)"
 fecha: 2026-04-14
 actualizado: 2026-10-23
 fuentes:
@@ -32,6 +38,11 @@ fuentes:
     url: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-8284
     medio: BOE
     fecha: 2026-04-15
+    tipo: oficial
+  - titulo: "Regularización extraordinaria. Balance provisional del proceso de solicitud"
+    url: https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/inclusion/Documents/2026/020726-balance-regularizacion-extraordinaria.pdf
+    medio: Ministerio de Inclusión, Seguridad Social y Migraciones
+    fecha: 2026-07-02
     tipo: oficial
 ---
 

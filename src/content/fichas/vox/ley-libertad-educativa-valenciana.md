@@ -7,6 +7,12 @@ tema: educacion
 ambito: autonomico
 promesa: "«Aseguraremos de forma clara e inmediata el derecho a ser educado en español en todo el territorio nacional» (programa de 2023, medida 49)."
 importancia: 2
+alcance:
+  grado: parcial
+  medida: "La Ley 1/2024 permite elegir el castellano como lengua base en la Comunitat Valenciana; el programa lo prometía en toda España"
+  vigencia: en-vigor
+  ejecucion: aplicada
+  magnitud: "339.411 familias votaron la lengua base en 2025; el 99,8 % del alumnado estudia en la elegida (Generalitat, octubre de 2025)"
 fecha: 2024-06-27
 actualizado: 2026-10-23
 fuentes:
@@ -39,6 +45,11 @@ fuentes:
     medio: BOE (Tribunal Constitucional)
     fecha: 2024-11-27
     tipo: judicial
+  - titulo: "El TSJCV rechaza un segundo recurso contra la orden de Educación que regula la consulta para elegir lengua base"
+    url: https://www.ultimahora.es/noticias/comunidades/2025/10/31/2502945/tsjcv-rechaza-segundo-recurso-contra-orden-educacion-regula-consulta-para-elegir-lengua-base.html
+    medio: Última Hora (Europa Press)
+    fecha: 2025-10-31
+    tipo: prensa
 ---
 
 ## Qué se prometió

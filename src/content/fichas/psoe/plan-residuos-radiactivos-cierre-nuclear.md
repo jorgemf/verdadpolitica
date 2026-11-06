@@ -6,8 +6,13 @@ resumen: "El Consejo de Ministros aprobó en diciembre de 2023 el 7.º Plan Gene
 tema: energia-medioambiente
 promesa: "«Aprobaremos el 7º Plan General de Residuos Radioactivos. Este nuevo plan integrará las necesidades para la gestión de residuos radioactivos y las futuras necesidades en el desmantelamiento ordenado y progresivo de las centrales nucleares» (programa electoral del PSOE de 2023)."
 importancia: 2
+alcance:
+  grado: completo
+  medida: "7.º Plan aprobado el 27-12-2023 con el cierre de 7 reactores entre 2027 y 2035; en agosto de 2026 Almaraz se prorrogó hasta 2030"
+  vigencia: en-vigor
+  ejecucion: no-consta
 fecha: 2023-12-27
-actualizado: 2026-10-20
+actualizado: 2026-10-23
 fuentes:
   - titulo: "Programa electoral del PSOE. Elecciones generales 23 de julio de 2023"
     url: https://www.psoe.es/media-content/2023/07/PROGRAMA_ELECTORAL-GENERALES-2023.pdf

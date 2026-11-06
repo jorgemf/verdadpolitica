@@ -6,6 +6,11 @@ resumen: "Tras un primer intento fallido en marzo de 2025, el Congreso aprobó e
 tema: sanidad
 promesa: "Crear una Agencia Estatal de Salud Pública que concentre las capacidades del Estado para identificar, evaluar y vigilar los riesgos para la salud pública (programa electoral de 2023)."
 importancia: 2
+alcance:
+  grado: completo
+  medida: "La Ley 7/2025 crea la Agencia; a 28-7-2026 solo tenía sede (Zaragoza), sin estatuto, director ni presupuesto"
+  vigencia: en-vigor
+  ejecucion: sin-aplicar
 fecha: 2025-07-22
 actualizado: 2026-10-23
 fuentes:
@@ -27,6 +32,11 @@ fuentes:
     url: https://www.menorca.info/actualidad/nacional/2024/01/30/2096239/gobierno-luz-verde-creacion-agencia-estatal-salud-publica.html
     medio: Menorca.info (Europa Press)
     fecha: 2024-01-30
+    tipo: prensa
+  - titulo: "Autonomía, estatutos y fondos urgentes para la nueva Agencia de Salud Pública"
+    url: https://www.redaccionmedica.com/profesionales/sociedades-cientificas/20260728/autonomia-estatutos-fondos-urgentes-para-la-nueva-agencia-de-salud-publica/348235_0.html
+    medio: "Redacción Médica"
+    fecha: 2026-07-28
     tipo: prensa
 ---
 

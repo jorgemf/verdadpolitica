@@ -8,6 +8,25 @@ legislatura: XIV
 estadoJudicial: condena-firme
 implicados: "Isabel (Isa) Serra, diputada autonómica y portavoz de Podemos en la Asamblea de Madrid cuando fue condenada; después coportavoz estatal de Podemos. El partido no fue parte del procedimiento."
 importancia: 2
+gravedad:
+  naturaleza: penal
+  sujetos:
+    - nombre: "Isabel (Isa) Serra"
+      vinculo: sin-cargo
+      cuando: "sin cargo en enero de 2014; después diputada y portavoz de Podemos en la Asamblea de Madrid"
+      enFunciones: false
+      delito: "atentado a la autoridad, lesiones leves y daños (arts. 550, 147 y 263 CP; atentado contra agentes, art. 551.1 CP en la redacción vigente en 2014: prisión de 1 a 3 años); absuelta de desórdenes públicos"
+      clasificacion: menos-grave
+      pena:
+        texto: "19 meses de prisión (suspendida en 2022), inhabilitación para el sufragio pasivo durante ese tiempo y dos multas que suman 2.400 euros"
+        anios: 1.58
+        tipo: impuesta
+        por: "Tribunal Superior de Justicia de Madrid; confirmada por el Tribunal Supremo"
+  cuantias:
+    - euros: 2400
+      concepto: "dos multas"
+    - euros: 5250
+      concepto: "indemnización a los dos agentes heridos"
 fecha: 2021-07-05
 actualizado: 2026-10-23
 fuentes:

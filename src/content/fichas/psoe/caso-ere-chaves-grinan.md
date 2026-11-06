@@ -9,6 +9,32 @@ tema: regeneracion-democratica
 ambito: autonomico
 legislatura: XIV
 importancia: 3
+gravedad:
+  naturaleza: penal
+  sujetos:
+    - nombre: "Manuel Chaves"
+      vinculo: direccion
+      cuando: "presidente de la Junta de Andalucía y presidente federal del PSOE"
+      enFunciones: true
+      delito: "prevaricación (art. 404 CP en la redacción vigente en los hechos: inhabilitación especial de 7 a 10 años; hoy, de 9 a 15)"
+      clasificacion: grave
+      pena:
+        texto: "9 años de inhabilitación especial, anulada por el Tribunal Constitucional en julio de 2024"
+        tipo: impuesta
+        por: "Audiencia de Sevilla, confirmada por el Tribunal Supremo"
+    - nombre: "José Antonio Griñán"
+      vinculo: cargo
+      cuando: "consejero de Economía y Hacienda y después presidente de la Junta de Andalucía"
+      enFunciones: true
+      delito: "malversación y prevaricación (arts. 432 y 404 CP; malversación, en la redacción vigente en los hechos: prisión de 3 a 6 años, o de 4 a 8 si reviste especial gravedad)"
+      clasificacion: grave
+      pena:
+        texto: "6 años de prisión y 15 de inhabilitación absoluta, anulados por el Tribunal Constitucional en julio de 2024"
+        tipo: impuesta
+        por: "Audiencia de Sevilla, confirmada por el Tribunal Supremo"
+  cuantias:
+    - euros: 680000000
+      concepto: "ayudas repartidas entre 2000 y 2011 con el sistema juzgado («hasta 680 millones»); no es un perjuicio atribuido a cada condenado"
 fecha: 2025-07-14
 actualizado: 2026-10-23
 fuentes:

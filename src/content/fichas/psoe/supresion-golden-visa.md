@@ -6,6 +6,12 @@ resumen: "Sánchez anunció en abril de 2024 que eliminaría la «golden visa»,
 tema: vivienda
 promesa: "«Vamos a iniciar el procedimiento para eliminar la concesión de la llamada 'golden Visa'», para «garantizar que la vivienda sea un derecho y no un mero negocio especulativo» (Pedro Sánchez, Dos Hermanas, 8 de abril de 2024)."
 importancia: 2
+alcance:
+  grado: completo
+  medida: "Suprimida la residencia por inversión (arts. 63 a 67 de la Ley 14/2013) desde el 3-4-2025; se mantienen las ya concedidas"
+  vigencia: en-vigor
+  ejecucion: aplicada
+  magnitud: "Más de 14.576 visados de este tipo concedidos desde 2013 (Ministerio de Vivienda)"
 fecha: 2025-04-03
 actualizado: 2026-10-23
 fuentes:
@@ -39,6 +45,11 @@ fuentes:
     medio: La Moncloa
     fecha: 2025-04-02
     tipo: oficial
+  - titulo: "Golden Visa"
+    url: https://www.menorca.info/balears/economico/2026/06/12/2648117/golden-visa-1.html
+    medio: "Menorca.info (Antonio Soler, Garrigues)"
+    fecha: 2026-06-12
+    tipo: prensa
 ---
 
 ## Qué se prometió

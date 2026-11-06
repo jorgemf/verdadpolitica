@@ -4,7 +4,7 @@ tema: igualdad
 propuesta: "Derogar la Ley Integral de Violencia de Género y los juzgados de violencia sobre la mujer y sustituirlos por una ley para todas las víctimas de violencia doméstica; derogar la ley del «solo sí es sí» con más penas, incluida la prisión permanente; suprimir cuotas y planes de igualdad y derogar la ley trans."
 balance: "El Congreso rechazó en 2023 su ley de delitos sexuales (33-316). Fue el único grupo que votó contra renovar el Pacto de Estado contra la Violencia de Género (2025) y el único que apoyó su enmienda de totalidad a la ley de violencia vicaria (2026). No registró en la XV ninguna ley para derogar la de violencia de género."
 coherencia: coherente
-actualizado: 2026-10-23
+actualizado: 2026-11-06
 fuentes:
   - titulo: "Programa electoral para las Elecciones Generales del 23J de 2023"
     url: https://theobjective.com/wp-content/uploads/2023/07/programa-vox-23j.pdf
@@ -47,7 +47,7 @@ fuentes:
     tipo: prensa
 ---
 
-A 23 de octubre de 2026, Vox no ha publicado programa para el 29-N. Se recogen el programa de 2023 [1] y su actuación en la legislatura.
+A 6 de noviembre de 2026, Vox no ha publicado programa para el 29-N. Se recogen el programa de 2023 [1] y su actuación en la legislatura.
 
 **Qué proponen.** El programa de 2023 promete una ley "que proteja a todas las posibles víctimas de violencia en el ámbito doméstico" y derogar "la Ley Integral de Violencia de Género, que consagra la asimetría penal" (medida 10). También promete eliminar "los Juzgados de Violencia sobre la mujer" (medida 278), suprimir las cuotas y los planes de igualdad obligatorios (medida 11) y derogar la ley trans (medida 375). Sobre la ley del "solo sí es sí", propone sustituirla "por una ley que aumente las penas a todos los violadores, incluyendo la prisión permanente" (medida 376) [1].
 

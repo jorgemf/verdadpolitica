@@ -9,8 +9,17 @@ estadoJudicial: archivado
 faseJudicial: denuncia
 implicados: "Rocío Monasterio, entonces presidenta de Vox en la Comunidad de Madrid y portavoz en la Asamblea (querellada), por hechos de su actividad profesional como arquitecta. El partido no era parte en el procedimiento."
 importancia: 1
+gravedad:
+  naturaleza: penal
+  sujetos:
+    - nombre: "Rocío Monasterio"
+      vinculo: sin-cargo
+      cuando: "arquitecta en ejercicio: licencias tramitadas en 2011 y 2016 con un visado de 2005; las fuentes no le acreditan ningún cargo en Vox en esas fechas"
+      enFunciones: false
+      delito: "falsedad en documento público cometida por particular (art. 392.1 CP: prisión de 6 meses a 3 años y multa de 6 a 12 meses)"
+      clasificacion: menos-grave
 fecha: 2021-06-25
-actualizado: 2026-10-20
+actualizado: 2026-10-23
 fuentes:
   - titulo: "El TSJ inadmite la querella de la Fiscalía contra la presidenta de Vox en la Comunidad de Madrid por falsedad documental"
     url: https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunales-Superiores-de-Justicia/TSJ-Madrid/Noticias-Judiciales-TSJ-Madrid/El-TSJ-inadmite-la-querella-de-la-Fiscalia-contra-la-presidenta-de-Vox-en-la-Comunidad-de-Madrid-por-falsedad-documental

@@ -1,10 +1,10 @@
 ---
 partido: frente-amplio
 tema: vivienda
-propuesta: "Destinar cada año el 1 % del PIB a ampliar el parque público de vivienda, establecer contratos de alquiler indefinidos y crear un fondo estatal de edificación que financie promociones con créditos respaldados por los ingresos futuros de alquileres asequibles."
+propuesta: "Expropiar por ley viviendas a propietarios corporativos en tres fases (más de 1.000, de 700 y de 50 viviendas), pasar todo el suelo y las viviendas de la Sareb al parque público, gravar con un 10 % la vivienda acumulada que no se alquile de forma asequible y destinar el 1 % del PIB a vivienda pública."
 balance: "Registró una ley de prórroga obligatoria de los alquileres e impulsó en el Gobierno el RDL 8/2026 (prórroga y tope del 2 %) y el RDL 27/2026 (renovación automática). El Congreso derogó ambos; el 27/2026 también con el voto del PNV. Está previsto votar los RDL 28/2026 y 29/2026 el 12 de noviembre."
 coherencia: coherente
-actualizado: 2026-10-23
+actualizado: 2026-11-06
 fuentes:
   - titulo: "Ada Colau lanza el Frente Amplio contra los fondos buitre y advierte al PSOE: «No basta con movilizar el miedo»"
     url: https://diariosabemos.com/analisis/cronica/ada-colau-frente-amplio-psoe-podemos-vivienda-elecciones_519414_102.html
@@ -55,9 +55,19 @@ fuentes:
     medio: Congreso de los Diputados
     fecha: 2025-11-27
     tipo: oficial
+  - titulo: "Frente Amplio propone desde Málaga una Ley para expropiar vivienda a grandes fondos de inversión"
+    url: https://www.frenteamplio.info/noticias/frente-amplio-propone-malaga-ley-expropiar-vivienda-grandes-fondos-inversion/
+    medio: Frente Amplio
+    fecha: 2026-11-06
+    tipo: partido
+  - titulo: "Frente Amplio propone subir impuestos a grandes fortunas y empresas para mejorar servicios públicos y redistribuir la riqueza"
+    url: https://www.frenteamplio.info/noticias/frente-amplio-propone-subir-impuestos-grandes-fortunas-empresas-mejorar-servicios/
+    medio: Frente Amplio
+    fecha: 2026-11-05
+    tipo: partido
 ---
 
-A 23 de octubre de 2026 Frente Amplio no ha publicado su programa para el 29-N. La propuesta recoge lo que anunció Emilio Delgado, cabeza de lista por Madrid, en la presentación de la candidatura el 17 de octubre: el 1 % del PIB anual para vivienda pública, contratos de alquiler indefinidos y un fondo estatal de edificación [1]. El programa de Sumar de 2023 ya proponía que los contratos tendieran a ser indefinidos [2]. El 22 de octubre la coalición nombró portavoz de campaña a Pablo Bustinduy, que dijo que el 29-N «será un referéndum sobre el derecho a la vivienda» [8].
+A 6 de noviembre de 2026 Frente Amplio no ha publicado su programa para el 29-N. La propuesta recoge lo que anunció Emilio Delgado, cabeza de lista por Madrid, en la presentación de la candidatura el 17 de octubre: el 1 % del PIB anual para vivienda pública, contratos de alquiler indefinidos y un fondo estatal de edificación [1]. El programa de Sumar de 2023 ya proponía que los contratos tendieran a ser indefinidos [2]. El 22 de octubre la coalición nombró portavoz de campaña a Pablo Bustinduy, que dijo que el 29-N «será un referéndum sobre el derecho a la vivienda» [8]. El 5 de noviembre anunció que su programa económico incluirá un impuesto del 10 % sobre el valor de cada vivienda que no se alquile de forma asequible y estable, desde la primera para las empresas y desde la cuarta para los particulares, si su valor conjunto supera los 800.000 euros [12]. El 6 de noviembre presentó como «una de las medidas estrella» de su programa de vivienda una «Ley de Expropiación de Viviendas a Propietarios Corporativos Privados», aplicable primero a entidades con más de 1.000 viviendas, después a las de más de 700 y por último a las empresas con más de 50, y la adscripción obligatoria al parque público de todas las fincas urbanas y suelos residenciales de la Sareb [11].
 
 En la legislatura, el grupo Sumar registró en febrero de 2025 una proposición de ley (122/000162) para que los alquileres se prorrogaran "obligatoriamente por plazos anuales" salvo causas tasadas; caducó sin debatirse [6]. También llevó dos veces al Pleno una ley para que solo las personas físicas pudieran comprar vivienda, con excepciones para entidades sin ánimo de lucro, sindicatos y entidades religiosas: PP, Vox y Junts rechazaron tramitarla el 27 de noviembre de 2025 (44 votos a favor, 179 en contra y 124 abstenciones) [10] y el 15 de septiembre de 2026 (44 a favor, 175 en contra y 127 abstenciones) [9], con la abstención del PSOE y el PNV. El programa de 2023 solo se comprometía a estudiar si condicionar las compraventas en zonas tensionadas a que el comprador residiera en la vivienda o la alquilara [2]; la prohibición general fue una iniciativa posterior del grupo. En el Gobierno, el Real Decreto-ley 8/2026, que prorrogaba dos años los alquileres y limitaba al 2 % su actualización, fue derogado el 28 de abril de 2026 [3]. En septiembre, PSOE y Sumar repartieron sus medidas en el Real Decreto-ley 26/2026 (función social de la vivienda) y el 27/2026 (estabilidad de los contratos), que recogía la renovación automática que pedía Sumar. Según fuentes del partido, "el PSOE no ha permitido" unirlos en uno [4]. Ambos cayeron el 2 de octubre, lo que precipitó el adelanto electoral. El Gobierno aprobó el 6 de octubre el Real Decreto-ley 28/2026, que prevé la prórroga "tácita y obligatoriamente por plazos sucesivos de cinco años" de los contratos [7], y el 29/2026. La Diputación Permanente prevé votarlos el 12 de noviembre, con el PNV en contra del 28/2026 [5].
 

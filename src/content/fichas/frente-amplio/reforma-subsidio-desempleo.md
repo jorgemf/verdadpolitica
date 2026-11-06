@@ -6,8 +6,13 @@ resumen: "Tras caer en enero de 2024 un primer decreto por el voto en contra de 
 tema: empleo-pensiones
 promesa: "«Reconfiguraremos las prestaciones no contributivas, incluidas las de desempleo, con el fin de simplificar y garantizar la protección a todas las personas que lo necesiten» (programa de Sumar 2023)."
 importancia: 2
+alcance:
+  grado: parcial
+  medida: "RDL 2/2024 amplía el subsidio (menores de 45 sin cargas, eventuales agrarios) y lo hace compatible con un empleo; solo reforma el de desempleo"
+  vigencia: en-vigor
+  ejecucion: no-consta
 fecha: 2024-06-20
-actualizado: 2026-10-19
+actualizado: 2026-10-23
 fuentes:
   - titulo: "Un programa para ti. Programa electoral de Sumar para las elecciones generales de 2023"
     url: https://movimientosumar.es/wp-content/uploads/2023/07/Un-Programa-para-ti.pdf

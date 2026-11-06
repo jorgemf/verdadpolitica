@@ -1,14 +1,15 @@
 ---
 partido: vox
-categoria: cumplido
-titulo: "Cumplimiento parcial: la «prioridad nacional» de Vox entra en Valencia y Extremadura como arraigo, no por nacionalidad"
-resumen: "Vox prometía preferencia para los españoles en ayudas y vivienda. Logró que los presupuestos valencianos de 2026 y el pacto de Extremadura incluyeran una «prioridad nacional», pero aplicada por años de empadronamiento y arraigo, sin distinguir por nacionalidad."
+categoria: bloqueado
+titulo: "La «prioridad nacional» de Vox: el PP la aplica por arraigo en Valencia y Extremadura, no por nacionalidad"
+resumen: "Vox prometía preferencia para los españoles en ayudas y vivienda. Los presupuestos valencianos de 2026 y el pacto de Extremadura recogen una «prioridad nacional», pero el PP la aplica por empadronamiento y arraigo, sin distinguir por nacionalidad; el Congreso rechazó la de Vox."
 tema: inmigracion
 ambito: autonomico
 promesa: "«Prioridad nacional»: que los españoles tengan preferencia en el acceso a las ayudas sociales y a la vivienda protegida («los españoles primero»)."
+bloqueadoPor: ["PP", "Ley de Extranjería (competencia estatal)", "Congreso de los Diputados"]
 importancia: 2
 fecha: 2026-07-22
-actualizado: 2026-10-23
+actualizado: 2026-10-25
 fuentes:
   - titulo: "Pérez Llorca saca adelante sus primeros presupuestos con Vox y estrena la «prioridad nacional» en las ayudas y la vivienda"
     url: https://www.menorca.info/actualidad/nacional/2026/07/22/2675189/perez-llorca-saca-adelante-primeros-presupuestos-vox-estrena-prioridad-nacional-ayudas-vivienda.html
@@ -57,9 +58,9 @@ En la Comunitat Valenciana, el PP de Juanfran Pérez Llorca tiene 40 escaños y 
 
 En Extremadura, el pacto de gobierno PP-Vox de abril de 2026 establece la prioridad nacional en la vivienda protegida. Exige un empadronamiento mínimo de diez años para comprar y de cinco para alquilar [4].
 
-## Grado de cumplimiento
+## Por qué
 
-El cumplimiento es parcial. Vox consiguió que la expresión y un criterio de preferencia entraran en una ley de presupuestos y en un pacto de gobierno, porque sus votos eran imprescindibles para el PP. Pero lo aprobado no da preferencia por ser español, que es lo que promete: según El Español, dar preferencia por nacionalidad exigiría reformar la Ley de Extranjería en el Congreso, por lo que ambos partidos se comprometieron a respetar la ley vigente [2]. Pérez Llorca explica que la preferencia se concede a quienes llevan más tiempo empadronados, es decir, por arraigo y no por nacionalidad [1]. En el Congreso, Vox mantuvo la "prioridad nacional" frente a la "prioridad al arraigo" del PP: el 22 de abril de 2026 el Pleno rechazó por 33 votos a favor y 310 en contra una moción suya sobre la prioridad nacional en la sanidad, a la que el PP había presentado una enmienda que la sustituía por la "prioridad al arraigo" [7].
+La preferencia por nacionalidad no salió adelante. Vox consiguió que la expresión y un criterio de preferencia entraran en una ley de presupuestos y en un pacto de gobierno, porque sus votos eran imprescindibles para el PP. Pero lo aprobado no da preferencia por ser español, que es lo que promete: según El Español, dar preferencia por nacionalidad exigiría reformar la Ley de Extranjería en el Congreso, por lo que ambos partidos se comprometieron a respetar la ley vigente [2]. Pérez Llorca explica que la preferencia se concede a quienes llevan más tiempo empadronados, es decir, por arraigo y no por nacionalidad [1]. En el Congreso, Vox mantuvo la "prioridad nacional" frente a la "prioridad al arraigo" del PP: el 22 de abril de 2026 el Pleno rechazó por 33 votos a favor y 310 en contra una moción suya sobre la prioridad nacional en la sanidad, a la que el PP había presentado una enmienda que la sustituía por la "prioridad al arraigo" [7].
 
 ## Lo que dicen las partes
 

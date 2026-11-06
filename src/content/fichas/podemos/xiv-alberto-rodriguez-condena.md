@@ -8,6 +8,22 @@ legislatura: XIV
 estadoJudicial: condena-firme
 implicados: "Alberto Rodríguez, diputado de Unidas Podemos por Santa Cruz de Tenerife y exsecretario de Organización de Podemos cuando fue condenado; dejó la militancia en Podemos a finales de 2021 y en 2026 milita en Drago Canarias. El partido no fue parte del procedimiento."
 importancia: 2
+gravedad:
+  naturaleza: penal
+  sujetos:
+    - nombre: "Alberto Rodríguez"
+      vinculo: sin-cargo
+      cuando: "sin cargo en enero de 2014; después diputado de Unidas Podemos y secretario de Organización de Podemos"
+      enFunciones: false
+      delito: "atentado a agente de la autoridad (arts. 550 y 551.1 CP en la redacción vigente en 2014: prisión de 1 a 3 años contra agentes; hoy, art. 550.2: de 6 meses a 3 años); absuelto de lesiones leves"
+      clasificacion: menos-grave
+      pena:
+        texto: "multa de 90 días con cuota de 6 euros, ya pagada; el Supremo impuso 1 mes y 15 días de prisión sustituidos por esa multa e inhabilitación para el sufragio pasivo, y el Constitucional anuló en 2024 la prisión y la inhabilitación"
+        tipo: impuesta
+        por: "Tribunal Supremo; pena reducida por el Tribunal Constitucional (STC 8/2024)"
+  cuantias:
+    - euros: 540
+      concepto: "multa (90 días a 6 euros)"
 fecha: 2024-01-16
 actualizado: 2026-10-23
 fuentes:

@@ -6,6 +6,11 @@ resumen: "El Consejo de Ministros aprobó el 22 de abril de 2025 un plan de 10.4
 tema: exterior-defensa
 promesa: "«Reforzaremos el presupuesto específico de Defensa que permita desarrollar los proyectos de planeamiento y programas del Ministerio, así como el cumplimiento del incremento de las inversiones de Defensa en el marco de los compromisos internacionales asumidos por España» (programa electoral de 2023)."
 importancia: 2
+alcance:
+  grado: completo
+  medida: "2 % del PIB en 2025 según la OTAN, previsto para 2029: de 22.693 millones en 2024 a 33.123 millones en 2025"
+  vigencia: en-vigor
+  ejecucion: aplicada
 fecha: 2025-04-22
 actualizado: 2026-10-23
 fuentes:

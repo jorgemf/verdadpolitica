@@ -7,6 +7,29 @@ estadoJudicial: condena-no-firme
 implicados: "David Sánchez (hermano del presidente; sin cargo en el partido), Miguel Ángel Gallardo (expresidente de la Diputación de Badajoz y dirigente del PSOE de Extremadura) y otros nueve acusados, cargos y técnicos de la Diputación."
 tema: regeneracion-democratica
 importancia: 2
+gravedad:
+  naturaleza: penal
+  sujetos:
+    - nombre: "David Sánchez"
+      vinculo: entorno
+      cuando: "hermano del presidente del Gobierno; coordinador de los conservatorios de la Diputación de Badajoz"
+      enFunciones: false
+      delito: "prevaricación administrativa, como cooperador necesario (art. 404 CP: inhabilitación especial de 9 a 15 años)"
+      clasificacion: grave
+      pena:
+        texto: "9 años de inhabilitación especial para empleo o cargo público y para el derecho de sufragio pasivo"
+        tipo: impuesta
+        por: "Audiencia Provincial de Badajoz"
+    - nombre: "Miguel Ángel Gallardo"
+      vinculo: cargo
+      cuando: "presidente de la Diputación de Badajoz"
+      enFunciones: true
+      delito: "dos delitos de prevaricación administrativa (art. 404 CP: inhabilitación especial de 9 a 15 años)"
+      clasificacion: grave
+      pena:
+        texto: "dos penas de 9 años de inhabilitación especial"
+        tipo: impuesta
+        por: "Audiencia Provincial de Badajoz"
 fecha: 2026-07-14
 actualizado: 2026-10-23
 fuentes:

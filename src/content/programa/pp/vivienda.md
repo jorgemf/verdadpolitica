@@ -4,7 +4,7 @@ tema: vivienda
 propuesta: "Construir al menos un millón de viviendas y aprobar en sus cien primeros días las leyes de Suelo y antiokupación (desalojo en 48 horas). Para menores de 40 años, avales de hasta el 100 % y un 60 % menos de IVA e ITP al comprar; deducciones para alquileres de hasta tres años que suban menos que el IPC."
 balance: "Sus leyes antiokupación y de seguridad jurídica urbanística se admitieron a trámite y caducaron en fase de enmiendas. En 2025 votó contra tramitar la reforma del suelo de PNV y PSOE, que también protegía los planes urbanísticos. En octubre de 2026 votó contra los RDL 26/2026 y 27/2026, que fueron derogados."
 coherencia: coherente
-actualizado: 2026-10-23
+actualizado: 2026-11-06
 fuentes:
   - titulo: "Mi contrato con España"
     url: https://www.pp.es/wp-content/uploads/2026/10/CONTRATO-CON-ESPANA-.pdf
@@ -68,7 +68,7 @@ fuentes:
     tipo: partido
 ---
 
-A 23 de octubre de 2026 el PP no ha publicado su programa para el 29-N. El "Contrato con España" (19 de octubre de 2026) se compromete a "construir al menos un millón de nuevas viviendas", a dar prioridad a los jóvenes en el acceso al alquiler y a la compra con "la mayor ayuda económica de la historia", a "echar a los okupas en 48 horas", facilitar suelo y reducir burocracia [1]. El 21 de octubre, en Sevilla, Feijóo concretó que en sus cien primeros días de Gobierno aprobaría la Ley del Suelo, la ley para desalojar okupas en 48 horas y la reforma de la Ley de Propiedad Horizontal. También prometió avales de hasta el 100 % y rebajas del 60 % del IVA y del ITP para los menores de 40 años que compren vivienda, una cuenta vivienda con aportaciones deducibles ("Hucha Hogar Joven"), silencio administrativo positivo a los 90 días y deducciones fiscales para inquilinos y propietarios que prorroguen contratos hasta tres años con subidas por debajo del IPC [10][11]. El plan de enero de 2026 incluía además bajar el IVA de la vivienda nueva del 10 % al 4 % para jóvenes [2].
+A 6 de noviembre de 2026 el PP no ha publicado su programa para el 29-N. El "Contrato con España" (19 de octubre de 2026) se compromete a "construir al menos un millón de nuevas viviendas", a dar prioridad a los jóvenes en el acceso al alquiler y a la compra con "la mayor ayuda económica de la historia", a "echar a los okupas en 48 horas", facilitar suelo y reducir burocracia [1]. El 21 de octubre, en Sevilla, Feijóo concretó que en sus cien primeros días de Gobierno aprobaría la Ley del Suelo, la ley para desalojar okupas en 48 horas y la reforma de la Ley de Propiedad Horizontal. También prometió avales de hasta el 100 % y rebajas del 60 % del IVA y del ITP para los menores de 40 años que compren vivienda, una cuenta vivienda con aportaciones deducibles ("Hucha Hogar Joven"), silencio administrativo positivo a los 90 días y deducciones fiscales para inquilinos y propietarios que prorroguen contratos hasta tres años con subidas por debajo del IPC [10][11]. El plan de enero de 2026 incluía además bajar el IVA de la vivienda nueva del 10 % al 4 % para jóvenes [2].
 
 Algunas cifras cambian respecto a 2023. El programa de entonces prometía avales hipotecarios de hasta el 95 % del precio para los menores de 35 años y desalojos "en un plazo máximo de 24 horas" [12], el plazo que mantenía la ley antiokupación del PP de 2026 [3]. Los documentos de campaña consultados no explican el paso a 48 horas.
 

@@ -4,7 +4,7 @@ tema: sanidad
 propuesta: "Devolver al Estado las competencias sanitarias, con tarjeta sanitaria única e historia clínica unificada; reducir listas de espera reforzando los conciertos con la privada; limitar la atención a inmigrantes irregulares a urgencias vitales; derogar las leyes de eutanasia y aborto."
 balance: "Se rechazaron su ley de tarjeta sanitaria única (2024) y su moción para derogar el RD 180/2026 (33-179). El Constitucional desestimó su recurso contra la reforma del aborto (2024) y su ley de cuidados paliativos caducó. Pactó en Extremadura 500 M€ anuales para listas de espera."
 coherencia: coherente
-actualizado: 2026-10-23
+actualizado: 2026-11-06
 fuentes:
   - titulo: "Programa electoral para las Elecciones Generales del 23J de 2023"
     url: https://theobjective.com/wp-content/uploads/2023/07/programa-vox-23j.pdf
@@ -77,7 +77,7 @@ fuentes:
     tipo: oficial
 ---
 
-A 23 de octubre de 2026, Vox no ha publicado programa para el 29-N ni un plan sanitario propio. Se recogen el programa de 2023 [1] y sus iniciativas de la legislatura.
+A 6 de noviembre de 2026, Vox no ha publicado programa para el 29-N ni un plan sanitario propio. Se recogen el programa de 2023 [1] y sus iniciativas de la legislatura.
 
 **Qué proponen.** El programa de 2023 plantea "la recuperación de las competencias en materia sanitaria transferidas a las regiones" para crear "un sistema único" (medida 101). Mientras tanto, propone un Plan Nacional de Sanidad con "una tarjeta sanitaria única" y la historia clínica unificada (medida 102). Quiere reducir las listas de espera "reforzando los conciertos con la sanidad privada" (medida 109) y derogar "las leyes de eutanasia y del aborto" (medida 113). Para los inmigrantes en situación irregular, limita la atención a "las situaciones de urgencia vital y enfermedades infecto-contagiosas" [1]. En 2026 lo resume como "prioridad nacional" en la sanidad [4].
 

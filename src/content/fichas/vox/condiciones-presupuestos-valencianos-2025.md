@@ -1,14 +1,19 @@
 ---
 partido: vox
 categoria: cumplido
-titulo: "Cumplimiento parcial: los presupuestos valencianos de 2025 recogen los recortes que pidió Vox a la AVL y a sindicatos"
+titulo: "Cumplimiento mínimo: los presupuestos valencianos de 2025 recogen los recortes que pidió Vox a la AVL y a sindicatos"
 resumen: "A cambio de aprobar las cuentas valencianas de 2025, Vox obtuvo un recorte del 25 % a la Acadèmia Valenciana de la Llengua, rebajas en las subvenciones a sindicatos y patronal y el anuncio del Consell de no aceptar más repartos de migrantes. No consta que se cumplieran sus condiciones sobre las ONG y la Agenda 2030."
 tema: inmigracion
 ambito: autonomico
 promesa: "Apoyar los presupuestos de Mazón solo si incluían el fin de las ayudas a ONG que asisten a migrantes, el rechazo a nuevos repartos de menores, recortes a la AVL y a la promoción del catalán y la retirada de fondos de la Agenda 2030."
 importancia: 1
+alcance:
+  grado: minimo
+  medida: "1 de 4 condiciones: AVL de 3,9 a 2,9 M€ (−25 %); los repartos, solo una declaración; no consta el fin de ayudas a ONG ni de fondos de la Agenda 2030"
+  vigencia: sustituida
+  ejecucion: aplicada
 fecha: 2025-05-28
-actualizado: 2026-10-19
+actualizado: 2026-10-25
 fuentes:
   - titulo: "Abascal da oxígeno a Mazón: preacuerdo PP-Vox para los presupuestos de la DANA"
     url: https://es.ara.cat/politica/abascal-mujer-oxigeno-mazon-acuerdo-pp-vox-presupuestos-dana_1_5318198.amp.html

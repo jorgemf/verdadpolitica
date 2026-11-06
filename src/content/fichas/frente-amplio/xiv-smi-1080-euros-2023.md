@@ -7,8 +7,13 @@ resumen: "El acuerdo de coalición de 2019 prometía subir el salario mínimo ha
 tema: empleo-pensiones
 promesa: "«Subiremos el Salario Mínimo Interprofesional hasta alcanzar progresivamente el 60% del salario medio en España tal y como recomienda la Carta Social Europea» (acuerdo de coalición PSOE-Unidas Podemos, 2019, punto 1.4)."
 importancia: 2
+alcance:
+  grado: completo
+  medida: "1.080 € en 14 pagas (RD 99/2023), que el Gobierno sitúa en el 60 % del salario medio; UGT sostiene que no alcanza ese objetivo"
+  vigencia: sustituida
+  ejecucion: no-consta
 fecha: 2023-02-14
-actualizado: 2026-10-20
+actualizado: 2026-10-23
 fuentes:
   - titulo: "Coalición progresista. Un nuevo acuerdo para España (acuerdo de Gobierno PSOE-Unidas Podemos)"
     url: https://www.diariodepontevedra.es/media/diariodepontevedra/files/2019/12/30/Pacto%20PSOE%20-%20Podemos%20para%20un%20gobierno%20de%20coalici%C3%B3n.pdf

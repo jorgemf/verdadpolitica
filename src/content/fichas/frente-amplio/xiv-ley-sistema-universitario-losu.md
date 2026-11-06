@@ -7,6 +7,11 @@ tema: educacion
 legislatura: XIV
 promesa: "«Pondremos en marcha un pacto por la universidad con el máximo consenso de los agentes políticos y sociales, que garantice una financiación adecuada y recursos suficientes para modernizar la universidad [...] y garantiza la efectividad de los derechos del personal docente, fomentando su estabilización [...] a través de una nueva Ley Orgánica de Universidades» (acuerdo de coalición PSOE–Unidas Podemos, 30 de diciembre de 2019)."
 importancia: 2
+alcance:
+  grado: parcial
+  medida: "Nueva ley (LO 2/2023) que baja del 40 % al 8 % el tope de profesorado temporal; sin pacto de consenso (182-157, PP y Vox en contra)"
+  vigencia: en-vigor
+  ejecucion: no-consta
 fecha: 2023-03-09
 actualizado: 2026-10-23
 fuentes:

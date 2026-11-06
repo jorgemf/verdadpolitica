@@ -7,8 +7,13 @@ tema: educacion
 legislatura: XIV
 promesa: "«El Gobierno propondrá, durante los primeros seis meses de su mandato, una nueva Ley Básica de Educación que derogue la LOMCE» (programa electoral del PSOE de noviembre de 2019)."
 importancia: 2
+alcance:
+  grado: completo
+  medida: "Proyecto aprobado el 3-3-2020, dentro de los 6 meses; la LO 3/2020 revierte la LOMCE reformando la LOE y rige en todos los niveles desde 2023-2024"
+  vigencia: en-vigor
+  ejecucion: aplicada
 fecha: 2020-12-29
-actualizado: 2026-10-20
+actualizado: 2026-10-23
 fuentes:
   - titulo: "Ahora, progreso. Programa electoral del PSOE para las elecciones generales del 10 de noviembre de 2019"
     url: https://img.beteve.cat/wp-content/uploads/2019/11/programa-psoe-10-n.pdf
@@ -28,6 +33,11 @@ fuentes:
     url: https://www.boe.es/buscar/doc.php?id=BOE-A-2020-17264
     medio: BOE
     fecha: 2020-12-30
+    tipo: oficial
+  - titulo: "Comienza el curso escolar 2023-2024 con la implantación de la Ley de Educación en todos los niveles y etapas"
+    url: https://www.educacionfpydeportes.gob.es/prensa/actualidad/2023/09/20230911-inauguracioncurso.html
+    medio: "Ministerio de Educación, Formación Profesional y Deportes"
+    fecha: 2023-09-11
     tipo: oficial
 ---
 

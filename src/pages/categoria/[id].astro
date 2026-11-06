@@ -7,6 +7,7 @@ import {
   fichas,
   CATEGORIA_INFO,
   ESTADO_JUDICIAL,
+  etiquetasValoracion,
   AMBITO,
   fichaUrl,
   partidoUrl,
@@ -68,11 +69,14 @@ const propias = (await fichas()).filter((f) => f.data.categoria === categoria);
                   <li>
                     <a href={fichaUrl(f)}>{f.data.titulo}</a>
                     <p>{f.data.resumen}</p>
-                    {(f.data.estadoJudicial || f.data.ambito !== 'estatal') && (
+                    {(f.data.estadoJudicial || etiquetasValoracion(f).length > 0 || f.data.ambito !== 'estatal') && (
                       <p class="cat__meta">
                         {f.data.estadoJudicial && (
                           <span class="etiqueta etiqueta--judicial">{ESTADO_JUDICIAL[f.data.estadoJudicial]}</span>
                         )}
+                        {etiquetasValoracion(f).map((e) => (
+                          <span class={`etiqueta ${e.clase}`}>{e.texto}</span>
+                        ))}
                         {f.data.ambito !== 'estatal' && <span class="etiqueta">{AMBITO[f.data.ambito]}</span>}
                       </p>
                     )}

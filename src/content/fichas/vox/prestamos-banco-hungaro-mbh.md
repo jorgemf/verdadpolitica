@@ -8,6 +8,17 @@ estadoJudicial: archivo-fiscalia
 faseJudicial: denuncia
 implicados: "Vox como persona jurídica (denuncia del PSOE ante la Fiscalía por financiación ilegal)."
 importancia: 2
+gravedad:
+  naturaleza: penal
+  sujetos:
+    - nombre: "Vox"
+      vinculo: partido
+      enFunciones: true
+      delito: "financiación ilegal de partidos (art. 304 bis.1 CP, tipo básico: multa del triplo al quíntuplo de lo recibido; para la persona jurídica, art. 304 bis.5)"
+      clasificacion: menos-grave
+  cuantias:
+    - euros: 6500000
+      concepto: "préstamo de MBH para las generales de 2023 objeto de la denuncia (importe del crédito, no una donación ni un perjuicio acreditados)"
 fecha: 2025-06-16
 actualizado: 2026-10-23
 fuentes:

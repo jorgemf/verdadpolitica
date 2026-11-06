@@ -6,6 +6,12 @@ resumen: "Podemos pidió en 2024 regularizar «de forma inmediata» a los migran
 tema: inmigracion
 promesa: "«Aprobar de forma inmediata, en un plazo máximo de 2 meses, la regularización de las personas extranjeras en situación administrativa irregular que se encuentren en territorio español antes del día 1 de noviembre de 2021» (proposición no de ley de Podemos, julio de 2024)."
 importancia: 3
+alcance:
+  grado: completo
+  medida: "RD 316/2026 para quienes llegaron antes de 2026 (se pedía antes de noviembre de 2021); llegó en abril de 2026 y no en el plazo de 2 meses prometido"
+  vigencia: en-vigor
+  ejecucion: parcial
+  magnitud: "1.174.978 solicitudes; 609.737 en tramitación a 2-7-2026 (Ministerio de Inclusión)"
 fecha: 2026-04-14
 actualizado: 2026-10-23
 fuentes:
@@ -71,7 +77,7 @@ El Pleno votó la iniciativa el 26 de febrero de 2025 en los términos de una en
 
 El 26 de enero de 2026 el Gobierno y Podemos acordaron una regularización extraordinaria mediante real decreto, sin convalidación parlamentaria [4]. Según elDiario.es, se pactó en las negociaciones sobre los decretos del escudo social y del abono de transportes [5]. El texto final es el Real Decreto 316/2026, de 14 de abril. Se dirige a quienes estaban en España antes del 1 de enero de 2026 con cinco meses de estancia continuada y sin antecedentes penales; las solicitudes podían presentarse hasta el 30 de junio y habilitan provisionalmente para residir y trabajar [6].
 
-El plazo no se amplió. Según el Ministerio de Inclusión, cerró el 30 de junio con 1.174.978 solicitudes registradas, de las que 609.737 se habían tramitado [9]. Varias comunidades autónomas recurrieron el real decreto ante el Supremo, que rechazó suspenderlo cautelarmente; el fondo de los recursos seguía pendiente en la última situación documentada (8 de julio de 2026) [10].
+El plazo no se amplió. Según el Ministerio de Inclusión, cerró el 30 de junio con 1.174.978 solicitudes registradas, de las que 609.737 estaban en fase de tramitación a 2 de julio [9]. Varias comunidades autónomas recurrieron el real decreto ante el Supremo, que rechazó suspenderlo cautelarmente; el fondo de los recursos seguía pendiente en la última situación documentada (8 de julio de 2026) [10].
 
 La medida llegó por reglamento y casi dos años después del plazo de dos meses que pedía la PNL, pero con una fecha de entrada en España más amplia que la propuesta [1] [6].
 

@@ -354,6 +354,36 @@ html {
   border-color: var(--tinta);
 }
 
+/* Gravedad y alcance: solo tinta, más peso cuanto más grave o menos cumplido */
+.etiqueta--grave,
+.etiqueta--menos-grave,
+.etiqueta--leve,
+.etiqueta--no-penal,
+.etiqueta--aviso,
+[class*='etiqueta--alcance-'] {
+  white-space: normal;
+}
+
+.etiqueta--grave,
+.etiqueta--alcance-minimo {
+  background: var(--tinta);
+  border-color: var(--tinta);
+  color: var(--papel-alto);
+}
+
+.etiqueta--menos-grave,
+.etiqueta--alcance-parcial,
+.etiqueta--aviso {
+  border-color: var(--tinta);
+}
+
+.etiqueta--leve,
+.etiqueta--no-penal,
+.etiqueta--alcance-no-evaluable {
+  border-style: dashed;
+  color: var(--tinta-suave);
+}
+
 /* Prosa larga de las fichas */
 .prosa {
   font-family: var(--serif);

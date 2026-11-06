@@ -8,8 +8,34 @@ tema: regeneracion-democratica
 estadoJudicial: condena-firme
 implicados: "Luis Bárcenas, extesorero y exgerente del PP (antiguo cargo), condenado como cooperador necesario de un delito fiscal, y los dos administradores del estudio Unifica. El PP como persona jurídica no fue condenado penalmente: es responsable civil subsidiario. El exgerente Cristóbal Páez fue absuelto."
 importancia: 3
+gravedad:
+  naturaleza: penal
+  sujetos:
+    - nombre: "Partido Popular"
+      vinculo: partido
+      enFunciones: true
+      delito: "ninguno: responsable civil subsidiario de la cuota defraudada atribuible a los pagos en B; absuelto del delito fiscal de 2008"
+      clasificacion: no-penal
+    - nombre: "Luis Bárcenas"
+      vinculo: cargo
+      cuando: "gerente del PP"
+      enFunciones: true
+      delito: "cooperador necesario de un delito contra la Hacienda Pública (art. 305 CP en la redacción vigente en los hechos: prisión de 1 a 4 años; hoy, de 1 a 5)"
+      clasificacion: menos-grave
+      pena:
+        texto: "8 meses de prisión y multa de 180.000 euros (la Audiencia Nacional le había impuesto 2 años)"
+        anios: 0.67
+        tipo: impuesta
+        por: "Tribunal Supremo"
+  cuantias:
+    - euros: 123669
+      concepto: "límite de la responsabilidad civil subsidiaria del PP fijado por la Audiencia Nacional (2021)"
+    - euros: 1072000
+      concepto: "pagos en B de Bárcenas a Unifica por las obras de Génova, según la Audiencia Nacional"
+    - euros: 374000
+      concepto: "cuota defraudada a Hacienda tras la sentencia del Supremo"
 fecha: 2024-11-15
-actualizado: 2026-10-20
+actualizado: 2026-10-23
 fuentes:
   - titulo: "El Tribunal Supremo confirma el delito de defraudación tributaria en el caso 'Papeles de Bárcenas' y reduce las penas al apreciar dilaciones indebidas"
     url: https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/Noticias-Judiciales/El-Tribunal-Supremo-confirma-el-delito-de-defraudacion-tributaria-en-el-caso--Papeles-de-Barcenas--y-reduce-las-penas-al-apreciar-dilaciones-indebidas

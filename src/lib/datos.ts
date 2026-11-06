@@ -126,6 +126,141 @@ export function porDesenlace(a: Ficha, b: Ficha): number {
   return PESO_DESENLACE[sa.desenlace] - PESO_DESENLACE[sb.desenlace] || sb.fase - sa.fase || porImportancia(a, b);
 }
 
+type Gravedad = NonNullable<Ficha['data']['gravedad']>;
+type Sujeto = Gravedad['sujetos'][number];
+
+export const CLASIFICACION: Record<Sujeto['clasificacion'], string> = {
+  grave: 'delito grave',
+  'menos-grave': 'delito menos grave',
+  leve: 'delito leve',
+  'no-penal': 'responsabilidad no penal',
+};
+
+export const VINCULO: Record<Sujeto['vinculo'], string> = {
+  partido: 'El propio partido',
+  direccion: 'Dirección del partido o Gobierno',
+  cargo: 'Cargo del partido',
+  excargo: 'Excargo',
+  entorno: 'Familiar o entorno',
+  'sin-cargo': 'Sin cargo en la fecha de los hechos',
+};
+
+const NATURALEZA: Record<Gravedad['naturaleza'], string> = {
+  penal: 'Responsabilidad penal',
+  civil: 'Responsabilidad civil',
+  contable: 'Responsabilidad contable',
+  administrativa: 'Sanción administrativa',
+};
+
+const RANGO_CLASIFICACION: Record<Sujeto['clasificacion'], number> = { grave: 3, 'menos-grave': 2, leve: 1, 'no-penal': 0 };
+
+// Cómo se nombra la causa según el estado, para no presentar una investigación como una condena.
+const PREFIJO_ESTADO: Record<string, string> = {
+  'diligencias-fiscalia': 'Diligencias por',
+  investigacion: 'Investigación por',
+  procesamiento: 'Acusación por',
+  'juicio-oral': 'Acusación por',
+  juicio: 'Acusación por',
+  'condena-no-firme': 'Condena no firme por',
+  'condena-firme': 'Condena por',
+};
+
+export interface Etiqueta {
+  texto: string;
+  clase: string;
+}
+
+/**
+ * Gravedad de una causa según el Código Penal, redactada según su estado. Las
+ * personas con la causa archivada o absueltas no cuentan: su desenlace ya lo
+ * dice el estado procesal.
+ */
+export function etiquetasGravedad(f: Ficha): Etiqueta[] {
+  const g = f.data.gravedad;
+  if (!g) return [];
+  const vivos = g.sujetos
+    .map((s) => ({ s, estado: s.estado ?? f.data.estadoJudicial! }))
+    .filter(({ estado }) => PREFIJO_ESTADO[estado]);
+  const etiquetas: Etiqueta[] = [];
+  const penal = vivos
+    .filter(({ s }) => s.clasificacion !== 'no-penal')
+    .sort((a, b) => RANGO_CLASIFICACION[b.s.clasificacion] - RANGO_CLASIFICACION[a.s.clasificacion])[0];
+  if (penal) {
+    const quien = g.sujetos.length > 1 ? ` (${penal.s.nombre})` : '';
+    etiquetas.push({
+      texto: `${PREFIJO_ESTADO[penal.estado]} ${CLASIFICACION[penal.s.clasificacion]}${quien}`,
+      clase: `etiqueta--${penal.s.clasificacion}`,
+    });
+  }
+  if (g.naturaleza !== 'penal' && vivos.some(({ s }) => s.clasificacion === 'no-penal')) {
+    etiquetas.push({ texto: NATURALEZA[g.naturaleza], clase: 'etiqueta--no-penal' });
+  }
+  return etiquetas;
+}
+
+const mayuscula = (t: string) => t.charAt(0).toUpperCase() + t.slice(1);
+
+/** Quién era cada persona cuando ocurrieron los hechos y si actuaba en el cargo. */
+export function motivosSujeto(s: Sujeto): string[] {
+  return [mayuscula(s.cuando ?? VINCULO[s.vinculo]), s.enFunciones ? 'en el ejercicio del cargo' : null].filter(
+    (m): m is string => !!m,
+  );
+}
+
+type Alcance = NonNullable<Ficha['data']['alcance']>;
+
+export const GRADO: Record<Alcance['grado'], { texto: string; corto: string }> = {
+  completo: { texto: 'Cumplido por completo', corto: 'por completo' },
+  parcial: { texto: 'Cumplido en parte', corto: 'en parte' },
+  minimo: { texto: 'Cumplido por lo mínimo', corto: 'por lo mínimo' },
+  'no-evaluable': { texto: 'Alcance no evaluable', corto: 'no evaluable' },
+};
+
+export const VIGENCIA: Record<Alcance['vigencia'], string> = {
+  'en-vigor': 'En vigor',
+  pendiente: 'Pendiente de entrar en vigor',
+  'anulada-parcial': 'Anulada en parte por los tribunales',
+  anulada: 'Anulada por los tribunales',
+  derogada: 'Derogada',
+  sustituida: 'Sustituida por una norma posterior',
+  'no-aplica': 'Actuación puntual',
+};
+
+export const EJECUCION: Record<Alcance['ejecucion'], string> = {
+  aplicada: 'Se aplica',
+  parcial: 'Se aplica solo en parte',
+  'sin-aplicar': 'Sin aplicar',
+  'no-consta': 'No constan datos de aplicación',
+  'no-aplica': 'Ya realizada',
+};
+
+/** Avisos cortos de un cumplimiento que no es completo, no está en vigor o no se aplica. */
+export function etiquetasAlcance(f: Ficha): Etiqueta[] {
+  const a = f.data.alcance;
+  if (!a) return [];
+  return [
+    a.grado !== 'completo' ? { texto: GRADO[a.grado].texto, clase: `etiqueta--alcance-${a.grado}` } : null,
+    ['pendiente', 'anulada-parcial', 'anulada', 'derogada'].includes(a.vigencia)
+      ? { texto: VIGENCIA[a.vigencia], clase: 'etiqueta--aviso' }
+      : null,
+    a.ejecucion === 'parcial' || a.ejecucion === 'sin-aplicar'
+      ? { texto: EJECUCION[a.ejecucion], clase: 'etiqueta--aviso' }
+      : null,
+  ].filter((e): e is Etiqueta => !!e);
+}
+
+/** Recuento de lo cumplido por grado, p. ej. «4 por completo, 5 en parte». */
+export function resumenAlcance(cumplidas: Ficha[]): string {
+  return (Object.keys(GRADO) as Alcance['grado'][])
+    .map((g) => ({ g, n: cumplidas.filter((f) => f.data.alcance?.grado === g).length }))
+    .filter(({ n }) => n > 0)
+    .map(({ g, n }) => `${n} ${GRADO[g].corto}`)
+    .join(', ');
+}
+
+/** Etiquetas de valoración de una ficha para las listas. */
+export const etiquetasValoracion = (f: Ficha): Etiqueta[] => [...etiquetasGravedad(f), ...etiquetasAlcance(f)];
+
 export const COHERENCIA: Record<string, { texto: string; descripcion: string }> = {
   coherente: { texto: 'Coherente', descripcion: 'Lo que propone encaja con lo que ha hecho.' },
   parcial: { texto: 'En parte', descripcion: 'Ha hecho algo en esa línea, pero no todo ni siempre.' },
@@ -225,6 +360,9 @@ export function fichasDeVista(todas: Ficha[], id: VistaId): Ficha[] {
 
 const formatoPct = new Intl.NumberFormat('es-ES', { minimumFractionDigits: 1, maximumFractionDigits: 1 });
 export const porcentaje = (n: number) => `${formatoPct.format(n)} %`;
+
+const formatoEuros = new Intl.NumberFormat('es-ES', { style: 'currency', currency: 'EUR', maximumFractionDigits: 0 });
+export const euros = (n: number) => formatoEuros.format(n);
 
 /** Ruta interna respetando el `base` configurado. */
 export function url(ruta: string): string {

@@ -7,6 +7,33 @@ tema: regeneracion-democratica
 estadoJudicial: investigacion
 implicados: "Juan de Dios Dávila y Cristina Navarro, del Equipo de Cumplimiento Normativo de Vox (investigados en Madrid). Un asesor y la coordinadora del grupo parlamentario de Vox en la Asamblea Regional de Murcia, identificados en la prensa solo por sus iniciales (citados como investigados en Cartagena). La dirección nacional no figura como investigada."
 importancia: 1
+gravedad:
+  naturaleza: penal
+  sujetos:
+    - nombre: "Juan de Dios Dávila"
+      vinculo: cargo
+      cuando: "miembro del Equipo de Cumplimiento Normativo de Vox"
+      enFunciones: true
+      delito: "revelación de secretos (art. 197 CP: prisión de 1 a 4 años, o de 2 a 5 si se difunden los datos)"
+      clasificacion: menos-grave
+    - nombre: "Cristina Navarro"
+      vinculo: cargo
+      cuando: "miembro del Equipo de Cumplimiento Normativo de Vox"
+      enFunciones: true
+      delito: "revelación de secretos (art. 197 CP: prisión de 1 a 4 años, o de 2 a 5 si se difunden los datos)"
+      clasificacion: menos-grave
+    - nombre: "Asesor del grupo de Vox en la Asamblea Regional de Murcia"
+      vinculo: entorno
+      cuando: "asesor del grupo parlamentario de Vox, identificado en la prensa solo por sus iniciales"
+      enFunciones: true
+      delito: "falsificación de documento privado (art. 395 CP: prisión de 6 meses a 2 años)"
+      clasificacion: menos-grave
+    - nombre: "Coordinadora del grupo de Vox en la Asamblea Regional de Murcia"
+      vinculo: entorno
+      cuando: "coordinadora del grupo parlamentario de Vox, identificada en la prensa solo por sus iniciales"
+      enFunciones: true
+      delito: "falsificación de documento privado (art. 395 CP: prisión de 6 meses a 2 años)"
+      clasificacion: menos-grave
 fecha: 2026-08-21
 actualizado: 2026-10-23
 fuentes:
@@ -61,6 +88,8 @@ Las rupturas internas de Vox durante la legislatura han llegado a los juzgados e
 - El Juzgado de Instrucción n.º 4 de Cartagena, con la Fiscalía personada, cita como investigados a un asesor y a la coordinadora del grupo parlamentario de Vox en la Asamblea Regional por presunta falsificación documental los días 11, 12 y 13 de enero de 2027, según una providencia de 21 de agosto de 2026. Antelo había ratificado su denuncia en el juzgado el 16 de julio, y la exdiputada de Vox Virginia Martínez está citada como testigo [3][4][5].
 
 En ninguna de las dos causas consta una resolución posterior en las búsquedas realizadas el 23 de octubre de 2026. Ninguno de los investigados ha sido acusado formalmente; rige la presunción de inocencia.
+
+A efectos de gravedad, ambas causas se clasifican como delito menos grave. Las fuentes no precisan el subtipo de revelación de secretos; las modalidades del artículo 197 del Código Penal no superan los cinco años de prisión salvo si hay ánimo de lucro y afectan a datos especialmente protegidos (art. 197.6), algo que no se menciona [1][2]. En Cartagena, Europa Press describe el delito como falsificación de documentos privados (art. 395, de seis meses a dos años de prisión) [3]; elDiario.es cita el artículo 390 (de tres a seis años), previsto para autoridades y funcionarios [4].
 
 ## Lo que dicen las partes
 

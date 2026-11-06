@@ -6,6 +6,11 @@ resumen: "Con su mayoría absoluta en el Senado, el PP creó en 2024 una comisi�
 tema: regeneracion-democratica
 promesa: "Llevar a Pedro Sánchez a comparecer en la comisión de investigación del Senado sobre el caso Koldo (anuncio de Feijóo, 8 de octubre de 2025)."
 importancia: 2
+alcance:
+  grado: completo
+  medida: "Feijóo anunció el 8-10-2025 que llevaría a Sánchez a la comisión y este compareció el 30-10-2025; no consta dictamen final antes de la disolución"
+  vigencia: no-aplica
+  ejecucion: no-aplica
 fecha: 2025-10-30
 actualizado: 2026-10-23
 fuentes:

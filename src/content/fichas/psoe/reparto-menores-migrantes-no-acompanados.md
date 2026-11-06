@@ -6,6 +6,12 @@ resumen: "Rechazada una proposición de ley en 2024, el Real Decreto-ley 2/2025,
 tema: inmigracion
 promesa: "«Iniciar el proceso que culmine en las modificaciones normativas necesarias al efecto de que las competencias de menores extranjeros no acompañados no sean responsabilidad exclusiva de las comunidades a las que llegan» (acuerdo de investidura PSOE–Coalición Canaria, 10 de noviembre de 2023)."
 importancia: 3
+alcance:
+  grado: completo
+  medida: "El RDL 2/2025 reformó la Ley de Extranjería con un reparto obligatorio; a 13-1-2026 reubicó a 395 menores de unos 1.700 estimados por Canarias"
+  vigencia: en-vigor
+  ejecucion: parcial
+  magnitud: "803 menores reubicados a 13-1-2026: 395 por el artículo 35 y 408 solicitantes de asilo (Gobierno)"
 fecha: 2025-04-10
 actualizado: 2026-10-23
 fuentes:

@@ -9,6 +9,20 @@ estadoJudicial: absolucion-no-firme
 faseJudicial: sentencia
 implicados: "Pablo Echenique, exdiputado, exportavoz de Unidas Podemos en el Congreso y ex secretario de Organización de Podemos. Las fuentes consultadas lo describen como exdirigente y no le atribuyen un cargo en el partido. Podemos como persona jurídica no es parte en la causa."
 importancia: 1
+gravedad:
+  naturaleza: penal
+  sujetos:
+    - nombre: "Pablo Echenique"
+      vinculo: excargo
+      cuando: "exdiputado y ex secretario de Organización de Podemos, sin cargo en el partido según las fuentes"
+      enFunciones: false
+      delito: "delito de odio (art. 510.1 CP: prisión de 1 a 4 años)"
+      clasificacion: menos-grave
+      pena:
+        texto: "un año de prisión, multa e inhabilitación; la Fiscalía pidió la absolución"
+        anios: 1
+        tipo: pedida
+        por: "acusación de la Fundación Española de Abogados Cristianos (la Fiscalía no acusó)"
 fecha: 2026-04-17
 actualizado: 2026-10-23
 fuentes:

@@ -7,8 +7,13 @@ tema: igualdad
 legislatura: XIV
 promesa: "«Se llevará al Parlamento la Ley para la Protección Integral de la Infancia y la Adolescencia frente a todas las formas de violencia» (acuerdo de coalición PSOE–Unidas Podemos, 30 de diciembre de 2019, apartado 2.6.1)."
 importancia: 2
+alcance:
+  grado: completo
+  medida: "Proyecto remitido a las Cortes el 9-6-2020 y aprobado el 20-5-2021 (297 votos a 52): Ley Orgánica 8/2021"
+  vigencia: en-vigor
+  ejecucion: no-consta
 fecha: 2021-06-04
-actualizado: 2026-10-20
+actualizado: 2026-10-23
 fuentes:
   - titulo: "Coalición progresista. Un nuevo acuerdo para España (acuerdo de Gobierno PSOE–Unidas Podemos)"
     url: https://www.diariodepontevedra.es/media/diariodepontevedra/files/2019/12/30/Pacto%20PSOE%20-%20Podemos%20para%20un%20gobierno%20de%20coalici%C3%B3n.pdf

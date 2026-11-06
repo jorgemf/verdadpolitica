@@ -7,8 +7,13 @@ tema: vivienda
 legislatura: XIV
 promesa: "«Intervenir el mercado del alquiler para impedir subidas abusivas mediante el control de precios [...] se habilitará a los Ayuntamientos con el fin de que puedan regular los precios en barrios y zonas con precios especialmente tensionados» (programa de Unidas Podemos, noviembre de 2019, medida 203). El acuerdo de coalición PSOE–UP añadió: «Se impulsarán las medidas normativas necesarias para poner techo a las subidas abusivas de precios de alquiler en determinadas zonas de mercado tensionado»."
 importancia: 3
+alcance:
+  grado: parcial
+  medida: "Ley 12/2023 limita rentas en zonas tensionadas que declara la Administración de vivienda (sobre todo CCAA); se prometía habilitar a los ayuntamientos"
+  vigencia: en-vigor
+  ejecucion: no-consta
 fecha: 2023-05-24
-actualizado: 2026-10-20
+actualizado: 2026-10-23
 fuentes:
   - titulo: "Las razones siguen intactas. Programa de Unidas Podemos para las elecciones generales del 10 de noviembre de 2019"
     url: https://podemos.info/wp-content/uploads/2019/10/Podemos_programa_generales_10N.pdf

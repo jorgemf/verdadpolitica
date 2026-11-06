@@ -6,8 +6,13 @@ resumen: "Sumar prometió regular una alimentación saludable y sostenible en lo
 tema: educacion
 promesa: "«Pondremos en marcha una nueva regulación que asegure una alimentación saludable y sostenible en todos los comedores escolares a través de la compra de productos de proximidad» (programa de Sumar 2023)."
 importancia: 1
+alcance:
+  grado: parcial
+  medida: "RD 315/2025: fruta 4-5 veces por semana, fritos 1 por semana, 45 % de temporada y 5 % ecológico; no fija porcentaje de productos de proximidad"
+  vigencia: en-vigor
+  ejecucion: no-consta
 fecha: 2025-04-15
-actualizado: 2026-10-20
+actualizado: 2026-10-23
 fuentes:
   - titulo: "Un programa para ti. Programa electoral de Sumar para las elecciones generales de 2023"
     url: https://movimientosumar.es/wp-content/uploads/2023/07/Un-Programa-para-ti.pdf

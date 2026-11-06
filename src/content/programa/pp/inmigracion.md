@@ -4,7 +4,7 @@ tema: inmigracion
 propuesta: "Reducir la inmigración irregular, prohibir por ley las regularizaciones colectivas, endurecer el acceso a la nacionalidad (y retirarla por delitos graves) y reforzar el control de fronteras. Para las ayudas sociales, defiende una \"prioridad\" basada en el arraigo, no en la nacionalidad."
 balance: "Votó a favor de tramitar la ILP de regularización (2024), pidiendo que fuera individual. Votó contra el reparto obligatorio de menores, que recurrieron diez de sus comunidades. En 2026 sacó mociones contra la regularización y sus comunidades la recurrieron. Con Vox pactó una \"prioridad nacional\" ligada al arraigo."
 coherencia: coherente
-actualizado: 2026-10-23
+actualizado: 2026-11-06
 fuentes:
   - titulo: "Mi contrato con España"
     url: https://www.pp.es/wp-content/uploads/2026/10/CONTRATO-CON-ESPANA-.pdf
@@ -78,7 +78,7 @@ fuentes:
     tipo: partido
 ---
 
-A 23 de octubre de 2026 el PP no ha publicado su programa para el 29-N. El "Contrato con España" (19 de octubre de 2026) sostiene que "reducir la inmigración irregular es irrenunciable", que "quien venga a delinquir, deberá marcharse" y que "se establecerá por ley la prohibición de regulaciones [sic] colectivas"; también reforzará los criterios de acceso a la nacionalidad y las fronteras [1]. Los argumentarios de campaña añaden una reforma de la Ley de Extranjería [13] y una ley de nacionalidad con "más requisitos" y pérdida de la nacionalidad "si se cometen graves delitos" [14].
+A 6 de noviembre de 2026 el PP no ha publicado su programa para el 29-N. El "Contrato con España" (19 de octubre de 2026) sostiene que "reducir la inmigración irregular es irrenunciable", que "quien venga a delinquir, deberá marcharse" y que "se establecerá por ley la prohibición de regulaciones [sic] colectivas"; también reforzará los criterios de acceso a la nacionalidad y las fronteras [1]. Los argumentarios de campaña añaden una reforma de la Ley de Extranjería [13] y una ley de nacionalidad con "más requisitos" y pérdida de la nacionalidad "si se cometen graves delitos" [14].
 
 En abril de 2024 votó a favor de tomar en consideración la iniciativa legislativa popular para regularizar a unos 500.000 inmigrantes y marcó distancias con Vox [2]. Votar su tramitación no equivale a respaldar su texto: en septiembre de 2024 sus enmiendas pedían una regularización individualizada, sin antecedentes penales [6]. La ILP quedó bloqueada. En enero de 2026 el Gobierno anunció una regularización extraordinaria por vía reglamentaria [3]. El PP la presentó como un "efecto llamada" y propuso regularizaciones individuales ligadas a contrato de trabajo [3], en la línea del "fin de regularizaciones generalizadas" de su Plan Nacional de Inmigración de octubre de 2025 [7]. El Senado (4 de febrero de 2026) [8] y el Congreso (18 de marzo, por 176 votos a 172) [12] aprobaron mociones del PP en su contra, pero el Gobierno la aprobó en abril por real decreto. Comunidades gobernadas por el PP, como la Valenciana y Aragón, la recurrieron ante el Supremo, que rechazó suspenderla y no ha resuelto el fondo [9]. Su propuesta actual excluye las regularizaciones colectivas [1].
 

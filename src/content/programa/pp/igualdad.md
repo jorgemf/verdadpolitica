@@ -4,7 +4,7 @@ tema: igualdad
 propuesta: "El \"Contrato con España\" solo alude a la igualdad al prometer combatir \"la violencia contra las mujeres\" en su punto de seguridad. En 2026 el PP pidió reformar la Ley trans para acabar con la autodeterminación registral del sexo \"sin requisitos\" y registró una ley para prohibir ocultar el rostro en espacios públicos."
 balance: "Apoyó en 2025, con todos los grupos salvo Vox, la renovación del Pacto de Estado contra la Violencia de Género. En 2024 votó contra la ley de paridad alegando una enmienda sobre la senda de déficit. El Congreso rechazó en 2025 sus leyes de conciliación y de especialización de los juzgados de violencia sobre la mujer."
 coherencia: coherente
-actualizado: 2026-10-23
+actualizado: 2026-11-06
 fuentes:
   - titulo: "Mi contrato con España"
     url: https://www.pp.es/wp-content/uploads/2026/10/CONTRATO-CON-ESPANA-.pdf
@@ -78,7 +78,7 @@ fuentes:
     tipo: oficial
 ---
 
-A 23 de octubre de 2026 el PP no ha publicado su programa para el 29-N. Los doce compromisos del "Contrato con España" (19 de octubre de 2026) no incluyen ninguno específico sobre igualdad entre mujeres y hombres. El de seguridad se compromete a combatir "la creciente inseguridad en muchos barrios y, en especial, la violencia contra las mujeres, en cifras alarmantes", con más recursos para las Fuerzas y Cuerpos de Seguridad, sin otras medidas [1]. El programa de 2023 prometía que los juzgados de violencia sobre la mujer juzgaran los delitos de violencia machista y "una nueva ley trans" (medida 24) [2].
+A 6 de noviembre de 2026 el PP no ha publicado su programa para el 29-N. Los doce compromisos del "Contrato con España" (19 de octubre de 2026) no incluyen ninguno específico sobre igualdad entre mujeres y hombres. El de seguridad se compromete a combatir "la creciente inseguridad en muchos barrios y, en especial, la violencia contra las mujeres, en cifras alarmantes", con más recursos para las Fuerzas y Cuerpos de Seguridad, sin otras medidas [1]. El programa de 2023 prometía que los juzgados de violencia sobre la mujer juzgaran los delitos de violencia machista y "una nueva ley trans" (medida 24) [2].
 
 Sus propuestas más recientes salen de iniciativas parlamentarias:
 

@@ -2,13 +2,45 @@
 partido: psoe
 categoria: judicial
 titulo: "Caso mascarillas: el Supremo condena a Ábalos a 24 años y a Koldo García a 19"
-resumen: "El Tribunal Supremo condenó en junio de 2026 al exministro y exsecretario de Organización del PSOE José Luis Ábalos a 24 años y 3 meses de prisión por organización criminal, cohecho, malversación y tráfico de influencias. El 14 de octubre rechazó anular la sentencia; Ábalos anuncia amparo ante el TC."
+resumen: "El Tribunal Supremo condenó en junio de 2026 al exministro y exsecretario de Organización del PSOE José Luis Ábalos a 24 años y 3 meses de prisión por organización criminal, cohecho, malversación y tráfico de influencias. El 14 de octubre rechazó anular la sentencia; en noviembre Ábalos recurrió en amparo al TC."
 estadoJudicial: condena-firme
 implicados: "José Luis Ábalos (exministro de Transportes y exsecretario de Organización del PSOE), Koldo García (su exasesor) y el empresario Víctor de Aldama. El PSOE como persona jurídica no es parte acusada."
 tema: regeneracion-democratica
 importancia: 3
+gravedad:
+  naturaleza: penal
+  sujetos:
+    - nombre: "José Luis Ábalos"
+      vinculo: direccion
+      cuando: "ministro de Transportes y secretario de Organización del PSOE"
+      enFunciones: true
+      delito: "organización criminal, cohecho, tráfico de influencias y malversación (arts. 570 bis, 419, 428 y 432 CP; cohecho: prisión de 3 a 6 años; malversación: de 2 a 6)"
+      clasificacion: grave
+      pena:
+        texto: "24 años y 3 meses de prisión"
+        anios: 24.25
+        tipo: impuesta
+        por: "Tribunal Supremo"
+    - nombre: "Koldo García"
+      vinculo: cargo
+      cuando: "asesor del ministro de Transportes"
+      enFunciones: true
+      delito: "organización criminal, cohecho, tráfico de influencias y malversación (arts. 570 bis, 419, 428 y 432 CP; cohecho: prisión de 3 a 6 años; malversación: de 2 a 6)"
+      clasificacion: grave
+      pena:
+        texto: "19 años, 8 meses y 1 día de prisión"
+        anios: 19.67
+        tipo: impuesta
+        por: "Tribunal Supremo"
+  cuantias:
+    - euros: 52500
+      concepto: "multa impuesta a Ábalos"
+    - euros: 45750
+      concepto: "multa impuesta a Koldo García"
+    - euros: 44000
+      concepto: "indemnización de Ábalos y Koldo García a dos empresas públicas (cifra redondeada en la fuente)"
 fecha: 2026-10-14
-actualizado: 2026-10-23
+actualizado: 2026-11-06
 fuentes:
   - titulo: "El Tribunal Supremo condena al exministro José Luis Ábalos y a su exasesor Koldo García a 24 años y 19 años de prisión, respectivamente, por delitos de organización criminal, cohecho, malversación y tráfico de influencias"
     url: https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/El-Tribunal-Supremo-condena-al-exministro-Jose-Luis-Abalos-y-a-su-exasesor-Koldo-Garcia-a-24-anos-y-19-anos-de-prision--respectivamente--por-delitos-de-organizacion-criminal--cohecho--malversacion-y-trafico-de-influencias
@@ -45,6 +77,21 @@ fuentes:
     medio: El Confidencial Digital
     fecha: 2026-06-23
     tipo: prensa
+  - titulo: "El Supremo condena a Ábalos a 24 años de prisión por «corrupción orgánica, organizada y continuada»"
+    url: https://es.ara.cat/politica/supremo-condena-exministro-abalos-24-anos-prision_1_5776792.html
+    medio: Ara
+    fecha: 2026-06-22
+    tipo: prensa
+  - titulo: "Ábalos pide amparo al Constitucional para anular una sentencia que se apoya en Aldama, el «coacusado premiado»"
+    url: https://www.eldiario.es/politica/abalos-pide-amparo-constitucional-anular-sentencia-apoya-aldama-coacusado-premiado_1_13639710.html
+    medio: elDiario.es
+    fecha: 2026-11-05
+    tipo: prensa
+  - titulo: "La UCO libera a los 6 detenidos en la nueva pieza del caso Koldo"
+    url: https://www.elespanol.com/espana/tribunales/20261105/audiencia-nacional-ordena-uco-registrar-casa-abalos-valencia-nueva-operacion-caso-koldo/1003744446921_0.html
+    medio: El Español
+    fecha: 2026-11-05
+    tipo: prensa
 ---
 
 ## Hechos
@@ -53,7 +100,7 @@ La Sala de lo Penal del Tribunal Supremo, en una sentencia unánime redactada po
 
 ## Estado procesal
 
-Condena firme. Ábalos fue condenado a 24 años y 3 meses de prisión (con un cumplimiento máximo de 15 años y 8 meses) y Koldo García a 19 años y 8 meses, por organización criminal, cohecho, tráfico de influencias y malversación; el tribunal absolvió a Ábalos del tráfico de influencias relativo a una licencia de hidrocarburos [2]. Aldama fue condenado a cuatro años y medio por cohecho, con la pena suspendida por su colaboración con la justicia [2]. Como el Supremo juzgó en única instancia por la condición de aforado de Ábalos, no cabe recurso ordinario. El 14 de octubre de 2026 la Sala rechazó los incidentes de nulidad de ambas defensas [3]; El 15 de octubre Ábalos anunció un recurso de amparo ante el Tribunal Constitucional por vulneración de derechos fundamentales; sostiene, entre otras cosas, que el Supremo no era competente para juzgarlo tras renunciar a su escaño [6]. Un amparo no suspende por sí solo la condena. Última situación documentada: 15 de octubre de 2026; en las búsquedas del 23 de octubre no consta que el recurso se haya presentado. La parte de la investigación que no juzgó el Supremo sigue abierta en la Audiencia Nacional (ver la ficha de Santos Cerdán).
+Condena firme. Ábalos fue condenado a 24 años y 3 meses de prisión (con un cumplimiento máximo de 15 años y 8 meses) y Koldo García a 19 años y 8 meses, por organización criminal, cohecho, tráfico de influencias y malversación; el tribunal absolvió a Ábalos del tráfico de influencias relativo a una licencia de hidrocarburos [2]. Aldama fue condenado a cuatro años y medio por cohecho, con la pena suspendida por su colaboración con la justicia [2]. Como el Supremo juzgó en única instancia por la condición de aforado de Ábalos, no cabe recurso ordinario. El 14 de octubre de 2026 la Sala rechazó los incidentes de nulidad de ambas defensas [3]; El 15 de octubre Ábalos anunció un recurso de amparo ante el Tribunal Constitucional [6] y el 5 de noviembre se conoció que lo había presentado: pide anular la sentencia y, como medida cautelar, suspender la pena. Alega que el Supremo dejó de ser competente cuando renunció a su escaño el 28 de enero de 2026, que fue juzgado en única instancia sin revisión, que la declaración de Aldama no está corroborada y que no tuvo acceso a una copia forense de las pruebas digitales [9]. Un amparo no suspende por sí solo la condena. Última situación documentada (5 de noviembre de 2026): no consta si el Constitucional lo ha admitido a trámite. La parte de la investigación que no juzgó el Supremo sigue abierta en la Audiencia Nacional, que a comienzos de noviembre abrió una nueva pieza secreta sobre presuntos amaños de obra pública en contratos de Adif; en ella la UCO registró el domicilio de Ábalos en Valencia y detuvo, entre otras, a su pareja; los seis detenidos quedaron en libertad horas después [10] (ver la ficha de Santos Cerdán).
 
 ## Lo que dicen las partes
 

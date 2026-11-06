@@ -7,6 +7,42 @@ tema: regeneracion-democratica
 estadoJudicial: investigacion
 implicados: "Cristóbal Montoro, exministro de Hacienda con Rajoy (antiguo cargo; se dio de baja como afiliado del PP el 17 de julio de 2025), y unos treinta investigados más: ex altos cargos de Hacienda, socios de Equipo Económico y directivos de empresas. El PP como partido no está investigado."
 importancia: 2
+gravedad:
+  naturaleza: penal
+  sujetos:
+    - nombre: "Cristóbal Montoro"
+      vinculo: direccion
+      cuando: "ministro de Hacienda"
+      enFunciones: true
+      delito: "cohecho, fraude contra la Administración, prevaricación, tráfico de influencias, negociaciones prohibidas, corrupción en los negocios y falsedad documental (arts. 419, 436, 404, 428, 439 y 286 bis CP, entre otros; cohecho: prisión de 3 a 6 años)"
+      clasificacion: grave
+    - nombre: "Miguel Ferre"
+      vinculo: cargo
+      cuando: "secretario de Estado de Hacienda"
+      enFunciones: true
+      delito: "delitos investigados en la causa, sin desglose por persona en las fuentes: cohecho, fraude contra la Administración, prevaricación, tráfico de influencias y otros (arts. 419, 436, 404 y 428 CP; cohecho: prisión de 3 a 6 años)"
+      clasificacion: grave
+    - nombre: "Pilar Platero"
+      vinculo: cargo
+      cuando: "subsecretaria de Hacienda"
+      enFunciones: true
+      delito: "delitos investigados en la causa, sin desglose por persona en las fuentes: cohecho, fraude contra la Administración, prevaricación, tráfico de influencias y otros (arts. 419, 436, 404 y 428 CP; cohecho: prisión de 3 a 6 años)"
+      clasificacion: grave
+    - nombre: "Diego Martín-Abril"
+      vinculo: cargo
+      cuando: "director general de Tributos"
+      enFunciones: true
+      delito: "delitos investigados en la causa, sin desglose por persona en las fuentes: cohecho, fraude contra la Administración, prevaricación, tráfico de influencias y otros (arts. 419, 436, 404 y 428 CP; cohecho: prisión de 3 a 6 años)"
+      clasificacion: grave
+    - nombre: "José Alberto García"
+      vinculo: cargo
+      cuando: "director general de Tributos"
+      enFunciones: true
+      delito: "delitos investigados en la causa, sin desglose por persona en las fuentes: cohecho, fraude contra la Administración, prevaricación, tráfico de influencias y otros (arts. 419, 436, 404 y 428 CP; cohecho: prisión de 3 a 6 años)"
+      clasificacion: grave
+  cuantias:
+    - euros: 779705
+      concepto: "pagos de empresas gasistas a Equipo Económico entre 2011 y 2019, según la investigación (no es un perjuicio acreditado)"
 fecha: 2026-10-05
 actualizado: 2026-10-23
 fuentes:

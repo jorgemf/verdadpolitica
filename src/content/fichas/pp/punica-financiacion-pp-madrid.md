@@ -8,6 +8,34 @@ ambito: autonomico
 estadoJudicial: juicio-oral
 implicados: "Francisco Granados, exconsejero y ex secretario general del PP de Madrid, y Beltrán Gutiérrez, exgerente del PP de Madrid (antiguos cargos), con otros seis acusados. El archivo para Esperanza Aguirre, Ignacio González y cuatro exconsejeros fue confirmado en apelación en 2023. Las informaciones publicadas no recogen al PP como persona jurídica entre los acusados."
 importancia: 2
+gravedad:
+  naturaleza: penal
+  sujetos:
+    - nombre: "Francisco Granados"
+      vinculo: cargo
+      cuando: "consejero de la Comunidad de Madrid y secretario general del PP de Madrid"
+      enFunciones: true
+      delito: "prevaricación y tráfico de influencias en concurso con malversación, y delito electoral por falseamiento de cuentas (arts. 404, 428 y 432 CP; art. 149 LOREG; malversación: prisión de 3 a 6 años en la redacción vigente hasta 2015, de 2 a 6 en la actual)"
+      clasificacion: grave
+      pena:
+        texto: "7 años y 10 meses de prisión y multa de 284.000 euros"
+        anios: 7.83
+        tipo: pedida
+        por: "Fiscalía Anticorrupción"
+    - nombre: "Beltrán Gutiérrez"
+      vinculo: cargo
+      cuando: "gerente del PP de Madrid"
+      enFunciones: true
+      delito: "delito electoral por falseamiento de cuentas (art. 149.1 LOREG: prisión de 1 a 4 años)"
+      clasificacion: menos-grave
+      pena:
+        texto: "3 años y 6 meses de prisión"
+        anios: 3.5
+        tipo: pedida
+        por: "Fiscalía Anticorrupción"
+  cuantias:
+    - euros: 284000
+      concepto: "multa pedida para Granados por la Fiscalía Anticorrupción"
 fecha: 2026-05-31
 actualizado: 2026-10-23
 fuentes:

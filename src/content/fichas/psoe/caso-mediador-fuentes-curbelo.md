@@ -8,6 +8,31 @@ implicados: "Juan Bernardo Fuentes Curbelo (diputado del PSOE por Las Palmas has
 tema: regeneracion-democratica
 legislatura: XIV
 importancia: 2
+gravedad:
+  naturaleza: penal
+  sujetos:
+    - nombre: "Juan Bernardo Fuentes Curbelo"
+      vinculo: cargo
+      cuando: "diputado del PSOE por Las Palmas en el Congreso"
+      enFunciones: true
+      delito: "cohecho, prevaricación administrativa y pertenencia a grupo criminal (arts. 419-420, 404 y 570 ter CP; cohecho del art. 419: prisión de 3 a 6 años; prevaricación: inhabilitación especial de 9 a 15 años)"
+      clasificacion: grave
+      pena:
+        texto: "8 años de prisión"
+        anios: 8
+        tipo: pedida
+        por: "Fiscalía"
+    - nombre: "Taishet Fuentes"
+      vinculo: cargo
+      cuando: "director general de Ganadería del Gobierno de Canarias"
+      enFunciones: true
+      delito: "cohecho, prevaricación administrativa y pertenencia a grupo criminal (arts. 419-420, 404 y 570 ter CP; cohecho del art. 419: prisión de 3 a 6 años; prevaricación: inhabilitación especial de 9 a 15 años)"
+      clasificacion: grave
+      pena:
+        texto: "11 años de prisión"
+        anios: 11
+        tipo: pedida
+        por: "Fiscalía"
 fecha: 2026-09-21
 actualizado: 2026-10-23
 fuentes:

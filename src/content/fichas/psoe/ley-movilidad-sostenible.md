@@ -6,8 +6,13 @@ resumen: "La Ley 9/2025 de Movilidad Sostenible, del Ministerio de Transportes d
 tema: energia-medioambiente
 promesa: "«Retomaremos y aprobaremos la Ley de Movilidad Sostenible, en la que consolidaremos la movilidad como un derecho esencial de la ciudadanía» y «crearemos un fondo estatal de contribución a la movilidad sostenible, con fuentes estables de financiación» (programa electoral del PSOE de 2023)."
 importancia: 1
+alcance:
+  grado: completo
+  medida: "La Ley 9/2025 reconoce el derecho a la movilidad y crea el fondo estatal, que no opera hasta que lo dote un presupuesto (siguen los de 2023)"
+  vigencia: en-vigor
+  ejecucion: sin-aplicar
 fecha: 2025-12-03
-actualizado: 2026-10-20
+actualizado: 2026-10-23
 fuentes:
   - titulo: "Programa electoral del PSOE. Elecciones generales 23 de julio de 2023"
     url: https://www.psoe.es/media-content/2023/07/PROGRAMA_ELECTORAL-GENERALES-2023.pdf
@@ -33,6 +38,11 @@ fuentes:
     url: https://www.boe.es/eli/es/l/2025/12/03/9
     medio: BOE
     fecha: 2025-12-04
+    tipo: oficial
+  - titulo: "Real Decreto 826/2026, de 14 de octubre, por el que se regula la concesión directa de subvenciones destinadas a la financiación del transporte público regular de viajeros de Madrid, Barcelona, Valencia y la Comunidad Autónoma de Canarias"
+    url: https://www.boe.es/boe/dias/2026/10/15/pdfs/BOE-A-2026-21449.pdf
+    medio: "BOE"
+    fecha: 2026-10-15
     tipo: oficial
 ---
 

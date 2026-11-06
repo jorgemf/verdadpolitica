@@ -7,6 +7,12 @@ tema: seguridad-ciudadana
 legislatura: XIV
 promesa: "«Cumpliremos en 2020 como hicimos en 2018 y 2019, el acuerdo firmado por el Gobierno y los sindicatos y asociaciones profesionales de la Policía y la Guardia Civil, para alcanzar la equiparación salarial con los cuerpos autonómicos» (programa electoral del PSOE, noviembre de 2019)."
 importancia: 1
+alcance:
+  grado: completo
+  medida: "Pagado en noviembre de 2020 el tercer tramo (247 millones), que completa los 807 millones del acuerdo de 2018"
+  vigencia: en-vigor
+  ejecucion: aplicada
+  magnitud: "Subida media del 20 % en las nóminas de policías y guardias civiles, según Interior"
 fecha: 2020-11-27
 actualizado: 2026-10-23
 fuentes:

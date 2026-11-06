@@ -6,8 +6,13 @@ titulo: "Embargo de armas a Israel por real decreto-ley, con autorizaciones exce
 resumen: "El Real Decreto-ley 10/2025 prohíbe comerciar con Israel material de defensa y doble uso e importar productos de los asentamientos, aunque el Consejo de Ministros puede autorizar excepciones. Se convalidó el 8 de octubre de 2025 (178-169), con críticas de insuficiencia de Podemos y de ONG."
 promesa: "Prohibir la venta de armas a países que vulneren los derechos humanos (programa de Sumar 2023) y aprobar por ley un embargo de armas a Israel (exigencia pública de Sumar durante la legislatura)."
 importancia: 2
+alcance:
+  grado: parcial
+  medida: "Embargo a Israel por RDL 10/2025 (convalidado 178-169), con excepciones del Consejo de Ministros; sin prohibición general a países que vulneren DD. HH."
+  vigencia: en-vigor
+  ejecucion: no-consta
 fecha: 2025-10-08
-actualizado: 2026-10-19
+actualizado: 2026-10-23
 fuentes:
   - titulo: "Un programa para ti. Programa electoral de Sumar para las elecciones generales de 2023"
     url: https://movimientosumar.es/wp-content/uploads/2023/07/Un-Programa-para-ti.pdf

@@ -8,6 +8,38 @@ ambito: municipal
 estadoJudicial: investigacion
 implicados: "Javier Aureliano García, entonces presidente de la Diputación de Almería y del PP provincial (suspendido de militancia; dejó ambos cargos), Fernando Giménez, entonces vicepresidente segundo de la Diputación, el exvicepresidente Óscar Liria (expulsado del PP), el alcalde de Fines, Rodrigo Sánchez, y varios empresarios y familiares."
 importancia: 2
+gravedad:
+  naturaleza: penal
+  sujetos:
+    - nombre: "Javier Aureliano García"
+      vinculo: cargo
+      cuando: "presidente de la Diputación de Almería y del PP de Almería"
+      enFunciones: true
+      delito: "cohecho, malversación, blanqueo de capitales, tráfico de influencias y fraude en la contratación pública, que el juzgado investiga a los cinco detenidos en noviembre de 2025 (arts. 419, 432, 301, 428 y 436 CP; cohecho: prisión de 3 a 6 años; malversación: de 2 a 6)"
+      clasificacion: grave
+    - nombre: "Fernando Giménez"
+      vinculo: cargo
+      cuando: "vicepresidente segundo de la Diputación de Almería"
+      enFunciones: true
+      delito: "cohecho, malversación, blanqueo de capitales, tráfico de influencias y fraude en la contratación pública, que el juzgado investiga a los cinco detenidos en noviembre de 2025 (arts. 419, 432, 301, 428 y 436 CP; cohecho: prisión de 3 a 6 años; malversación: de 2 a 6)"
+      clasificacion: grave
+    - nombre: "Óscar Liria"
+      vinculo: cargo
+      cuando: "vicepresidente tercero y diputado de Fomento de la Diputación de Almería"
+      enFunciones: true
+      delito: "blanqueo, malversación y pertenencia a organización criminal, por los que se pidió su prisión provisional en 2021 (arts. 301, 432 y 570 bis CP; malversación: prisión de 2 a 6 años); en la fase de 2025 volvió a ser investigado sin desglose de delitos en las fuentes"
+      clasificacion: grave
+    - nombre: "Rodrigo Sánchez Simón"
+      vinculo: cargo
+      cuando: "alcalde de Fines (PP)"
+      enFunciones: false
+      delito: "cohecho, malversación, blanqueo de capitales, tráfico de influencias y fraude en la contratación pública, que el juzgado investiga a los cinco detenidos en noviembre de 2025 (arts. 419, 432, 301, 428 y 436 CP; cohecho: prisión de 3 a 6 años; malversación: de 2 a 6)"
+      clasificacion: grave
+  cuantias:
+    - euros: 2000000
+      concepto: "importe del contrato de emergencia de mascarillas y material sanitario (abril de 2020)"
+    - euros: 945000
+      concepto: "sobrecoste de ese contrato según la UCO (más de 945.000 euros)"
 fecha: 2026-06-26
 actualizado: 2026-10-23
 fuentes:
@@ -25,6 +57,16 @@ fuentes:
     url: https://www.eldiario.es/andalucia/almeria/expresidente-pp-almeria-rechaza-evita-juez-presuntas-mordidas-contratos-diputacion_1_13335717.html
     medio: elDiario.es
     fecha: 2026-06-26
+    tipo: prensa
+  - titulo: "Libertad con cargos para el presidente de la Diputación de Almería, investigado por el ‘caso Mascarillas’"
+    url: https://www.vozpopuli.com/espana/andalucia/libertad-con-cargos-para-el-presidente-de-la-diputacion-de-almeria-investigado-por-el-caso-mascarillas.html
+    medio: Vozpópuli
+    fecha: 2025-11-20
+    tipo: prensa
+  - titulo: "¿Qué es el ‘Caso mascarillas’ de Almería que salpica a la cúpula del PP en la provincia?"
+    url: https://www.elsaltodiario.com/almeria/es-caso-mascarillas-almeria-salpica-cupula-del-pp-provincia
+    medio: El Salto
+    fecha: 2025-11-18
     tipo: prensa
 ---
 

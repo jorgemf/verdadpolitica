@@ -6,8 +6,13 @@ resumen: "Sumar prometió avanzar en la eliminación progresiva del copago farma
 tema: sanidad
 promesa: "«Se avanzará en la eliminación progresiva del copago farmacéutico, priorizando a personas de rentas bajas y elaborando un catálogo de medicamentos de alto valor terapéutico exentos de copago» (programa de Sumar 2023)."
 importancia: 2
+alcance:
+  grado: parcial
+  medida: "Activos: de 3 a 6 tramos y topes mensuales bajo 35.000 €; pensionistas: de 3 a 4 tramos. Se mantiene el copago y no hay catálogo de exentos"
+  vigencia: en-vigor
+  ejecucion: no-consta
 fecha: 2026-05-28
-actualizado: 2026-10-20
+actualizado: 2026-10-23
 fuentes:
   - titulo: "Un programa para ti. Programa electoral de Sumar para las elecciones generales de 2023"
     url: https://movimientosumar.es/wp-content/uploads/2023/07/Un-Programa-para-ti.pdf

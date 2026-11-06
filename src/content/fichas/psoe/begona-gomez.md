@@ -7,6 +7,34 @@ estadoJudicial: juicio-oral
 implicados: "Begoña Gómez (esposa del presidente del Gobierno; sin cargo en el partido) y Cristina Álvarez (asistente en la Moncloa)."
 tema: regeneracion-democratica
 importancia: 2
+gravedad:
+  naturaleza: penal
+  sujetos:
+    - nombre: "Begoña Gómez"
+      vinculo: entorno
+      cuando: "esposa del presidente del Gobierno y directora de una cátedra de la Universidad Complutense"
+      enFunciones: false
+      delito: "malversación agravada por el desvío del software de la Complutense, por la que la acusación popular pide 8 años de prisión e inhabilitación absoluta, penas que solo caben en el tipo agravado del art. 432 CP (art. 432.2 vigente, 432.3 en la redacción de 2015: prisión de 4 a 8 años e inhabilitación absoluta de 10 a 20, si el perjuicio supera 50.000 euros), aplicado directamente o por la remisión del art. 432 bis si no se reintegra lo distraído; las fuentes no citan el artículo. Además, malversación continuada por el uso privado de su asistente (art. 432 bis CP: prisión de 6 meses a 3 años) y tráfico de influencias (art. 429 CP: prisión de 6 meses a 2 años)"
+      clasificacion: grave
+      pena:
+        texto: "13 años de prisión; la Fiscalía pide el archivo"
+        anios: 13
+        tipo: pedida
+        por: "acusación popular unificada (HazteOír)"
+    - nombre: "Cristina Álvarez"
+      vinculo: cargo
+      cuando: "asistente de Begoña Gómez en la Moncloa"
+      enFunciones: true
+      delito: "malversación, como cooperadora necesaria en el desvío del software de la Complutense; la acusación popular pide 6 años de prisión e inhabilitación absoluta de 15, que solo cabe en el tipo agravado del art. 432 CP (prisión de 4 a 8 años e inhabilitación absoluta de 10 a 20); el tipo básico del art. 432.1 ya castiga con prisión de 2 a 6 años. Las fuentes no citan el artículo"
+      clasificacion: grave
+      pena:
+        texto: "6 años de prisión; la Fiscalía pide el archivo"
+        anios: 6
+        tipo: pedida
+        por: "acusación popular unificada (HazteOír)"
+  cuantias:
+    - euros: 113509
+      concepto: "responsabilidad civil que reclama la Universidad Complutense, como actor civil, por el desarrollo del software"
 fecha: 2026-09-21
 actualizado: 2026-10-23
 fuentes:
@@ -39,6 +67,21 @@ fuentes:
     url: https://vozpopuli.com/tribunales/la-justicia-madrilena-congela-el-juicio-a-begona-gomez-y-ni-siquiera-elige-al-juez-que-presidira-el-jurado.html
     medio: Vozpópuli
     fecha: 2026-10-19
+    tipo: prensa
+  - titulo: "La Audiencia mantiene a Begoña Gómez el delito de malversación que conlleva la mayor pena: hasta 8 años de cárcel"
+    url: https://okdiario.com/espana/audiencia-mantiene-begona-gomez-delito-malversacion-que-conlleva-mayor-pena-hasta-8-anos-carcel-19010944
+    medio: OKDiario
+    fecha: 2026-07-16
+    tipo: prensa
+  - titulo: "La acusación popular pide 13 años de prisión para Begoña Gómez por dos delitos"
+    url: https://www.moncloa.com/2026/07/27/acusacion-13-anos-begona-gomez-3406399/
+    medio: Moncloa.com
+    fecha: 2026-07-27
+    tipo: prensa
+  - titulo: "La acusación popular pide 13 años de cárcel para Begoña Gómez"
+    url: https://www.diariodeleon.es/nacional/260727/2092467/acusacion-popular-pide-13-anos-carcel-begona-gomez.html
+    medio: Diario de León
+    fecha: 2026-07-27
     tipo: prensa
 ---
 

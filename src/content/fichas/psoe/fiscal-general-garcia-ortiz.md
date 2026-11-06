@@ -7,6 +7,24 @@ estadoJudicial: condena-firme
 implicados: "Álvaro García Ortiz (fiscal general del Estado entre 2022 y 2025, nombrado a propuesta del Gobierno; no es cargo del partido)."
 tema: regeneracion-democratica
 importancia: 2
+gravedad:
+  naturaleza: penal
+  sujetos:
+    - nombre: "Álvaro García Ortiz"
+      vinculo: cargo
+      cuando: "fiscal general del Estado, nombrado a propuesta del Gobierno"
+      enFunciones: true
+      delito: "revelación de datos reservados por autoridad o funcionario público (art. 417.1 CP: multa de 12 a 18 meses e inhabilitación especial de 1 a 3 años)"
+      clasificacion: menos-grave
+      pena:
+        texto: "2 años de inhabilitación especial para el cargo de fiscal general del Estado y multa de 12 meses"
+        tipo: impuesta
+        por: "Tribunal Supremo"
+  cuantias:
+    - euros: 7200
+      concepto: "multa impuesta a García Ortiz (12 meses a 20 euros diarios)"
+    - euros: 10000
+      concepto: "indemnización a Alberto González Amador por daños morales"
 fecha: 2025-11-20
 actualizado: 2026-10-23
 fuentes:

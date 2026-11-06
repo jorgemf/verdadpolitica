@@ -9,6 +9,20 @@ tema: regeneracion-democratica
 estadoJudicial: absolucion
 implicados: "Carlos Sánchez Mato, exdelegado de Economía y Hacienda del Ayuntamiento de Madrid (Ahora Madrid) y dirigente de Izquierda Unida en 2023, según elDiario.es; Celia Mayer, exconcejala de Ahora Madrid; Ana Varela, exconsejera delegada de Madrid Destino."
 importancia: 1
+gravedad:
+  naturaleza: penal
+  sujetos:
+    - nombre: "Carlos Sánchez Mato"
+      vinculo: cargo
+      cuando: "concejal delegado de Economía y Hacienda del Ayuntamiento de Madrid (Ahora Madrid)"
+      enFunciones: true
+      delito: "prevaricación y malversación (arts. 404 y 432 CP; malversación: prisión de 2 a 6 años; prevaricación: inhabilitación especial de 9 a 15 años)"
+      clasificacion: grave
+      pena:
+        texto: "5 años de prisión y 24 de inhabilitación especial"
+        anios: 5
+        tipo: pedida
+        por: "acusación particular (PP); la Fiscalía no acusaba"
 fecha: 2023-01-13
 actualizado: 2026-10-23
 fuentes:

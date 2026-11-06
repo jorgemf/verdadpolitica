@@ -7,8 +7,13 @@ tema: igualdad
 legislatura: XIV
 promesa: "«Una Ley trans que trabaje de forma efectiva para erradicar todas las formas de discriminación hacia las personas trans en todos los ámbitos» (acuerdo de coalición PSOE–Unidas Podemos, 30 de diciembre de 2019, apartado 5.12)."
 importancia: 3
+alcance:
+  grado: completo
+  medida: "Ley 4/2023: cambio registral de sexo sin informe médico desde los 16 años y prohibición de las terapias de conversión"
+  vigencia: en-vigor
+  ejecucion: no-consta
 fecha: 2023-02-28
-actualizado: 2026-10-20
+actualizado: 2026-10-23
 fuentes:
   - titulo: "Coalición progresista. Un nuevo acuerdo para España (acuerdo de Gobierno PSOE–Unidas Podemos)"
     url: https://www.diariodepontevedra.es/media/diariodepontevedra/files/2019/12/30/Pacto%20PSOE%20-%20Podemos%20para%20un%20gobierno%20de%20coalici%C3%B3n.pdf

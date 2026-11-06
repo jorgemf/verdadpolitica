@@ -7,8 +7,13 @@ resumen: "El acuerdo de coalición de 2019 prometía integrar a las empleadas de
 tema: igualdad
 promesa: "«Culminaremos con carácter prioritario la plena integración en el Régimen General de la Seguridad Social de las empleadas del hogar a lo largo de la legislatura. Firmaremos y ratificaremos el Convenio número 189, de 2011, de la Organización Internacional del Trabajo» (acuerdo de coalición PSOE-Unidas Podemos, 2019, punto 1.11)."
 importancia: 2
+alcance:
+  grado: parcial
+  medida: "Paro desde el 1-10-2022 (RDL 16/2022) y Convenio 189 en vigor desde el 29-2-2024; sigue el sistema especial, sin la plena integración"
+  vigencia: en-vigor
+  ejecucion: no-consta
 fecha: 2022-09-06
-actualizado: 2026-10-20
+actualizado: 2026-10-23
 fuentes:
   - titulo: "Coalición progresista. Un nuevo acuerdo para España (acuerdo de Gobierno PSOE-Unidas Podemos)"
     url: https://www.diariodepontevedra.es/media/diariodepontevedra/files/2019/12/30/Pacto%20PSOE%20-%20Podemos%20para%20un%20gobierno%20de%20coalici%C3%B3n.pdf

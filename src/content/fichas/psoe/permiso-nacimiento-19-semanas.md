@@ -6,8 +6,14 @@ resumen: "El Real Decreto-ley 9/2025 amplió el permiso por nacimiento a 19 sema
 tema: empleo-pensiones
 promesa: "«Extenderemos la prestación por nacimiento y cuidado (antes paternidad y maternidad) hasta las 20 semanas» (programa del PSOE de 2023); 20 semanas al final de la legislatura según el acuerdo de Gobierno PSOE-Sumar."
 importancia: 2
+alcance:
+  grado: parcial
+  medida: "3 de las 4 semanas adicionales prometidas (de 16 a 19; se prometían 20)"
+  vigencia: en-vigor
+  ejecucion: aplicada
+  magnitud: "231.656 permisos por nacimiento disfrutados de enero a junio de 2026 (Seguridad Social)"
 fecha: 2025-09-09
-actualizado: 2026-10-19
+actualizado: 2026-10-23
 fuentes:
   - titulo: "Programa electoral. Elecciones generales 23 de julio de 2023"
     url: https://www.psoe.es/media-content/2023/07/PROGRAMA_ELECTORAL-GENERALES-2023.pdf
@@ -28,6 +34,11 @@ fuentes:
     url: https://www.ecija.com/actualidad-insights/ampliacion-del-permiso-por-nacimiento-a-19-semanas-retribuidas/
     medio: ECIJA
     tipo: academica
+  - titulo: "Más de 231.000 padres y madres disfrutan del permiso de nacimiento ampliado a 19 semanas"
+    url: https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/inclusion/Paginas/2026/300726-permiso-nacimiento-ampliado.aspx
+    medio: "La Moncloa (Ministerio de Inclusión, Seguridad Social y Migraciones)"
+    fecha: 2026-07-30
+    tipo: oficial
 ---
 
 ## Qué se prometió

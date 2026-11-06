@@ -8,8 +8,14 @@ resumen: "Barcelona en Comú prometió en 2019 implantar la Zona de Bajas Emisio
 tema: energia-medioambiente
 promesa: "«Per tal d'eliminar els vehicles més contaminants al proper mandat implementarem la Zona de Baixes Emissions de manera permanent a partir de l'1 de gener de 2020» (programa de Barcelona en Comú para las municipales de 2019)."
 importancia: 2
+alcance:
+  grado: completo
+  medida: "ZBE en vigor desde el 1-1-2020, la fecha prometida; la ordenanza de 2019 la anuló el TSJC (2022) y desde 2023 rige otra"
+  vigencia: en-vigor
+  ejecucion: aplicada
+  magnitud: "más de 95 km² de Barcelona y su área metropolitana (Motorpasión, 2022)"
 fecha: 2020-01-01
-actualizado: 2026-10-20
+actualizado: 2026-10-23
 fuentes:
   - titulo: "Plans per una Barcelona Futura. Programa electoral 2019-2023 de Barcelona en Comú"
     url: https://img.beteve.cat/wp-content/uploads/2019/05/programa-electoral-ada-colau.pdf

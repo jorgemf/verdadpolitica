@@ -7,8 +7,14 @@ tema: sanidad
 legislatura: XIV
 promesa: "«Impulsaremos [...] la Ley Orgánica de Regulación de la Eutanasia, y su inclusión en la cartera común de servicios del Sistema Nacional de Salud» (programa electoral del PSOE de noviembre de 2019)."
 importancia: 2
+alcance:
+  grado: completo
+  medida: "Ley Orgánica 3/2021 aprobada, con la prestación incluida en la cartera común del SNS (art. 13.1), como se prometía"
+  vigencia: en-vigor
+  ejecucion: aplicada
+  magnitud: "426 eutanasias en 2024 y 1.123 desde junio de 2021 (Ministerio de Sanidad)"
 fecha: 2021-03-24
-actualizado: 2026-10-20
+actualizado: 2026-10-23
 fuentes:
   - titulo: "Ahora, progreso. Programa electoral del PSOE para las elecciones generales del 10 de noviembre de 2019"
     url: https://img.beteve.cat/wp-content/uploads/2019/11/programa-psoe-10-n.pdf
@@ -36,6 +42,11 @@ fuentes:
   - titulo: "Proposición de Ley de derechos y garantías de la dignidad de la persona ante el proceso final de su vida (122/000037)"
     url: https://www.congreso.es/es/proposiciones-de-ley?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XIV&_iniciativas_id=122%2F000037
     medio: Congreso de los Diputados
+    tipo: oficial
+  - titulo: "Derecho a la eutanasia en España: 426 personas recibieron la prestación de ayuda para morir en 2024"
+    url: https://www.sanidad.gob.es/gabinete/notasPrensa.do?id=6823
+    medio: "Ministerio de Sanidad"
+    fecha: 2025-12-23
     tipo: oficial
 ---
 

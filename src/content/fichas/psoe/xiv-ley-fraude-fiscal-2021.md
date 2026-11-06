@@ -7,6 +7,12 @@ tema: economia-impuestos
 legislatura: XIV
 promesa: "«Aprobaremos la Ley de Medidas de Prevención y Lucha contra el Fraude Fiscal [...] se prohibirán las amnistías fiscales» y «Añadiremos los responsables solidarios a la lista de morosos de la AEAT y se reducirá a 600.000 euros el importe de deuda para ser incluido en la lista» (programa electoral del PSOE, noviembre de 2019)."
 importancia: 2
+alcance:
+  grado: completo
+  medida: "La Ley 11/2021 prohíbe las amnistías fiscales, incluye a los responsables solidarios y baja de 1 millón a 600.000 euros el umbral de la lista"
+  vigencia: en-vigor
+  ejecucion: aplicada
+  magnitud: "7.277 deudores en la primera lista con el nuevo umbral (diciembre de 2021)"
 fecha: 2021-07-10
 actualizado: 2026-10-23
 fuentes:
@@ -43,6 +49,11 @@ fuentes:
     url: https://valenciaplaza.com/congreso-culmina-tramitacion-ley-antifraude
     medio: Valencia Plaza
     fecha: 2021-06-30
+    tipo: prensa
+  - titulo: "La lista de morosos se dispara a 7.277 deudores con el nuevo límite de deuda de 600.000 euros"
+    url: https://elderecho.com/la-lista-de-morosos-se-dispara-a-7-277-deudores-con-el-nuevo-limite-de-deuda-de-600-000-euros
+    medio: "El Derecho (Europa Press)"
+    fecha: 2021-12-27
     tipo: prensa
 ---
 

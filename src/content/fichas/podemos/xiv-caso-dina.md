@@ -8,6 +8,21 @@ legislatura: XIV
 estadoJudicial: archivo-sin-tipo
 implicados: "El estado judicial de esta ficha se refiere a Pablo Iglesias y Gloria Elizo (archivo del Supremo de 2021, sin que conste si es provisional o definitivo); la condena no firme de 2026 es de Villarejo. Condenado: José Manuel Villarejo, comisario jubilado, sin relación con Podemos. Pablo Iglesias, entonces secretario general de Podemos y vicepresidente segundo del Gobierno: objeto de una exposición razonada que el Supremo archivó; nunca fue imputado y en el juicio figuró como perjudicado. Gloria Elizo, diputada de Unidas Podemos: el Supremo archivó la causa respecto de ella. Dina Bousselham, exasesora de Iglesias: perjudicada; en octubre de 2026 Podemos la incluyó entre los primeros puestos de su lista por Madrid al Congreso para el 29-N. El partido como persona jurídica no fue investigado."
 importancia: 2
+gravedad:
+  naturaleza: penal
+  sujetos:
+    - nombre: "Pablo Iglesias"
+      vinculo: direccion
+      cuando: "secretario general de Podemos"
+      enFunciones: false
+      delito: "descubrimiento y revelación de secretos, daños informáticos y acusación o denuncia falsa (arts. 197, 264 y 456 CP; descubrimiento de secretos: prisión de 1 a 4 años, o de 2 a 5 si se difunden; daños informáticos: de 6 meses a 3 años), atribuidos de forma indiciaria en una exposición razonada; nunca fue imputado"
+      clasificacion: menos-grave
+    - nombre: "Gloria Elizo"
+      vinculo: cargo
+      cuando: "diputada de Unidas Podemos"
+      enFunciones: false
+      delito: "acusación o denuncia falsa (art. 456 CP: prisión de 6 meses a 2 años y multa si se imputa un delito grave; solo multa en los demás casos)"
+      clasificacion: menos-grave
 fecha: 2026-05-05
 actualizado: 2026-10-23
 fuentes:

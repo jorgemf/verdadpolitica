@@ -6,6 +6,11 @@ resumen: "En octubre de 2023, antes de la investidura, Sumar presentó una propu
 tema: modelo-territorial
 promesa: "Propuesta de ley de amnistía presentada por Sumar en octubre de 2023: «Queden amnistiades totes les accions o omissions d'intencionalitat política» vinculadas a la autodeterminación de Cataluña desde el 1 de enero de 2013, incluidas la consulta de 2014 y el referéndum de 2017."
 importancia: 3
+alcance:
+  grado: parcial
+  medida: "LO 1/2024 amnistía del 1-11-2011 al 13-11-2023; la propuesta de Sumar iba del 1-1-2013 a la entrada en vigor. TC: inconstitucionalidad parcial"
+  vigencia: anulada-parcial
+  ejecucion: parcial
 fecha: 2024-06-11
 actualizado: 2026-10-23
 fuentes:

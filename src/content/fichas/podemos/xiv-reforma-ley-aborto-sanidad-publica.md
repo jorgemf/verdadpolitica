@@ -7,8 +7,13 @@ tema: sanidad
 legislatura: XIV
 promesa: "«Favoreceremos el acceso, a los últimos métodos anticonceptivos, a la anticoncepción de urgencia y a la interrupción voluntaria del embarazo de todas las mujeres, en el Sistema Nacional de Salud» (acuerdo de coalición PSOE–Unidas Podemos, 30 de diciembre de 2019, apartado 7.5)."
 importancia: 2
+alcance:
+  grado: completo
+  medida: "LO 1/2023 garantiza el aborto en la red pública y la anticoncepción de urgencia gratuita; centros públicos: 17,0 % de abortos en 2022 y 21,3 % en 2024"
+  vigencia: en-vigor
+  ejecucion: parcial
 fecha: 2023-02-28
-actualizado: 2026-10-20
+actualizado: 2026-10-23
 fuentes:
   - titulo: "Coalición progresista. Un nuevo acuerdo para España (acuerdo de Gobierno PSOE–Unidas Podemos)"
     url: https://www.diariodepontevedra.es/media/diariodepontevedra/files/2019/12/30/Pacto%20PSOE%20-%20Podemos%20para%20un%20gobierno%20de%20coalici%C3%B3n.pdf

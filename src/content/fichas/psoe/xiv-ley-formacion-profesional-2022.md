@@ -7,6 +7,11 @@ tema: educacion
 legislatura: XIV
 promesa: "«Promoveremos una FP contemporánea, incluyendo la regulación de la FP dual, que responda a las necesidades actuales de cualificación de nuestros jóvenes y profesionales, a través de una nueva Ley de ordenación de las enseñanzas de formación profesional» (programa electoral del PSOE, noviembre de 2019)."
 importancia: 2
+alcance:
+  grado: completo
+  medida: "La LO 3/2022 hace dual toda la FP; en 2024-2025, primer curso de implantación, el 50,8 % del alumnado de FP (600.422) estaba en régimen dual"
+  vigencia: en-vigor
+  ejecucion: parcial
 fecha: 2022-04-01
 actualizado: 2026-10-23
 fuentes:
@@ -28,6 +33,10 @@ fuentes:
     url: https://www.boe.es/buscar/act.php?id=BOE-A-2022-5139
     medio: BOE
     fecha: 2022-04-01
+    tipo: oficial
+  - titulo: "Estadística del alumnado de Formación Profesional del sistema educativo. Curso 2024-2025. Nota resumen"
+    url: https://www.educacionfpydeportes.gob.es/dam/jcr:1ba7d64f-58dc-4163-bd5a-ee16cb92fa33/nota-2024-2025.pdf
+    medio: "Ministerio de Educación, Formación Profesional y Deportes"
     tipo: oficial
 ---
 

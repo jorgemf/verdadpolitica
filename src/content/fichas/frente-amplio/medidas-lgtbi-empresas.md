@@ -6,8 +6,13 @@ resumen: "Sumar prometió implantar planes de igualdad LGTBI en el empleo. El Re
 tema: igualdad
 promesa: "«Implantar los planes de igualdad LGTBI+ en el ámbito del empleo» (programa de Sumar 2023)."
 importancia: 1
+alcance:
+  grado: completo
+  medida: "RD 1026/2024: medidas de igualdad LGTBI y protocolo frente al acoso obligatorios en empresas de más de 50 trabajadores"
+  vigencia: en-vigor
+  ejecucion: no-consta
 fecha: 2024-10-08
-actualizado: 2026-10-20
+actualizado: 2026-10-23
 fuentes:
   - titulo: "Un programa para ti. Programa electoral de Sumar para las elecciones generales de 2023"
     url: https://movimientosumar.es/wp-content/uploads/2023/07/Un-Programa-para-ti.pdf

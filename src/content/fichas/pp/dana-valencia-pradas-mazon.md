@@ -7,9 +7,31 @@ tema: regeneracion-democratica
 ambito: autonomico
 estadoJudicial: investigacion
 implicados: "Salomé Pradas, exconsellera de Justicia e Interior del Gobierno valenciano del PP, y Emilio Argüeso, ex secretario autonómico de Emergencias, investigados (antiguos cargos). Carlos Mazón, expresident (dimitió el 3 de noviembre de 2025) y diputado del PP en Les Corts: el TSJCV rechazó investigarlo y una querella posterior por falso testimonio está pendiente de admisión en el Supremo."
-importancia: 3
+importancia: 2
+gravedad:
+  naturaleza: penal
+  sujetos:
+    - nombre: "Salomé Pradas"
+      vinculo: cargo
+      cuando: "consellera de Justicia e Interior de la Generalitat Valenciana"
+      enFunciones: true
+      delito: "homicidio y lesiones por imprudencia (arts. 142 y 152 CP; homicidio por imprudencia grave: prisión de 1 a 4 años)"
+      clasificacion: menos-grave
+    - nombre: "Emilio Argüeso"
+      vinculo: cargo
+      cuando: "secretario autonómico de Emergencias de la Generalitat Valenciana"
+      enFunciones: true
+      delito: "homicidio y lesiones por imprudencia (arts. 142 y 152 CP; homicidio por imprudencia grave: prisión de 1 a 4 años)"
+      clasificacion: menos-grave
+    - nombre: "Carlos Mazón"
+      vinculo: cargo
+      cuando: "president de la Generalitat Valenciana y presidente del PP de la Comunitat Valenciana"
+      enFunciones: true
+      delito: "homicidio y lesiones por imprudencia (arts. 142 y 152 CP; prisión de 1 a 4 años), según la exposición razonada que el TSJCV rechazó; aparte, querella por falso testimonio (art. 502.3 CP) pendiente de admisión en el Supremo"
+      clasificacion: menos-grave
+      estado: archivo-sin-tipo
 fecha: 2026-10-13
-actualizado: 2026-10-23
+actualizado: 2026-11-06
 fuentes:
   - titulo: "La magistrada que instruye la causa por la gestión de la Dana eleva exposición razonada al TSJCV contra el expresidente de la Generalitat Carlos Mazón"
     url: https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunales-Superiores-de-Justicia/TSJ-Comunidad-Valenciana/Oficina-de-Comunicacion/Archivo-de-notas-de-prensa/La-magistrada-que-instruye-la-causa-por-la-gestion-de-la-Dana-eleva-exposicion-razonada-al-TSJCV-contra-el-expresidente-de-la-Generalitat-Carlos-Mazon
@@ -61,19 +83,29 @@ fuentes:
     medio: Infobae (Europa Press)
     fecha: 2026-10-16
     tipo: prensa
+  - titulo: "La causa DANA enfrenta a Pradas y Argüeso ante la jueza de Catarroja por el mando único de la emergencia"
+    url: https://www.moncloa.com/2026/10/29/causa-dana-pradas-argueso-catarroja-3457943/
+    medio: Moncloa.com
+    fecha: 2026-10-29
+    tipo: prensa
+  - titulo: "La jueza de Catarroja acumula 690 testimonios y 548 resoluciones en la causa de la DANA, que se alargará hasta 2027"
+    url: https://www.moncloa.com/2026/10/28/causa-judicial-dana-catarroja-2027-3457302/
+    medio: Moncloa.com
+    fecha: 2026-10-28
+    tipo: prensa
 ---
 
 ## Hechos
 
-La DANA del 29 de octubre de 2024 dejó 230 víctimas mortales [3]. La jueza de la plaza número 3 del Tribunal de Instancia de Catarroja investiga la gestión de la emergencia por parte de la Generalitat, en especial el retraso en los avisos a la población. Desde marzo de 2025 están investigados por presuntos delitos de homicidio y lesiones por imprudencia la exconsellera de Justicia e Interior, Salomé Pradas, y el que fue su secretario autonómico de Emergencias, Emilio Argüeso [7][2].
+La DANA del 29 de octubre de 2024 dejó 230 víctimas mortales [3]. La jueza de la plaza número 3 del Tribunal de Instancia de Catarroja investiga la gestión de la emergencia por parte de la Generalitat, en especial el retraso en los avisos a la población. Desde marzo de 2025 están investigados por presuntos delitos de homicidio y lesiones por imprudencia la exconsellera de Justicia e Interior, Salomé Pradas, y el que fue su secretario autonómico de Emergencias, Emilio Argüeso [7][2]. Para indicar la gravedad se usa el tipo básico del homicidio imprudente (artículo 142.1 del Código Penal, de uno a cuatro años de prisión), porque las fuentes no precisan si se aplicaría el subtipo agravado del artículo 142 bis por el número de fallecidos.
 
 ## Estado procesal
 
 El 24 de febrero de 2026 la jueza elevó al Tribunal Superior de Justicia de la Comunitat Valenciana (TSJCV) una exposición razonada contra Carlos Mazón, aforado como diputado autonómico. Apreciaba indicios de "absoluta negligencia en la coordinación y gestión de la emergencia" con "nexo causal" respecto a las muertes [1]. Mazón había dimitido como president el 3 de noviembre de 2025, pero conservó su escaño [6].
 
-El 16 de marzo de 2026 la Sala de lo Civil y Penal del TSJCV, por unanimidad de sus cinco magistrados y en línea con la Fiscalía, rechazó investigarlo. Concluyó que el president no tenía un deber jurídico específico de garantizar la seguridad, porque el mando único de la emergencia correspondía a la conselleria competente, y que su posible intervención en el envío del Es-Alert era "mera conjetura" [2]. El 27 de abril confirmó esa decisión al desestimar los recursos de súplica [3]. La instrucción contra Pradas y Argüeso sigue abierta: el 5 de octubre de 2026 la jueza ordenó incorporar la comparecencia de Pradas en el Congreso [4]. En un auto del 13 de octubre sostuvo que hay "claros indicios" de que las muertes en la pedanía valenciana de La Torre podrían haberse evitado si ambos hubieran ejercido sus funciones [8]. La defensa de Argüeso lo recurrió el 21 de octubre alegando que convocar el Cecopi y ordenar el envío del Es-Alert correspondía a Pradas, no a él; es la primera vez que los dos investigados mantienen defensas enfrentadas [9].
+El 16 de marzo de 2026 la Sala de lo Civil y Penal del TSJCV, por unanimidad de sus cinco magistrados y en línea con la Fiscalía, rechazó investigarlo. Concluyó que el president no tenía un deber jurídico específico de garantizar la seguridad, porque el mando único de la emergencia correspondía a la conselleria competente, y que su posible intervención en el envío del Es-Alert era "mera conjetura" [2]. El 27 de abril confirmó esa decisión al desestimar los recursos de súplica [3]. La instrucción contra Pradas y Argüeso sigue abierta: el 5 de octubre de 2026 la jueza ordenó incorporar la comparecencia de Pradas en el Congreso [4]. En un auto del 13 de octubre sostuvo que hay "claros indicios" de que las muertes en la pedanía valenciana de La Torre podrían haberse evitado si ambos hubieran ejercido sus funciones [8]. La defensa de Argüeso lo recurrió el 21 de octubre alegando que convocar el Cecopi y ordenar el envío del Es-Alert correspondía a Pradas, no a él; es la primera vez que los dos investigados mantienen defensas enfrentadas [9]. La defensa de Pradas respondió en un escrito conocido el 29 de octubre: sostiene que Argüeso era el responsable en la preemergencia y en los niveles 0 y 1, que el nivel 2 no abarcó toda la provincia hasta las 19:00 y que no había un protocolo completo para el Es-Alert; como Argüeso, pide el sobreseimiento. La jueza no había resuelto el recurso [11]. La instrucción está prorrogada hasta abril de 2027 [12].
 
-El Supremo estudia si admite una querella del PSPV contra Mazón por falso testimonio en su comparecencia del 17 de noviembre de 2025 en la comisión de investigación del Congreso. El 16 de octubre de 2026, a petición de la Fiscalía, reclamó al TSJCV su auto de marzo antes de decidir sobre su competencia y la admisión [5][10]. Última situación documentada (21 de octubre de 2026): instrucción abierta contra Pradas y Argüeso y querella contra Mazón pendiente de admisión. Todos gozan de la presunción de inocencia.
+El Supremo estudia si admite una querella del PSPV contra Mazón por falso testimonio en su comparecencia del 17 de noviembre de 2025 en la comisión de investigación del Congreso. El 16 de octubre de 2026, a petición de la Fiscalía, reclamó al TSJCV su auto de marzo antes de decidir sobre su competencia y la admisión [5][10]. Última situación documentada (29 de octubre de 2026): instrucción abierta contra Pradas y Argüeso y querella contra Mazón pendiente de admisión. Todos gozan de la presunción de inocencia.
 
 ## Lo que dicen las partes
 

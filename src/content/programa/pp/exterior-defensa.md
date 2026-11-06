@@ -4,7 +4,7 @@ tema: exterior-defensa
 propuesta: "\"Recuperar el prestigio internacional de España\" y las \"alianzas rotas\" en la UE, Hispanoamérica y con los aliados históricos, con una política exterior \"con aval del Parlamento\", sin medidas concretas. En defensa pide que todo aumento del gasto militar y el envío de ayuda militar al extranjero pasen por las Cortes."
 balance: "Logró en 2024 que el Congreso pidiera reconocer a Edmundo González como presidente electo de Venezuela. Sus leyes para que las Cortes autoricen el gasto y la ayuda militar caducaron. Votó contra el embargo de armas a Israel (2025). Su promesa de 2019 de hacer de Rota la sede de la VI Flota dependía de gobernar."
 coherencia: coherente
-actualizado: 2026-10-23
+actualizado: 2026-11-06
 fuentes:
   - titulo: "Mi contrato con España"
     url: https://www.pp.es/wp-content/uploads/2026/10/CONTRATO-CON-ESPANA-.pdf
@@ -82,7 +82,7 @@ fuentes:
     tipo: partido
 ---
 
-A 23 de octubre de 2026 el PP no ha publicado su programa para el 29-N. El "Contrato con España" (19 de octubre de 2026) se compromete a "recuperar el prestigio internacional de España" y "las alianzas rotas en la Unión Europea e Hispanoamérica y con nuestros aliados históricos", y afirma que "el apoyo a la paz y a la democracia en el mundo es innegociable y no admite excepciones". También a reforzar las fronteras "con medios humanos, materiales y tecnológicos" [1]. En la presentación, Feijóo describió a España como "potencia atlántica, puente entre Europa e Hispanoamérica y frontera sur europea" [2], y un argumentario del partido añade que recuperará el interés nacional en la política exterior "con aval del Parlamento" [15]. No incluye medidas concretas ni menciona la OTAN ni el gasto en defensa. Lo que el PP propone en defensa sale de sus iniciativas parlamentarias.
+A 6 de noviembre de 2026 el PP no ha publicado su programa para el 29-N. El "Contrato con España" (19 de octubre de 2026) se compromete a "recuperar el prestigio internacional de España" y "las alianzas rotas en la Unión Europea e Hispanoamérica y con nuestros aliados históricos", y afirma que "el apoyo a la paz y a la democracia en el mundo es innegociable y no admite excepciones". También a reforzar las fronteras "con medios humanos, materiales y tecnológicos" [1]. En la presentación, Feijóo describió a España como "potencia atlántica, puente entre Europa e Hispanoamérica y frontera sur europea" [2], y un argumentario del partido añade que recuperará el interés nacional en la política exterior "con aval del Parlamento" [15]. No incluye medidas concretas ni menciona la OTAN ni el gasto en defensa. Lo que el PP propone en defensa sale de sus iniciativas parlamentarias.
 
 **Venezuela.** El 11 de septiembre de 2024 el Congreso aprobó, con 177 votos de PP, Vox, PNV, CC y UPN, una proposición no de ley del PP que pedía al Gobierno reconocer a Edmundo González como presidente electo [3]. No era vinculante. En enero de 2025 el Gobierno seguía sin reconocerlo, pese a las peticiones del Congreso y del Senado, aunque tampoco reconocía a Maduro [4]. El detalle está en la ficha correspondiente.
 

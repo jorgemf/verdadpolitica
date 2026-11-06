@@ -1,10 +1,10 @@
 ---
 partido: podemos
 tema: igualdad
-propuesta: "«Vidas libres de violencias machistas» (web de campaña, octubre de 2026) y ampliar la ley integral de violencia de género de 2004 a todos los actos de violencia contra las mujeres, no solo los de la pareja o expareja (proposición de ley de Podemos, marzo de 2024)."
+propuesta: "Elevar a 1.000 millones el presupuesto contra las violencias machistas y remunerar el permiso de ocho semanas para el cuidado de hijos (Irene Montero, noviembre de 2026), y ampliar la ley integral de violencia de género de 2004 a toda violencia contra las mujeres (proposición de ley de 2024)."
 balance: "Su ley para ampliar la de violencia de género caducó sin debatirse. Votó a favor de la ley de paridad (177 a 171) tras pactar con el PSOE que las mujeres puedan superar el 60 %, se abstuvo en la ley contra el proxenetismo del PSOE, rechazada en 2024, y votó contra la enmienda de Vox a la ley de violencia vicaria."
 coherencia: coherente
-actualizado: 2026-10-23
+actualizado: 2026-11-06
 fuentes:
   - titulo: "Paz, casa y trabajo. Cinco cosas (web de campaña de Podemos para el 29-N)"
     url: https://pazcasaytrabajo.es/
@@ -54,9 +54,19 @@ fuentes:
     url: https://podemos.info/wp-content/uploads/2024/05/Programa-PODEMOS-elecciones-europeas-2024.pdf
     medio: Podemos
     tipo: partido
+  - titulo: "Irene Montero plantea dedicar gasto militar a nacionalizar Repsol, contratar sanitarios y crear un «súper» público"
+    url: https://www.pressdigital.es/articulo/politica/2026-11-06/6081408-irene-montero-plantea-dedicar-gasto-militar-nacionalizar-repsol-contratar-sanitarios-crear-super-publico
+    medio: Press Digital (Europa Press)
+    fecha: 2026-11-06
+    tipo: prensa
+  - titulo: "Irene Montero propone nacionalizar Repsol"
+    url: https://www.telemadrid.es/noticias/nacional/irene-montero-propone-nacionalizar-repsol_1_2798304.html
+    medio: Telemadrid
+    fecha: 2026-11-06
+    tipo: prensa
 ---
 
-A 23 de octubre de 2026 Podemos no ha publicado un programa completo para el 29-N. Su web de campaña incluye «vidas libres de violencias machistas» entre sus ejes, sin más detalle [1]. Su propuesta legislativa más reciente en este tema es la proposición de ley que Ione Belarra registró el 8 de marzo de 2024 para ampliar el objeto de la ley integral de violencia de género de 2004 a «todos los actos de violencia contra las mujeres» de naturaleza física, sexual, psicológica o económica, más allá de la pareja o expareja [2]. Su programa europeo de 2024 proponía además una directiva que reconociera la violencia vicaria como violencia machista [10].
+A 6 de noviembre de 2026 Podemos no ha publicado un programa completo para el 29-N. Su web de campaña incluye «vidas libres de violencias machistas» entre sus ejes, sin más detalle [1]. El 6 de noviembre de 2026 Irene Montero propuso destinar los 24.000 millones de euros que, según los cálculos de Podemos, ha aumentado el gasto militar desde 2023 a otras partidas («para armas lo han encontrado, sobradamente»), entre ellas elevar a 1.000 millones de euros el presupuesto contra las violencias machistas y remunerar el permiso de ocho semanas para el cuidado de hijos e hijas [11][12]. Su propuesta legislativa más reciente en este tema es la proposición de ley que Ione Belarra registró el 8 de marzo de 2024 para ampliar el objeto de la ley integral de violencia de género de 2004 a «todos los actos de violencia contra las mujeres» de naturaleza física, sexual, psicológica o económica, más allá de la pareja o expareja [2]. Su programa europeo de 2024 proponía además una directiva que reconociera la violencia vicaria como violencia machista [10].
 
 En la legislatura, esa proposición de ley no llegó a debatirse en el Pleno y caducó con la disolución [3]. Podemos votó a favor de la ley de paridad, aprobada en el Congreso el 27 de junio de 2024 por 177 votos a favor y 171 en contra (PP, Vox y UPN) [4] [5]. A cambio de su apoyo, Belarra negoció con el PSOE una enmienda en comisión para que la cuota mínima no se aplique a los hombres; el texto final, «fruto del acuerdo entre el PSOE y Podemos», permite que las mujeres superen el 60 % de representación [5] [6].
 

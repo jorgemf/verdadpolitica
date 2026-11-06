@@ -8,6 +8,13 @@ import {
   partidos,
   CATEGORIA_INFO,
   ESTADO_JUDICIAL,
+  CLASIFICACION,
+  GRADO,
+  VIGENCIA,
+  EJECUCION,
+  etiquetasGravedad,
+  motivosSujeto,
+  euros,
   AMBITO,
   LEGISLATURA,
   fichaUrl,
@@ -117,6 +124,59 @@ const tituloIssue = encodeURIComponent(`Corrección: ${d.titulo} (${partido.data
               <div>
                 <dt>Implicados</dt>
                 <dd>{d.implicados}</dd>
+              </div>
+            )
+          }
+          {
+            d.gravedad && (
+              <div class="ficha__ancho">
+                <dt>Gravedad según el Código Penal</dt>
+                <dd>
+                  {etiquetasGravedad(ficha).map((e) => (
+                    <span class={`etiqueta ${e.clase}`}>{e.texto}</span>
+                  ))}
+                  <ul class="ficha__sujetos">
+                    {d.gravedad.sujetos.map((s) => (
+                      <li>
+                        <span class="sujeto__quien">
+                          <b>{s.nombre}</b> · {motivosSujeto(s).join(' · ')}
+                          {s.estado && ` · ${ESTADO_JUDICIAL[s.estado]}`}
+                        </span>
+                        <span>
+                          {s.delito}
+                          {s.clasificacion !== 'no-penal' && <b> · {CLASIFICACION[s.clasificacion]}</b>}
+                        </span>
+                        {s.pena && (
+                          <span>
+                            Pena {s.pena.tipo} ({s.pena.por}): {s.pena.texto}
+                          </span>
+                        )}
+                      </li>
+                    ))}
+                    {d.gravedad.cuantias?.map((c) => (
+                      <li>
+                        <b>{euros(c.euros)}</b>: {c.concepto}
+                      </li>
+                    ))}
+                  </ul>
+                </dd>
+              </div>
+            )
+          }
+          {
+            d.alcance && (
+              <div class="ficha__ancho">
+                <dt>Alcance de lo cumplido</dt>
+                <dd>
+                  <span class={`etiqueta etiqueta--alcance-${d.alcance.grado}`}>{GRADO[d.alcance.grado].texto}</span>
+                  <p class="ficha__medida">{d.alcance.medida}</p>
+                  <p class="ficha__aplicacion">
+                    {d.alcance.vigencia === 'no-aplica'
+                      ? VIGENCIA['no-aplica']
+                      : `${VIGENCIA[d.alcance.vigencia]} · ${EJECUCION[d.alcance.ejecucion]}`}
+                    {d.alcance.magnitud && ` · ${d.alcance.magnitud}`}
+                  </p>
+                </dd>
               </div>
             )
           }
@@ -299,8 +359,37 @@ const tituloIssue = encodeURIComponent(`Corrección: ${d.titulo} (${partido.data
     margin: 0.15rem 0 0;
   }
 
-  .ficha__promesa {
+  .ficha__promesa,
+  .ficha__ancho {
     grid-column: 1 / -1;
+  }
+
+  .ficha__sujetos {
+    margin: 0.4rem 0 0;
+    padding-left: 1.1rem;
+    font-size: 0.9375rem;
+  }
+
+  .ficha__sujetos li + li {
+    margin-top: 0.5rem;
+  }
+
+  .ficha__sujetos li > span {
+    display: block;
+  }
+
+  .ficha__sujetos li > span + span {
+    color: var(--tinta-suave);
+  }
+
+  .ficha__medida {
+    margin: 0.4rem 0 0;
+  }
+
+  .ficha__aplicacion {
+    margin: 0.2rem 0 0;
+    font-size: 0.9375rem;
+    color: var(--tinta-suave);
   }
 
   .ficha__promesa blockquote {

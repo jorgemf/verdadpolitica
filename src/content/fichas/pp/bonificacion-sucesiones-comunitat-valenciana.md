@@ -7,8 +7,14 @@ tema: economia-impuestos
 ambito: autonomico
 promesa: "Bonificar al 99% el impuesto de sucesiones y donaciones entre padres, hijos y cónyuges (compromiso electoral de Carlos Mazón en las autonómicas del 28 de mayo de 2023)."
 importancia: 1
+alcance:
+  grado: completo
+  medida: "Prometida y aprobada: bonificación del 99% en sucesiones y donaciones entre padres, hijos y cónyuges (Ley 6/2023, con efectos desde el 28-5-2023)"
+  vigencia: en-vigor
+  ejecucion: aplicada
+  magnitud: "99,1 M€ de ahorro en sucesiones y 4,8 M€ en donaciones en 2024, según la Conselleria de Hacienda (datos de la ATV)"
 fecha: 2023-11-23
-actualizado: 2026-10-19
+actualizado: 2026-10-23
 fuentes:
   - titulo: "Mazón anuncia la supresión del impuesto de sucesiones y donaciones"
     url: https://valenciaplaza.com/mazon-baja-impuestos-en-su-primer-pleno-del-consell
@@ -24,6 +30,11 @@ fuentes:
     url: https://valenciaplaza.com/pspv-compromis-cargan-primer-regalo-fiscal-mazon-ellos-saben-quien-trabajan
     medio: Valencia Plaza
     fecha: 2023-07-21
+    tipo: prensa
+  - titulo: "Los valencianos ahorran 188 millones de euros con la supresión del «impuesto a la muerte»"
+    url: https://www.eldebate.com/espana/comunidad-valenciana/20250909/valencianos-ahorran-188-millones-euros-supresion-impuesto-muerte_332716_amp.html
+    medio: El Debate
+    fecha: 2025-09-09
     tipo: prensa
 ---
 

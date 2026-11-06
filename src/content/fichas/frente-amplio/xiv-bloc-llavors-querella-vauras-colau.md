@@ -10,6 +10,27 @@ estadoJudicial: archivo-sin-tipo
 faseJudicial: investigacion
 implicados: "Ada Colau, exalcaldesa de Barcelona (Barcelona en Comú) y candidata de Frente Amplio a la presidencia del Gobierno; los concejales Marc Serra y Lucía Martín, y una técnica de la unidad municipal contra el acoso inmobiliario."
 importancia: 1
+gravedad:
+  naturaleza: penal
+  sujetos:
+    - nombre: "Ada Colau"
+      vinculo: cargo
+      cuando: "alcaldesa de Barcelona (Barcelona en Comú)"
+      enFunciones: true
+      delito: "coacciones y prevaricación (arts. 172 y 404 CP; prevaricación: inhabilitación especial de 9 a 15 años; coacciones: prisión de 6 meses a 3 años o multa de 12 a 24 meses)"
+      clasificacion: grave
+    - nombre: "Marc Serra"
+      vinculo: cargo
+      cuando: "concejal del distrito de Sants-Montjuïc y de Derechos de Ciudadanía del Ayuntamiento de Barcelona"
+      enFunciones: true
+      delito: "coacciones y prevaricación (arts. 172 y 404 CP; prevaricación: inhabilitación especial de 9 a 15 años; coacciones: prisión de 6 meses a 3 años o multa de 12 a 24 meses)"
+      clasificacion: grave
+    - nombre: "Lucía Martín"
+      vinculo: cargo
+      cuando: "concejala de Vivienda del Ayuntamiento de Barcelona"
+      enFunciones: true
+      delito: "coacciones y prevaricación (arts. 172 y 404 CP; prevaricación: inhabilitación especial de 9 a 15 años; coacciones: prisión de 6 meses a 3 años o multa de 12 a 24 meses)"
+      clasificacion: grave
 fecha: 2023-12-14
 actualizado: 2026-10-23
 fuentes:

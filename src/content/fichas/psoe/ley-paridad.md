@@ -6,8 +6,13 @@ resumen: "La Ley Orgánica 2/2024 de representación paritaria, comprometida en 
 tema: igualdad
 promesa: "Aprobar la Ley Orgánica de Representación Paritaria de Mujeres y Hombres en los órganos de decisión políticos, de la Administración y de las empresas (programa electoral de 2023)."
 importancia: 2
+alcance:
+  grado: completo
+  medida: "Ley Orgánica 2/2024: listas electorales alternas y presencia equilibrada en el Gobierno y en los consejos de cotizadas, con excepciones y plazos hasta 2028"
+  vigencia: en-vigor
+  ejecucion: no-consta
 fecha: 2024-08-02
-actualizado: 2026-10-19
+actualizado: 2026-10-23
 fuentes:
   - titulo: "Programa electoral del PSOE. Elecciones generales 23 de julio de 2023"
     url: https://www.psoe.es/media-content/2023/07/PROGRAMA_ELECTORAL-GENERALES-2023.pdf

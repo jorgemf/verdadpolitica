@@ -9,8 +9,34 @@ ambito: autonomico
 estadoJudicial: absolucion
 implicados: "Cristina Cifuentes, expresidenta de la Comunidad de Madrid (antiguo cargo del PP), absuelta. Condenadas: María Teresa Feito, profesora de la URJC y asesora de la Consejería de Educación madrileña, y la profesora Cecilia Rosado. El PP no fue parte en la causa."
 importancia: 1
+gravedad:
+  naturaleza: penal
+  sujetos:
+    - nombre: "Cristina Cifuentes"
+      vinculo: cargo
+      cuando: "presidenta de la Comunidad de Madrid"
+      enFunciones: false
+      delito: "inducción a la falsedad en documento oficial (art. 390 CP: prisión de 3 a 6 años)"
+      clasificacion: grave
+      pena:
+        texto: "3 años y 3 meses de prisión"
+        anios: 3.25
+        tipo: pedida
+        por: "Fiscalía"
+    - nombre: "María Teresa Feito"
+      vinculo: cargo
+      cuando: "asesora de la Consejería de Educación de la Comunidad de Madrid"
+      enFunciones: false
+      delito: "inducción a la falsedad en documento oficial (art. 390 CP: prisión de 3 a 6 años)"
+      clasificacion: grave
+      pena:
+        texto: "2 años de prisión (la Audiencia Provincial le había impuesto 3)"
+        anios: 2
+        tipo: impuesta
+        por: "TSJ de Madrid (confirmada por el Tribunal Supremo)"
+      estado: condena-firme
 fecha: 2022-04-08
-actualizado: 2026-10-20
+actualizado: 2026-10-23
 fuentes:
   - titulo: "Cristina Cifuentes, absuelta en el 'caso Máster'"
     url: https://www.elindependiente.com/espana/2021/02/15/cristina-cifuentes-absuelta-en-el-caso-master/amp/

@@ -7,6 +7,11 @@ tema: inmigracion
 ambito: europeo
 promesa: "«Trabajaremos para conseguir a nivel europeo la adopción de un nuevo Pacto de Migración y Asilo, que esté en línea con los valores de dignidad humana y solidaridad establecidos en nuestros tratados» (programa electoral del PSOE de 2023)."
 importancia: 2
+alcance:
+  grado: completo
+  medida: "Acuerdo político el 20-12-2023 y adopción el 14-5-2024; aplicable desde junio de 2026, sin adaptar la ley española a la disolución"
+  vigencia: en-vigor
+  ejecucion: no-consta
 fecha: 2024-05-14
 actualizado: 2026-10-23
 fuentes:

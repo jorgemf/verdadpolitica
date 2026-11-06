@@ -52,6 +52,96 @@ Esta guía es obligatoria para cualquier contenido nuevo o corregido, lo escriba
 
 Para los partidos en la oposición estatal, `cumplido` y `bloqueado` pueden referirse a lo que prometieron hacer desde la oposición (iniciativas, mayoría en el Senado, recursos ante el Tribunal Constitucional) o a lo hecho donde gobiernan, indicándolo con `ambito: autonomico` o `municipal`.
 
+## Gravedad de las causas y alcance de lo cumplido
+
+No todas las fichas de una categoría pesan lo mismo. Para que el lector lo vea sin que la web opine, se registran **hechos comparables** y la web los muestra como etiquetas con su dato. No hay puntuaciones propias: la gravedad de un delito la da el Código Penal y el alcance de una medida, la comparación entre lo prometido y lo logrado. Estos criterios no se ajustan mirando cómo quedan los partidos; si una regla resulta inadecuada, se cambia para todos y se documenta aquí.
+
+### `gravedad` (obligatorio en `judicial`)
+
+```yaml
+gravedad:
+  naturaleza: penal          # penal | civil | contable | administrativa
+  sujetos:
+    - nombre: "José Luis Ábalos"
+      vinculo: direccion     # partido | direccion | cargo | excargo | entorno | sin-cargo
+      cuando: "ministro de Transportes y secretario de Organización del PSOE"
+      enFunciones: true
+      delito: "organización criminal, cohecho, tráfico de influencias y malversación (arts. 570 bis, 419, 428 y 432 CP)"
+      clasificacion: grave   # grave | menos-grave | leve | no-penal
+      pena:
+        texto: "24 años y 3 meses de prisión"
+        anios: 24.25
+        tipo: impuesta       # impuesta | pedida
+        por: "Tribunal Supremo"
+      estado: condena-firme  # solo si difiere de estadoJudicial
+  cuantias:
+    - euros: 204198
+      concepto: "devolución como partícipe a título lucrativo"
+```
+
+- **La unidad es cada persona o entidad vinculada al partido y sometida al procedimiento.** Cada pena, cuantía y desenlace se atribuye a quien corresponde: la responsabilidad civil del partido no se mezcla con la prisión de un alcalde. Terceros sin vínculo con el partido (un comisario, un empresario) no se listan.
+- Cuenta como sometida al procedimiento la persona a la que un juez o la Fiscalía propuso investigar (querella, denuncia o exposición razonada), aunque el tribunal competente lo rechazara. Se lista con su propio `estado`.
+- `vinculo`, **en el momento de los hechos**:
+  - `partido`: el partido como persona jurídica.
+  - `direccion`: dirección nacional del partido o miembro del Gobierno de España.
+  - `cargo`: cargo electo, orgánico, o designado por un gobierno del partido.
+  - `excargo`: ya había dejado el cargo.
+  - `entorno`: familiares y colaboradores sin cargo.
+  - `sin-cargo`: no tenía cargo entonces, aunque lo tuvo después (por ejemplo, hechos anteriores a ser diputado).
+  
+  `cuando` describe ese cargo en texto.
+- `enFunciones: true` solo si los hechos se atribuyen al ejercicio de funciones públicas u orgánicas: adjudicar, contratar, gestionar, decidir, financiar el partido o usar sus recursos o los públicos. Ocupar un cargo mientras ocurren hechos privados no cuenta, y las declaraciones, mensajes en redes y la propaganda tampoco, aunque se hagan como dirigente. Para el partido como persona jurídica, `true` si se trata de su financiación o su gestión.
+- `clasificacion`: la del delito más grave imputado o condenado a ese sujeto, con los umbrales de los artículos 13 y 33 del Código Penal aplicados a la **pena principal del tipo**: la de prisión si la tiene y, si no, su pena principal (por ejemplo, la inhabilitación de la prevaricación).
+  - `grave`: más de 5 años de prisión, o inhabilitación de más de 5 años como pena principal.
+  - `menos-grave`: de 3 meses a 5 años de prisión, multa de más de 3 meses (incluida la multa proporcional) o inhabilitación de hasta 5 años.
+  - `leve`: delitos leves.
+  - `no-penal`: responsabilidad civil, contable o administrativa.
+
+  No cuentan las penas accesorias ni las comunes a todo un título (la inhabilitación del art. 510.5 en los delitos de odio, la del art. 192.3 en los sexuales), ni el art. 33.7, que califica de graves todas las penas de las personas jurídicas: el partido se clasifica por la pena del tipo para personas físicas. `delito` cita los artículos y la pena del tipo. Se usa el tipo básico salvo que la pena pedida o impuesta solo quepa en un subtipo; si la fuente no lo aclara, se dice en el cuerpo.
+- `pena` solo si consta en una fuente de la ficha:
+  - `tipo: impuesta` cuando hay sentencia, aunque no sea firme.
+  - `tipo: pedida` cuando solo hay escrito de acusación. `por` dice quién la pide (Fiscalía, acusación popular o particular, con su nombre); si las acusaciones piden penas distintas, se pone la de la Fiscalía y, en el texto, la de las demás.
+  - `anios` solo para la prisión.
+  - Sin dato, se omite: **nunca se pone 0 ni se estima**.
+- `cuantias` solo con importe y concepto según la resolución o la acusación citada (contrato, perjuicio, comisiones, multa, devolución). El importe de un contrato no es un perjuicio acreditado; el concepto lo distingue.
+- La etiqueta que ve el lector se redacta según el estado procesal: «Investigación por delito grave», «Acusación por delito grave», «Condena por delito grave». En causas archivadas o con absolución se muestra solo ese desenlace.
+- `importancia` en `judicial`:
+  - No puede ser 3 si ningún sujeto tiene `clasificacion: grave`, salvo que el propio partido sea sujeto (`vinculo: partido`).
+  - Si todos los sujetos son `leve` o `no-penal` y el partido no es sujeto, debe ser 1.
+
+### `alcance` (obligatorio en `cumplido`)
+
+```yaml
+alcance:
+  grado: parcial             # completo | parcial | minimo | no-evaluable
+  medida: "3 de las 4 semanas adicionales prometidas (de 16 a 19; se prometían 20)"
+  vigencia: en-vigor         # en-vigor | pendiente | anulada-parcial | anulada | derogada
+  ejecucion: aplicada        # aplicada | parcial | sin-aplicar | no-consta
+  magnitud: "unos 500.000 permisos al año (Seguridad Social, 2025)"   # opcional
+```
+
+- **Fecha de corte**: la disolución del 6 de octubre de 2026 en lo estatal; `actualizado` en lo autonómico o municipal.
+- **`grado` de una promesa cuantificable**: el avance logrado sobre el punto de partida, dividido entre el cambio prometido. Pasar de 16 a 19 semanas cuando se prometían 20 es 3 de 4, un 75 %, no un 95 %.
+  - `completo`: 100 %.
+  - `parcial`: del 50 % al 99 %.
+  - `minimo`: menos del 50 %.
+- **`grado` de una promesa cualitativa**: se identifican en el cuerpo sus elementos esenciales.
+  - `completo`: se lograron todos.
+  - `parcial`: se logró el núcleo, pero faltan elementos secundarios.
+  - `minimo`: solo se lograron elementos accesorios o formales, como un plan, un estudio o una declaración, donde se prometía una medida.
+  - Si lo logrado sustituye el objeto esencial por otro distinto, no es `cumplido`: va a otra categoría.
+- Si una promesa estatal solo se logra donde el partido gobierna, el grado es `parcial` si en ese territorio se logró su núcleo, y `medida` indica el ámbito.
+- `no-evaluable` solo si la promesa no tiene términos verificables. El cuerpo lo explica.
+- Un retraso no cambia el grado; se indica en `medida`. Un piloto cuenta como `completo` si lo prometido era el piloto; su ejecución presupuestaria va en `ejecucion` y `medida`.
+- `medida` es una frase de 160 caracteres como máximo con los números de lo prometido frente a lo logrado, todos localizables en las fuentes de la ficha.
+- **`vigencia` y `ejecucion` se miden por separado**: entrar en vigor no demuestra que una medida se aplique.
+  - `ejecucion: aplicada` exige un dato de aplicación en las fuentes. Sin él, `no-consta`, aunque la norma sea de aplicación directa.
+  - `ejecucion: parcial` si se aplica solo en parte del territorio, de los beneficiarios o del presupuesto.
+  - `vigencia: sustituida` si una norma posterior la reemplazó en lo mismo (por ejemplo, un salario mínimo anual o unos presupuestos), sin revertirla.
+  - `no-aplica` en ambos campos para actuaciones puntuales ya realizadas (una moción, un recurso, una comparecencia).
+  - Si una misma medida aparece en fichas de varios partidos, `vigencia`, `ejecucion` y las cifras deben coincidir.
+- `magnitud`, opcional: personas o dinero afectados, con fuente en la ficha.
+
 ## Programa vs. hechos
 
 Para cada partido hay una entrada por tema (ver `src/data/temas.ts`) en `src/content/programa/<partido>/<tema>.md`:
@@ -107,6 +197,6 @@ fuentes:
 ```
 
 - `resumen` es la línea que se ve en la portada: una frase clara, sin opinión (máx. 320 caracteres).
-- `importancia` (1–3) ordena las fichas en la portada; 3 = de lo más relevante de la legislatura.
+- `importancia` (1–3) ordena las fichas en la portada; 3 = de lo más relevante de la legislatura. En `cumplido`, `bloqueado`, `no-intentado` y `contradiccion` mide el peso de la promesa: 3 si era una medida central del programa, de la investidura o de un acuerdo de gobierno, o si afecta a gran parte de la población; 1 si era una medida sectorial o menor. En `judicial` sigue además las reglas de `gravedad`.
 - En el cuerpo se pueden citar las fuentes con su número entre corchetes, p. ej. `[1]`, en el orden de la lista `fuentes`.
 - Cada URL debe existir y respaldar lo que se afirma. Nada de enlaces inventados ni reconstruidos de memoria.

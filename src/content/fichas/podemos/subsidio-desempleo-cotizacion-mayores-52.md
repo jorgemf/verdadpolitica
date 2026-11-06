@@ -6,8 +6,13 @@ resumen: "Podemos votó en contra del primer decreto del subsidio por desempleo,
 tema: empleo-pensiones
 promesa: "Eliminar del decreto la rebaja de la cotización de los parados mayores de 52 años, un «fuerte recorte» de sus futuras pensiones según Podemos, que avisó de que votaría en contra si se mantenía (enero de 2024)."
 importancia: 2
+alcance:
+  grado: completo
+  medida: "Cotización para la jubilación de los parados mayores de 52 mantenida en el 125 % (RDL 2/2024); el RDL 7/2023 la bajaba al 105 % en 2027"
+  vigencia: en-vigor
+  ejecucion: no-consta
 fecha: 2024-06-20
-actualizado: 2026-10-19
+actualizado: 2026-10-23
 fuentes:
   - titulo: "Podemos baraja rechazar la reforma del subsidio de desempleo si supone recortar la cotización de mayores de 52"
     url: https://forbes.es/?p=392728

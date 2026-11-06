@@ -7,8 +7,13 @@ resumen: "Abascal anunció en julio de 2020 que Vox presentaría una moción de 
 tema: regeneracion-democratica
 promesa: "Presentar una moción de censura contra el Gobierno de Pedro Sánchez, porque a Vox «no le queda más remedio» (anuncio de Santiago Abascal en el Pleno del Congreso, 29 de julio de 2020)."
 importancia: 3
+alcance:
+  grado: completo
+  medida: "Prometió una moción y presentó dos: octubre de 2020 (52 a favor, 298 en contra) y marzo de 2023 (53 a favor, 201 en contra); ambas rechazadas"
+  vigencia: no-aplica
+  ejecucion: no-aplica
 fecha: 2023-03-22
-actualizado: 2026-10-20
+actualizado: 2026-10-23
 fuentes:
   - titulo: "Abascal anuncia moción de censura en septiembre que Casado no apoyará"
     url: https://www.elindependiente.com/politica/2020/07/29/abascal-anuncia-mocion-de-censura-en-septiembre-y-pide-a-casado-que-la-apoye/

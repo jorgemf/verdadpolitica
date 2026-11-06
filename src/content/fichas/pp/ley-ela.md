@@ -6,8 +6,14 @@ resumen: "El PP asumió la ley de la ELA que había decaído con la legislatura 
 tema: sanidad
 promesa: "Tramitar por la vía de urgencia la ley ELA: \"Los enfermos y sus familias no merecen que se aplace por más tiempo\" (discurso de investidura de Feijóo, 26 de septiembre de 2023)."
 importancia: 2
+alcance:
+  grado: completo
+  medida: "Ley 3/2024 aprobada por unanimidad el 10-10-2024, un año después de pedir su urgencia (26-9-2023); en abril de 2026 ya se pagaban prestaciones"
+  vigencia: en-vigor
+  ejecucion: parcial
+  magnitud: "500 M€ aprobados el 21-10-2025 para la atención de las personas con ELA, con el nuevo grado III+ de dependencia (La Moncloa)"
 fecha: 2024-10-31
-actualizado: 2026-10-19
+actualizado: 2026-10-23
 fuentes:
   - titulo: "Ley 3/2024, de 30 de octubre, para mejorar la calidad de vida de personas con Esclerosis Lateral Amiotrófica"
     url: https://www.boe.es/eli/es/l/2024/10/30/3
@@ -29,6 +35,16 @@ fuentes:
     medio: Partido Popular
     fecha: 2023-09-26
     tipo: partido
+  - titulo: "El Gobierno destina 500 millones de euros a la atención integral de las personas con ELA"
+    url: https://www.lamoncloa.gob.es/consejodeministros/resumenes/Paginas/2025/211025-rueda-de-prensa-ministros.aspx
+    medio: La Moncloa
+    fecha: 2025-10-21
+    tipo: oficial
+  - titulo: "Enfermos de ELA con «dependencia extrema» comienzan a recibir ayudas al amparo de la nueva ley"
+    url: https://sid-inico.usal.es/noticias/enfermos-de-ela-con-dependencia-extrema-comienzan-a-recibir-ayudas-al-amparo-de-la-nueva-ley/
+    medio: SID-INICO (Servimedia)
+    fecha: 2026-04-27
+    tipo: prensa
 ---
 
 ## Qué se prometió

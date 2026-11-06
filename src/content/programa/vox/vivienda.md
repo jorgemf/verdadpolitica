@@ -4,7 +4,7 @@ tema: vivienda
 propuesta: "Derogar la Ley de Vivienda de 2023, construir vivienda pública \"masivamente\" y adjudicarla con \"prioridad nacional\", liberalizar el suelo y desregular la construcción, ayudas directas a jóvenes compradores, suprimir impuestos a la primera vivienda y \"tolerancia cero\" con la ocupación ilegal."
 balance: "Votó contra los RDL 26/2026 y 27/2026 de vivienda, que el Congreso no convalidó en octubre de 2026. El Congreso rechazó en junio su moción de prioridad nacional en vivienda. En Extremadura y en los presupuestos valencianos de 2026 pactó con el PP una prioridad por empadronamiento y arraigo, no por nacionalidad."
 coherencia: parcial
-actualizado: 2026-10-23
+actualizado: 2026-11-06
 fuentes:
   - titulo: "Programa electoral para las Elecciones Generales del 23J de 2023"
     url: https://theobjective.com/wp-content/uploads/2023/07/programa-vox-23j.pdf
@@ -57,7 +57,7 @@ fuentes:
     tipo: prensa
 ---
 
-A 23 de octubre de 2026, Vox no ha publicado programa para el 29-N. Se recogen el programa de 2023 [1], su plan de desregulación de junio de 2026 [2] y las propuestas que presentó al arrancar la precampaña [10].
+A 6 de noviembre de 2026, Vox no ha publicado programa para el 29-N. Se recogen el programa de 2023 [1], su plan de desregulación de junio de 2026 [2] y las propuestas que presentó al arrancar la precampaña [10].
 
 **Qué proponen.** En 2023 prometía "tolerancia cero con la ocupación ilegal", eximir del IBI a los propietarios afectados y liberar "todo el suelo" que no deba estar protegido [1]. El plan de 2026 añade la derogación de la Ley de Vivienda y el bloqueo de la regulación de precios del alquiler [2]. El 11 de octubre de 2026, el secretario general, Ignacio Garriga, propuso "incrementar de forma considerable la oferta de vivienda pública" y adjudicarla con "prioridad nacional", liberalizar el suelo, reducir la carga fiscal, dar ayudas directas a los jóvenes para la primera vivienda y aplazar el pago de algunos impuestos de la compraventa. No detalló cómo se aplicaría la preferencia por nacionalidad [10].
 

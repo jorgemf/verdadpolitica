@@ -6,8 +6,13 @@ resumen: "Sumar prometió extender el uso de las lenguas cooficiales a las insti
 tema: modelo-territorial
 promesa: "«La pluralidad lingüística no se debe limitar a las comunidades autónomas con lengua propia, sino que su promoción y uso debe extenderse al conjunto de España y sus instituciones, así como al marco de la UE» (programa de Sumar 2023)."
 importancia: 2
+alcance:
+  grado: parcial
+  medida: "Lenguas cooficiales en el Congreso desde 2023 (reforma del Reglamento, 180-170); sin ley de lenguas ni oficialidad en la UE"
+  vigencia: en-vigor
+  ejecucion: aplicada
 fecha: 2023-09-21
-actualizado: 2026-10-20
+actualizado: 2026-10-23
 fuentes:
   - titulo: "Un programa para ti. Programa electoral de Sumar para las elecciones generales de 2023"
     url: https://movimientosumar.es/wp-content/uploads/2023/07/Un-Programa-para-ti.pdf

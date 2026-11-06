@@ -8,8 +8,14 @@ ambito: autonomico
 legislatura: XIV
 promesa: "Suprimiremos el Impuesto de Patrimonio y el Impuesto de Sucesiones y Donaciones para las transmisiones entre padres e hijos y al resto de la línea descendiente, así como entre cónyuges (programa electoral del PP para el 10 de noviembre de 2019, medida 18)."
 importancia: 2
+alcance:
+  grado: parcial
+  medida: "Bonificación del 100% en Andalucía desde 2022, no la supresión en España prometida; quien supera 3 M€ paga el impuesto estatal de grandes fortunas"
+  vigencia: en-vigor
+  ejecucion: no-consta
+  magnitud: "16.785 contribuyentes y algo más de 93 M€ recaudados en 2020, antes de la bonificación (AEAT, según La Marea)"
 fecha: 2022-09-21
-actualizado: 2026-10-20
+actualizado: 2026-10-23
 fuentes:
   - titulo: "Programa electoral 2019"
     url: https://www.pp.es/storage/2019/10/pp_programa_electoral_2019.pdf

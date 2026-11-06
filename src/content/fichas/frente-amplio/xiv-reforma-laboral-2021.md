@@ -7,8 +7,13 @@ resumen: "El acuerdo de coalición prometía derogar la reforma laboral de 2012 
 tema: empleo-pensiones
 promesa: "«Derogaremos la reforma laboral. Recuperaremos los derechos laborales arrebatados por la reforma laboral de 2012», con tres puntos urgentes: despido por absentismo, ultraactividad de los convenios y prioridad del convenio de empresa (acuerdo de coalición PSOE-Unidas Podemos, 2019, punto 1.3)."
 importancia: 3
+alcance:
+  grado: parcial
+  medida: "Cumplidos los 3 puntos urgentes (despido por absentismo, ultraactividad, fin de la prioridad salarial del convenio de empresa); sin derogar toda la de 2012"
+  vigencia: en-vigor
+  ejecucion: no-consta
 fecha: 2022-02-03
-actualizado: 2026-10-20
+actualizado: 2026-10-23
 fuentes:
   - titulo: "Coalición progresista. Un nuevo acuerdo para España (acuerdo de Gobierno PSOE-Unidas Podemos)"
     url: https://www.diariodepontevedra.es/media/diariodepontevedra/files/2019/12/30/Pacto%20PSOE%20-%20Podemos%20para%20un%20gobierno%20de%20coalici%C3%B3n.pdf

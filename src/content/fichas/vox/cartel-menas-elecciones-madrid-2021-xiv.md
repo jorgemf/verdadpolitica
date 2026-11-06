@@ -9,8 +9,17 @@ estadoJudicial: archivo-provisional
 faseJudicial: investigacion
 implicados: "Vox como partido, autor del cartel de la campaña de las elecciones a la Asamblea de Madrid de mayo de 2021, cuya candidata era Rocío Monasterio. Las fuentes consultadas no identifican a ninguna persona concreta como investigada."
 importancia: 2
+gravedad:
+  naturaleza: penal
+  sujetos:
+    - nombre: "Vox"
+      vinculo: partido
+      cuando: "partido autor del cartel de campaña de las autonómicas de Madrid de 2021"
+      enFunciones: false
+      delito: "incitación al odio (art. 510.1 CP: prisión de 1 a 4 años; para la persona jurídica, art. 510 bis CP)"
+      clasificacion: menos-grave
 fecha: 2021-07-19
-actualizado: 2026-10-20
+actualizado: 2026-10-23
 fuentes:
   - titulo: "La Fiscalía pide al juez la retirada del cartel xenófobo de Vox"
     url: https://es.ara.cat/politica/fiscalia-pide-juez-retirada-cartel-xenofobo-vox_1_3957787.html

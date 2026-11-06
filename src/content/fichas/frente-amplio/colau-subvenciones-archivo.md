@@ -9,6 +9,15 @@ faseJudicial: investigacion
 implicados: "Ada Colau, exalcaldesa de Barcelona (2015-2023) y actual candidata de Frente Amplio a la presidencia del Gobierno, y la interventora municipal del Ayuntamiento de Barcelona."
 ambito: municipal
 importancia: 1
+gravedad:
+  naturaleza: penal
+  sujetos:
+    - nombre: "Ada Colau"
+      vinculo: cargo
+      cuando: "alcaldesa de Barcelona (Barcelona en Comú)"
+      enFunciones: true
+      delito: "prevaricación, tráfico de influencias y malversación (arts. 404, 428 y 432 CP; prevaricación: inhabilitación especial de 9 a 15 años; malversación: prisión de 2 a 6 años)"
+      clasificacion: grave
 fecha: 2025-03-12
 actualizado: 2026-10-23
 fuentes:

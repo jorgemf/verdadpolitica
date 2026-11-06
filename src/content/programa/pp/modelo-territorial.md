@@ -1,10 +1,10 @@
 ---
 partido: pp
 tema: modelo-territorial
-propuesta: "Defender la soberanía nacional y la integridad territorial y la igualdad de los ciudadanos: \"Un español debe tener los mismos derechos y los mismos servicios viva donde viva\". Rechaza la financiación autonómica \"bilateral\" y pide que pese más la despoblación."
+propuesta: "Defender la soberanía nacional y la igualdad de los ciudadanos («Un español debe tener los mismos derechos y los mismos servicios viva donde viva») y derogar la ley de amnistía. Rechaza la financiación autonómica «bilateral» y pide que pese más la despoblación."
 balance: "Votó contra la amnistía y la recurrió ante el TC, que la avaló en 2025. Pidió por mociones una reforma multilateral de la financiación y rechazó el modelo del Gobierno, sin un sistema propio con cifras. En 2024 fuentes del PP admitieron un indulto condicionado a Puigdemont, que Feijóo rechazó dos días después."
 coherencia: coherente
-actualizado: 2026-10-23
+actualizado: 2026-11-06
 fuentes:
   - titulo: "Mi contrato con España"
     url: https://www.pp.es/wp-content/uploads/2026/10/CONTRATO-CON-ESPANA-.pdf
@@ -71,9 +71,14 @@ fuentes:
     medio: Partido Popular
     fecha: 2026-10-19
     tipo: partido
+  - titulo: "Feijóo promete visitar Cataluña cada tres meses y derogar la amnistía si es presidente"
+    url: https://theobjective.com/espana/politica/2026-11-01/feijoo-cataluna-amnistia-presidente/
+    medio: The Objective
+    fecha: 2026-11-01
+    tipo: prensa
 ---
 
-A 23 de octubre de 2026 el PP no ha publicado su programa para el 29-N. El "Contrato con España" (19 de octubre de 2026) se compromete a "defender la soberanía nacional y la integridad territorial" y a que los españoles vuelvan "a ser tratados como ciudadanos libres e iguales" [1]. En su presentación, Feijóo añadió: "Un español debe tener los mismos derechos y los mismos servicios viva donde viva" [13]. En 2023 prometía reformar la financiación y el Código Penal en sedición, malversación y referéndum ilegal [6].
+A 6 de noviembre de 2026 el PP no ha publicado su programa para el 29-N. El "Contrato con España" (19 de octubre de 2026) se compromete a "defender la soberanía nacional y la integridad territorial" y a que los españoles vuelvan "a ser tratados como ciudadanos libres e iguales" [1]. En su presentación, Feijóo añadió: "Un español debe tener los mismos derechos y los mismos servicios viva donde viva" [13]. En una entrevista en La Vanguardia publicada el 1 de noviembre dijo: «Voy a derogar la ley de Amnistía», aunque, según la crónica, reconoció que no tendría ningún efecto jurídico concreto, y prometió ir a Cataluña «cada tres meses a dar cuenta de la ejecución de las obras públicas» [14]. En 2023 prometía reformar la financiación y el Código Penal en sedición, malversación y referéndum ilegal [6].
 
 El PP votó contra la amnistía y la recurrió ante el TC, que la avaló casi en su totalidad en la STC 137/2025 [2]; tras el fallo del TJUE de julio de 2026, Feijóo dijo que no cerraba el debate político [7].
 

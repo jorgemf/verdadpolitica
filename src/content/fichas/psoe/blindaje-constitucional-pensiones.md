@@ -8,7 +8,7 @@ promesa: "«Blindaremos el poder adquisitivo de las pensiones con un cambio cons
 motivo: "No hay una explicación oficial específica. Una reforma constitucional exige tres quintos del Congreso y del Senado, lo que requiere el voto del PP, y el Gobierno priorizó la reforma del artículo 43 sobre el aborto, que tampoco se aprobó. La revalorización con el IPC sigue garantizada por ley desde la reforma de pensiones de 2021."
 importancia: 2
 fecha: 2026-10-06
-actualizado: 2026-10-19
+actualizado: 2026-11-06
 fuentes:
   - titulo: "Programa electoral del PSOE. Elecciones generales 23 de julio de 2023"
     url: https://www.psoe.es/media-content/2023/07/PROGRAMA_ELECTORAL-GENERALES-2023.pdf
@@ -45,6 +45,11 @@ fuentes:
     medio: Congreso de los Diputados
     fecha: 2026-10-02
     tipo: oficial
+  - titulo: "Sánchez y las pensiones: promete blindarlas en la Constitución y se olvida de la ley... y del PP"
+    url: https://www.esdiario.com/nacional/261026/201346/sanchez-pensiones-constitucion-ipc-ley-pp-reforma.html
+    medio: ESdiario
+    fecha: 2026-10-26
+    tipo: prensa
 ---
 
 ## Qué se prometió
@@ -65,4 +70,4 @@ Una reforma constitucional ordinaria exige tres quintos de cada cámara [3]. El 
 
 ## Lo que dicen las partes
 
-El PSOE defiende mantener la reforma de pensiones de 2021-2023, que fija la revalorización con el IPC por ley [5], y Sánchez presenta a PP y Vox como un riesgo para ella [4]. Feijóo ha defendido mantener la actualización con el IPC; Vox propone un modelo mixto con capitalización [4].
+El PSOE defiende mantener la reforma de pensiones de 2021-2023, que fija la revalorización con el IPC por ley [5], y Sánchez presenta a PP y Vox como un riesgo para ella [4]. Feijóo ha defendido mantener la actualización con el IPC; Vox propone un modelo mixto con capitalización [4]. En la precampaña del 29-N Sánchez repitió la promesa: «En la próxima legislatura reformaremos la Constitución para blindar las pensiones y su revalorización conforme al IPC» (Gijón, 26 de octubre de 2026) [8].

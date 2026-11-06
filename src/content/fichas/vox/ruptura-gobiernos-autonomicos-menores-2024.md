@@ -7,6 +7,11 @@ tema: inmigracion
 ambito: autonomico
 promesa: "Dar por rotos los gobiernos autonómicos compartidos con el PP y abandonarlos de inmediato si no usaban «todos los medios políticos y legales» para evitar la distribución de menores migrantes."
 importancia: 3
+alcance:
+  grado: completo
+  medida: "Avisó el 8-7-2024 y el 11-7 salió de los 5 gobiernos que compartía con el PP y retiró su apoyo al balear; el reparto de 347 menores siguió"
+  vigencia: no-aplica
+  ejecucion: no-aplica
 fecha: 2024-07-11
 actualizado: 2026-10-23
 fuentes:

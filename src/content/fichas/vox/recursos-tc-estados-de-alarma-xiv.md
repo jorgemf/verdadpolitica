@@ -7,8 +7,13 @@ resumen: "Vox anunció en el Pleno del 29 de octubre de 2020 un recurso de incon
 tema: regeneracion-democratica
 promesa: "Presentar un recurso de inconstitucionalidad ante el Tribunal Constitucional contra la prórroga de seis meses del estado de alarma (anuncio de Santiago Abascal en el Pleno del Congreso, 29 de octubre de 2020)."
 importancia: 2
+alcance:
+  grado: completo
+  medida: "Anunció el recurso el 29-10-2020 y lo registró el 6-11-2020 (n.º 5342-2020); ya había recurrido el primer estado de alarma (n.º 2054-2020)"
+  vigencia: no-aplica
+  ejecucion: no-aplica
 fecha: 2020-11-06
-actualizado: 2026-10-20
+actualizado: 2026-10-23
 fuentes:
   - titulo: "Casado y Abascal arremeten contra Sánchez por marcharse al comienzo del debate del estado de alarma"
     url: https://www.elindependiente.com/espana/2020/10/29/casado-y-abascal-arremeten-contra-sanchez-por-marcharse-al-comienzo-del-debate-del-estado-de-alarma/

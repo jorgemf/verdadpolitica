@@ -10,6 +10,21 @@ estadoJudicial: archivo-sin-tipo
 faseJudicial: investigacion
 implicados: "Ada Colau, exalcaldesa de Barcelona (Barcelona en Comú) y candidata de Frente Amplio a la presidencia del Gobierno, y Janet Sanz, ex primera teniente de alcaldía."
 importancia: 1
+gravedad:
+  naturaleza: penal
+  sujetos:
+    - nombre: "Ada Colau"
+      vinculo: cargo
+      cuando: "alcaldesa de Barcelona (Barcelona en Comú)"
+      enFunciones: true
+      delito: "malversación (art. 432 CP: prisión de 2 a 6 años), delito urbanístico sin artículo precisado en las fuentes y fraude de subvenciones (art. 308 CP: prisión de 1 a 5 años)"
+      clasificacion: grave
+    - nombre: "Janet Sanz"
+      vinculo: cargo
+      cuando: "primera teniente de alcaldía de Barcelona (Barcelona en Comú)"
+      enFunciones: true
+      delito: "malversación (art. 432 CP: prisión de 2 a 6 años), delito urbanístico sin artículo precisado en las fuentes y fraude de subvenciones (art. 308 CP: prisión de 1 a 5 años)"
+      clasificacion: grave
 fecha: 2023-12-21
 actualizado: 2026-10-23
 fuentes:

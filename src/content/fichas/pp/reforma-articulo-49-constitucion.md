@@ -6,8 +6,13 @@ resumen: "El PP pactó con el PSOE la reforma del artículo 49, que sustituye \"
 tema: igualdad
 promesa: "Eliminaremos el término \"disminuido\" de la Constitución (programa electoral de 2023, medida 23)."
 importancia: 2
+alcance:
+  grado: completo
+  medida: "Se prometió quitar «disminuidos» de la Constitución; la reforma del art. 49 (BOE del 17-2-2024) lo sustituye por «personas con discapacidad»"
+  vigencia: en-vigor
+  ejecucion: no-consta
 fecha: 2024-02-17
-actualizado: 2026-10-19
+actualizado: 2026-10-23
 fuentes:
   - titulo: "Reforma del artículo 49 de la Constitución Española, de 15 de febrero de 2024"
     url: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-3099

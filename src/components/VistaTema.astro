@@ -16,6 +16,7 @@ import {
   CATEGORIA_INFO,
   ORDEN_CATEGORIAS,
   ESTADO_JUDICIAL,
+  etiquetasValoracion,
   COHERENCIA,
   AMBITO,
   LEGISLATURA,
@@ -156,11 +157,17 @@ const VACIO: Partial<Record<string, string>> = {
                         ) : (
                           cat === 'contradiccion' && <p class="vt__nota">{f.data.resumen}</p>
                         )}
-                        {(f.data.estadoJudicial || f.data.ambito !== 'estatal' || f.data.legislatura === 'XIV') && (
+                        {(f.data.estadoJudicial ||
+                          etiquetasValoracion(f).length > 0 ||
+                          f.data.ambito !== 'estatal' ||
+                          f.data.legislatura === 'XIV') && (
                           <p class="vt__etiquetas">
                             {f.data.estadoJudicial && (
                               <span class="etiqueta etiqueta--judicial">{ESTADO_JUDICIAL[f.data.estadoJudicial]}</span>
                             )}
+                            {etiquetasValoracion(f).map((e) => (
+                              <span class={`etiqueta ${e.clase}`}>{e.texto}</span>
+                            ))}
                             {f.data.legislatura === 'XIV' && <span class="etiqueta">{LEGISLATURA.XIV}</span>}
                             {f.data.ambito !== 'estatal' && <span class="etiqueta">{AMBITO[f.data.ambito]}</span>}
                           </p>

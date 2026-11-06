@@ -8,6 +8,33 @@ estadoJudicial: archivo-fiscalia
 faseJudicial: denuncia
 implicados: "Juan Carlos Monedero, cofundador de Podemos, sin cargos en la dirección desde 2015 (denunciado). Irene Montero, Ione Belarra y Ángela Rodríguez «Pam», dirigentes de Podemos (denunciadas por presunto encubrimiento y omisión del deber de socorro). El partido como persona jurídica no fue denunciado."
 importancia: 2
+gravedad:
+  naturaleza: penal
+  sujetos:
+    - nombre: "Juan Carlos Monedero"
+      vinculo: excargo
+      cuando: "cofundador de Podemos, sin cargos en la dirección desde 2015"
+      enFunciones: false
+      delito: "agresión sexual (art. 178.1 CP: prisión de 1 a 4 años) en la primera denuncia y delito contra la integridad moral (art. 173.1 CP: prisión de 6 meses a 2 años) en la segunda"
+      clasificacion: menos-grave
+    - nombre: "Ione Belarra"
+      vinculo: direccion
+      cuando: "secretaria general de Podemos y ministra de Derechos Sociales"
+      enFunciones: true
+      delito: "encubrimiento y omisión del deber de socorro (arts. 451 y 195 CP; encubrimiento: prisión de 6 meses a 3 años; omisión del deber de socorro: multa de 3 a 12 meses)"
+      clasificacion: menos-grave
+    - nombre: "Irene Montero"
+      vinculo: direccion
+      cuando: "dirigente de Podemos y ministra de Igualdad"
+      enFunciones: true
+      delito: "encubrimiento y omisión del deber de socorro (arts. 451 y 195 CP; encubrimiento: prisión de 6 meses a 3 años; omisión del deber de socorro: multa de 3 a 12 meses)"
+      clasificacion: menos-grave
+    - nombre: "Ángela Rodríguez «Pam»"
+      vinculo: cargo
+      cuando: "dirigente de Podemos y secretaria de Estado de Igualdad"
+      enFunciones: true
+      delito: "encubrimiento y omisión del deber de socorro (arts. 451 y 195 CP; encubrimiento: prisión de 6 meses a 3 años; omisión del deber de socorro: multa de 3 a 12 meses)"
+      clasificacion: menos-grave
 fecha: 2025-06-02
 actualizado: 2026-10-23
 fuentes:
@@ -51,7 +78,7 @@ La plataforma Xuntos por Galicia denunció en marzo de 2025 a Monedero por presu
 
 ## Estado procesal
 
-- **Primera denuncia.** La Fiscalía la archivó el 28 de mayo de 2025. Sobre Monedero, consideró que «no hay pruebas suficientes para imputar»: las supuestas víctimas no habían denunciado y no constaban fecha, lugar ni detalles. Sobre las dirigentes, que no hubo conductas de ocultación ni un peligro que exigiera auxilio [2].
+- **Primera denuncia.** La Fiscalía la archivó el 28 de mayo de 2025. Sobre Monedero, consideró que «no hay pruebas suficientes para imputar»: las supuestas víctimas no habían denunciado y no constaban fecha, lugar ni detalles. Sobre las dirigentes, que no hubo conductas de ocultación ni un peligro que exigiera auxilio [2]. Como la fuente no precisa el subtipo de agresión sexual denunciado, la gravedad se clasifica por el tipo básico (art. 178.1 del Código Penal, prisión de uno a cuatro años).
 - **Segunda denuncia.** La Complutense trasladó su expediente a la Fiscalía, que lo archivó el 2 de junio de 2025: las expresiones a alumnas no eran delito contra la integridad moral, aunque las calificó de «inadecuadas, improcedentes, fuera de lugar y reprochables moralmente» [3].
 - **Vía administrativa.** La Complutense lo suspendió un año de funciones por acoso sexista; se le descuentan los seis meses de suspensión cautelar ya cumplidos. Europa Press calificó la infracción de falta grave [4] y elDiario.es, que confirmó la información de El País, de falta muy grave [5]. Monedero comunicó que ha llevado el expediente y la sanción a los tribunales [4] [5]. En las búsquedas realizadas el 23 de octubre de 2026 no consta ninguna resolución judicial sobre ese recurso; última situación documentada (30 de junio de 2026).
 

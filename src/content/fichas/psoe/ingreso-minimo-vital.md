@@ -7,8 +7,14 @@ tema: empleo-pensiones
 legislatura: XIV
 promesa: "«Avanzaremos hacia el establecimiento de un Ingreso Mínimo Vital como base de la libertad y de los derechos de todas las personas» (programa electoral del PSOE de noviembre de 2019)."
 importancia: 2
+alcance:
+  grado: completo
+  medida: "Creado por el RDL 20/2020 y regulado después por la Ley 19/2021 (461 a 1.015 € al mes); la AIReF estimó en 2023 que llegaba al 35 % de sus potenciales"
+  vigencia: en-vigor
+  ejecucion: parcial
+  magnitud: "284.000 hogares en 2022 según la AIReF; 1,8 millones de beneficiarios según la Seguridad Social"
 fecha: 2020-05-29
-actualizado: 2026-10-20
+actualizado: 2026-10-23
 fuentes:
   - titulo: "Ahora, progreso. Programa electoral del PSOE para las elecciones generales del 10 de noviembre de 2019"
     url: https://img.beteve.cat/wp-content/uploads/2019/11/programa-psoe-10-n.pdf
@@ -29,6 +35,11 @@ fuentes:
     medio: El Independiente
     fecha: 2023-06-15
     tipo: prensa
+  - titulo: "Ley 19/2021, de 20 de diciembre, por la que se establece el ingreso mínimo vital"
+    url: https://www.boe.es/eli/es/l/2021/12/20/19
+    medio: BOE
+    fecha: 2021-12-21
+    tipo: oficial
 ---
 
 ## Qué se prometió

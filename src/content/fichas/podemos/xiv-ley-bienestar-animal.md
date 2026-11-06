@@ -7,8 +7,13 @@ tema: energia-medioambiente
 legislatura: XIV
 promesa: "«Impulsaremos una Ley de Bienestar Animal, que garantice una relación respetuosa hacia todos los seres vivos» (acuerdo de coalición PSOE–Unidas Podemos, 30 de diciembre de 2019, apartado 3.16)."
 importancia: 2
+alcance:
+  grado: parcial
+  medida: "Ley 7/2023 aprobada para animales de compañía y silvestres en cautividad; excluye perros de caza y rehalas (art. 1.3)"
+  vigencia: en-vigor
+  ejecucion: no-consta
 fecha: 2023-03-28
-actualizado: 2026-10-20
+actualizado: 2026-10-23
 fuentes:
   - titulo: "Coalición progresista. Un nuevo acuerdo para España (acuerdo de Gobierno PSOE–Unidas Podemos)"
     url: https://www.diariodepontevedra.es/media/diariodepontevedra/files/2019/12/30/Pacto%20PSOE%20-%20Podemos%20para%20un%20gobierno%20de%20coalici%C3%B3n.pdf

@@ -4,7 +4,7 @@ tema: seguridad-ciudadana
 propuesta: "Más seguridad en las calles, con \"más recursos económicos y materiales, reconocimiento y autoridad\" para las Fuerzas y Cuerpos de Seguridad, y echar a los okupas \"en 48 horas\" (en 2023 prometía 24). En 2023 proponía también ampliar la prisión permanente revisable a los asesinatos con ocultación del cadáver."
 balance: "Votó la ley de multirreincidencia de Junts (Ley Orgánica 1/2026); la suya, en tramitación desde 2024, caducó. El Congreso rechazó en marzo de 2026 su ley para ampliar la prisión permanente revisable. En junio de 2026 registró una ley sobre el uso de armas de fuego por la policía que no llegó a debatirse."
 coherencia: coherente
-actualizado: 2026-10-23
+actualizado: 2026-11-06
 fuentes:
   - titulo: "Mi contrato con España"
     url: https://www.pp.es/wp-content/uploads/2026/10/CONTRATO-CON-ESPANA-.pdf
@@ -58,7 +58,7 @@ fuentes:
     tipo: oficial
 ---
 
-A 23 de octubre de 2026 el PP no ha publicado su programa para el 29-N. El "Contrato con España" (19 de octubre de 2026) promete "más seguridad en las calles": combatir "la creciente inseguridad en muchos barrios y, en especial, la violencia contra las mujeres", con "más recursos económicos y materiales, reconocimiento y autoridad" para las Fuerzas y Cuerpos de Seguridad del Estado. En su punto de vivienda incluye "echar a los okupas en 48 horas" [1], y un argumentario del partido anuncia que la ley antiokupación se aprobará en los cien primeros días de Gobierno [2]. No concreta cuántos agentes ni qué otras reformas legales. El programa de 2023 prometía ampliar la prisión permanente revisable a los asesinatos con ocultación del cadáver y desalojos de viviendas ocupadas en un plazo máximo de 24 horas (medidas 37 y 38) [3], el mismo plazo que recogía la ley antiokupación que el PP llevó al Congreso en 2026 [10]. Los documentos de campaña consultados no explican el paso de 24 a 48 horas.
+A 6 de noviembre de 2026 el PP no ha publicado su programa para el 29-N. El "Contrato con España" (19 de octubre de 2026) promete "más seguridad en las calles": combatir "la creciente inseguridad en muchos barrios y, en especial, la violencia contra las mujeres", con "más recursos económicos y materiales, reconocimiento y autoridad" para las Fuerzas y Cuerpos de Seguridad del Estado. En su punto de vivienda incluye "echar a los okupas en 48 horas" [1], y un argumentario del partido anuncia que la ley antiokupación se aprobará en los cien primeros días de Gobierno [2]. No concreta cuántos agentes ni qué otras reformas legales. El programa de 2023 prometía ampliar la prisión permanente revisable a los asesinatos con ocultación del cadáver y desalojos de viviendas ocupadas en un plazo máximo de 24 horas (medidas 37 y 38) [3], el mismo plazo que recogía la ley antiokupación que el PP llevó al Congreso en 2026 [10]. Los documentos de campaña consultados no explican el paso de 24 a 48 horas.
 
 En la oposición, el PP llevó a las Cortes varias reformas penales:
 

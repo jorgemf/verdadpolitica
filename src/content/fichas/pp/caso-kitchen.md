@@ -7,6 +7,42 @@ tema: regeneracion-democratica
 estadoJudicial: juicio
 implicados: "Antiguos cargos del Gobierno del PP: Jorge Fernández Díaz (exministro del Interior) y Francisco Martínez (ex secretario de Estado de Seguridad). También el ex DAO Eugenio Pino, el excomisario José Manuel Villarejo y otros policías. El PP como persona jurídica no está acusado, y María Dolores de Cospedal fue exonerada en 2021."
 importancia: 3
+gravedad:
+  naturaleza: penal
+  sujetos:
+    - nombre: "Jorge Fernández Díaz"
+      vinculo: direccion
+      cuando: "ministro del Interior"
+      enFunciones: true
+      delito: "encubrimiento, malversación y delitos contra la intimidad, los tres que la Fiscalía le atribuye (arts. 451, 432, 197 y 198 CP; malversación: prisión de 3 a 6 años en la redacción vigente en 2013, de 2 a 6 desde 2015)"
+      clasificacion: grave
+      pena:
+        texto: "15 años de prisión y 33 de inhabilitación; la familia Bárcenas, como acusación particular, pidió 17 años en el juicio, y PSOE y Podemos, 47 y 41 años en 2023"
+        anios: 15
+        tipo: pedida
+        por: "Fiscalía Anticorrupción"
+    - nombre: "Francisco Martínez"
+      vinculo: cargo
+      cuando: "secretario de Estado de Seguridad"
+      enFunciones: true
+      delito: "encubrimiento, malversación y delitos contra la intimidad, los tres que la Fiscalía le atribuye (arts. 451, 432, 197 y 198 CP; malversación: prisión de 3 a 6 años en la redacción vigente en 2013, de 2 a 6 desde 2015)"
+      clasificacion: grave
+      pena:
+        texto: "15 años de prisión"
+        anios: 15
+        tipo: pedida
+        por: "Fiscalía Anticorrupción"
+    - nombre: "Eugenio Pino"
+      vinculo: cargo
+      cuando: "director adjunto operativo (DAO) de la Policía Nacional"
+      enFunciones: true
+      delito: "encubrimiento, malversación y delitos contra la intimidad, los tres que la Fiscalía le atribuye (arts. 451, 432, 197 y 198 CP; malversación: prisión de 3 a 6 años en la redacción vigente en 2013, de 2 a 6 desde 2015)"
+      clasificacion: grave
+      pena:
+        texto: "15 años de prisión"
+        anios: 15
+        tipo: pedida
+        por: "Fiscalía Anticorrupción"
 fecha: 2026-07-28
 actualizado: 2026-10-23
 fuentes:
@@ -29,6 +65,16 @@ fuentes:
     url: https://www.ultimahora.es/noticias/nacional/2026/07/27/2677915/juicio-por-caso-kitchen-quedara-esta-semana-visto-para-sentencia.html
     medio: Última Hora (EFE)
     fecha: 2026-07-27
+    tipo: prensa
+  - titulo: "Anticorrupción pide 15 años de cárcel para Fernández Díaz por el espionaje parapolicial de la trama Kitchen"
+    url: https://www.elsaltodiario.com/jorge-fernandez-diaz/anticorrupcion-pide-condena-carcel-ministro-interior-kitchen-espionaje-barcenas
+    medio: El Salto
+    fecha: 2023-02-24
+    tipo: prensa
+  - titulo: "La Fiscalía solicita 15 años de cárcel para el exministro Fernández Díaz por 'Kitchen'"
+    url: https://theobjective.com/espana/tribunales/2023-02-24/fiscalia-carcel-fernandez-diaz-kitchen/
+    medio: The Objective
+    fecha: 2023-02-24
     tipo: prensa
 ---
 

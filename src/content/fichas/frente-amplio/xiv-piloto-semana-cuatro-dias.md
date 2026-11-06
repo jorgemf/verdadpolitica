@@ -7,8 +7,13 @@ resumen: "En enero de 2021 Más País acordó con el Gobierno, a cambio de apoya
 tema: empleo-pensiones
 promesa: "«Hemos acordado con el Gobierno impulsar un proyecto piloto para la reducción de la jornada laboral» (Íñigo Errejón, 28 de enero de 2021), un proyecto piloto de ámbito nacional dotado de 50 millones de euros, según el pacto presupuestario con Más País."
 importancia: 1
+alcance:
+  grado: completo
+  medida: "Piloto convocado en 2022 y resuelto en 2024: unos 530.000 € a 5 de 42 empresas solicitantes, alrededor del 1 % de los 50 millones anunciados"
+  vigencia: en-vigor
+  ejecucion: parcial
 fecha: 2024-09-25
-actualizado: 2026-10-20
+actualizado: 2026-10-23
 fuentes:
   - titulo: "Errejón presenta su programa: voto a los 16, semana laboral de cuatro días y tasas a los billetes de avión"
     url: https://www.elindependiente.com/politica/2019/10/11/errejon-presenta-su-programa-voto-a-los-16-semana-laboral-de-cuatro-dias-y-tasas-a-los-billetes-de-avion/

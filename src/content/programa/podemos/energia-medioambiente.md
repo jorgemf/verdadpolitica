@@ -1,10 +1,10 @@
 ---
 partido: podemos
 tema: energia-medioambiente
-propuesta: "Nacionalizar Repsol y crear una empresa pública de energía que asuma las centrales hidroeléctricas al vencer sus concesiones; prohibir los cortes de suministros, crear un cheque energético y mejorar el bono social (Irene Montero, marzo de 2026, y proposiciones de ley de Podemos)."
+propuesta: "Nacionalizar Repsol (unos 9.100 millones, según Podemos) y crear una empresa pública de energía que asuma las hidroeléctricas al vencer sus concesiones; prohibir los cortes de suministros, crear un cheque energético y mejorar el bono social (Irene Montero, 2026, y proposiciones de ley)."
 balance: "Apoyó en 2024 una PNL de Sumar para una empresa pública de hidroeléctricas (rechazada 44 a 302). Su ley de hidroeléctricas caducó y el Gobierno vetó por su coste la nacionalización de Repsol. Votó contra el decreto antiapagones, derogado en julio de 2025 (165 a 183), por no obligar a invertir a las eléctricas."
 coherencia: coherente
-actualizado: 2026-10-23
+actualizado: 2026-11-06
 fuentes:
   - titulo: "Irene Montero exige a Sánchez medidas para paliar las consecuencias de la guerra en Irán: \"España debe nacionalizar Repsol\""
     url: https://www.elindependiente.com/espana/2026/03/07/irene-montero-exige-a-sanchez-medidas-para-paliar-las-consecuencias-de-la-guerra-en-iran-espana-debe-nacionalizar-repsol/amp/
@@ -36,9 +36,24 @@ fuentes:
     medio: El Salto
     fecha: 2025-07-21
     tipo: prensa
+  - titulo: "Irene Montero plantea dedicar gasto militar a nacionalizar Repsol, contratar sanitarios y crear un «súper» público"
+    url: https://www.pressdigital.es/articulo/politica/2026-11-06/6081408-irene-montero-plantea-dedicar-gasto-militar-nacionalizar-repsol-contratar-sanitarios-crear-super-publico
+    medio: Press Digital (Europa Press)
+    fecha: 2026-11-06
+    tipo: prensa
+  - titulo: "Irene Montero propone nacionalizar Repsol"
+    url: https://www.telemadrid.es/noticias/nacional/irene-montero-propone-nacionalizar-repsol_1_2798304.html
+    medio: Telemadrid
+    fecha: 2026-11-06
+    tipo: prensa
+  - titulo: "Irene Montero reclama usar el artículo 128 para devolver al Estado el control del ferrocarril"
+    url: https://www.democrata.es/politica/irene-montero-reclama-usar-el-articulo-128-para-devolver-al-estado-el-control-del-ferrocarril/
+    medio: Demócrata
+    fecha: 2026-11-02
+    tipo: prensa
 ---
 
-A 23 de octubre de 2026 Podemos no ha publicado un programa completo para el 29-N. En marzo de 2026 Irene Montero dijo que «España debe nacionalizar Repsol y contar con una empresa pública de energía», y pidió prohibir los cortes de suministros, crear un cheque energético y mejorar el bono social [1].
+A 6 de noviembre de 2026 Podemos no ha publicado un programa completo para el 29-N. En marzo de 2026 Irene Montero dijo que «España debe nacionalizar Repsol y contar con una empresa pública de energía», y pidió prohibir los cortes de suministros, crear un cheque energético y mejorar el bono social [1]. El 6 de noviembre de 2026 Irene Montero propuso destinar los 24.000 millones de euros que, según los cálculos de Podemos, ha aumentado el gasto militar desde 2023 a otras partidas («para armas lo han encontrado, sobradamente»), entre ellas nacionalizar Repsol, con un coste que estima en 9.100 millones [7][8]. Tras el accidente de Urda, el 2 de noviembre pidió revertir la liberalización ferroviaria y recuperar la gestión pública del tren: «primero la dimisión [de Puente] y acto seguido aplicación del 128 de la Constitución»; «aquí la cuestión de fondo es la liberalización» [9].
 
 En la legislatura, Podemos votó en septiembre de 2024 a favor de la proposición no de ley de Sumar para crear una empresa pública que gestionara las centrales hidroeléctricas; se rechazó por 44 votos a favor y 302 en contra [2]. En abril de 2025 registró su propia ley para que una entidad pública asumiera las centrales al extinguirse las concesiones, que caducó sin debatirse [3]. Su ley de nacionalización de Repsol decayó en febrero de 2026 porque el Gobierno ejerció su veto presupuestario [4].
 

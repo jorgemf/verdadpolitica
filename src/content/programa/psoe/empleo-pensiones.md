@@ -1,10 +1,10 @@
 ---
 partido: psoe
 tema: empleo-pensiones
-propuesta: "Revalorizar las pensiones con el IPC cuatro años más, incluir en la Constitución la obligación de revalorizar el SMI para que siempre supere el 60 % del salario medio y reducir la jornada para que no se trabajen más de 36 horas en 2030."
+propuesta: "Reformar la Constitución para «blindar las pensiones y su revalorización conforme al IPC», revalorizarlas con el IPC cuatro años más, incluir en la Constitución que el SMI supere siempre el 60 % del salario medio y reducir la jornada para que no se trabajen más de 36 horas en 2030."
 balance: "Subió el SMI cada año hasta 1.221 euros en 2026, amplió el permiso por nacimiento a 19 de las 20 semanas prometidas y mantuvo la revalorización de las pensiones con el IPC. El Congreso tumbó la jornada de 37,5 horas. El Gobierno vetó una enmienda que fijaba el SMI en el 60 % en el Estatuto."
 coherencia: parcial
-actualizado: 2026-10-23
+actualizado: 2026-11-06
 fuentes:
   - titulo: "Sánchez acusa a PP y Vox de «recortar» el derecho al voto y promete revalorizar las pensiones durante otros cuatro años"
     url: https://www.democrata.es/elecciones-generales-espana/sanchez-acusa-pp-vox-recortar-derecho-voto-promete-revalorizar-pensiones-durante-otros-cuatro-anos/
@@ -41,10 +41,20 @@ fuentes:
     medio: Infobae (Europa Press)
     fecha: 2026-10-17
     tipo: prensa
+  - titulo: "Sánchez y las pensiones: promete blindarlas en la Constitución y se olvida de la ley... y del PP"
+    url: https://www.esdiario.com/nacional/261026/201346/sanchez-pensiones-constitucion-ipc-ley-pp-reforma.html
+    medio: ESdiario
+    fecha: 2026-10-26
+    tipo: prensa
+  - titulo: "Sánchez promises to reform the Constitution to protect pensions and their increase with the CPI"
+    url: https://www.democrata.es/en/general-elections-spain/sanchez-promises-to-reform-the-constitution-to-protect-pensions-and-their-increase-with-the-cpi/
+    medio: Demócrata
+    fecha: 2026-10-26
+    tipo: prensa
 ---
 
 Sin programa publicado para el 29-N, las propuestas proceden de los mítines de precampaña y de los acuerdos del 41.º Congreso Federal:
-- En Zaragoza, el 14 de octubre de 2026, Sánchez prometió mantener cuatro años más la revalorización de las pensiones con el IPC si sigue en el Gobierno [1]. En el mitin de Fuenlabrada que abrió la precampaña, el 17 de octubre, insistió: «las pensiones no se tocan» [7].
+- En Zaragoza, el 14 de octubre de 2026, Sánchez prometió mantener cuatro años más la revalorización de las pensiones con el IPC si sigue en el Gobierno [1]. En el mitin de Fuenlabrada que abrió la precampaña, el 17 de octubre, insistió: «las pensiones no se tocan» [7]. En Gijón, el 26 de octubre, prometió: «En la próxima legislatura reformaremos la Constitución para blindar las pensiones y su revalorización conforme al IPC» [8][9].
 - En su congreso de noviembre de 2024, el partido acordó «incluir en la Constitución la obligatoriedad de revalorizar el Salario Mínimo Interprofesional (SMI) para que siempre esté por encima del 60 % del salario medio» [2].
 - También acordó avanzar hacia una jornada en la que «no se trabajen más de 36 horas en 2030» [2].
 

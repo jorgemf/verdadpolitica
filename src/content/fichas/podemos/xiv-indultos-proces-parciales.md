@@ -5,10 +5,15 @@ titulo: "Indultos del procés: el Gobierno indultó en 2021 la prisión pendient
 resumen: "Podemos pidió acelerar los indultos del procés e Iglesias se comprometió a trabajar por la libertad de los condenados. El 22 de junio de 2021 el Gobierno indultó a los nueve la prisión pendiente. No se logró el indulto total que Iglesias defendía para que volvieran a cargos públicos: la inhabilitación no se indultó."
 tema: modelo-territorial
 legislatura: XIV
-promesa: "Pablo Iglesias, vicepresidente segundo y líder de Podemos, calificó los indultos de «legal y legítimo» y dijo el 28 de enero de 2021 que su espacio trabajaría con «discreción» para que los condenados del procés lograran la libertad, algo que situó en el «interés de la democracia»."
+promesa: "Pablo Iglesias, vicepresidente segundo y líder de Podemos, calificó los indultos de «legal y legítimo» y dijo el 28 de enero de 2021 que su espacio trabajaría con «discreción» para que los condenados del procés lograran la libertad, algo que situó en el «interés de la democracia». En la misma entrevista defendió un indulto total para que pudieran «ser no solo libres, sino también representar a la ciudadanía que les ha votado»."
 importancia: 2
+alcance:
+  grado: parcial
+  medida: "Indultada la prisión pendiente a los 9 condenados a cárcel (22-6-2021); no la inhabilitación, que Iglesias también pedía indultar"
+  vigencia: en-vigor
+  ejecucion: aplicada
 fecha: 2021-06-22
-actualizado: 2026-10-20
+actualizado: 2026-10-25
 fuentes:
   - titulo: "Carmen Calvo abronca a Podemos por hacer «precampaña» con los indultos: «El Gobierno no funciona así»"
     url: https://www.elindependiente.com/espana/2020/12/04/carmen-calvo-abronca-a-podemos-por-hacer-precampana-con-los-indultos-el-gobierno-no-funciona-asi/amp/
@@ -66,7 +71,7 @@ fuentes:
 
 En diciembre de 2020, Pablo Echenique, portavoz de Unidas Podemos en el Congreso, y Jaume Asens, presidente del grupo, pidieron al ministro de Justicia que acelerara la tramitación de los indultos a los condenados del procés y la reforma de los delitos de sedición y rebelión [1]. En enero de 2021, en una entrevista en Salvados, Pablo Iglesias, vicepresidente segundo del Gobierno y secretario general de Podemos, defendió un indulto total para que Oriol Junqueras y el resto de los presos pudieran «ser no solo libres, sino también representar a la ciudadanía que les ha votado». Según Ara, el PSOE prefería un indulto parcial que los sacara de prisión y mantuviera la inhabilitación [2]. Días después Iglesias calificó los indultos de «legal y legítimo» y dijo que su espacio trabajaría con «discreción» por la libertad de los condenados [3].
 
-Esta ficha da por cumplida solo esa parte: la aprobación de los indultos que devolvieron la libertad a los condenados. El indulto total que Iglesias reclamó para que pudieran volver a cargos públicos no se logró, y se explica más abajo.
+El cumplimiento es parcial: se aprobaron los indultos que devolvieron la libertad a los condenados, que era el núcleo del compromiso, pero no el indulto total que Iglesias reclamó para que pudieran volver a cargos públicos, como se explica más abajo.
 
 ## Qué pasó
 

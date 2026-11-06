@@ -4,7 +4,7 @@ tema: exterior-defensa
 propuesta: "Aumentar la inversión en Defensa, desplegar el Ejército en las fronteras de Ceuta, Melilla y Canarias, que la OTAN cubra expresamente Ceuta y Melilla, recuperar Gibraltar, priorizar las relaciones bilaterales y vincular la ayuda al desarrollo a la colaboración migratoria."
 balance: "El Congreso rechazó en 2026 su ley para que las Fuerzas Armadas actúen contra la inmigración ilegal (168-178, con apoyo del PP). Votó con el PP contra el embargo de armas a Israel (2025). Criticó el plan de defensa de 2025, pero votó contra las mociones para revertirlo (2025 y 2026). Rechaza el tratado de Gibraltar."
 coherencia: coherente
-actualizado: 2026-10-23
+actualizado: 2026-11-06
 fuentes:
   - titulo: "Programa electoral para las Elecciones Generales del 23J de 2023"
     url: https://theobjective.com/wp-content/uploads/2023/07/programa-vox-23j.pdf
@@ -82,7 +82,7 @@ fuentes:
     tipo: oficial
 ---
 
-A 23 de octubre de 2026, Vox no ha publicado programa para el 29-N. Se recogen el programa de 2023 [1] y su actuación en la legislatura.
+A 6 de noviembre de 2026, Vox no ha publicado programa para el 29-N. Se recogen el programa de 2023 [1] y su actuación en la legislatura.
 
 **Qué proponen.** El programa de 2023 promete "aumentaremos la inversión en Defensa" y modernizar las Fuerzas Armadas con industria nacional (medida 195). Plantea un "despliegue militar en las fronteras de Ceuta, Melilla y Canarias" (medida 187) y exigir que el Tratado del Atlántico Norte incluya "de forma explícita" a Ceuta y Melilla (medida 192). Propone también fomentar "la bilateralidad" y revisar la pertenencia a organismos internacionales que actúen contra los intereses nacionales (medida 191), vincular la ayuda al desarrollo a la colaboración migratoria (medida 193) y rechazar cualquier acuerdo sobre Gibraltar que no respete "los derechos soberanos de España" (medida 293) [1].
 

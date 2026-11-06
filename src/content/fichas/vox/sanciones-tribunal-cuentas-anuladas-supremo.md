@@ -6,7 +6,20 @@ resumen: "El Tribunal de Cuentas multó a Vox con 233.324 euros (2024) y 862.496
 tema: regeneracion-democratica
 estadoJudicial: sancion-anulada
 implicados: "Vox como persona jurídica (sanciones administrativas del Tribunal de Cuentas recurridas ante la Sala Tercera del Tribunal Supremo)."
-importancia: 3
+importancia: 2
+gravedad:
+  naturaleza: administrativa
+  sujetos:
+    - nombre: "Vox"
+      vinculo: partido
+      enFunciones: true
+      delito: "infracciones de la Ley Orgánica 8/2007 de financiación de los partidos políticos (donaciones finalistas e ingresos no identificados), sancionadas por el Tribunal de Cuentas"
+      clasificacion: no-penal
+  cuantias:
+    - euros: 233324.22
+      concepto: "multa del Tribunal de Cuentas de julio de 2024 por donaciones finalistas, anulada por el Supremo en octubre de 2025"
+    - euros: 862496
+      concepto: "multa del Tribunal de Cuentas de abril de 2025 por ingresos de merchandising y en efectivo, anulada por el Supremo en junio de 2026"
 fecha: 2026-06-05
 actualizado: 2026-10-23
 fuentes:

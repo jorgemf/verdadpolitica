@@ -47,6 +47,65 @@ const partidos = defineCollection({
   }),
 });
 
+const estadoJudicial = z.enum([
+  'diligencias-fiscalia',
+  'archivo-fiscalia',
+  'investigacion',
+  'procesamiento',
+  'juicio-oral',
+  'juicio',
+  'condena-no-firme',
+  'condena-firme',
+  'absolucion-no-firme',
+  'absolucion',
+  'archivo-provisional',
+  'archivado',
+  'archivo-sin-tipo',
+  'sancion-anulada',
+]);
+
+// Gravedad de una causa: hechos por persona o entidad, sin puntuación propia.
+// La clasificación es la del Código Penal (arts. 13 y 33) según la pena del tipo.
+const sujetoJudicial = z.object({
+  nombre: z.string().min(1),
+  vinculo: z.enum(['partido', 'direccion', 'cargo', 'excargo', 'entorno', 'sin-cargo']),
+  // Cargo durante los hechos, no el actual.
+  cuando: z.string().min(1).optional(),
+  // Hechos atribuidos al ejercer funciones públicas u orgánicas, no solo al ocupar el cargo.
+  enFunciones: z.boolean(),
+  delito: z.string().min(1),
+  clasificacion: z.enum(['grave', 'menos-grave', 'leve', 'no-penal']),
+  pena: z
+    .object({
+      texto: z.string().min(1),
+      anios: z.number().nonnegative().optional(),
+      tipo: z.enum(['impuesta', 'pedida']),
+      por: z.string().min(1),
+    })
+    .optional(),
+  // Solo si difiere del estado de la ficha (fichas que reúnen varias causas).
+  estado: estadoJudicial.optional(),
+});
+
+const gravedad = z.object({
+  naturaleza: z.enum(['penal', 'civil', 'contable', 'administrativa']),
+  sujetos: z.array(sujetoJudicial).min(1),
+  cuantias: z
+    .array(z.object({ euros: z.number().nonnegative(), concepto: z.string().min(1) }))
+    .min(1)
+    .optional(),
+});
+
+// Alcance de lo cumplido, a la disolución (6-10-2026) o a `actualizado` si es autonómico.
+const alcance = z.object({
+  grado: z.enum(['completo', 'parcial', 'minimo', 'no-evaluable']),
+  medida: z.string().min(1).max(160),
+  // `no-aplica`: actuaciones puntuales (una moción, un recurso, una comparecencia).
+  vigencia: z.enum(['en-vigor', 'pendiente', 'anulada-parcial', 'anulada', 'derogada', 'sustituida', 'no-aplica']),
+  ejecucion: z.enum(['aplicada', 'parcial', 'sin-aplicar', 'no-consta', 'no-aplica']),
+  magnitud: z.string().min(1).max(160).optional(),
+});
+
 export const CATEGORIAS = ['cumplido', 'bloqueado', 'no-intentado', 'contradiccion', 'judicial'] as const;
 export type Categoria = (typeof CATEGORIAS)[number];
 
@@ -65,29 +124,14 @@ const fichas = defineCollection({
       promesa: z.string().optional(),
       bloqueadoPor: z.array(z.string().min(1)).min(1).optional(),
       motivo: z.string().optional(),
-      estadoJudicial: z
-        .enum([
-          'diligencias-fiscalia',
-          'archivo-fiscalia',
-          'investigacion',
-          'procesamiento',
-          'juicio-oral',
-          'juicio',
-          'condena-no-firme',
-          'condena-firme',
-          'absolucion-no-firme',
-          'absolucion',
-          'archivo-provisional',
-          'archivado',
-          'archivo-sin-tipo',
-          'sancion-anulada',
-        ])
-        .optional(),
+      estadoJudicial: estadoJudicial.optional(),
       implicados: z.string().optional(),
       // Fase en la que está o terminó la causa, si no se deduce del estado
       // (p. ej. una querella inadmitida se archiva en la fase de denuncia).
       faseJudicial: z.enum(['denuncia', 'investigacion', 'juicio-oral', 'sentencia', 'firme']).optional(),
       importancia: z.number().int().min(1).max(3).default(2),
+      gravedad: gravedad.optional(),
+      alcance: alcance.optional(),
       fecha: fechaCampo,
       actualizado: fechaCampo,
       fuentes: z.array(fuente).min(2).refine(urlsDistintas, 'Las fuentes deben tener URLs distintas'),
@@ -105,6 +149,21 @@ const fichas = defineCollection({
       exige('motivo', 'no-intentado');
       exige('estadoJudicial', 'judicial');
       exige('implicados', 'judicial');
+      exige('gravedad', 'judicial');
+      exige('alcance', 'cumplido');
+      // La importancia de una causa no puede contradecir su gravedad legal.
+      if (f.categoria === 'judicial' && f.gravedad) {
+        const { sujetos } = f.gravedad;
+        const algunaGrave = sujetos.some((s) => s.clasificacion === 'grave');
+        const partidoResponde = sujetos.some((s) => s.vinculo === 'partido');
+        const soloMenores = sujetos.every((s) => s.clasificacion === 'leve' || s.clasificacion === 'no-penal');
+        if (f.importancia === 3 && !algunaGrave && !partidoResponde) {
+          ctx.addIssue({ code: 'custom', path: ['importancia'], message: 'importancia 3 exige un delito grave o que responda el partido' });
+        }
+        if (f.importancia > 1 && soloMenores && !partidoResponde) {
+          ctx.addIssue({ code: 'custom', path: ['importancia'], message: 'con solo delitos leves o responsabilidad no penal, importancia debe ser 1' });
+        }
+      }
     }),
 });
 

@@ -7,8 +7,13 @@ tema: igualdad
 legislatura: XIV
 promesa: "«Blindar que solo sí es sí. […] se aprobará una Ley integral por la protección de la libertad sexual y contra las violencias sexuales […]. En el marco de esta ley reformaremos la legislación penal para garantizar que el consentimiento de la víctima sea clave en los delitos sexuales, de manera que, si una mujer no dice SÍ, todo lo demás es NO» (acuerdo de coalición PSOE–Unidas Podemos, 30 de diciembre de 2019, apartado 7.2)."
 importancia: 3
+alcance:
+  grado: completo
+  medida: "LO 10/2022 aprobada (205 votos a 141) con el consentimiento como eje; la LO 4/2023 subió penas y mantuvo esa definición"
+  vigencia: en-vigor
+  ejecucion: aplicada
 fecha: 2023-04-27
-actualizado: 2026-10-20
+actualizado: 2026-10-23
 fuentes:
   - titulo: "Coalición progresista. Un nuevo acuerdo para España (acuerdo de Gobierno PSOE–Unidas Podemos)"
     url: https://www.diariodepontevedra.es/media/diariodepontevedra/files/2019/12/30/Pacto%20PSOE%20-%20Podemos%20para%20un%20gobierno%20de%20coalici%C3%B3n.pdf

@@ -8,7 +8,7 @@ promesa: "Aprobar por real decreto-ley un paquete urgente de vivienda: suspensi�
 bloqueadoPor: [PP, Vox, Junts, UPN, "PNV y Coalición Canaria (solo el RDL 27/2026, estabilidad de los contratos)"]
 importancia: 3
 fecha: 2026-10-02
-actualizado: 2026-10-23
+actualizado: 2026-11-06
 fuentes:
   - titulo: "El BOE publica la derogación de los dos decretos-ley de vivienda tras su rechazo en el Congreso"
     url: https://www.democrata.es/politica/boe-publica-derogacion-dos-decretos-vivienda-su-rechazo-en-congreso/
@@ -60,6 +60,11 @@ fuentes:
     medio: El Plural
     fecha: 2026-10-16
     tipo: prensa
+  - titulo: "Congreso votará el 12 de noviembre los decretos aprobados tras el desahucio de Maricarmen"
+    url: https://www.infobae.com/espana/agencias/2026/11/04/congreso-votara-el-12-de-noviembre-los-decretos-aprobados-tras-el-desahucio-de-maricarmen/
+    medio: Infobae (EFE)
+    fecha: 2026-11-04
+    tipo: prensa
 ---
 
 ## Qué se prometió
@@ -80,7 +85,7 @@ Tras anunciar Sánchez el 5 de octubre la disolución de las Cortes, el Gobierno
 - El RDL 29/2026 reproduce las medidas del RDL 26/2026 y entró en vigor el 8 de octubre [6].
 - El RDL 28/2026 reproduce el RDL 27/2026 sobre estabilidad de los contratos y fija su entrada en vigor el 15 de noviembre de 2026 [5].
 
-Última situación documentada (16 de octubre de 2026): ambos siguen pendientes de convalidar y la Diputación Permanente prevé votarlos el 12 de noviembre, un día después de la huelga general por la vivienda [9][10]. Si se rechaza el RDL 28/2026 ese día, no llegaría a aplicarse, porque su entrada en vigor está fijada para el 15 de noviembre [9].
+Última situación documentada (4 de noviembre de 2026): ambos siguen pendientes de convalidar y la Diputación Permanente los votará el 12 de noviembre, un día después de la huelga general por la vivienda [9][10][11]. Si se rechaza el RDL 28/2026 ese día, no llegaría a aplicarse, porque su entrada en vigor está fijada para el 15 de noviembre [9].
 
 ## Por qué
 

@@ -6,8 +6,13 @@ resumen: "Podemos exigió un embargo total de armas a Israel aprobado por decret
 tema: exterior-defensa
 promesa: "«Embargo total» de armas a Israel, que incluya la compra, la venta y el tránsito de material militar destinado al ejército israelí (condición aprobada por las bases de Podemos en octubre de 2024), aprobado por decreto en el Consejo de Ministros (exigencia de mayo de 2025)."
 importancia: 2
+alcance:
+  grado: parcial
+  medida: "Prohíbe exportar e importar material de defensa y doble uso con Israel y su tránsito, por RDL 10/2025, pero admite excepciones; se pedía embargo total"
+  vigencia: en-vigor
+  ejecucion: no-consta
 fecha: 2025-10-08
-actualizado: 2026-10-19
+actualizado: 2026-10-23
 fuentes:
   - titulo: "Romper con Israel y bajar el alquiler el 40%: las condiciones de Podemos para apoyar los presupuestos"
     url: https://www.elsaltodiario.com/pge/romper-israel-bajar-alquiler-40-ciento-condiciones-podemos-apoyar-presupuestos

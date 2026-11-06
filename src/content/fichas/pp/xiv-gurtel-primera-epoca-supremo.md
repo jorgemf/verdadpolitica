@@ -8,8 +8,40 @@ tema: regeneracion-democratica
 estadoJudicial: condena-firme
 implicados: "El PP como persona jurídica, condenado como partícipe a título lucrativo: es una responsabilidad civil, no penal, que presupone que no participó en los delitos ni los conocía. Antiguos cargos condenados, entre ellos el extesorero Luis Bárcenas; la exministra Ana Mato, partícipe a título lucrativo. Francisco Correa y Pablo Crespo dirigían la trama."
 importancia: 3
+gravedad:
+  naturaleza: penal
+  sujetos:
+    - nombre: "Partido Popular"
+      vinculo: partido
+      enFunciones: true
+      delito: "ninguno: partícipe a título lucrativo (art. 122 CP), una responsabilidad civil por los actos electorales de Majadahonda y Pozuelo pagados por la trama"
+      clasificacion: no-penal
+    - nombre: "Luis Bárcenas"
+      vinculo: cargo
+      cuando: "gerente nacional del PP"
+      enFunciones: true
+      delito: "apropiación indebida de fondos de la caja B del PP, blanqueo de capitales y delitos contra la Hacienda Pública, entre otros (arts. 252, 301 y 305 CP; blanqueo: prisión de 6 meses a 6 años)"
+      clasificacion: grave
+      pena:
+        texto: "29 años y 1 mes de prisión (la Audiencia Nacional le había impuesto 33 años y 4 meses)"
+        anios: 29.08
+        tipo: impuesta
+        por: "Tribunal Supremo"
+    - nombre: "Ana Mato"
+      vinculo: cargo
+      cuando: "dirigente del PP; los viajes y servicios los pagó la trama a la familia de su entonces marido, Jesús Sepúlveda"
+      enFunciones: false
+      delito: "ninguno: partícipe a título lucrativo (art. 122 CP), una responsabilidad civil"
+      clasificacion: no-penal
+  cuantias:
+    - euros: 245492.80
+      concepto: "devolución del PP como partícipe a título lucrativo (133.628,48 por Majadahonda y 111.864,32 por Pozuelo), en solidaridad con otros condenados"
+    - euros: 27857.53
+      concepto: "devolución de Ana Mato como partícipe a título lucrativo"
+    - euros: 149600
+      concepto: "fondos de la caja B del PP de los que se apropió Bárcenas, según el Supremo"
 fecha: 2020-10-14
-actualizado: 2026-10-20
+actualizado: 2026-10-23
 fuentes:
   - titulo: "El Supremo confirma la condena al PP por beneficiarse de la 'Gürtel'"
     url: https://www.publico.es/politica/supremo-confirma-condena-al-pp-guertel.html
@@ -30,6 +62,16 @@ fuentes:
     url: https://www.moncloa.com/2020/10/15/mariano-rajoy-sentencia-gurtel-408175/
     medio: Moncloa.com
     fecha: 2020-10-15
+    tipo: prensa
+  - titulo: "El Tribunal Supremo confirma penas de hasta 51 años de prisión para los procesados en el «caso Gürtel»"
+    url: https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/Noticias-Judiciales/El-Tribunal-Supremo-confirma-penas-de-hasta-51-anos-de-prision-para-los-procesados-en-el--caso-Gurtel-
+    medio: Consejo General del Poder Judicial (Tribunal Supremo)
+    fecha: 2020-10-14
+    tipo: judicial
+  - titulo: "El Supremo rebaja la pena de cárcel a Bárcenas y a su mujer Rosalía Iglesias"
+    url: https://www.que.es/2020/10/14/supremo-rebaja-pena-barcenas-mujer-rosalia-iglesias/
+    medio: Qué!
+    fecha: 2020-10-14
     tipo: prensa
 ---
 

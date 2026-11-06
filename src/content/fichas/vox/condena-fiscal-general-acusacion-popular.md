@@ -6,6 +6,11 @@ resumen: "Vox pidi처 en mayo de 2025 personarse en la causa del Supremo contra �
 tema: regeneracion-democratica
 promesa: "Personarse como acusaci처n popular en la causa del Tribunal Supremo contra el fiscal general del Estado y exigir su dimisi처n o su cese."
 importancia: 2
+alcance:
+  grado: completo
+  medida: "Pidi처 personarse en mayo de 2025, exigi처 la dimisi처n o el cese en junio y sostuvo la acusaci처n en el juicio de noviembre de 2025"
+  vigencia: no-aplica
+  ejecucion: no-aplica
 fecha: 2025-11-20
 actualizado: 2026-10-23
 fuentes:

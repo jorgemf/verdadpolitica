@@ -9,8 +9,30 @@ ambito: municipal
 estadoJudicial: condena-firme
 implicados: "El PP como persona jurídica, condenado como partícipe a título lucrativo (responsabilidad civil, no penal). Arturo González Panero, exalcalde de Boadilla del Monte (antiguo cargo), condenado. Francisco Correa y Pablo Crespo, de la trama, y gerentes de la empresa municipal de vivienda (EMSV)."
 importancia: 2
+gravedad:
+  naturaleza: penal
+  sujetos:
+    - nombre: "Partido Popular"
+      vinculo: partido
+      enFunciones: true
+      delito: "ninguno: partícipe a título lucrativo (art. 122 CP), una responsabilidad civil por los actos y campañas del PP en Boadilla pagados por la trama"
+      clasificacion: no-penal
+    - nombre: "Arturo González Panero"
+      vinculo: cargo
+      cuando: "alcalde de Boadilla del Monte"
+      enFunciones: true
+      delito: "asociación ilícita, cohecho pasivo, fraude a las administraciones públicas, falsedad en documento mercantil, tráfico de influencias, blanqueo y malversación (arts. 515, 419, 436, 428, 301 y 432 CP, entre otros; cohecho, en la redacción anterior a 2010: prisión de 2 a 6 años; blanqueo: de 6 meses a 6 años)"
+      clasificacion: grave
+      pena:
+        texto: "36 años y 11 meses de prisión"
+        anios: 36.92
+        tipo: impuesta
+        por: "Audiencia Nacional (confirmada por el Tribunal Supremo)"
+  cuantias:
+    - euros: 204198.64
+      concepto: "devolución del PP como partícipe a título lucrativo, en solidaridad con Correa, Crespo, González Panero y los exgerentes de la EMSV"
 fecha: 2023-11-22
-actualizado: 2026-10-20
+actualizado: 2026-10-23
 fuentes:
   - titulo: "La Audiencia Nacional condena a 23 personas en la pieza Gürtel-Boadilla"
     url: https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Audiencia-Nacional/Oficina-de-Comunicacion/Notas-de-prensa/La-Audiencia-Nacional-condena-a-23-personas-en-la-pieza-Gurtel-Boadilla
