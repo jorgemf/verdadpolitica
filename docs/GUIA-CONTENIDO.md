@@ -40,6 +40,8 @@ Esta guía es obligatoria para cualquier contenido nuevo o corregido, lo escriba
 | `contradiccion` | Dijeron una cosa y hicieron la contraria, o cambiaron de posición sin explicarlo. | — |
 | `judicial` | Procedimientos judiciales que afectan al partido, a sus dirigentes o a su financiación. | `estadoJudicial`, `implicados` |
 
+Las fichas `judicial` solo aparecen en la vista «Causas judiciales» y en la página de cada partido, no en las vistas por tema, que comparan lo que propone cada partido con lo que hizo. Su campo `tema` se mantiene como metadato.
+
 ### Reglas para elegir categoría
 
 - **La promesa se cita tal como se hizo.** Si prometieron 20 semanas y lograron 19, la promesa dice 20 y el título refleja el cumplimiento parcial («19 de las 20 semanas prometidas»). Nunca se reformula la promesa para que encaje con el resultado. Si una parte esencial de la promesa no se cumplió (por ejemplo, la garantía legal de un porcentaje), se separa en otra ficha.

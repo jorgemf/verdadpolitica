@@ -83,6 +83,12 @@ const VACIO: Partial<Record<string, string>> = {
             </>
           ))}{' '}
           entre los tres principales problemas de España (<a href={encuesta.data.fuentes[0].url}>{encuesta.data.institucion}, {encuesta.data.titulo.toLowerCase()}</a>).
+          {vista.id === 'regeneracion-democratica' && (
+            <>
+              {' '}
+              Las causas judiciales de cada partido están en <a href={url('tema/judicial/')}>su propia sección</a>.
+            </>
+          )}
         </>
       ) : (
         <>

@@ -193,13 +193,22 @@ const tituloIssue = encodeURIComponent(`Corrección: ${d.titulo} (${partido.data
             <dd>{AMBITO[d.ambito]}</dd>
           </div>
           {
-            d.tema && (
+            d.categoria === 'judicial' ? (
               <div>
-                <dt>Tema</dt>
+                <dt>Sección</dt>
                 <dd>
-                  <a href={temaUrl(d.tema)}>{nombreTema(d.tema)}</a>
+                  <a href={temaUrl('judicial')}>Causas judiciales</a>
                 </dd>
               </div>
+            ) : (
+              d.tema && (
+                <div>
+                  <dt>Tema</dt>
+                  <dd>
+                    <a href={temaUrl(d.tema)}>{nombreTema(d.tema)}</a>
+                  </dd>
+                </div>
+              )
             )
           }
         </dl>

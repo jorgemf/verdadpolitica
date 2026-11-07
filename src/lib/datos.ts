@@ -351,11 +351,13 @@ export async function vistas(): Promise<Vista[]> {
   ];
 }
 
-/** Las fichas que se muestran en una vista. */
+/** Las fichas que se muestran en una vista. Las causas judiciales tienen su
+ *  propia vista y no se repiten en los temas, que comparan propuestas con hechos. */
 export function fichasDeVista(todas: Ficha[], id: VistaId): Ficha[] {
   if (id === 'judicial') return todas.filter((f) => f.data.categoria === 'judicial');
-  if (id === 'otros') return todas.filter((f) => !f.data.tema);
-  return todas.filter((f) => f.data.tema === id);
+  const resto = todas.filter((f) => f.data.categoria !== 'judicial');
+  if (id === 'otros') return resto.filter((f) => !f.data.tema);
+  return resto.filter((f) => f.data.tema === id);
 }
 
 const formatoPct = new Intl.NumberFormat('es-ES', { minimumFractionDigits: 1, maximumFractionDigits: 1 });
