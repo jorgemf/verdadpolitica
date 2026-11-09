@@ -149,11 +149,14 @@ alcance:
 Para cada partido hay una entrada por tema (ver `src/data/temas.ts`) en `src/content/programa/<partido>/<tema>.md`:
 
 - `propuesta`: lo más relevante que proponen ahora para el 29-N (programa 2026 si ya está publicado; si no, sus propuestas oficiales más recientes, indicándolo en el texto).
+  Mientras el partido no publica su programa (sin `programaUrl`), la web presenta estas propuestas como «programa tentativo» con el aviso «Sin confirmar». Solo se incluyen anuncios atribuibles al partido o a su candidatura, con fuente; los adelantos de prensa sin cita del partido no entran.
 - `balance`: qué han hecho realmente en ese tema durante la legislatura (votaciones, leyes, gestión donde gobiernan).
 - `coherencia`: `coherente`, `parcial`, `contradictorio` o `sin-historial`. Mide si **sus actuaciones** (votos, iniciativas, gestión donde gobiernan) van en la línea de lo que proponen, **no si lograron aprobarlo**. Perder una votación no rebaja la coherencia; votar en contra de lo que se propone, sí.
 - Las propuestas se citan del programa, de documentos o resoluciones aprobadas por el partido o de declaraciones de su candidatura. Un agregador o una nota de prensa no sustituyen al documento original cuando este existe; si solo hay agregador, se atribuye explícitamente.
 
 ### Ficha de partido (`src/content/partidos/<id>.yaml`)
+
+No se publican encuestas ni estimaciones de voto o escaños, para no influir en el voto; la única encuesta que usa la web es la del CIS sobre los problemas que preocupan, para ordenar los temas.
 
 Estructura común para todos, sin balance valorativo (el balance va en las fichas): `resumen` = papel institucional en la legislatura + dónde gobierna + contexto electoral (coalición, candidatura). `nota` = advertencias comunes (por ejemplo, si el programa 2026 aún no está publicado y cuáles son sus propuestas oficiales más recientes). `programaUrl` solo enlaza el programa del 29-N; mientras no esté publicado se deja vacío y la ficha muestra «aún no disponible» (no se enlaza el de 2023).
 

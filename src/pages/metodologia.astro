@@ -13,9 +13,18 @@ const lista = await partidos();
     <div class="prosa">
       <h2>Qué partidos y por qué</h2>
       <p>
-        Se analizan los partidos con más escaños previstos en la media de encuestas publicada antes del 29-N:
-        {lista.map((p) => p.data.siglas).join(', ')}. El criterio es la representación esperada, no la afinidad. Otros
+        Se analizan los partidos de ámbito estatal con más representación esperada en el Congreso el 29-N:
+        {lista.map((p) => p.data.siglas).join(', ')}. El criterio es la representación, no la afinidad. Otros
         partidos pueden añadirse siguiendo la <a href={url('colabora/')}>guía de colaboración</a>.
+      </p>
+      <p>
+        La web no publica encuestas ni estimaciones de voto o de escaños, para no influir en el voto. Los únicos datos
+        de encuestas que se usan son los del CIS sobre los problemas que más preocupan, para ordenar los temas.
+      </p>
+      <p>
+        Mientras un partido no publica su programa del 29-N, sus propuestas se presentan como <b>programa tentativo</b>,
+        con el aviso «Sin confirmar»: recogen lo que han anunciado en documentos y actos de precampaña, con fuentes, y
+        pueden cambiar o no aparecer en el programa definitivo.
       </p>
       <p>
         Frente Amplio no existía como tal en 2023. Su historial es el de Sumar y de los partidos que hoy forman la

@@ -18,6 +18,7 @@ import {
   ESTADO_JUDICIAL,
   etiquetasValoracion,
   COHERENCIA,
+  programaConfirmado,
   AMBITO,
   LEGISLATURA,
   fichaUrl,
@@ -48,6 +49,7 @@ const filas = await Promise.all(
     })).filter((g) => g.items.length > 0);
     return {
       partido: p,
+      confirmado: programaConfirmado(p),
       entrada,
       Detalle: entrada ? (await render(entrada)).Content : null,
       grupos,
@@ -99,14 +101,19 @@ const VACIO: Partial<Record<string, string>> = {
   </p>
 
   {
-    filas.map(({ partido: p, entrada: e, Detalle, grupos, total }) => (
+    filas.map(({ partido: p, confirmado, entrada: e, Detalle, grupos, total }) => (
       <FilaPartido partido={p} meta={conPrograma ? p.data.candidato : fichasEn(total)} href={partidoUrl(p.id)}>
         <div class:list={['vt__fila', { 'vt__fila--programa': conPrograma }]}>
           {conPrograma && (
             <div class="vt__propone">
-              <p class="vt__rotulo">Propone para el 29-N</p>
+              <p class="vt__rotulo">{confirmado ? 'Propone para el 29-N' : 'Ha anunciado para el 29-N'}</p>
               {e && Detalle ? (
                 <>
+                  {!confirmado && (
+                    <p class="aviso-tentativo aviso-tentativo--breve">
+                      <b>Sin confirmar:</b> aún no ha publicado su programa.
+                    </p>
+                  )}
                   <p class="vt__propuesta">{e.data.propuesta}</p>
                   <p class="vt__coherencia">
                     <span

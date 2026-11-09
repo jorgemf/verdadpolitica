@@ -5,6 +5,9 @@ import { TEMAS, type TemaId } from '../data/temas';
 export const REPO = 'https://github.com/jorgemf/verdadpolitica';
 
 export type Partido = CollectionEntry<'partidos'>;
+
+/** Sin el programa del 29-N publicado, lo que se muestra son anuncios sin confirmar. */
+export const programaConfirmado = (p: Partido) => Boolean(p.data.programaUrl);
 export type Ficha = CollectionEntry<'fichas'>;
 export type EntradaPrograma = CollectionEntry<'programa'>;
 

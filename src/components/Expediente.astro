@@ -14,6 +14,7 @@ import {
   etiquetasAlcance,
   etiquetasGravedad,
   resumenAlcance,
+  programaConfirmado,
   fichaUrl,
   partidoUrl,
   type Ficha,
@@ -44,6 +45,7 @@ const barraTexto = grupos
   .map((g) => `${g.items.length} ${COLOR_CATEGORIA[g.cat].corto}${g.cat === 'cumplido' && alcanceTexto ? ` (${alcanceTexto})` : ''}`)
   .join(', ');
 
+const confirmado = programaConfirmado(p);
 const propuestas = temas
   .map((t) => ({ tema: t, entrada: programa.find((e) => e.data.tema === t.id) }))
   .filter((x) => x.entrada);
@@ -85,7 +87,7 @@ const metaFicha = (f: Ficha) =>
       <h2><a href={partidoUrl(p.id)}>{d.siglas}</a></h2>
       <p class="exp__candidato">{d.candidato}</p>
       <p class="exp__escanos">
-        {d.escanos2023} escaños en 2023, {d.encuesta.escanos} en las encuestas
+        {d.escanos2023} escaños en 2023
       </p>
     </div>
 
@@ -134,7 +136,14 @@ const metaFicha = (f: Ficha) =>
 
   <div class="exp__cuerpo">
     <section class="exp__programa" aria-labelledby={`prop-${p.id}`}>
-      <h3 id={`prop-${p.id}`}>Lo que propone para el 29-N</h3>
+      <h3 id={`prop-${p.id}`}>{confirmado ? 'Lo que propone para el 29-N' : 'Programa tentativo para el 29-N'}</h3>
+      {
+        !confirmado && (
+          <p class="aviso-tentativo">
+            <b>Sin confirmar.</b> Aún no ha publicado su programa: son anuncios de precampaña y pueden cambiar.
+          </p>
+        )
+      }
       <ul>
         {
           propuestas.map(({ tema, entrada }) => (

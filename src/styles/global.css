@@ -384,6 +384,22 @@ html {
   color: var(--tinta-suave);
 }
 
+/* Propuestas anunciadas sin programa publicado */
+.aviso-tentativo {
+  max-width: 68ch;
+  margin: 0 0 1rem;
+  padding: 0.5rem 0.75rem;
+  border-left: 4px solid var(--rotulador);
+  background: var(--papel-alto);
+  font-size: 0.9375rem;
+}
+
+.aviso-tentativo--breve {
+  margin: 0 0 0.4rem;
+  padding: 0.2rem 0.6rem;
+  font-size: 0.8125rem;
+}
+
 /* Prosa larga de las fichas */
 .prosa {
   font-family: var(--serif);

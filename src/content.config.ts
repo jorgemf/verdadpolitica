@@ -33,12 +33,6 @@ const partidos = defineCollection({
     orden: z.number().int(),
     papelLegislatura: z.string(),
     escanos2023: z.number().int(),
-    encuesta: z.object({
-      porcentaje: z.number(),
-      escanos: z.number().int(),
-      fecha: fechaCampo,
-      fuente: fuente,
-    }),
     resumen: z.string(),
     nota: z.string().optional(),
     web: urlWeb,

@@ -12,6 +12,7 @@ import {
   AMBITO,
   LEGISLATURA,
   COHERENCIA,
+  programaConfirmado,
   fichaUrl,
   partidoUrl,
   temaUrl,
@@ -34,6 +35,7 @@ const d = partido.data;
 const propias = (await fichas()).filter((f) => f.data.partido.id === partido.id);
 const prog = (await programa()).filter((e) => e.data.partido.id === partido.id);
 const otros = lista.filter((p) => p.id !== partido.id);
+const confirmado = programaConfirmado(partido);
 ---
 
 <Base titulo={d.nombre} descripcion={d.resumen}>
@@ -46,17 +48,19 @@ const otros = lista.filter((p) => p.id !== partido.id);
       <div><dt>Candidatura</dt><dd>{d.candidato}</dd></div>
       <div><dt>Papel en la legislatura</dt><dd>{d.papelLegislatura}</dd></div>
       <div><dt>Escaños en 2023</dt><dd>{d.escanos2023}</dd></div>
-      <div>
-        <dt>Media de encuestas</dt>
-        <dd>
-          {d.encuesta.porcentaje.toLocaleString('es-ES')} % y {d.encuesta.escanos} escaños
-          (<a href={d.encuesta.fuente.url}>{d.encuesta.fuente.medio}</a>)
-        </dd>
-      </div>
     </dl>
 
     <section class="bloque bloque--programa" id="programa">
-      <h2>Lo que propone para el 29-N</h2>
+      <h2>{confirmado ? 'Lo que propone para el 29-N' : 'Programa tentativo para el 29-N'}</h2>
+      {
+        !confirmado && (
+          <p class="aviso-tentativo">
+            <b>Sin confirmar.</b> {d.siglas} aún no ha publicado su programa electoral. Esto es lo que el partido y su
+            candidatura han anunciado en documentos y actos de precampaña, con fuentes en cada tema; puede cambiar o no
+            aparecer en el programa definitivo.
+          </p>
+        )
+      }
       <ul class="lista">
         {
           TEMAS.map((t) => {
@@ -67,7 +71,7 @@ const otros = lista.filter((p) => p.id !== partido.id);
                 {e ? (
                   <>
                     <p>
-                      <b>Propone:</b> {e.data.propuesta}
+                      <b>{confirmado ? 'Propone:' : 'Ha anunciado:'}</b> {e.data.propuesta}
                     </p>
                     <p>
                       <b>Ha hecho:</b> {e.data.balance}
