@@ -1,10 +1,10 @@
 ---
 partido: pp
 tema: regeneracion-democratica
-propuesta: "Que los jueces elijan a los jueces y personas independientes dirijan el TC y la Fiscalía; presentar presupuestos cada año y convocar elecciones si se prorrogan más de una vez; auditar el gasto, reducir ministerios y asesores y exigir responsabilidades por la corrupción de los subordinados."
+propuesta: "Que los jueces elijan a los 12 vocales judiciales del CGPJ, un fiscal general con mandato único de cinco años que no cese con el Gobierno, elecciones tras dos prórrogas presupuestarias, auditar todo el gasto en cien días, menos ministerios y asesores, restablecer las penas por malversación y limitar los decretos-ley."
 balance: "En 2024 pactó con el PSOE renovar el CGPJ con el sistema vigente, aunque había exigido cambiar antes el modelo; su reforma posterior no se votó. Desde el Senado investigó el caso Koldo. Hay causas abiertas contra antiguos cargos suyos (Kitchen, Montoro, Diputación de Almería)."
 coherencia: parcial
-actualizado: 2026-11-06
+actualizado: 2026-11-12
 fuentes:
   - titulo: "Mi contrato con España"
     url: https://www.pp.es/wp-content/uploads/2026/10/CONTRATO-CON-ESPANA-.pdf
@@ -51,9 +51,16 @@ fuentes:
     medio: Partido Popular
     fecha: 2026-10-21
     tipo: partido
+  - titulo: "Reconstrucción Nacional. El programa del cambio necesario para España"
+    url: https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf
+    medio: Partido Popular
+    fecha: 2026-11-10
+    tipo: partido
 ---
 
-A 6 de noviembre de 2026 el PP no ha publicado su programa para el 29-N. El "Contrato con España" (19 de octubre de 2026) se compromete a que "los jueces elegirán a los jueces", a que los órganos reguladores, el Tribunal Constitucional y la Fiscalía General estén "dirigidos por personas independientes" y a que el Gobierno presente presupuestos cada año y convoque "obligatoriamente elecciones si acumula más de una prórroga". También a auditar "cada euro", reducir ministerios, altos cargos y asesores y a que "todo cargo político responderá por la corrupción de sus subordinados" [1]. Según un argumentario del partido, su primer Consejo de Ministros reduciría a la mitad los altos cargos y encargaría una auditoría integral de las cuentas [9]. El programa de 2023 ya incluía reformar la Ley del Tribunal Constitucional y fijar un periodo de cinco años sin cargo electo para dirigir organismos independientes [7].
+El programa del PP para el 29-N, «Reconstrucción Nacional» (10 de noviembre de 2026), dedica uno de sus cuatro ejes a «regenerar la democracia» [10]. Propone que los jueces elijan a los doce vocales judiciales del CGPJ y extender a todos los vocales la incompatibilidad por haber ocupado cargos políticos en los cinco años anteriores (medida 72); la misma condición para los candidatos al Tribunal Constitucional (medida 67); un fiscal general con «un mandato único de cinco años» que no cese con el Gobierno que lo propuso y cuyo nombramiento requiera un informe vinculante del CGPJ (medida 70), y que una segunda prórroga presupuestaria consecutiva obligue a disolver las Cortes (medida 65). También una auditoría de todo el gasto en los primeros cien días (medida 1), menos ministerios, altos cargos y asesores (medida 3), restablecer las penas por malversación (medida 82), una autoridad independiente de transparencia con capacidad sancionadora (medida 85), reservar el decreto-ley a situaciones «verdaderamente extraordinarias y urgentes» y prohibir aprobar otro con el contenido de uno rechazado en el mismo periodo de sesiones (medida 88), publicar íntegros los pactos de investidura (medida 62), refundar el CIS (medida 75), iniciar en cien días la reforma de RTVE y EFE (medida 76) y sustituir la Ley de Secretos Oficiales de 1968 (medida 91) [10].
+
+Desarrolla el "Contrato con España" (19 de octubre de 2026), que prometía que "los jueces elegirán a los jueces", un Tribunal Constitucional y una Fiscalía General "dirigidos por personas independientes", presupuestos cada año con elecciones obligatorias "si acumula más de una prórroga", auditar "cada euro" y reducir ministerios, altos cargos y asesores [1]. El compromiso del Contrato de que "todo cargo político responderá por la corrupción de sus subordinados" [1] no figura en el programa, que en su capítulo «La política nunca será un negocio» deja una medida, la 83, pendiente de anunciar durante la campaña [10]. Según un argumentario del partido, su primer Consejo de Ministros reduciría a la mitad los altos cargos y encargaría una auditoría integral de las cuentas [9]; el programa no fija esa cifra [10]. El programa de 2023 ya incluía reformar la Ley del Tribunal Constitucional y fijar un periodo de cinco años sin cargo electo para dirigir organismos independientes [7].
 
 En la legislatura, Feijóo había exigido renovar el CGPJ y cambiar su modelo de elección a la vez. En junio de 2024 pactó con el PSOE la renovación con el sistema vigente [2]. En junio de 2026 presentó su reforma del modelo, asumiendo que no se aprobaría antes de las elecciones [3]. Con su mayoría en el Senado creó una comisión de investigación sobre el caso Koldo, ante la que compareció Pedro Sánchez en octubre de 2025 [8].
 

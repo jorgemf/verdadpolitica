@@ -4,7 +4,7 @@ tema: sanidad
 propuesta: "Contratar 40.000 profesionales sanitarios con el aumento del gasto militar (Irene Montero, noviembre de 2026), sanidad pública «con recursos suficientes» y «más profesionales» y derogar la Ley 15/1997, que permite la gestión privada (Montero, mayo de 2026, y proposición de ley de 2024)."
 balance: "Su ley de 2024 para que la titularidad y la gestión de los centros del Sistema Nacional de Salud sean públicas, que derogaba la Ley 15/1997, no llegó a debatirse y caducó. En enero de 2026 Belarra acusó a la ministra de Sanidad de faltar a la verdad sobre la derogación de esa ley."
 coherencia: coherente
-actualizado: 2026-11-06
+actualizado: 2026-11-12
 fuentes:
   - titulo: "Paz, casa y trabajo. Cinco cosas (web de campaña de Podemos para el 29-N)"
     url: https://pazcasaytrabajo.es/
@@ -50,7 +50,7 @@ fuentes:
     tipo: prensa
 ---
 
-A 6 de noviembre de 2026 Podemos no ha publicado un programa completo para el 29-N. Su web de campaña, presentada el 19 de octubre, pide «sanidad y educación pública con recursos suficientes» y «más profesionales y mejor pagados» [1]. El 6 de noviembre de 2026 Irene Montero propuso destinar los 24.000 millones de euros que, según los cálculos de Podemos, ha aumentado el gasto militar desde 2023 a otras partidas («para armas lo han encontrado, sobradamente»), entre ellas contratar 40.000 profesionales sanitarios [8][9]. En mayo de 2026 Irene Montero dijo que «hay que prohibir la privatización de la sanidad» y reclamó derogar la Ley 15/1997 para que las empresas privadas no gestionen servicios sanitarios [2]. Su programa europeo de 2024 añadía la cobertura pública de la salud bucodental, oftalmológica y auditiva [7].
+A 12 de noviembre de 2026 Podemos no ha publicado un programa completo para el 29-N. Su web de campaña, presentada el 19 de octubre, pide «sanidad y educación pública con recursos suficientes» y «más profesionales y mejor pagados» [1]. El 6 de noviembre de 2026 Irene Montero propuso destinar los 24.000 millones de euros que, según los cálculos de Podemos, ha aumentado el gasto militar desde 2023 a otras partidas («para armas lo han encontrado, sobradamente»), entre ellas contratar 40.000 profesionales sanitarios [8][9]. En mayo de 2026 Irene Montero dijo que «hay que prohibir la privatización de la sanidad» y reclamó derogar la Ley 15/1997 para que las empresas privadas no gestionen servicios sanitarios [2]. Su programa europeo de 2024 añadía la cobertura pública de la salud bucodental, oftalmológica y auditiva [7].
 
 En la legislatura, Podemos registró en marzo de 2024 una proposición de ley que obliga a que la titularidad y la gestión de los centros del Sistema Nacional de Salud sean públicas, prohíbe prestar por concierto los servicios que ya se gestionan de forma directa y deroga la Ley 15/1997 [3]. No llegó a debatirse en el Pleno y caducó con la disolución de las Cortes [4].
 

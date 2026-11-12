@@ -4,7 +4,7 @@ tema: vivienda
 propuesta: "Convalidar los RDL 29/2026 (desahucios suspendidos hasta 2030, prórroga de alquileres y límite del 2 % a su actualización) y 28/2026 (estabilidad de los contratos), préstamos ICO para la entrada de la primera vivienda y un parque público de al menos el 6 % del total."
 balance: "Creó Casa 47 y suprimió la «golden visa», pero no publica cuántas de las 183.000 viviendas prometidas están terminadas (cuenta 120.479 «movilizadas»). Su ley del impuesto del 100 % a compradores extracomunitarios caducó sin votarse. El Congreso derogó los RDL 26/2026 y 27/2026; el Gobierno los reaprobó."
 coherencia: coherente
-actualizado: 2026-11-06
+actualizado: 2026-11-12
 fuentes:
   - titulo: "Real Decreto-ley 29/2026, de 6 de octubre, por el que se adoptan medidas urgentes para la protección de la función social de la vivienda y la ampliación de la oferta de vivienda asequible"
     url: https://www.boe.es/buscar/doc.php?id=BOE-A-2026-20823
@@ -61,13 +61,23 @@ fuentes:
     medio: Congreso de los Diputados
     fecha: 2026-10-23
     tipo: oficial
+  - titulo: "Sánchez asume la responsabilidad por Urda y defiende a Puente"
+    url: https://diariosabemos.com/politica/sanchez-entrevista-septima-urda-puente-koldo-tiktok_519833_102.html
+    medio: Diario Sabemos
+    fecha: 2026-11-09
+    tipo: prensa
+  - titulo: "Pedro Sánchez en La Séptima: medidas sociales antes del 29N y pronostica una participación en las elecciones superior al 70%"
+    url: https://democrata.es/elecciones-generales-espana/sanchez-la-septima-medidas-sociales-29n
+    medio: Demócrata
+    fecha: 2026-11-10
+    tipo: prensa
 ---
 
-A 6 de noviembre de 2026 el PSOE no ha publicado su programa para el 29-N. Su propuesta de vivienda se apoya en los decretos que aprobó el Gobierno. El Congreso derogó el 2 de octubre el RDL 26/2026 y el RDL 27/2026 [4], y el Gobierno los reaprobó el 6 de octubre para que los convalide la Diputación Permanente, que según la última información publicada (16 de octubre) tenía previsto votarlos el 12 de noviembre [8]:
+A 12 de noviembre de 2026 el PSOE no ha publicado su programa para el 29-N. Su propuesta de vivienda se apoya en los decretos que aprobó el Gobierno. El Congreso derogó el 2 de octubre el RDL 26/2026 y el RDL 27/2026 [4], y el Gobierno los reaprobó el 6 de octubre para que los convalide la Diputación Permanente, que según la última información publicada (16 de octubre) tenía previsto votarlos el 12 de noviembre [8]:
 - El RDL 29/2026 suspende hasta 2030 los desahucios de personas vulnerables sin alternativa habitacional, prevé una prórroga extraordinaria de los alquileres y limita su actualización al 2 % hasta 2027. Incluye también medidas fiscales sobre pisos turísticos y socimis [1][2].
 - El RDL 28/2026 refuerza la estabilidad de los contratos [2].
 
-El Gobierno anunció además préstamos ICO sin interés para la entrada de la primera vivienda, con 10.000 millones [2]. La ponencia de su 41.º Congreso Federal (2024) planteaba elevar el parque público hasta al menos el 6 % del total [5].
+El Gobierno anunció además préstamos ICO sin interés para la entrada de la primera vivienda, con 10.000 millones [2]. La ponencia de su 41.º Congreso Federal (2024) planteaba elevar el parque público hasta al menos el 6 % del total [5]. En una entrevista en La Séptima, el 9 de noviembre de 2026, Sánchez admitió que en vivienda «tenemos que hacer mucho más, sin duda alguna» y defendió combinar la construcción de vivienda protegida con la regulación de los alquileres turísticos, de temporada y de habitaciones, y ayudas y avales para que los jóvenes accedan a su primera vivienda [12][13].
 
 El programa de 2023 decía: «Queremos construir 183.000 viviendas públicas para alquiler» [7]. El Gobierno creó Casa 47 y movilizó suelos de la Sareb, pero mide su avance en viviendas «movilizadas» (120.479 en abril de 2026), que reflejan fondos transferidos. No ha dado cifras de viviendas terminadas y entregadas [3]. Es un compromiso incumplido o sin medir, no una actuación contraria a lo prometido, por lo que no se trata como contradicción.
 

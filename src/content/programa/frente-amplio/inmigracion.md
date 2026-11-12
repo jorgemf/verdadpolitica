@@ -4,7 +4,7 @@ tema: inmigracion
 propuesta: "Frente Amplio no ha presentado propuestas nuevas de inmigración. Las últimas oficiales son las de Sumar en 2023: reformar la ley de extranjería para crear un procedimiento de regularización permanente, simplificar los trámites de residencia y cerrar los centros de internamiento de extranjeros (CIE)."
 balance: "Apoyó la ILP de regularización y pidió hacerla por decreto. El Real Decreto 316/2026 abrió en abril una regularización extraordinaria, desbloqueada por un pacto PSOE-Podemos. No hubo regularización permanente y los CIE siguen abiertos. Dos de sus diputados votaron contra la delegación de competencias a Cataluña."
 coherencia: coherente
-actualizado: 2026-11-06
+actualizado: 2026-11-12
 fuentes:
   - titulo: "Un programa para ti. Programa electoral de Sumar para las elecciones generales de 2023"
     url: https://movimientosumar.es/wp-content/uploads/2023/07/Un-Programa-para-ti.pdf
@@ -47,7 +47,7 @@ fuentes:
     tipo: oficial
 ---
 
-A 6 de noviembre de 2026 Frente Amplio no ha publicado su programa para el 29-N, y en la presentación de la candidatura no anunció medidas concretas de inmigración. Las propuestas oficiales más recientes son las del programa de Sumar de 2023: reformar la ley de extranjería para "introducir un procedimiento de regularización permanente", simplificar los trámites de residencia y cerrar los CIE [1].
+A 12 de noviembre de 2026 Frente Amplio no ha publicado su programa para el 29-N, y en la presentación de la candidatura no anunció medidas concretas de inmigración. Las propuestas oficiales más recientes son las del programa de Sumar de 2023: reformar la ley de extranjería para "introducir un procedimiento de regularización permanente", simplificar los trámites de residencia y cerrar los CIE [1].
 
 Durante la legislatura, Sumar apoyó la ILP que pedía regularizar a unas 500.000 personas. En septiembre de 2025 pidió al PSOE aprobarla por decreto [2]. El Real Decreto 316/2026, de 14 de abril, abrió una regularización extraordinaria por arraigo para quienes estuvieran en España antes de 2026 [3]. Su aprobación se desbloqueó tras un pacto entre PSOE y Podemos. La medida fue extraordinaria y por reglamento, no el procedimiento permanente que pedía el programa. Interior, en manos del PSOE, sustituyó en febrero de 2026 el CIE de Algeciras por uno nuevo [4].
 

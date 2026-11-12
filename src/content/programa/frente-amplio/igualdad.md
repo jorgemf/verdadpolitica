@@ -2,9 +2,9 @@
 partido: frente-amplio
 tema: igualdad
 propuesta: "Frente Amplio no ha presentado propuestas nuevas. Las últimas oficiales son las de Sumar en 2023: retribuir y ampliar a diez semanas el permiso parental, avanzar hacia seis meses de permiso por nacimiento, una ley integral contra la trata y planes de igualdad LGTBI en las empresas."
-balance: "Desde Trabajo, Yolanda Díaz aprobó en 2024 el reglamento de medidas LGTBI en empresas de más de 50 trabajadores y en 2025 el RDL 9/2025, que eleva el permiso por nacimiento a 19 semanas, dos de ellas flexibles. La Ley de Familias del ministerio de Bustinduy caducó tras 95 prórrogas del plazo de enmiendas."
+balance: "Trabajo (Yolanda Díaz) aprobó en 2024 el reglamento LGTBI para empresas de más de 50 trabajadores y en 2025 amplió el permiso por nacimiento a 19 semanas (RDL 9/2025). La Ley de Familias de Bustinduy caducó; en noviembre de 2026, a propuesta de su ministerio, un decreto-ley creó el título de familia monoparental."
 coherencia: coherente
-actualizado: 2026-11-06
+actualizado: 2026-11-12
 fuentes:
   - titulo: "Un programa para ti. Programa electoral de Sumar para las elecciones generales de 2023"
     url: https://movimientosumar.es/wp-content/uploads/2023/07/Un-Programa-para-ti.pdf
@@ -29,10 +29,20 @@ fuentes:
     medio: Congreso de los Diputados
     fecha: 2026-10-20
     tipo: oficial
+  - titulo: "El Gobierno aprueba un real decreto-ley para ampliar la protección de las familias monomarentales, las numerosas con pocos recursos y las de personas con discapacidad"
+    url: https://www.dsca.gob.es/es/comunicacion/notas-prensa/gobierno-aprueba-real-decreto-ley-ampliar-proteccion-familias
+    medio: Ministerio de Derechos Sociales, Consumo y Agenda 2030
+    fecha: 2026-11-10
+    tipo: oficial
+  - titulo: "El Gobierno amplía la protección a las familias monoparentales: con dos hijos, mismos beneficios que las numerosas"
+    url: https://www.atlantico.net/espana/gobierno-amplia-proteccion-familias-monoparentales_1_20261110-4486317.html
+    medio: Atlántico
+    fecha: 2026-11-10
+    tipo: prensa
 ---
 
-A 6 de noviembre de 2026 Frente Amplio no ha publicado su programa para el 29-N, y en la presentación de la candidatura no anunció medidas concretas de igualdad. Las propuestas oficiales más recientes son las del programa de Sumar de 2023: "remunerar y ampliar el permiso parental" a diez semanas, avanzar "en la ampliación del permiso por maternidad o paternidad hasta alcanzar los seis meses", tramitar "una ley integral contra la trata de personas", blindar el Pacto de Estado contra la Violencia de Género e "implantar los planes de igualdad LGTBI+ en el ámbito del empleo" [1].
+A 12 de noviembre de 2026 Frente Amplio no ha publicado su programa para el 29-N, y en la presentación de la candidatura no anunció medidas concretas de igualdad. Las propuestas oficiales más recientes son las del programa de Sumar de 2023: "remunerar y ampliar el permiso parental" a diez semanas, avanzar "en la ampliación del permiso por maternidad o paternidad hasta alcanzar los seis meses", tramitar "una ley integral contra la trata de personas", blindar el Pacto de Estado contra la Violencia de Género e "implantar los planes de igualdad LGTBI+ en el ámbito del empleo" [1].
 
-En la legislatura, el Real Decreto 1026/2024, aprobado a propuesta de la ministra de Trabajo, Yolanda Díaz, y pactado con CCOO, UGT, CEOE y Cepyme, obliga a las empresas de más de 50 trabajadores a negociar medidas para la igualdad de las personas LGTBI y un protocolo frente al acoso [2]. El Real Decreto-ley 9/2025, convalidado el 9 de septiembre de 2025, amplió el permiso por nacimiento a 19 semanas por progenitor (17 en el primer año y dos flexibles hasta los ocho años del menor), retribuidas [3]. El proyecto de Ley de Familias, del Ministerio de Derechos Sociales de Pablo Bustinduy, entró en el Congreso en febrero de 2024 y caducó el 6 de octubre de 2026 tras 95 ampliaciones del plazo de enmiendas [4]. Búsqueda realizada el 20 de octubre de 2026 en los datos abiertos del Congreso: no consta en la XV legislatura ningún proyecto ni proposición de ley integral contra la trata [5].
+En la legislatura, el Real Decreto 1026/2024, aprobado a propuesta de la ministra de Trabajo, Yolanda Díaz, y pactado con CCOO, UGT, CEOE y Cepyme, obliga a las empresas de más de 50 trabajadores a negociar medidas para la igualdad de las personas LGTBI y un protocolo frente al acoso [2]. El Real Decreto-ley 9/2025, convalidado el 9 de septiembre de 2025, amplió el permiso por nacimiento a 19 semanas por progenitor (17 en el primer año y dos flexibles hasta los ocho años del menor), retribuidas [3]. El proyecto de Ley de Familias, del Ministerio de Derechos Sociales de Pablo Bustinduy, entró en el Congreso en febrero de 2024 y caducó el 6 de octubre de 2026 tras 95 ampliaciones del plazo de enmiendas [4]. Ya disueltas las Cortes, el Consejo de Ministros aprobó el 10 de noviembre de 2026, a propuesta de Derechos Sociales, un real decreto-ley que crea un título estatal de familia monomarental o monoparental, equipara a las familias numerosas a las monoparentales con dos hijos y a las de dos hijos con un progenitor con discapacidad igual o superior al 33 %, rebaja de cinco a cuatro hijos la categoría especial de familia numerosa y amplía el fondo que adelanta las pensiones de alimentos impagadas. El ministerio calcula que beneficiará a más de 760.000 familias, con más de 820 millones de euros al año [6][7]. Como todo decreto-ley, debe convalidarlo la Diputación Permanente en un plazo de 30 días. Búsqueda realizada el 20 de octubre de 2026 en los datos abiertos del Congreso: no consta en la XV legislatura ningún proyecto ni proposición de ley integral contra la trata [5].
 
 La coherencia mide las actuaciones y no el resultado. Las normas que impulsaron los ministerios de Sumar van en la línea de su programa, aunque las 19 semanas quedan lejos de los seis meses propuestos. La gestión interna de la denuncia contra Íñigo Errejón en 2023 se trata en una ficha propia.

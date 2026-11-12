@@ -1,10 +1,10 @@
 ---
 partido: pp
 tema: igualdad
-propuesta: "El \"Contrato con España\" solo alude a la igualdad al prometer combatir \"la violencia contra las mujeres\" en su punto de seguridad. En 2026 el PP pidió reformar la Ley trans para acabar con la autodeterminación registral del sexo \"sin requisitos\" y registró una ley para prohibir ocultar el rostro en espacios públicos."
+propuesta: "Revisar la Ley trans y eliminar la autodeterminación registral del sexo, el sexo biológico como criterio en el deporte femenino, pasar a Interior las pulseras de alejamiento, más especialización judicial en violencia sobre la mujer, una ley integral contra la trata y prohibir el burka y el niqab en espacios públicos."
 balance: "Apoyó en 2025, con todos los grupos salvo Vox, la renovación del Pacto de Estado contra la Violencia de Género. En 2024 votó contra la ley de paridad alegando una enmienda sobre la senda de déficit. El Congreso rechazó en 2025 sus leyes de conciliación y de especialización de los juzgados de violencia sobre la mujer."
 coherencia: coherente
-actualizado: 2026-11-06
+actualizado: 2026-11-12
 fuentes:
   - titulo: "Mi contrato con España"
     url: https://www.pp.es/wp-content/uploads/2026/10/CONTRATO-CON-ESPANA-.pdf
@@ -76,11 +76,18 @@ fuentes:
     medio: Congreso de los Diputados
     fecha: 2026-10-23
     tipo: oficial
+  - titulo: "Reconstrucción Nacional. El programa del cambio necesario para España"
+    url: https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf
+    medio: Partido Popular
+    fecha: 2026-11-10
+    tipo: partido
 ---
 
-A 6 de noviembre de 2026 el PP no ha publicado su programa para el 29-N. Los doce compromisos del "Contrato con España" (19 de octubre de 2026) no incluyen ninguno específico sobre igualdad entre mujeres y hombres. El de seguridad se compromete a combatir "la creciente inseguridad en muchos barrios y, en especial, la violencia contra las mujeres, en cifras alarmantes", con más recursos para las Fuerzas y Cuerpos de Seguridad, sin otras medidas [1]. El programa de 2023 prometía que los juzgados de violencia sobre la mujer juzgaran los delitos de violencia machista y "una nueva ley trans" (medida 24) [2].
+El programa del PP para el 29-N, «Reconstrucción Nacional» (10 de noviembre de 2026), propone revisar «las normas que hayan generado inseguridad jurídica en nombre de la igualdad, como la Ley Trans», eliminar «la libre autodeterminación registral del sexo» y garantizar que «el sexo biológico sea el criterio para las categorías deportivas femeninas» (medida 115) [15]. En violencia de género, que los dispositivos que vigilan las órdenes de alejamiento pasen a depender del Ministerio del Interior, integrar los servicios asistenciales autonómicos y municipales en VioGen, rendir cuentas cada año del cumplimiento del Pacto de Estado y dar más medios y especialización a las secciones de violencia sobre la mujer (medidas 28 y 34). También una ley integral contra la trata de seres humanos (medida 29), prohibir el burka y el niqab en los espacios públicos (medida 43) y combatir la discriminación por cualquier circunstancia personal, «en particular» la LGTBIfobia (medida 111). En familia y conciliación recoge la gratuidad de la escuela de 0 a 3 años (medida 163), los bancos de horas (medida 162), ampliar los permisos por nacimiento (medida 160) y que «el concebido no nacido» compute para determinar las ayudas a la familia (medida 159). No menciona la ley de paridad ni la del aborto [15].
 
-Sus propuestas más recientes salen de iniciativas parlamentarias:
+Los doce compromisos del "Contrato con España" (19 de octubre de 2026) no incluían ninguno específico sobre igualdad; el de seguridad aludía a "la violencia contra las mujeres, en cifras alarmantes" [1]. El programa de 2023 prometía que los juzgados de violencia sobre la mujer juzgaran los delitos de violencia machista y "una nueva ley trans" (medida 24) [2].
+
+En la legislatura, sus iniciativas parlamentarias fueron en la misma línea:
 
 - **Ley trans.** En octubre de 2025 presentó una enmienda a una proposición no de ley de Vox que pedía derogar la Ley 4/2023. Proponía instar al Gobierno a aprobar "una nueva ley, en sustitución de la actual", que "refuerce la protección de los menores" e "impida que se sigan conculcando los derechos de las mujeres". La Comisión de Igualdad desestimó la proposición de Vox, a la que se había presentado la enmienda [4]. En marzo de 2026 registró una proposición no de ley para "reformar sustancialmente" los artículos 43 y 44 de esa ley y acabar con "la autodeterminación registral del sexo sin requisitos" [3]. No consta que se debatiera.
 - **Burka y niqab.** El PP anunció su apoyo a la ley de Vox para prohibirlos en espacios públicos, que el Congreso rechazó el 17 de febrero de 2026 [6][11]. Dos días después registró su propia ley para prohibir ocultar el rostro en espacios públicos, con multas de 100 a 600 euros [5]. Caducó sin debatirse [11].
@@ -89,6 +96,6 @@ En la legislatura apoyó la renovación del Pacto de Estado contra la Violencia 
 
 En conciliación, el Gobierno vetó por su coste presupuestario la ley de conciliación y corresponsabilidad familiar que el PP registró en octubre de 2024, y el Pleno rechazó tomar en consideración su segunda versión el 14 de octubre de 2025, por 175 votos a 171 [12]. Incluía un banco de horas y la gratuidad de la educación de 0 a 3 años, dos medidas del programa de 2023 [2]. El detalle está en la ficha correspondiente.
 
-En trata, el programa de 2023 prometía una ley orgánica integral contra la trata con fines de explotación sexual [2]. Tras votar en mayo de 2024 contra la ley del PSOE contra el proxenetismo, el PP anunció que presentaría su propia ley de trata [13]. No consta que la registrara: en el buscador del Congreso, consultado el 23 de octubre de 2026, el Grupo Popular solo figura con proposiciones no de ley, una de mayo de 2024 por un plan integral contra la trata y otra de abril de 2026, aprobada en comisión, que pedía al Gobierno aprobar con urgencia su ley integral contra la trata [14].
+En trata, el programa de 2023 prometía una ley orgánica integral contra la trata con fines de explotación sexual [2]. Tras votar en mayo de 2024 contra la ley del PSOE contra el proxenetismo, el PP anunció que presentaría su propia ley de trata [13]. No consta que la registrara: en el buscador del Congreso, consultado el 23 de octubre de 2026, el Grupo Popular solo figura con proposiciones no de ley, una de mayo de 2024 por un plan integral contra la trata y otra de abril de 2026, aprobada en comisión, que pedía al Gobierno aprobar con urgencia su ley integral contra la trata [14]. El programa de 2026 vuelve a prometer una ley integral contra la trata (medida 29) [15].
 
 La coherencia es alta. Sus votos e iniciativas van en la línea de lo que propone. El voto contra la ley de paridad no contradice ninguna propuesta concreta suya, y el partido lo justificó por una enmienda ajena a la igualdad.

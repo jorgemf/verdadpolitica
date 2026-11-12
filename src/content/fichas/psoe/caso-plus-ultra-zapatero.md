@@ -44,7 +44,7 @@ gravedad:
     - euros: 1020000
       concepto: "valor de las joyas halladas en su despacho según la segunda tasación pericial (la preliminar las valoró en unos 1,3 millones)"
 fecha: 2026-11-06
-actualizado: 2026-11-06
+actualizado: 2026-11-12
 fuentes:
   - titulo: "La Audiencia Nacional cita al expresidente José Luis Rodríguez Zapatero como investigado por delitos de tráfico de influencias y otros conexos"
     url: https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/----La-Audiencia-Nacional-cita-al-expresidente-Jose-Luis-Rodriguez-Zapatero-como-investigado-por-delitos-de-trafico-de-influencias-y-otros-conexos
@@ -106,6 +106,16 @@ fuentes:
     medio: Infobae
     fecha: 2026-11-06
     tipo: prensa
+  - titulo: "El juez prorroga hasta mayo de 2027 la investigación a Zapatero por presunta influencia en el rescate de Plus Ultra"
+    url: https://www.infobae.com/espana/agencias/2026/11/11/el-juez-prorroga-hasta-mayo-de-2027-la-investigacion-a-zapatero-por-presunta-influencia-en-el-rescate-de-plus-ultra/
+    medio: Infobae (Europa Press)
+    fecha: 2026-11-11
+    tipo: prensa
+  - titulo: "El juez prorroga seis meses la investigación a Zapatero y no descarta más imputaciones"
+    url: https://theobjective.com/espana/tribunales/2026-11-11/juez-prorroga-investigacion-zapatero/
+    medio: The Objective
+    fecha: 2026-11-11
+    tipo: prensa
 ---
 
 ## Hechos
@@ -122,7 +132,7 @@ Investigación. El 19 de mayo de 2026 el juez levantó el secreto, citó a Zapat
 
 El 12 de junio el juez abrió una pieza separada por presuntos delitos fiscal y de contrabando por las joyas: según el auto, la falta de trazabilidad fiscal y de documentación aduanera son indicios de una posible defraudación de más de 120.000 euros y de una entrada en España eludiendo los controles [7]. Zapatero declaró el 17 de junio [5]. Ese día el juez concluyó que su declaración no había disipado los indicios y rechazó las medidas cautelares: la retirada del pasaporte y las comparecencias quincenales que pedía Anticorrupción, con el apoyo del PP, y la prisión provisional que pedía HazteOír [6]. El 18 de junio acordó investigar a sus hijas, Laura y Alba Rodríguez Espinosa, administradoras de Whathefav, por indicios de participación en los presuntos delitos de blanqueo de capitales y tráfico de influencias, y a su secretaria, Gertrudis Alcázar, en la que ve indicios de una participación directa por su papel en la gestión documental y la elaboración de facturas [8]. Las fuentes consultadas no precisan qué delitos se atribuyen a la secretaria; la ficha la clasifica por los de la causa, como a Zapatero; las hijas están citadas a declarar como investigadas el 30 de noviembre de 2026 [9]. El 4 de septiembre el juez rechazó la nulidad de la causa que pedía la defensa, que alegaba que algunas pruebas se habían obtenido de forma ilícita [10].
 
-El 6 de noviembre de 2026 el juez rechazó ampliar la investigación a la malversación, como pedía la Fiscalía Anticorrupción, al entender que en 2007 ninguna norma obligaba a incorporar al patrimonio del Estado los regalos recibidos por altos cargos; Zapatero sigue investigado por los delitos fiscal y de contrabando [2][12]. En otro auto suspendió las inspecciones de la Agencia Tributaria a Zapatero, a su mujer, a sus hijas, a Julio Martínez y a varias sociedades vinculadas [2]. Última situación documentada (6 de noviembre de 2026): instrucción abierta, sin acusación formal. Todos los investigados gozan de la presunción de inocencia.
+El 6 de noviembre de 2026 el juez rechazó ampliar la investigación a la malversación, como pedía la Fiscalía Anticorrupción, al entender que en 2007 ninguna norma obligaba a incorporar al patrimonio del Estado los regalos recibidos por altos cargos; Zapatero sigue investigado por los delitos fiscal y de contrabando [2][12]. En otro auto suspendió las inspecciones de la Agencia Tributaria a Zapatero, a su mujer, a sus hijas, a Julio Martínez y a varias sociedades vinculadas [2]. En un auto conocido el 11 de noviembre de 2026, el juez prorrogó la instrucción seis meses, hasta el 28 de mayo de 2027, a petición de la Fiscalía Anticorrupción y de la acusación popular; el plazo vencía el 28 de noviembre [13][14]. Según el auto, quedan pendientes declaraciones ya señaladas, el análisis de los dispositivos y documentos intervenidos e informes policiales sobre la documentación pedida a organismos públicos y bancos que «pudieran generar la imputación de nuevas personas»; la Fiscalía atribuye esos informes a la UDEF [13]. El escrito de la acusación popular que pidió la prórroga enumeraba además las declaraciones de las hijas como investigadas el 30 de noviembre, la de dos testigos el 19 de noviembre, el análisis de los dispositivos y de la información bancaria pedida a 13 entidades y una comisión rogatoria a Estados Unidos sin respuesta [14]. Última situación documentada (11 de noviembre de 2026): instrucción abierta, sin acusación formal. Todos los investigados gozan de la presunción de inocencia.
 
 ## Lo que dicen las partes
 

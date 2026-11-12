@@ -4,7 +4,7 @@ tema: seguridad-ciudadana
 propuesta: "Bajar la edad penal y endurecer la ley del menor, más sanciones por resistencia a la autoridad, equiparación salarial de policías y guardias civiles, presencia policial en todos los barrios, devolver al Estado las competencias de seguridad y expulsar a los extranjeros que delincan."
 balance: "Se rechazaron sus leyes para bajar la edad penal a 12 años (2025, con la abstención del PP), tipificar el petaqueo (171-172) y prohibir el burka (170-177). Apoyó la ley de multirreincidencia, que acabó tipificando el petaqueo, y la que reconoce a los funcionarios de prisiones como agentes de la autoridad (2026)."
 coherencia: coherente
-actualizado: 2026-11-06
+actualizado: 2026-11-12
 fuentes:
   - titulo: "Programa electoral para las Elecciones Generales del 23J de 2023"
     url: https://theobjective.com/wp-content/uploads/2023/07/programa-vox-23j.pdf
@@ -67,7 +67,7 @@ fuentes:
     tipo: oficial
 ---
 
-A 6 de noviembre de 2026, Vox no ha publicado programa para el 29-N. Se recogen el programa de 2023 [1] y su actuación en la legislatura.
+A 12 de noviembre de 2026, Vox no ha publicado programa para el 29-N. Se recogen el programa de 2023 [1] y su actuación en la legislatura.
 
 **Qué proponen.** El programa de 2023 pide devolver al Estado las competencias de "Seguridad, Interior, Tráfico, Protección Civil y Vigilancia Marítima" (medida 183), "garantizar la presencia policial en todas las calles y todos los barrios" (medida 200) y la equiparación salarial de policías y guardias civiles, con más sanciones por resistencia a la autoridad. Promete también "bajar la edad penal" y revisar la ley del menor (medida 379) [1]. En la legislatura añadió, mediante una proposición de ley, la sustitución de las penas de los delincuentes extranjeros por su expulsión [7].
 

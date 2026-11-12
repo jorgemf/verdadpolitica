@@ -1,10 +1,10 @@
 ---
 partido: pp
 tema: sanidad
-propuesta: "Fortalecer la sanidad pública con más médicos y mejores condiciones laborales y retributivas (Contrato con España, octubre de 2026; el programa del 29-N no está publicado). En 2023 proponía un plan de choque de atención primaria con un MIR extraordinario y un plan nacional contra las agresiones a sanitarios."
+propuesta: "Un Pacto de Estado por la Sanidad Pública con un plan urgente contra las listas de espera, al menos 4.500 médicos más en atención primaria, más plazas de formación especializada, un ámbito de negociación propio para los médicos, guardias más cortas, un Plan de Salud Mental 2027-2037 y una ley de cuidados paliativos."
 balance: "Pactó y votó la ley de la ELA (2024). El Congreso rechazó en 2025 su ley contra las agresiones a sanitarios. Votó contra la primera ley de la Agencia de Salud Pública y se abstuvo en el Senado en la segunda. Apoyó a los médicos frente al Estatuto Marco. En Andalucía, la consejera de Salud dimitió por los cribados."
 coherencia: coherente
-actualizado: 2026-11-06
+actualizado: 2026-11-12
 fuentes:
   - titulo: "Mi contrato con España"
     url: https://www.pp.es/wp-content/uploads/2026/10/CONTRATO-CON-ESPANA-.pdf
@@ -56,9 +56,16 @@ fuentes:
     medio: RTVC (EFE)
     fecha: 2025-10-08
     tipo: prensa
+  - titulo: "Reconstrucción Nacional. El programa del cambio necesario para España"
+    url: https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf
+    medio: Partido Popular
+    fecha: 2026-11-10
+    tipo: partido
 ---
 
-A 6 de noviembre de 2026 el PP no ha publicado su programa para el 29-N. Su propuesta oficial más reciente es el "Contrato con España" (19 de octubre de 2026), que se compromete a "fortalecer la Sanidad Pública: más médicos y con mejores condiciones". Lo justifica en que la población ha crecido en más de cuatro millones de personas "sin que los servicios públicos se hayan preparado para ello" y propone "mejorar las plantillas de los profesionales sanitarios, velando especialmente por el aumento de médicos y la mejora de sus condiciones laborales y retributivas", sin cifras ni medidas concretas [1]. El programa de 2023 prometía "un Plan de Choque en atención sanitaria" contra el déficit de especialistas y "un Plan Nacional contra las agresiones a los profesionales sanitarios" (medida 16), además de una tarjeta sanitaria única y la historia clínica electrónica compartida (medida 22) [2]. En la investidura, Feijóo concretó el plan de choque de atención primaria: "convocar un MIR extraordinario para médicos de familia y primar a aquellos que decidan ejercer su actividad en el medio rural", y otro plan para la salud mental [3].
+El programa del PP para el 29-N, «Reconstrucción Nacional» (10 de noviembre de 2026), se propone que España sea «referente mundial en sanidad y cuidados» [11]. Promete un Pacto de Estado por la Sanidad Pública con las comunidades y un «plan urgente de reducción de listas de espera», con la sanidad como uno de los pilares de la nueva financiación autonómica (medida 219); incorporar más profesionales, «en Atención Primaria, al menos 4.500 médicos más», aumentar la oferta de formación sanitaria especializada, reconocer a los médicos «un ámbito de negociación propio» sobre sus condiciones laborales y reducir la duración de las guardias (medida 220); fortalecer la Agencia Estatal de Salud Pública (medida 222); un Plan Nacional de Salud Mental 2027-2037 con financiación garantizada (medida 223); acortar los plazos para financiar nuevos medicamentos y crear un fondo para enfermedades raras y terapias avanzadas (medida 224), y deducciones en el IRPF para las familias con un enfermo de cáncer, ELA u otra enfermedad grave (medida 225). También una tarjeta y un historial sociosanitario únicos en toda España (medida 93) y una ley nacional de cuidados paliativos «con el fin de que nadie se vea empujado a la aceleración de la muerte por falta de alternativas» (medida 226). El programa no menciona la ley de eutanasia [11].
+
+Concreta así el compromiso del "Contrato con España" (19 de octubre de 2026) de "fortalecer la Sanidad Pública: más médicos y con mejores condiciones", que no daba cifras [1]. El programa de 2023 prometía "un Plan de Choque en atención sanitaria" contra el déficit de especialistas y "un Plan Nacional contra las agresiones a los profesionales sanitarios" (medida 16), además de una tarjeta sanitaria única y la historia clínica electrónica compartida (medida 22) [2]. El de 2026 no incluye un plan contra las agresiones a los sanitarios. En la investidura, Feijóo concretó el plan de choque de atención primaria: "convocar un MIR extraordinario para médicos de familia y primar a aquellos que decidan ejercer su actividad en el medio rural", y otro plan para la salud mental [3].
 
 La sanidad es competencia sobre todo autonómica, y en el Estado el PP estuvo en la oposición. En el Congreso pactó con PSOE, Sumar y Junts la ley de la ELA, aprobada por unanimidad el 10 de octubre de 2024 [4]. El 11 de febrero de 2025 el Pleno rechazó, por 173 votos a 171, tomar en consideración su proposición de ley sobre la violencia en el ámbito sanitario [5]. Con la ley de la Agencia Estatal de Salud Pública, el PP votó en contra en marzo de 2025, junto a Vox y Junts, y el texto decayó; en el segundo intento se abstuvo en el Senado, donde incorporó enmiendas, y la ley salió adelante en julio de 2025. Su portavoz, Elvira Velasco, criticó la falta de memoria económica [6]. En 2026 rechazó el proyecto de ley de gestión pública del Sistema Nacional de Salud, al que acusó de "criminalizar" la colaboración público-privada [9]; el proyecto caducó con la disolución.
 
@@ -66,4 +73,4 @@ En el conflicto por el Estatuto Marco, Feijóo se reunió con el comité de huel
 
 En Andalucía, gobernada por el PP, la consejera de Salud, Rocío Hernández, dimitió en octubre de 2025 por los fallos en el cribado del cáncer de mama, con unas 2.000 mujeres con resultados dudosos; Juanma Moreno pidió disculpas y anunció un plan para completar antes del 30 de noviembre las pruebas pendientes, con la contratación de 119 profesionales [10].
 
-La coherencia es alta. Sus iniciativas y votos en las Cortes van en la línea de lo que propone. El voto contra la primera versión de la Agencia de Salud Pública lo justificó por la falta de memoria económica, no por oposición al objetivo. El plan de choque y el MIR extraordinario eran medidas de Gobierno. La crisis de los cribados es un episodio de gestión autonómica, no una actuación contraria a sus propuestas.
+La coherencia es alta. Sus iniciativas y votos en las Cortes van en la línea de lo que propone, y el ámbito de negociación propio para los médicos que recoge el programa coincide con lo que Feijóo ofreció al comité de huelga en febrero de 2026 [7]. El voto contra la primera versión de la Agencia de Salud Pública lo justificó por la falta de memoria económica, no por oposición al objetivo; el programa de 2026 propone fortalecerla. El plan de choque y el MIR extraordinario eran medidas de Gobierno. La crisis de los cribados es un episodio de gestión autonómica, no una actuación contraria a sus propuestas.

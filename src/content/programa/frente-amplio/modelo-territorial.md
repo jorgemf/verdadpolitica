@@ -4,7 +4,7 @@ tema: modelo-territorial
 propuesta: "Frente Amplio no ha presentado propuestas territoriales nuevas. Las últimas oficiales son las de Sumar en 2023: reconocer a España como «una realidad plurinacional, un país de países» y negociar un nuevo pacto territorial para desarrollar los autogobiernos y el gobierno compartido."
 balance: "Firmó la reforma del Reglamento que permite las lenguas cooficiales en el Congreso (2023) y votó la ley de amnistía, aprobada en 2024 por 177 votos a 172, que había propuesto antes de la investidura. Apoyó la delegación de inmigración a Cataluña, rechazada en 2025 con dos votos en contra de sus diputados."
 coherencia: coherente
-actualizado: 2026-11-06
+actualizado: 2026-11-12
 fuentes:
   - titulo: "Un programa para ti. Programa electoral de Sumar para las elecciones generales de 2023"
     url: https://movimientosumar.es/wp-content/uploads/2023/07/Un-Programa-para-ti.pdf
@@ -62,7 +62,7 @@ fuentes:
     tipo: prensa
 ---
 
-A 6 de noviembre de 2026 Frente Amplio no ha publicado su programa para el 29-N. Las propuestas oficiales más recientes son las del programa de Sumar de 2023, que definía España como "una realidad plurinacional, un país de países" y proponía un nuevo pacto territorial "para un mejor desarrollo de los autogobiernos y del gobierno compartido" [1]. La coalición integra partidos de ámbito autonómico como Catalunya en Comú y Chunta Aragonesista.
+A 12 de noviembre de 2026 Frente Amplio no ha publicado su programa para el 29-N. Las propuestas oficiales más recientes son las del programa de Sumar de 2023, que definía España como "una realidad plurinacional, un país de países" y proponía un nuevo pacto territorial "para un mejor desarrollo de los autogobiernos y del gobierno compartido" [1]. La coalición integra partidos de ámbito autonómico como Catalunya en Comú y Chunta Aragonesista.
 
 En septiembre de 2023 Sumar registró con PSOE, ERC, PNV, EH Bildu y BNG la reforma del Reglamento del Congreso que permite usar el catalán, el euskera y el gallego en la Cámara [5]. Tras anunciarlo a principios de octubre [6], el 10 de octubre de 2023, antes de la investidura, presentó en Barcelona una propuesta de ley de amnistía elaborada por un grupo de juristas [8]. En noviembre de 2025 cuatro de sus diputados firmaron con ERC, EH Bildu, PNV y BNG una ley de garantía del plurilingüismo, que se tomó en consideración el 9 de diciembre de 2025 por 174 votos a 170 [7]; su plazo de enmiendas se amplió hasta la disolución y caducó el 6 de octubre de 2026 [9].
 

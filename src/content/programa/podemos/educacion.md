@@ -4,7 +4,7 @@ tema: educacion
 propuesta: "Contratar 40.000 docentes con el aumento del gasto militar (Irene Montero, noviembre de 2026); ratios máximas en la etapa de 0 a 3 años y libros y material escolar gratuitos para todo el alumnado (mociones de mayo y septiembre de 2026)."
 balance: "Su moción sobre la etapa de 0 a 3 años se rechazó el 20 de mayo de 2026 por un voto (169 a 170), con PP y Vox en contra y Junts abstenido. La gratuidad del material escolar se rechazó el 16 de septiembre de 2026 por 18 votos a favor, 171 en contra y 157 abstenciones, entre ellas las de PSOE y Sumar."
 coherencia: coherente
-actualizado: 2026-11-06
+actualizado: 2026-11-12
 fuentes:
   - titulo: "Paz, casa y trabajo. Cinco cosas (web de campaña de Podemos para el 29-N)"
     url: https://pazcasaytrabajo.es/
@@ -48,7 +48,7 @@ fuentes:
     tipo: prensa
 ---
 
-A 6 de noviembre de 2026 Podemos no ha publicado un programa completo para el 29-N. Su web de campaña pide «sanidad y educación pública con recursos suficientes» y «más profesionales y mejor pagados», sin más detalle [1]. El 6 de noviembre de 2026 Irene Montero propuso destinar los 24.000 millones de euros que, según los cálculos de Podemos, ha aumentado el gasto militar desde 2023 a otras partidas («para armas lo han encontrado, sobradamente»), entre ellas contratar 40.000 docentes [7][8]. Sus propuestas concretas proceden de dos mociones de 2026. En mayo pidió reducir las ratios en el primer ciclo de educación infantil, con una referencia máxima de tres bebés menores de un año por educadora, e incorporar plenamente la etapa de 0 a 3 años a la legislación educativa básica del Estado [2]. En septiembre pidió un plan estatal que garantice gratis a todo el alumnado, «con independencia de la renta familiar», los libros de texto y el material escolar, mediante préstamo y reutilización [4].
+A 12 de noviembre de 2026 Podemos no ha publicado un programa completo para el 29-N. Su web de campaña pide «sanidad y educación pública con recursos suficientes» y «más profesionales y mejor pagados», sin más detalle [1]. El 6 de noviembre de 2026 Irene Montero propuso destinar los 24.000 millones de euros que, según los cálculos de Podemos, ha aumentado el gasto militar desde 2023 a otras partidas («para armas lo han encontrado, sobradamente»), entre ellas contratar 40.000 docentes [7][8]. Sus propuestas concretas proceden de dos mociones de 2026. En mayo pidió reducir las ratios en el primer ciclo de educación infantil, con una referencia máxima de tres bebés menores de un año por educadora, e incorporar plenamente la etapa de 0 a 3 años a la legislación educativa básica del Estado [2]. En septiembre pidió un plan estatal que garantice gratis a todo el alumnado, «con independencia de la renta familiar», los libros de texto y el material escolar, mediante préstamo y reutilización [4].
 
 En la legislatura, la moción sobre la etapa de 0 a 3 años, votada en los términos de una enmienda transaccional, se rechazó el 20 de mayo de 2026 por 169 votos a favor (entre ellos los de PSOE, Sumar y Podemos), 170 en contra (PP y Vox, más un diputado del Grupo Mixto) y 8 abstenciones, siete de ellas de Junts [3]. La gratuidad del material escolar se rechazó el 16 de septiembre de 2026 por 18 votos a favor, 171 en contra (PP y Vox, entre otros) y 157 abstenciones, entre ellas las de PSOE, Sumar y Junts [5].
 

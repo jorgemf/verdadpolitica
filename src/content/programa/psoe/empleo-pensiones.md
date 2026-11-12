@@ -4,7 +4,7 @@ tema: empleo-pensiones
 propuesta: "Reformar la Constitución para «blindar las pensiones y su revalorización conforme al IPC», revalorizarlas con el IPC cuatro años más, incluir en la Constitución que el SMI supere siempre el 60 % del salario medio y reducir la jornada para que no se trabajen más de 36 horas en 2030."
 balance: "Subió el SMI cada año hasta 1.221 euros en 2026, amplió el permiso por nacimiento a 19 de las 20 semanas prometidas y mantuvo la revalorización de las pensiones con el IPC. El Congreso tumbó la jornada de 37,5 horas. El Gobierno vetó una enmienda que fijaba el SMI en el 60 % en el Estatuto."
 coherencia: parcial
-actualizado: 2026-11-06
+actualizado: 2026-11-12
 fuentes:
   - titulo: "Sánchez acusa a PP y Vox de «recortar» el derecho al voto y promete revalorizar las pensiones durante otros cuatro años"
     url: https://www.democrata.es/elecciones-generales-espana/sanchez-acusa-pp-vox-recortar-derecho-voto-promete-revalorizar-pensiones-durante-otros-cuatro-anos/
@@ -51,10 +51,21 @@ fuentes:
     medio: Demócrata
     fecha: 2026-10-26
     tipo: prensa
+  - titulo: "Sánchez insiste en blindar pensiones y subir el SMI, y pide votar \"en masa\" para \"llegar mucho más lejos\""
+    url: https://www.infobae.com/espana/agencias/2026/11/08/sanchez-insiste-en-blindar-pensiones-y-subir-el-smi-y-pide-votar-en-masa-para-llegar-mucho-mas-lejos/
+    medio: Infobae (Europa Press)
+    fecha: 2026-11-08
+    tipo: prensa
+  - titulo: "Sánchez convierte su mitin de Bilbao en un llamamiento a votar «en masa» y a reformar la Constitución"
+    url: https://www.moncloa.com/2026/11/08/sanchez-mitin-bilbao-reforma-constitucion-3464155/
+    medio: Moncloa.com
+    fecha: 2026-11-08
+    tipo: prensa
 ---
 
 Sin programa publicado para el 29-N, las propuestas proceden de los mítines de precampaña y de los acuerdos del 41.º Congreso Federal:
 - En Zaragoza, el 14 de octubre de 2026, Sánchez prometió mantener cuatro años más la revalorización de las pensiones con el IPC si sigue en el Gobierno [1]. En el mitin de Fuenlabrada que abrió la precampaña, el 17 de octubre, insistió: «las pensiones no se tocan» [7]. En Gijón, el 26 de octubre, prometió: «En la próxima legislatura reformaremos la Constitución para blindar las pensiones y su revalorización conforme al IPC» [8][9].
+- En Bilbao, el 8 de noviembre de 2026, se comprometió a que su Gobierno «subirá todos los años el Salario Mínimo Interprofesional» mientras gobierne y reiteró la reforma constitucional de las pensiones [10][11].
 - En su congreso de noviembre de 2024, el partido acordó «incluir en la Constitución la obligatoriedad de revalorizar el Salario Mínimo Interprofesional (SMI) para que siempre esté por encima del 60 % del salario medio» [2].
 - También acordó avanzar hacia una jornada en la que «no se trabajen más de 36 horas en 2030» [2].
 

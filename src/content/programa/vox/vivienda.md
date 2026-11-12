@@ -4,7 +4,7 @@ tema: vivienda
 propuesta: "Derogar la Ley de Vivienda de 2023, construir vivienda pública \"masivamente\" y adjudicarla con \"prioridad nacional\", liberalizar el suelo y desregular la construcción, ayudas directas a jóvenes compradores, suprimir impuestos a la primera vivienda y \"tolerancia cero\" con la ocupación ilegal."
 balance: "Votó contra los RDL 26/2026 y 27/2026 de vivienda, que el Congreso no convalidó en octubre de 2026. El Congreso rechazó en junio su moción de prioridad nacional en vivienda. En Extremadura y en los presupuestos valencianos de 2026 pactó con el PP una prioridad por empadronamiento y arraigo, no por nacionalidad."
 coherencia: parcial
-actualizado: 2026-11-06
+actualizado: 2026-11-12
 fuentes:
   - titulo: "Programa electoral para las Elecciones Generales del 23J de 2023"
     url: https://theobjective.com/wp-content/uploads/2023/07/programa-vox-23j.pdf
@@ -55,11 +55,26 @@ fuentes:
     medio: El Debate (entrevista de EFE)
     fecha: 2026-10-11
     tipo: prensa
+  - titulo: "Abascal, en Telemadrid: \"La vivienda es el mayor drama social de España\""
+    url: https://www.telemadrid.es/entrevistas/abascal-telemadrid-vivienda-mayor-drama_1_2774702.html
+    medio: Telemadrid
+    fecha: 2026-10-26
+    tipo: prensa
+  - titulo: "Abascal y Broncano debaten de todo en una tensa edición de 'La Revuelta': \"No has tenido huevos a decírselo a Israel\""
+    url: https://www.diariodepontevedra.es/articulo/espana/abascal-broncano-debaten-todo-tensa-edicion-revuelta-has-tenido-huevos-decirselo-israel/202611100040391476328.html
+    medio: Diario de Pontevedra (Europa Press)
+    fecha: 2026-11-10
+    tipo: prensa
+  - titulo: "Abascal en 'La Revuelta': debate sobre vivienda, inmigración y choque con Broncano"
+    url: https://www.democrata.es/elecciones-generales-espana/abascal-revuelta-entrevista-broncano/
+    medio: Demócrata
+    fecha: 2026-11-10
+    tipo: prensa
 ---
 
-A 6 de noviembre de 2026, Vox no ha publicado programa para el 29-N. Se recogen el programa de 2023 [1], su plan de desregulación de junio de 2026 [2] y las propuestas que presentó al arrancar la precampaña [10].
+A 12 de noviembre de 2026, Vox no ha publicado programa para el 29-N. Se recogen el programa de 2023 [1], su plan de desregulación de junio de 2026 [2] y las propuestas que presentó al arrancar la precampaña [10].
 
-**Qué proponen.** En 2023 prometía "tolerancia cero con la ocupación ilegal", eximir del IBI a los propietarios afectados y liberar "todo el suelo" que no deba estar protegido [1]. El plan de 2026 añade la derogación de la Ley de Vivienda y el bloqueo de la regulación de precios del alquiler [2]. El 11 de octubre de 2026, el secretario general, Ignacio Garriga, propuso "incrementar de forma considerable la oferta de vivienda pública" y adjudicarla con "prioridad nacional", liberalizar el suelo, reducir la carga fiscal, dar ayudas directas a los jóvenes para la primera vivienda y aplazar el pago de algunos impuestos de la compraventa. No detalló cómo se aplicaría la preferencia por nacionalidad [10].
+**Qué proponen.** En 2023 prometía "tolerancia cero con la ocupación ilegal", eximir del IBI a los propietarios afectados y liberar "todo el suelo" que no deba estar protegido [1]. El plan de 2026 añade la derogación de la Ley de Vivienda y el bloqueo de la regulación de precios del alquiler [2]. El 11 de octubre de 2026, el secretario general, Ignacio Garriga, propuso "incrementar de forma considerable la oferta de vivienda pública" y adjudicarla con "prioridad nacional", liberalizar el suelo, reducir la carga fiscal, dar ayudas directas a los jóvenes para la primera vivienda y aplazar el pago de algunos impuestos de la compraventa. No detalló cómo se aplicaría la preferencia por nacionalidad [10]. En Telemadrid, el 26 de octubre, Abascal llamó a la vivienda «el mayor drama social que vive España», atribuyó la demanda a la «invasión migratoria» y propuso liberalizar el suelo, acabar con las «regulaciones ideológicas» y rebajar los impuestos a la construcción y la compraventa [11]. En «La Revuelta» (TVE), el 9 de noviembre, defendió eliminar los impuestos a la compra de la primera vivienda, construir más vivienda pública y liberar suelo, y dijo: «Yo creo que el Estado tiene que intervenir cuando hay una práctica abusiva en el mercado» [12][13].
 
 **Qué han hecho.** Vox votó en contra de los dos reales decretos-ley de vivienda del Gobierno. En octubre de 2026 el Congreso no convalidó el RDL 26/2026, de vivienda asequible (172-178), ni el RDL 27/2026, sobre estabilidad de los contratos de alquiler (166-184). En este último votaron en contra PP, Vox, Junts, PNV y UPN [3][4]. El 18 de junio de 2026, el resto de la Cámara rechazó una moción de Vox que pedía aplicar la "prioridad nacional" en la vivienda protegida y en las ayudas, y suprimir impuestos a la compra de la primera vivienda [5]. El 18 de febrero de 2025 el Congreso rechazó tramitar, por 169 votos a 174, su ley para impedir que los okupas se empadronen y anotar en el padrón la situación irregular de los inmigrantes [9].
 

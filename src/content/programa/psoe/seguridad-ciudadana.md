@@ -4,7 +4,7 @@ tema: seguridad-ciudadana
 propuesta: "Sin propuestas nuevas para el 29-N, las últimas oficiales son las del programa de 2023 (más plantilla de la Guardia Civil en el medio rural, una reforma para desalojar a los ocupas ilegales en 48 horas como máximo, combatir las mafias de la ocupación) y el compromiso con Sumar de reformar la «ley mordaza»."
 balance: "Firmó la reforma de la «ley mordaza», que caducó en ponencia, y votó con PP y Junts la ley de multirreincidencia. No presentó la reforma de desalojos en 48 horas: apoyó tramitar la de Junts, que no pasó de enmiendas, y votó contra la ley del PP y contra los juicios rápidos por ocupación."
 coherencia: coherente
-actualizado: 2026-11-06
+actualizado: 2026-11-12
 fuentes:
   - titulo: "Programa electoral del PSOE. Elecciones generales 23 de julio de 2023"
     url: https://www.psoe.es/media-content/2023/07/PROGRAMA_ELECTORAL-GENERALES-2023.pdf
@@ -77,7 +77,7 @@ fuentes:
     tipo: oficial
 ---
 
-A 6 de noviembre de 2026 el PSOE no ha publicado su programa para el 29-N ni ha anunciado medidas nuevas de seguridad ciudadana. Las propuestas oficiales más recientes son las del programa de 2023: aumentar la plantilla de la Guardia Civil en el medio rural, porque «la apuesta por la permanencia de la Guardia Civil en el territorio pasa por el incremento de las plantillas»; impulsar «la reforma Legislativa normativa para garantizar el desalojo de los ocupas ilegales en un plazo máximo de 48 horas»; combatir «las estructuras mafiosas que delinquen con las ocupaciones de vivienda»; y reforzar la ciberseguridad [1]. Ese programa no mencionaba la ley de seguridad ciudadana. El acuerdo de Gobierno con Sumar de octubre de 2023 sí incluyó reformar y derogar los aspectos de la «ley mordaza» que limitan los derechos de reunión y expresión [2].
+A 12 de noviembre de 2026 el PSOE no ha publicado su programa para el 29-N ni ha anunciado medidas nuevas de seguridad ciudadana. Las propuestas oficiales más recientes son las del programa de 2023: aumentar la plantilla de la Guardia Civil en el medio rural, porque «la apuesta por la permanencia de la Guardia Civil en el territorio pasa por el incremento de las plantillas»; impulsar «la reforma Legislativa normativa para garantizar el desalojo de los ocupas ilegales en un plazo máximo de 48 horas»; combatir «las estructuras mafiosas que delinquen con las ocupaciones de vivienda»; y reforzar la ciberseguridad [1]. Ese programa no mencionaba la ley de seguridad ciudadana. El acuerdo de Gobierno con Sumar de octubre de 2023 sí incluyó reformar y derogar los aspectos de la «ley mordaza» que limitan los derechos de reunión y expresión [2].
 
 En la legislatura:
 - El Grupo Socialista firmó con Sumar, EH Bildu y PNV la proposición de ley orgánica de protección de las libertades y seguridad ciudadana, que el Pleno tomó en consideración el 29 de octubre de 2024 por 176 votos a 170 [3].

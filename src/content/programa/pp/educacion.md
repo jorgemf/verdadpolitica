@@ -1,10 +1,10 @@
 ---
 partido: pp
 tema: educacion
-propuesta: "Una educación que premie el esfuerzo, más exigente y con más autoridad docente, contenidos de las reales academias, el castellano garantizado en toda España y protección de los menores ante las redes (Contrato con España, 2026). En 2023 proponía reformar la LOMLOE, una EBAU común y la gratuidad de 0 a 3 años."
+propuesta: "Sustituir la LOMLOE por un nuevo marco pactado, una PAU común, enseñanza en castellano en toda España, no cerrar centros de educación especial ni conciertos con demanda, pasar de curso en la ESO con todo aprobado, 0 a 3 años gratis al final de la legislatura y prohibir las redes sociales a menores de 14 años."
 balance: "El Congreso rechazó en 2025 su ley para reforzar los centros de educación especial. Con su mayoría en el Senado aprobó en 2024 una moción por una EBAU común. Votó contra los vetos de PNV y Junts a la ley de ratios del Gobierno, que caducó. Sus comunidades rechazaron en 2026 el plan estatal de educación inclusiva."
 coherencia: coherente
-actualizado: 2026-11-06
+actualizado: 2026-11-12
 fuentes:
   - titulo: "Mi contrato con España"
     url: https://www.pp.es/wp-content/uploads/2026/10/CONTRATO-CON-ESPANA-.pdf
@@ -56,9 +56,16 @@ fuentes:
     medio: Congreso de los Diputados
     fecha: 2025-10-20
     tipo: oficial
+  - titulo: "Reconstrucción Nacional. El programa del cambio necesario para España"
+    url: https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf
+    medio: Partido Popular
+    fecha: 2026-11-10
+    tipo: partido
 ---
 
-A 6 de noviembre de 2026 el PP no ha publicado su programa para el 29-N. Su propuesta oficial más reciente es el "Contrato con España" (19 de octubre de 2026), que se compromete a "elevar el nivel educativo": la educación "tiene que premiar el esfuerzo, incrementar la exigencia y reforzar la autoridad del docente", los contenidos "serán elaborados por las reales academias" y "se erradicará cualquier adoctrinamiento de las aulas". Añade que se garantizará "la enseñanza del castellano en toda España y de las lenguas cooficiales en sus respectivas Comunidades Autónomas" y que se protegerá a los menores "frente a las redes sociales" [1]. El programa de 2023 prometía reformar la LOMLOE, la gratuidad de la educación de 0 a 3 años, un programa de tutorías extraordinario y "una EBAU común" (medida 17), además de defender la educación especial (medida 23) [2]. En la investidura, Feijóo se comprometió a que su Gobierno "respetará la educación especial para las familias que lo deseen" y a negociar una ley de educación estable [3].
+El programa del PP para el 29-N, «Reconstrucción Nacional» (10 de noviembre de 2026), se fija como objetivo que España tenga «su mejor resultado en PISA en cuatro años» [11]. Propone acordar con docentes, inspectores, expertos y familias «un nuevo marco educativo que sustituya a la LOMLOE», con refuerzo en el mismo curso para quien tenga dificultades de lectura y cálculo (medida 209); una nota mínima para acceder a Magisterio y una carrera profesional docente (medida 211); poder elegir centro en todo el municipio y que ningún concierto se elimine «donde haya demanda suficiente», con conciertos de al menos seis años (medida 212); que los centros de educación especial «no se cerrarán» (medida 213); que en la ESO se vuelva a pasar de curso «con las asignaturas aprobadas» (medida 215), y la beca como derecho por ley «para quien la necesite y apruebe» (medida 218). También una prueba de acceso a la universidad (PAU) común (medida 95), garantizar la enseñanza en castellano «en todas las etapas del sistema educativo y en toda la Nación» (medida 96), que los currículos de Historia se elaboren con las Reales Academias y las sociedades científicas (medida 133), que la escuela de 0 a 3 años sea gratuita al terminar la legislatura, con el Estado pagando la mitad de cada plaza (medida 163), y que ningún menor de 14 años pueda tener cuenta en redes sociales y hasta los 16 necesite autorización de sus padres (medida 168) [11].
+
+Las propuestas desarrollan el "Contrato con España" (19 de octubre de 2026), que prometía una educación que premiara el esfuerzo y reforzara la autoridad del docente, la enseñanza del castellano en toda España y proteger a los menores "frente a las redes sociales" [1]. El Contrato decía que los contenidos "serán elaborados por las reales academias"; el programa lo limita a los currículos de Historia. El programa de 2023 ya prometía reformar la LOMLOE, la gratuidad de la educación de 0 a 3 años y "una EBAU común" (medida 17), además de defender la educación especial (medida 23) [2]. En la investidura, Feijóo se comprometió a que su Gobierno "respetará la educación especial para las familias que lo deseen" y a negociar una ley de educación estable [3].
 
 La educación es competencia sobre todo autonómica, y en el Estado el PP estuvo en la oposición. Sus principales iniciativas en las Cortes fueron:
 

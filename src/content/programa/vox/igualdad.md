@@ -4,7 +4,7 @@ tema: igualdad
 propuesta: "Derogar la Ley Integral de Violencia de Género y los juzgados de violencia sobre la mujer y sustituirlos por una ley para todas las víctimas de violencia doméstica; derogar la ley del «solo sí es sí» con más penas, incluida la prisión permanente; suprimir cuotas y planes de igualdad y derogar la ley trans."
 balance: "El Congreso rechazó en 2023 su ley de delitos sexuales (33-316). Fue el único grupo que votó contra renovar el Pacto de Estado contra la Violencia de Género (2025) y el único que apoyó su enmienda de totalidad a la ley de violencia vicaria (2026). No registró en la XV ninguna ley para derogar la de violencia de género."
 coherencia: coherente
-actualizado: 2026-11-06
+actualizado: 2026-11-12
 fuentes:
   - titulo: "Programa electoral para las Elecciones Generales del 23J de 2023"
     url: https://theobjective.com/wp-content/uploads/2023/07/programa-vox-23j.pdf
@@ -45,11 +45,21 @@ fuentes:
     medio: Canal 26
     fecha: 2026-02-18
     tipo: prensa
+  - titulo: "Abascal y Broncano debaten de todo en una tensa edición de 'La Revuelta': \"No has tenido huevos a decírselo a Israel\""
+    url: https://www.diariodepontevedra.es/articulo/espana/abascal-broncano-debaten-todo-tensa-edicion-revuelta-has-tenido-huevos-decirselo-israel/202611100040391476328.html
+    medio: Diario de Pontevedra (Europa Press)
+    fecha: 2026-11-10
+    tipo: prensa
+  - titulo: "Abascal y Broncano protagonizan un tenso debate en 'La Revuelta'"
+    url: https://www.ultimahora.es/noticias/elecciones-29n/2026/11/10/2746681/abascal-broncano-protagonizan-tenso-debate-revuelta.html
+    medio: Última Hora
+    fecha: 2026-11-10
+    tipo: prensa
 ---
 
-A 6 de noviembre de 2026, Vox no ha publicado programa para el 29-N. Se recogen el programa de 2023 [1] y su actuación en la legislatura.
+A 12 de noviembre de 2026, Vox no ha publicado programa para el 29-N. Se recogen el programa de 2023 [1] y su actuación en la legislatura.
 
-**Qué proponen.** El programa de 2023 promete una ley "que proteja a todas las posibles víctimas de violencia en el ámbito doméstico" y derogar "la Ley Integral de Violencia de Género, que consagra la asimetría penal" (medida 10). También promete eliminar "los Juzgados de Violencia sobre la mujer" (medida 278), suprimir las cuotas y los planes de igualdad obligatorios (medida 11) y derogar la ley trans (medida 375). Sobre la ley del "solo sí es sí", propone sustituirla "por una ley que aumente las penas a todos los violadores, incluyendo la prisión permanente" (medida 376) [1].
+**Qué proponen.** El programa de 2023 promete una ley "que proteja a todas las posibles víctimas de violencia en el ámbito doméstico" y derogar "la Ley Integral de Violencia de Género, que consagra la asimetría penal" (medida 10). También promete eliminar "los Juzgados de Violencia sobre la mujer" (medida 278), suprimir las cuotas y los planes de igualdad obligatorios (medida 11) y derogar la ley trans (medida 375). Sobre la ley del "solo sí es sí", propone sustituirla "por una ley que aumente las penas a todos los violadores, incluyendo la prisión permanente" (medida 376) [1]. En «La Revuelta» (TVE), el 9 de noviembre de 2026, Abascal calificó de «ineficaz» la ley de violencia de género y pidió revisarla: «¿Tú crees que tiene que seguir una ley que realmente no ha conseguido solucionar aquello que quiere combatir?». Añadió que los hombres que agreden a las mujeres merecen «todo el reproche penal» y que los violadores no deben salir de prisión [9][10].
 
 **Qué han hecho.** El 12 de diciembre de 2023 el Pleno rechazó, por 33 votos a favor y 316 en contra, su proposición de ley para volver a distinguir entre abuso y agresión sexual y castigar con prisión permanente revisable las violaciones en grupo [2]. En febrero de 2025 fue el único grupo que votó contra la renovación del Pacto de Estado contra la Violencia de Género en la comisión de seguimiento, que la aprobó por 34 votos a favor y 3 en contra [3][4]. El 30 de septiembre de 2026 el Pleno rechazó, con el voto en contra de todos los demás grupos, su enmienda de devolución al proyecto de ley de violencia vicaria, que Vox considera discriminatorio por razón de sexo [5][6]. En la XV legislatura no registró ninguna proposición de ley para derogar la Ley Orgánica 1/2004 ni para crear una ley de violencia intrafamiliar, según los datos abiertos del Congreso consultados el 23 de octubre de 2026 [7]. En febrero de 2026 se rechazó, con 170 votos a favor y 177 en contra, su ley orgánica "para la protección de la dignidad de las mujeres y la seguridad ciudadana en el espacio público", que prohibía el burka y el niqab [8].
 

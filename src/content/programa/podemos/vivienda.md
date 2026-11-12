@@ -1,10 +1,10 @@
 ---
 partido: podemos
 tema: vivienda
-propuesta: "Rebajar por ley un 40 % todos los alquileres, expropiar el uso de las viviendas turísticas ilegales y de las de grandes propietarios para el parque público, y controlar los precios (moción de septiembre de 2026 y presentación de la candidatura de Irene Montero)."
+propuesta: "Prohibir comprar vivienda para especular (web de campaña e Irene Montero, noviembre de 2026), rebajar por ley un 40 % todos los alquileres, expropiar el uso de las viviendas turísticas ilegales y de las de grandes propietarios para el parque público y controlar los precios (moción de septiembre de 2026)."
 balance: "Registró en 2024 una ley de contratos de 10 años y congelación de rentas, que caducó. Sus mociones para rebajar los alquileres un 40 % se rechazaron en 2025 (12 a 301) y 2026 (19 a 183). Votó a favor de los decretos de alquiler RDL 8/2026, 26/2026 y 27/2026, derogados por el Congreso."
 coherencia: coherente
-actualizado: 2026-11-06
+actualizado: 2026-11-12
 fuentes:
   - titulo: "Irene Montero presenta su candidatura a las generales: \"La gente buena es mayoría\""
     url: https://es.ara.cat/politica/irene-montero-presenta-candidatura-generales-gente-buena_1_5848007.html
@@ -41,9 +41,24 @@ fuentes:
     medio: ESdiario
     fecha: 2026-10-01
     tipo: prensa
+  - titulo: "Paz, casa y trabajo. Cinco cosas (web de campaña de Podemos para el 29-N)"
+    url: https://pazcasaytrabajo.es/
+    medio: Podemos
+    fecha: 2026-10-19
+    tipo: partido
+  - titulo: "Irene Montero plantea bajar la edad de jubilación a 63 años y subir las pensiones mínimas y las no contributivas"
+    url: https://www.pressdigital.es/articulo/politica/2026-11-06/6081656-irene-montero-plantea-bajar-edad-jubilacion-63-anos-subir-pensiones-minimas-no-contributivas
+    medio: Press Digital (Europa Press)
+    fecha: 2026-11-06
+    tipo: prensa
+  - titulo: "Irene Montero reta a Frente Amplio con una rebaja de la edad de jubilación a los 63"
+    url: https://www.libertaddigital.com/libremercado/2026-11-06/irene-montero-reta-a-frente-amplio-a-con-una-rebaja-de-la-edad-de-jubilacion-a-los-63-7487723/
+    medio: Libre Mercado (Libertad Digital)
+    fecha: 2026-11-06
+    tipo: prensa
 ---
 
-A 6 de noviembre de 2026 Podemos no ha publicado un programa completo para el 29-N. La propuesta recoge su última moción en el Congreso, de septiembre de 2026: rebajar por ley «la cuantía de todos los alquileres un 40 %» y expropiar el uso de las viviendas turísticas ilegales y de las 650.000 viviendas que atribuye a grandes propietarios [2]. Al presentar su candidatura, Irene Montero defendió la «expropiación y el control de precios» [1].
+A 12 de noviembre de 2026 Podemos no ha publicado un programa completo para el 29-N. La propuesta recoge su última moción en el Congreso, de septiembre de 2026: rebajar por ley «la cuantía de todos los alquileres un 40 %» y expropiar el uso de las viviendas turísticas ilegales y de las 650.000 viviendas que atribuye a grandes propietarios [2]. Al presentar su candidatura, Irene Montero defendió la «expropiación y el control de precios» [1]. Su web de campaña, de octubre, abre con «Las casas son para vivir» y «Nadie que quiera especular debería poder comprar una vivienda en España» [8]. El 6 de noviembre de 2026 Montero concretó esa idea: prohibir la compra de vivienda con fines especulativos, permitirla solo para residir en ella e incorporar al alquiler social las viviendas acumuladas por fondos de inversión, sin detallar cómo [9] [10].
 
 En la legislatura, Podemos registró en mayo de 2024 una proposición de ley con contratos mínimos de 10 años (12 si el casero es una empresa) y congelación de rentas, que no llegó a debatirse [3]. Sus mociones para rebajar los alquileres un 40 % se rechazaron el 19 de febrero de 2025, por 12 votos a favor y 301 en contra, y el 16 de septiembre de 2026, por 19 a favor, 183 en contra y 144 abstenciones de PSOE y Sumar [4] [5].
 

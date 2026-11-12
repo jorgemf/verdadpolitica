@@ -1,10 +1,10 @@
 ---
 partido: podemos
 tema: empleo-pensiones
-propuesta: "Salario mínimo de 1.800 euros al mes por ley y jornada de 30 horas semanales (candidatura de Irene Montero, septiembre de 2026, y web de campaña de octubre) y jubilación anticipada sin recortes en la pensión con 40 años cotizados (proposición de ley de 2024)."
+propuesta: "Bajar la edad de jubilación a 63 años y subir las pensiones mínimas y no contributivas (Irene Montero, 6 de noviembre de 2026); salario mínimo de 1.800 euros por ley y jornada de 30 horas semanales (web de campaña), y jubilación anticipada sin recortes con 40 años cotizados (proposición de ley de 2024)."
 balance: "Votó contra el primer decreto del subsidio por rebajar la cotización de los parados mayores de 52 años y apoyó el segundo, que la mantuvo. Su jubilación sin recortes con 40 años cotizados se aprobó como moción en 2025, PSOE y PP la rechazaron como enmienda en junio de 2026 y su ley caducó tras tomarse en consideración."
 coherencia: coherente
-actualizado: 2026-11-06
+actualizado: 2026-11-12
 fuentes:
   - titulo: "Irene Montero presenta su candidatura a las generales: \"La gente buena es mayoría\""
     url: https://es.ara.cat/politica/irene-montero-presenta-candidatura-generales-gente-buena_1_5848007.html
@@ -56,9 +56,19 @@ fuentes:
     medio: Podemos
     fecha: 2026-10-19
     tipo: partido
+  - titulo: "Irene Montero plantea bajar la edad de jubilación a 63 años y subir las pensiones mínimas y las no contributivas"
+    url: https://www.pressdigital.es/articulo/politica/2026-11-06/6081656-irene-montero-plantea-bajar-edad-jubilacion-63-anos-subir-pensiones-minimas-no-contributivas
+    medio: Press Digital (Europa Press)
+    fecha: 2026-11-06
+    tipo: prensa
+  - titulo: "Irene Montero reta a Frente Amplio con una rebaja de la edad de jubilación a los 63"
+    url: https://www.libertaddigital.com/libremercado/2026-11-06/irene-montero-reta-a-frente-amplio-a-con-una-rebaja-de-la-edad-de-jubilacion-a-los-63-7487723/
+    medio: Libre Mercado (Libertad Digital)
+    fecha: 2026-11-06
+    tipo: prensa
 ---
 
-A 6 de noviembre de 2026 Podemos no ha publicado un programa completo para el 29-N. Al presentar su candidatura, Irene Montero propuso un salario mínimo de 1.800 euros mensuales y «las treinta horas de trabajo a la semana» [1]; su web de campaña, de octubre, recoge ambas medidas y precisa que el salario mínimo se fijaría por ley [10]. Su proposición de ley de 2024 establece que con 40 años cotizados no se apliquen coeficientes reductores a la jubilación anticipada, también para quienes ya están jubilados [2].
+A 12 de noviembre de 2026 Podemos no ha publicado un programa completo para el 29-N. Al presentar su candidatura, Irene Montero propuso un salario mínimo de 1.800 euros mensuales y «las treinta horas de trabajo a la semana» [1]; su web de campaña, de octubre, recoge ambas medidas y precisa que el salario mínimo se fijaría por ley [10]. Su proposición de ley de 2024 establece que con 40 años cotizados no se apliquen coeficientes reductores a la jubilación anticipada, también para quienes ya están jubilados [2]. En un desayuno informativo de Europa Press, el 6 de noviembre de 2026, Montero propuso además bajar la edad de jubilación a 63 años y subir las pensiones mínimas y las no contributivas, sin precisar cuantías ni coste; sostuvo que el sistema público «está perfectamente preparado» y pidió «acabar con la privatización» de las pensiones [11] [12].
 
 En la legislatura, Podemos votó el 10 de enero de 2024 contra el Real Decreto-ley 7/2023 del subsidio por desempleo porque rebajaba la cotización para la jubilación de los parados mayores de 52 años; el decreto se derogó por 167 votos a favor y 176 en contra [5]. Apoyó en junio el Real Decreto-ley 2/2024, que mantuvo esa cotización en el 125 % [6].
 

@@ -25,7 +25,7 @@ gravedad:
       clasificacion: menos-grave
       estado: archivo-sin-tipo
 fecha: 2026-10-06
-actualizado: 2026-11-06
+actualizado: 2026-11-12
 fuentes:
   - titulo: "El instructor constata indicios de acoso laboral en la actuación de la portavoz de VOX en el Parlamento de Cantabria hacia una trabajadora de su Grupo Parlamentario"
     url: https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunales-Superiores-de-Justicia/TSJ-Cantabria/Noticias-Judiciales--TSJ-Cantabria/El-instructor-constata-indicios-de-acoso-laboral-en-la-actuacion-de-la-portavoz-de-VOX-en-el-Parlamento-de-Cantabria-hacia-una-trabajadora-de-su-Grupo-Parlamentario
@@ -67,6 +67,16 @@ fuentes:
     medio: Qué! (Europa Press)
     fecha: 2024-09-24
     tipo: prensa
+  - titulo: "Leticia Díaz (Vox en Cantabria) tras declarar como investigada por el boli espía: «No voy a hacer ningún comentario»"
+    url: https://www.infobae.com/espana/agencias/2026/11/04/leticia-diaz-vox-en-cantabria-tras-declarar-como-investigada-por-el-boli-espia-no-voy-a-hacer-ningun-comentario/
+    medio: Infobae (Europa Press)
+    fecha: 2026-11-04
+    tipo: prensa
+  - titulo: "La portavoz de Vox en Cantabria tras declarar como investigada por el boli espía: «No voy a hacer ningún comentario»"
+    url: https://www.eldiario.es/cantabria/portavoz-vox-cantabria-declarar-investigada-boli-espia-no-comentario_1_13636940.html
+    medio: elDiario.es (Europa Press)
+    fecha: 2026-11-04
+    tipo: prensa
 ---
 
 ## Hechos
@@ -81,12 +91,12 @@ Se marca `enFunciones` porque los hechos se le atribuyen como portavoz que dirig
 
 **Causa del acoso laboral (Tribunal de Instancia de Santander, plaza de instrucción 4).** El auto notificado el 6 de octubre de 2026 da por terminada la instrucción y transforma las diligencias en procedimiento abreviado contra Díaz por presunto acoso laboral. La causa sigue también contra ella y contra el informático por un presunto delito contra la intimidad [1][3]. El juez sobreseyó la causa frente a Vox como persona jurídica: aunque sus mecanismos de control y prevención eran insuficientes, no ve acreditado que el delito se cometiera «en beneficio» del partido. La nota no dice si el sobreseimiento es provisional o libre, ni cita el delito por el que se investigaba al partido; lo sitúa en la causa del acoso laboral y no lo relaciona con el delito contra la intimidad, que sigue solo contra Díaz y el informático [1][3]. El grupo no tuvo plan de prevención ni evaluación de riesgos psicosociales hasta noviembre de 2024, y la Inspección de Trabajo propuso una sanción, que es una vía administrativa ajena a la causa penal [1]. El 20 de octubre el juez rechazó el recurso de reforma de los investigados y elevó su apelación a la Audiencia Provincial de Cantabria. Hasta que esta resuelva, quedan suspendidos los escritos de acusación [2]. Según el juez, la calificación exacta del acoso se decidirá en el juicio [2]. Las fuentes no citan los artículos del Código Penal; la ficha usa el art. 173.1, párrafo tercero, para el acoso laboral y el tipo básico del art. 197.1 para el delito contra la intimidad.
 
-**Causa del bolígrafo (plaza de instrucción 2).** Un auto conocido el 30 de julio de 2026 dirigió el procedimiento contra Díaz por presunto descubrimiento y revelación de secretos y acordó tomarle declaración como investigada [4][5]. El juez rechazó su recurso de reforma, según nota del 3 de noviembre, y remitió la apelación a la Audiencia Provincial, sin efecto suspensivo [7]. Estaba citada a declarar como investigada el 4 de noviembre de 2026 [3][7]. No consta información pública sobre esa declaración; última situación documentada (3 de noviembre de 2026).
+**Causa del bolígrafo (plaza de instrucción 2).** Un auto conocido el 30 de julio de 2026 dirigió el procedimiento contra Díaz por presunto descubrimiento y revelación de secretos y acordó tomarle declaración como investigada [4][5]. El juez rechazó su recurso de reforma, según nota del 3 de noviembre, y remitió la apelación a la Audiencia Provincial, sin efecto suspensivo [7]. Declaró como investigada el 4 de noviembre de 2026 ante la plaza de instrucción 2 durante unos 30 minutos [9][10]. Última situación documentada (4 de noviembre de 2026): instrucción abierta en esta causa y apelación pendiente en la Audiencia Provincial; no consta el contenido de su declaración.
 
 Díaz goza de la presunción de inocencia en ambas causas.
 
 ## Lo que dicen las partes
 
-Díaz y el informático pidieron el sobreseimiento de la primera causa [2]. En la segunda, Díaz sostiene que su conducta no es delictiva y niega que haya base para identificar su voz en las grabaciones. El juez respondió que esa identificación la decidirá un análisis pericial de voz [7]. Las fuentes consultadas no recogen declaraciones públicas suyas sobre las causas.
+Díaz y el informático pidieron el sobreseimiento de la primera causa [2]. En la segunda, Díaz sostiene que su conducta no es delictiva y niega que haya base para identificar su voz en las grabaciones. El juez respondió que esa identificación la decidirá un análisis pericial de voz [7]. A la salida del juzgado, el 4 de noviembre, dijo: «No voy a hacer ningún comentario» [9][10].
 
 La Fiscalía apoyó el archivo de la causa por acoso. Sostiene que la tensión procede de un conflicto interno entre la antigua y la actual dirección del partido, no entre la portavoz y la trabajadora. Tampoco aprecia actos hostiles o humillantes ni acceso acreditado de los investigados al ordenador, y añade que los correos profesionales de un ordenador corporativo no son privados [2]. El juez replicó que la credibilidad de los testigos se valora en el juicio. Añadió que las cuentas de correo de la empresa no eliminan el derecho del trabajador a la intimidad [2]. En la causa del bolígrafo, el juez enmarca los hechos en la rivalidad política dentro del grupo [4][5].

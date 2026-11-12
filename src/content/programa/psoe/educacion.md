@@ -4,7 +4,7 @@ tema: educacion
 propuesta: "Sin programa del 29-N publicado, propone reducir el abandono escolar, retomar la ley de su Gobierno que baja las ratios a 22 alumnos en Primaria y 25 en ESO y limita las horas lectivas, y más plazas en residencias universitarias (octubre de 2026). En 2023 prometió universalizar la educación de 0 a 3 años."
 balance: "El Ministerio de Educación, del PSOE, aprobó el proyecto de ley de ratios y jornada lectiva, que superó las enmiendas a la totalidad en junio de 2026 y caducó con la disolución. La gestión educativa es autonómica. La LOMLOE, que derogó la LOMCE, es de la legislatura anterior."
 coherencia: coherente
-actualizado: 2026-11-06
+actualizado: 2026-11-12
 fuentes:
   - titulo: "Pedro Sánchez fija su horizonte en 2031 y promete otros cuatro años de gobierno progresista: “España será un país mucho mejor”"
     url: https://www.moncloa.com/2026/06/27/pedro-sanchez-psoe-3391192/
@@ -37,7 +37,7 @@ fuentes:
     tipo: oficial
 ---
 
-A 6 de noviembre de 2026 el PSOE no ha publicado su programa para el 29-N. En el Comité Federal de junio de 2026, Sánchez incluyó la reducción del abandono escolar entre sus objetivos para 2031 [1]. Ya en precampaña, el 19 de octubre de 2026 anunció que el Consejo de Ministros destinaría 45 millones de euros a siete proyectos de residencias universitarias, con cerca de 2.000 plazas en una primera fase, y aprobaría un nuevo Estatuto del Estudiante Universitario que sustituye al de 2010 [6]. Defiende el proyecto de ley de su Gobierno que baja las ratios a 22 alumnos por aula en Primaria y 25 en ESO y fija en los centros públicos un tope de 23 horas lectivas semanales en Infantil, Primaria y Educación Especial y de 18 en el resto de enseñanzas, con una aplicación gradual entre los cursos 2027-2028 y 2031-2032 [2]. Su programa de 2023 decía: «Universalizaremos la educación de 0 a 3 años», mediante una oferta gradual de plazas públicas gratuitas [3].
+A 12 de noviembre de 2026 el PSOE no ha publicado su programa para el 29-N. En el Comité Federal de junio de 2026, Sánchez incluyó la reducción del abandono escolar entre sus objetivos para 2031 [1]. Ya en precampaña, el 19 de octubre de 2026 anunció que el Consejo de Ministros destinaría 45 millones de euros a siete proyectos de residencias universitarias, con cerca de 2.000 plazas en una primera fase, y aprobaría un nuevo Estatuto del Estudiante Universitario que sustituye al de 2010 [6]. Defiende el proyecto de ley de su Gobierno que baja las ratios a 22 alumnos por aula en Primaria y 25 en ESO y fija en los centros públicos un tope de 23 horas lectivas semanales en Infantil, Primaria y Educación Especial y de 18 en el resto de enseñanzas, con una aplicación gradual entre los cursos 2027-2028 y 2031-2032 [2]. Su programa de 2023 decía: «Universalizaremos la educación de 0 a 3 años», mediante una oferta gradual de plazas públicas gratuitas [3].
 
 En la legislatura:
 - El Consejo de Ministros aprobó el anteproyecto de ratios y carga lectiva en primera vuelta en noviembre de 2025, con Pilar Alegría como ministra [4].

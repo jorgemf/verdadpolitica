@@ -1,10 +1,10 @@
 ---
 partido: pp
 tema: economia-impuestos
-propuesta: "Revisar «una a una» las más de cien subidas fiscales y bajar impuestos: menos IRPF, IVA del 0 % en alimentos básicos y menos IVA en la luz, mejor mínimo familiar, IVA exento a autónomos que facturen menos de 85.000 € e impuestos cero a la primera vivienda en el medio rural. Para jóvenes, IRPF cero el primer año."
+propuesta: "Bajar y deflactar el IRPF, que no tribute quien cobre el SMI y rebajarlo a los jóvenes de 18 a 35 años los cuatro primeros años en que lo paguen (100, 75, 50 y 25 %), IVA del 0 % en alimentos básicos mientras persista la crisis de inflación y de poder adquisitivo y sin IVA para autónomos que facturen menos de 85.000 €."
 balance: "Logró en 2024 que el Congreso pidiera deflactar el IRPF, algo que el Gobierno no aplicó, y en 2026 registró una rebaja fiscal de 3.200 millones. En las comunidades que gobierna ha bajado impuestos; la Comunitat Valenciana, por ejemplo, bonificó al 99 % sucesiones y donaciones en 2023."
 coherencia: coherente
-actualizado: 2026-11-06
+actualizado: 2026-11-12
 fuentes:
   - titulo: "Mi contrato con España"
     url: https://www.pp.es/wp-content/uploads/2026/10/CONTRATO-CON-ESPANA-.pdf
@@ -51,9 +51,16 @@ fuentes:
     medio: PP
     fecha: 2026-10-24
     tipo: partido
+  - titulo: "Reconstrucción Nacional. El programa del cambio necesario para España"
+    url: https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf
+    medio: Partido Popular
+    fecha: 2026-11-10
+    tipo: partido
 ---
 
-A 6 de noviembre de 2026 el PP no ha publicado su programa para el 29-N. El "Contrato con España" que firmó Feijóo el 19 de octubre se compromete a acabar con el "infierno fiscal": "Revisaremos una a una las más de cien subidas fiscales de los últimos años y bajaremos los impuestos". También fija como objetivo subir el salario medio [1]. Los argumentarios de campaña del partido concretan algunas rebajas: del IRPF, IVA del 0 % en alimentos básicos, menos IVA en la luz y una ayuda adicional a las familias con hijos [7], e IRPF "cero" para los jóvenes en su primer año de trabajo [8]. En julio de 2026 Feijóo prometió rebajar un 60 % el IVA y el impuesto de transmisiones a los jóvenes que compren vivienda [2]. En un mitin en Vigo, el 24 de octubre, Feijóo se comprometió a mejorar la exención del mínimo familiar para que las familias con hijos paguen menos («Es lo lógico y necesario en este momento»), a eximir del IVA a los autónomos que facturen menos de 85.000 euros y a «impuestos cero» en la compra de la primera vivienda en el medio rural, además de bajar el IRPF y el IVA de los alimentos básicos y la luz mientras dure la inflación [9]. No se ha publicado el coste de estas rebajas. En 2023 el programa proponía bajar el IRPF a las rentas de menos de 40.000 euros y una reforma integral del sistema fiscal [3].
+El programa del PP para el 29-N, «Reconstrucción Nacional» (10 de noviembre de 2026), dedica un capítulo a que «los españoles pagarán menos impuestos» [10]. Propone elevar los mínimos personales y familiares, bajar el IRPF a las rentas medias y bajas y que no lo pague quien cobre el salario mínimo, con un umbral que suba por ley con el SMI (medida 177); deflactar la tarifa (medida 178); reducir el IRPF de los trabajadores y autónomos de 18 a 35 años durante «los cuatro primeros años en que paguen IRPF», un 100 % el primero, un 75 % el segundo, un 50 % el tercero y un 25 % el cuarto, desde la primera declaración tras aprobarse la ley (medida 179), y un IVA del 0 % para los alimentos básicos, «incluidos la carne, el pescado y las conservas», mientras persista «la actual crisis de inflación y de poder adquisitivo» (medida 180). Los autónomos que facturen menos de 85.000 euros no tendrán que cobrar ni declarar el IVA (medida 171), y las deducciones familiares se refundirán en una sola, reembolsable y de abono mensual (medida 158). Para las empresas, libertad de amortización de las inversiones (medida 181) y un Estatuto del Contribuyente (medida 182). En la luz, suprimir «de inmediato» el impuesto del 7 % a la producción eléctrica y reducir «la carga fiscal del recibo» (medida 229). El programa no cuantifica el coste de las rebajas; afirma que «ningún gasto nuevo se aprobará sin garantizar cómo se financiará» y que reducirá la deuda (medida 4) [10].
+
+Hay algunos cambios respecto a los anuncios previos. El programa no recoge el compromiso del "Contrato con España" (19 de octubre) de revisar «una a una las más de cien subidas fiscales de los últimos años» [1]. El programa no concreta la rebaja del IVA de la luz que citaban los argumentarios de campaña [7] y el mitin de Vigo del 24 de octubre [9]; propone eliminar el impuesto del 7 % a la producción eléctrica y reducir la carga fiscal del recibo (medida 229). En lugar de los «impuestos cero» en la compra de la primera vivienda en el medio rural [9], propone que los jóvenes no paguen impuestos por adquirir su vivienda habitual en municipios despoblados (medida 196), y el IRPF "cero" para los jóvenes en su primer año [8] se amplía a la rebaja decreciente de cuatro años. La rebaja fiscal a los jóvenes que compren vivienda anunciada en julio [2] se concreta en bajar del 10 % al 4 % el IVA de la primera vivienda para los menores de 40 años (medida 153) [10]. En 2023 el programa proponía bajar el IRPF a las rentas de menos de 40.000 euros y una reforma integral del sistema fiscal [3].
 
 En la oposición, el PP mantuvo la misma línea. En abril de 2024 logró que el Congreso aprobara una proposición no de ley para deflactar el IRPF, gracias a la abstención de Junts, PNV y BNG. No era vinculante y el Gobierno no la aplicó [4]. En junio de 2026 registró en el Congreso una rebaja fiscal de unos 3.200 millones como alternativa al decreto energético del Gobierno [5].
 
