@@ -1,11 +1,21 @@
 ---
 partido: vox
 tema: empleo-pensiones
-propuesta: "Derogar la reforma laboral de 2021, el registro horario obligatorio y los planes de igualdad obligatorios en las empresas. En pensiones, Abascal promete pagarlas \"como sea\" y niega querer privatizarlas; su portavoz económico ha defendido un modelo mixto con capitalización individual."
+propuesta: "Derogar «la legislación laboral de Sánchez», cuota de autónomos de cero euros por debajo del SMI, cotización pagada por el Estado a los españoles que cuiden de sus hijos y más conciliación. En pensiones, «garantizar la sostenibilidad» con crecimiento, empleo y natalidad, sin detallar cambios en el sistema."
 balance: "Con PP y Junts tumbó la reducción de jornada a 37,5 horas (septiembre de 2025). Votó contra los decretos ómnibus de enero de 2025 y 2026, que incluían la subida de las pensiones, y fue el único grupo contra el RDL 1/2025 (revalorización y otras medidas) y el RDL 3/2026 (pensiones y Seguridad Social)."
 coherencia: coherente
-actualizado: 2026-11-12
+actualizado: 2026-11-13
 fuentes:
+  - titulo: "Es sentido común. Programa electoral, 29 de noviembre de 2026"
+    url: https://theobjective.com/wp-content/uploads/2026/11/programa-elecct-vox.pdf
+    medio: Vox (copia publicada por The Objective)
+    fecha: 2026-11-12
+    tipo: partido
+  - titulo: "Vox lleva al 29-N un programa electoral con repatriaciones y deportaciones de migrantes, prioridad nacional y derogación de leyes de género"
+    url: https://www.infobae.com/espana/2026/11/12/vox-lleva-al-29-n-un-programa-electoral-con-repatriaciones-y-deportaciones-de-migrantes-prioridad-nacional-y-derogacion-de-leyes-de-genero/
+    medio: Infobae
+    fecha: 2026-11-12
+    tipo: prensa
   - titulo: "Programa electoral para las Elecciones Generales del 23J de 2023"
     url: https://theobjective.com/wp-content/uploads/2023/07/programa-vox-23j.pdf
     medio: Vox (copia publicada por The Objective)
@@ -62,10 +72,10 @@ fuentes:
     tipo: judicial
 ---
 
-A 12 de noviembre de 2026, Vox no ha publicado programa para el 29-N. Se usan el programa de 2023, su plan de junio de 2026 y declaraciones de octubre de 2026.
+La propuesta procede del programa «Es sentido común», que Vox presentó el 12 de noviembre de 2026 para el 29-N [1]. Respecto al de 2023, ya no recoge la exención del IRPF para las pensiones contributivas (medida 148.4) [3], y no incluye el sistema mixto de pensiones que Vox había planteado en su programa económico de 2025 [2]. Tampoco menciona el registro horario ni los planes de igualdad obligatorios que su plan de desregulación de junio de 2026 proponía suprimir [4][1].
 
-**Qué proponen.** El programa de 2023 prometía derogar "la reforma laboral de Yolanda Díaz" y dejar exentas de IRPF las pensiones contributivas [1]. El plan de 2026 añade suprimir el registro horario y los planes de igualdad y LGTBI obligatorios en las empresas [2]. En pensiones conviven dos mensajes. José María Figaredo llamó "zombi" al sistema y propuso un "modelo mixto" de reparto y capitalización individual [7]. Santiago Abascal dijo el 11 de octubre que las pensiones se pagarán "al precio que sea y como sea" y negó que Vox quiera privatizarlas [8].
+**Qué proponen.** En empleo, el programa promete «trabajo estable y salarios dignos para los españoles» y derogar «la legislación laboral de Sánchez», que según Vox «ha agravado la precariedad» y «desincentivado la contratación» (medida 8). Para los autónomos, una cuota de cero euros si sus ingresos no llegan al salario mínimo interprofesional y progresiva «desde los 50 euros» por encima (medida 2). Propone una cotización a la Seguridad Social «financiada por el Estado para los españoles dedicados al cuidado de sus hijos», para que criarlos no penalice la jubilación (medida 94), y medidas contra la brecha maternal y para la conciliación, con incentivos a las empresas (medida 99). En pensiones se limita a «garantizar la sostenibilidad del sistema» revitalizando la economía, el empleo y los salarios y fomentando la natalidad: «Una economía más productiva es la garantía de sostenibilidad de las pensiones» (medida 7) [1]. En la precampaña convivieron dos mensajes: José María Figaredo llamó "zombi" al sistema y propuso un "modelo mixto" de reparto y capitalización individual [9], y Santiago Abascal dijo el 11 de octubre que las pensiones se pagarán "al precio que sea y como sea" y negó que Vox quiera privatizarlas [10].
 
-**Qué han hecho.** El 10 de septiembre de 2025, las enmiendas a la totalidad de PP, Vox y Junts devolvieron al Gobierno la ley de reducción de jornada, por 178 votos contra 170 [3]. En pensiones, Vox votó contra los decretos ómnibus de enero de 2025 y enero de 2026, que incluían la subida, junto a PP y Junts [5]. Vox fue también el único grupo en contra de los decretos que los sustituyeron: el RDL 1/2025, que mantenía la subida junto a ayudas al transporte y medidas por la dana (12 de febrero de 2025), y el RDL 3/2026, centrado en las pensiones y la Seguridad Social (26 de febrero de 2026) [4][9][6]. El Gobierno vetó en septiembre de 2024 su ley para exonerar de la cuota a los autónomos con ingresos inferiores al salario mínimo [10]. En mayo de 2026 el Constitucional desestimó, salvo en dos disposiciones menores, el recurso que 52 diputados de Vox presentaron en 2022 contra la reforma laboral [11].
+**Qué han hecho.** El 10 de septiembre de 2025, las enmiendas a la totalidad de PP, Vox y Junts devolvieron al Gobierno la ley de reducción de jornada, por 178 votos contra 170 [5]. En pensiones, Vox votó contra los decretos ómnibus de enero de 2025 y enero de 2026, que incluían la subida, junto a PP y Junts [7]. Vox fue también el único grupo en contra de los decretos que los sustituyeron: el RDL 1/2025, que mantenía la subida junto a ayudas al transporte y medidas por la dana (12 de febrero de 2025), y el RDL 3/2026, centrado en las pensiones y la Seguridad Social (26 de febrero de 2026) [6][11][8]. El Gobierno vetó en septiembre de 2024 su ley para exonerar de la cuota a los autónomos con ingresos inferiores al salario mínimo [12]. En mayo de 2026 el Constitucional desestimó, salvo en dos disposiciones menores, el recurso que 52 diputados de Vox presentaron en 2022 contra la reforma laboral [13].
 
-**Coherencia.** Sus votos en materia laboral se ajustan a lo que propone. En pensiones, el programa de 2023 no se comprometía a revalorizarlas, solo a dejarlas exentas de IRPF [1], así que votar contra esos decretos no contradice una promesa concreta. Sí contrasta con el mensaje de pagarlas "como sea" [8]. Vox lo justifica por la sostenibilidad del sistema [6].
+**Coherencia.** Sus votos en materia laboral se ajustan a lo que propone, y la cuota cero para los autónomos por debajo del salario mínimo retoma la ley que el Gobierno vetó en 2024 [12][1]. En pensiones, ni el programa de 2023, que solo prometía dejarlas exentas de IRPF [3], ni el de 2026 [1] se comprometen a revalorizarlas, así que votar contra esos decretos no contradice una promesa concreta. Sí contrasta con el mensaje de pagarlas "como sea" [10]. Vox lo justifica por la sostenibilidad del sistema [8].

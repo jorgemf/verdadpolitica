@@ -2,9 +2,9 @@
 partido: podemos
 tema: vivienda
 propuesta: "Prohibir comprar vivienda para especular (web de campaña e Irene Montero, noviembre de 2026), rebajar por ley un 40 % todos los alquileres, expropiar el uso de las viviendas turísticas ilegales y de las de grandes propietarios para el parque público y controlar los precios (moción de septiembre de 2026)."
-balance: "Registró en 2024 una ley de contratos de 10 años y congelación de rentas, que caducó. Sus mociones para rebajar los alquileres un 40 % se rechazaron en 2025 (12 a 301) y 2026 (19 a 183). Votó a favor de los decretos de alquiler RDL 8/2026, 26/2026 y 27/2026, derogados por el Congreso."
+balance: "Registró en 2024 una ley de contratos de 10 años y congelación de rentas, que caducó. Sus mociones para rebajar los alquileres un 40 % se rechazaron en 2025 (12 a 301) y 2026 (19 a 183). Votó a favor de todos los decretos de alquiler del Gobierno (RDL 8, 26, 27, 28 y 29/2026); solo se convalidó el 29/2026."
 coherencia: coherente
-actualizado: 2026-11-12
+actualizado: 2026-11-13
 fuentes:
   - titulo: "Irene Montero presenta su candidatura a las generales: \"La gente buena es mayoría\""
     url: https://es.ara.cat/politica/irene-montero-presenta-candidatura-generales-gente-buena_1_5848007.html
@@ -56,12 +56,22 @@ fuentes:
     medio: Libre Mercado (Libertad Digital)
     fecha: 2026-11-06
     tipo: prensa
+  - titulo: "La Diputación Permanente convalida el decreto de vivienda y rechaza el de alquileres indefinidos"
+    url: https://www.idealista.com/news/inmobiliario/vivienda/2026/11/12/923779-la-diputacion-permanente-convalida-el-decreto-de-vivienda-y-rechaza-el-de
+    medio: idealista/news
+    fecha: 2026-11-12
+    tipo: prensa
+  - titulo: "La diputación permanente del Congreso aprueba el 'decreto Maricarmen' pero tumba el de la renovación automática de alquileres: estas son las principales medidas"
+    url: https://www.infobae.com/espana/2026/11/12/la-diputacion-permanente-del-congreso-aprueba-el-decreto-maricarmen-pero-tumba-el-de-alquileres-indefinidos/
+    medio: Infobae
+    fecha: 2026-11-12
+    tipo: prensa
 ---
 
 A 12 de noviembre de 2026 Podemos no ha publicado un programa completo para el 29-N. La propuesta recoge su última moción en el Congreso, de septiembre de 2026: rebajar por ley «la cuantía de todos los alquileres un 40 %» y expropiar el uso de las viviendas turísticas ilegales y de las 650.000 viviendas que atribuye a grandes propietarios [2]. Al presentar su candidatura, Irene Montero defendió la «expropiación y el control de precios» [1]. Su web de campaña, de octubre, abre con «Las casas son para vivir» y «Nadie que quiera especular debería poder comprar una vivienda en España» [8]. El 6 de noviembre de 2026 Montero concretó esa idea: prohibir la compra de vivienda con fines especulativos, permitirla solo para residir en ella e incorporar al alquiler social las viviendas acumuladas por fondos de inversión, sin detallar cómo [9] [10].
 
 En la legislatura, Podemos registró en mayo de 2024 una proposición de ley con contratos mínimos de 10 años (12 si el casero es una empresa) y congelación de rentas, que no llegó a debatirse [3]. Sus mociones para rebajar los alquileres un 40 % se rechazaron el 19 de febrero de 2025, por 12 votos a favor y 301 en contra, y el 16 de septiembre de 2026, por 19 a favor, 183 en contra y 144 abstenciones de PSOE y Sumar [4] [5].
 
-Votó a favor del Real Decreto-ley 8/2026 (prórroga de alquileres y tope del 2 %), derogado el 28 de abril de 2026 por 166 votos a favor y 177 en contra [6]. También apoyó los decretos 26/2026 y 27/2026, derogados el 2 de octubre, aunque Ione Belarra los calificó de «migajas» [7].
+Votó a favor del Real Decreto-ley 8/2026 (prórroga de alquileres y tope del 2 %), derogado el 28 de abril de 2026 por 166 votos a favor y 177 en contra [6]. También apoyó los decretos 26/2026 y 27/2026, derogados el 2 de octubre, aunque Ione Belarra los calificó de «migajas» [7]. El 12 de noviembre, en la Diputación Permanente, votó a favor de sus versiones reaprobadas: el RDL 29/2026 se convalidó por 35 a 34 y el 28/2026 cayó por 34 a 35 [11][12].
 
 La coherencia mide las actuaciones, no el resultado: sus iniciativas y votos van en la línea de su propuesta, aunque no lograron mayoría.

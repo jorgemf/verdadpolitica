@@ -8,7 +8,7 @@ promesa: "«Rebajar la cuantía de todos los alquileres un 40% con respecto a lo
 bloqueadoPor: [PSOE, PP, Vox, Junts, PNV]
 importancia: 3
 fecha: 2026-09-16
-actualizado: 2026-10-23
+actualizado: 2026-11-13
 fuentes:
   - titulo: "Romper con Israel y bajar el alquiler el 40%: las condiciones de Podemos para apoyar los presupuestos"
     url: https://www.elsaltodiario.com/pge/romper-israel-bajar-alquiler-40-ciento-condiciones-podemos-apoyar-presupuestos
@@ -80,6 +80,16 @@ fuentes:
     medio: NoticiasTrabajo
     fecha: 2026-10-16
     tipo: prensa
+  - titulo: "La Diputación Permanente convalida el decreto de vivienda y rechaza el de alquileres indefinidos"
+    url: https://www.idealista.com/news/inmobiliario/vivienda/2026/11/12/923779-la-diputacion-permanente-convalida-el-decreto-de-vivienda-y-rechaza-el-de
+    medio: idealista/news
+    fecha: 2026-11-12
+    tipo: prensa
+  - titulo: "El Gobierno sortea el rechazo de PP, Vox y Junts y logra prohibir los desahucios a horas de iniciarse la campaña"
+    url: https://www.eldiario.es/politica/gobierno-sortea-rechazo-pp-vox-junts-logra-prohibir-desahucios-2031-horas-iniciarse-campana_1_13657109.html
+    medio: elDiario.es
+    fecha: 2026-11-12
+    tipo: prensa
 ---
 
 ## Qué se prometió
@@ -92,7 +102,7 @@ En octubre de 2024 las bases de Podemos aprobaron condicionar su apoyo a los Pre
 - **Moción 173/000076 (19 de febrero de 2025).** La rebaja del 40 % se rechazó por 12 votos a favor (Podemos, ERC y una diputada de Sumar), 301 en contra (PSOE, PP, Vox, Junts, PNV, entre otros) y 31 abstenciones de Sumar y EH Bildu. Los contratos indefinidos, por 43 a 301 [3] [4] [5].
 - **Moción 173/000187 (16 de septiembre de 2026).** Repetía la rebaja y añadía expropiar el uso de las viviendas turísticas ilegales. El primer punto obtuvo 19 votos a favor, 183 en contra (PP, Vox, Junts, PNV y UPN) y 144 abstenciones de PSOE y Sumar [6] [7].
 
-Podemos votó el 2 de octubre de 2026 a favor de los decretos 26/2026 y 27/2026, más limitados (prórrogas de cinco años y tope del 2 %), que el Congreso derogó [8] [9]. El Gobierno los volvió a aprobar el 6 de octubre, el día de la disolución de las Cortes, como reales decretos-ley 28/2026 y 29/2026 [11] [12]; están pendientes de convalidación en la Diputación Permanente, que prevé votarlos el 12 de noviembre y en la que Podemos tiene un voto en representación del Grupo Mixto [13] [14] (última situación documentada: 17 de octubre de 2026).
+Podemos votó el 2 de octubre de 2026 a favor de los decretos 26/2026 y 27/2026, más limitados (prórrogas de cinco años y tope del 2 %), que el Congreso derogó [8] [9]. El Gobierno los volvió a aprobar el 6 de octubre, el día de la disolución de las Cortes, como reales decretos-ley 28/2026 y 29/2026 [11] [12]; la Diputación Permanente, en la que Podemos tiene un voto en representación del Grupo Mixto [13] [14], los votó el 12 de noviembre. Podemos votó a favor de los dos: el 29/2026 (suspensión de desahucios de personas vulnerables hasta 2030 y prórroga extraordinaria de hasta dos años) se convalidó por 35 a 34, y el 28/2026 (prórrogas obligatorias de cinco años) cayó por 34 a 35, con el voto en contra de PP, Vox, Junts y PNV [15] [16].
 
 ## Por qué
 

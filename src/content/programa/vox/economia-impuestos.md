@@ -1,11 +1,16 @@
 ---
 partido: vox
 tema: economia-impuestos
-propuesta: "IRPF con dos tipos (15 % hasta 70.000 € y 25 % por encima) y 22.000 € exentos, IVA general del 18 % y del 4 % para luz, gas y agua, supresión de Patrimonio y Sucesiones, y un plan de desregulación que suprime tres normas por cada una nueva."
+propuesta: "Rebajar el IRPF según el número de hijos, el IVA reducido y el general y el Impuesto de Sociedades, sin fijar tipos; cuota cero para autónomos por debajo del SMI; bajar los impuestos de la luz, gravar las remesas y compensarlo con menos deuda y gasto, una auditoría de las administraciones y menos subvenciones."
 balance: "El Gobierno vetó en 2024 su ley de IRPF de dos tipos. En 2026 votó en solitario contra los decretos que bajaban el IVA de la luz y el gas. Pactó en Extremadura y Andalucía rebajas del IRPF autonómico de 0,25 puntos al año y fue decisivo para los presupuestos valencianos de 2025."
 coherencia: parcial
-actualizado: 2026-11-12
+actualizado: 2026-11-13
 fuentes:
+  - titulo: "Es sentido común. Programa electoral, 29 de noviembre de 2026"
+    url: https://theobjective.com/wp-content/uploads/2026/11/programa-elecct-vox.pdf
+    medio: Vox (copia publicada por The Objective)
+    fecha: 2026-11-12
+    tipo: partido
   - titulo: "Vox presenta en el Congreso su plan fiscal: reducción del IVA, dos tipos de IRPF y deducciones por hijo"
     url: https://forbes.es/economia/452984/vox-presenta-en-el-congreso-su-plan-fiscal-reduccion-del-iva-dos-tipos-de-irpf-y-deducciones-por-hijo/
     medio: Forbes España
@@ -62,12 +67,12 @@ fuentes:
     tipo: prensa
 ---
 
-A 12 de noviembre de 2026, Vox no ha publicado programa para el 29-N. Se usan el programa de 2023, el plan fiscal que llevó al Congreso en 2024 y su plan de desregulación de 2026 [3][1][4].
+La propuesta procede del programa «Es sentido común», que Vox presentó el 12 de noviembre de 2026 para el 29-N [1]. A diferencia del programa de 2023, no cuantifica las rebajas: no recoge el IRPF de dos tipos (15 % para bases inferiores a 70.000 euros y 25 % por encima) con 22.000 euros exentos y cuatro puntos menos por hijo, el Impuesto de Sociedades del 15 % ni la supresión de los impuestos de Patrimonio y Sucesiones, que el de 2023 sí incluía (medidas 148, 150 y 151) [4][1].
 
-**Qué proponen.** Un IRPF de dos tipos, 15 % y 25 %, con 22.000 euros exentos y cuatro puntos menos por hijo, un IVA general del 18 % y la supresión de Patrimonio y Sucesiones [1][3]. Para la luz, el gas y el agua de los hogares propone un IVA del 4 % y suprimir el impuesto eléctrico [1][9]. El plan de desregulación plantea eliminar tres normas por cada una nueva [4].
+**Qué proponen.** El programa promete una «rebaja masiva de impuestos» (medida 2): simplificar y bajar el IRPF, con una «reducción del tipo aplicable» a cada contribuyente o familia «en función del número de hijos»; rebajar el tipo reducido y el general del IVA, «atendiendo prioritariamente a productos esenciales y de primera necesidad», y reducir el tipo del Impuesto de Sociedades. Para los autónomos, una cuota de cero euros si sus ingresos no llegan al salario mínimo interprofesional y, por encima, «una cuota progresiva desde los 50 euros». Plantea compatibilizar la rebaja con los servicios públicos reduciendo la deuda «mediante el control del déficit, la eliminación del gasto superfluo e ideológico y el impulso del crecimiento económico» (medida 3), con una auditoría de todas las administraciones y la eliminación progresiva de las subvenciones a partidos, sindicatos, patronales, ONG y observatorios (medida 43). Incluye además una «bajada masiva de los impuestos de la energía eléctrica» (medida 8), rebajar el Impuesto General Indirecto Canario y suprimir el arbitrio sobre importaciones en Canarias (medida 4), «tipos mínimos» y deducciones reforzadas en las zonas en riesgo de despoblación (medida 6), un gravamen sobre las remesas al extranjero (medida 21) y derogar tres normas por cada ley nueva (medida 40) [1]. El plan fiscal que llevó al Congreso en 2024 sí fijaba un IVA general del 18 % y del 4 % para la luz, el gas y el agua de los hogares [2][10]. La regla de las tres normas figuraba ya en su plan de desregulación de junio de 2026 [5].
 
-**Qué han hecho.** Registró una proposición de ley con su IRPF de dos tipos, que el Gobierno vetó en 2024 por suponer una merma de ingresos [8], y la defendió en una moción en mayo de 2024 que el PP calificó de "populismo fiscal" [2]. En 2026 fue el único grupo que votó contra el RDL 7/2026, que bajó del 21 % al 10 % el IVA de la luz, el gas y los carburantes, y contra el RDL 18/2026, que suprime gradualmente el impuesto a la producción eléctrica. Lo justificó por las ayudas a las renovables que incluían [10][11].
+**Qué han hecho.** Registró una proposición de ley con su IRPF de dos tipos, que el Gobierno vetó en 2024 por suponer una merma de ingresos [9], y la defendió en una moción en mayo de 2024 que el PP calificó de "populismo fiscal" [3]. En 2026 fue el único grupo que votó contra el RDL 7/2026, que bajó del 21 % al 10 % el IVA de la luz, el gas y los carburantes, y contra el RDL 18/2026, que suprime gradualmente el impuesto a la producción eléctrica. Lo justificó por las ayudas a las renovables que incluían [11][12].
 
-En las comunidades, los pactos de 2026 recogen rebajas más limitadas: 0,25 puntos menos al año en los dos primeros tramos autonómicos del IRPF en Extremadura [5] y una rebaja similar para rentas inferiores a 60.000 euros en Andalucía [6]. En la Comunitat Valenciana, sus votos fueron decisivos para aprobar los presupuestos de 2025 [7].
+En las comunidades, los pactos de 2026 recogen rebajas más limitadas: 0,25 puntos menos al año en los dos primeros tramos autonómicos del IRPF en Extremadura [6] y una rebaja similar para rentas inferiores a 60.000 euros en Andalucía [7]. En la Comunitat Valenciana, sus votos fueron decisivos para aprobar los presupuestos de 2025 [8].
 
-**Coherencia.** Su proposición de IRPF, su moción y sus pactos van en la línea que propone. Se marca como parcial porque votó contra dos decretos que bajaban los impuestos sobre la luz y el gas, una rebaja que su programa promete.
+**Coherencia.** Su proposición de IRPF, su moción y sus pactos van en la línea que propone. Se marca como parcial porque votó contra dos decretos que bajaban los impuestos sobre la luz y el gas, una rebaja que su programa de 2026 también promete (medida 8) [1].

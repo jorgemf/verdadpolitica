@@ -4,7 +4,7 @@ tema: economia-impuestos
 propuesta: "«Limitar los precios de todo lo que necesitamos para vivir», topar los márgenes de las grandes distribuidoras de alimentos y crear un supermercado público (presentación de la candidatura de Irene Montero y moción de septiembre de 2026)."
 balance: "Su gravamen a la banca se rechazó en 2024 (41 a 294). Apoyó la reforma fiscal de 2024 a cambio de un impuesto a las energéticas; el decreto que lo prorrogaba se derogó en 2025. Sus leyes de grandes fortunas y grandes cotizadas caducaron, y su moción sobre márgenes de la alimentación se rechazó por 19 a 304."
 coherencia: coherente
-actualizado: 2026-11-12
+actualizado: 2026-11-13
 fuentes:
   - titulo: "Irene Montero presenta su candidatura a las generales: \"La gente buena es mayoría\""
     url: https://es.ara.cat/politica/irene-montero-presenta-candidatura-generales-gente-buena_1_5848007.html
@@ -46,9 +46,14 @@ fuentes:
     medio: Boletín Oficial de las Cortes Generales
     fecha: 2025-02-28
     tipo: oficial
+  - titulo: "Podemos lanza la campaña con camiones para difundir sus propuestas de intervención en vivienda, gasolina y alimentos"
+    url: https://democrata.es/politica/podemos-lanza-la-campana-con-camiones-para-difundir-sus-propuestas-de-intervencion-en-vivienda-gasolina-y-alimentos
+    medio: Demócrata (agencias)
+    fecha: 2026-11-13
+    tipo: prensa
 ---
 
-A 12 de noviembre de 2026 Podemos no ha publicado un programa completo para el 29-N. Al presentar su candidatura, Irene Montero dijo que «hay que limitar los precios de todo lo que necesitamos para vivir» [1]. Su moción de septiembre de 2026 pedía topar los márgenes de beneficio de las grandes distribuidoras de alimentos y crear un supermercado público [2].
+A 13 de noviembre de 2026 Podemos no ha publicado un programa completo para el 29-N. Al presentar su candidatura, Irene Montero dijo que «hay que limitar los precios de todo lo que necesitamos para vivir» [1]. Su moción de septiembre de 2026 pedía topar los márgenes de beneficio de las grandes distribuidoras de alimentos y crear un supermercado público [2]. El 13 de noviembre, primer día de campaña, presentó tres camiones con los lemas «Irene se va a atrever a topar los precios de la gasolina» e «Irene sí va a atreverse a bajar los precios de los alimentos»; Montero se comprometió a «freír a impuestos a los de arriba» y a impulsar un «supermercado público», sin detallar cifras [9].
 
 En la legislatura, el Pleno rechazó el 9 de abril de 2024 su proposición de ley para gravar los beneficios extraordinarios de la banca, por 41 votos a favor y 294 en contra [4]. En noviembre de 2024 apoyó la reforma fiscal a cambio del compromiso del PSOE de impulsar un impuesto a las energéticas [5]. El decreto que prorrogaba el gravamen, que Podemos votó, fue derogado el 22 de enero de 2025 por 165 votos a favor y 183 en contra [6]. Sus leyes de impuesto a las grandes fortunas (enero de 2024) y a los beneficios de las grandes cotizadas (febrero de 2025) no llegaron a debatirse [7] [8]. La moción sobre los márgenes de la alimentación se rechazó el 16 de septiembre de 2026 por 19 votos a favor y 304 en contra, incluidos los del PSOE [3].
 

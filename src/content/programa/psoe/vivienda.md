@@ -1,10 +1,10 @@
 ---
 partido: psoe
 tema: vivienda
-propuesta: "Convalidar los RDL 29/2026 (desahucios suspendidos hasta 2030, prórroga de alquileres y límite del 2 % a su actualización) y 28/2026 (estabilidad de los contratos), préstamos ICO para la entrada de la primera vivienda y un parque público de al menos el 6 % del total."
-balance: "Creó Casa 47 y suprimió la «golden visa», pero no publica cuántas de las 183.000 viviendas prometidas están terminadas (cuenta 120.479 «movilizadas»). Su ley del impuesto del 100 % a compradores extracomunitarios caducó sin votarse. El Congreso derogó los RDL 26/2026 y 27/2026; el Gobierno los reaprobó."
+propuesta: "Los decretos del Gobierno: el RDL 29/2026 (desahucios suspendidos hasta 2030, prórroga de alquileres y límite a su actualización), convalidado, y el 28/2026 (estabilidad de los contratos), rechazado; préstamos ICO para la entrada de la primera vivienda y un parque público del 6 %."
+balance: "Creó Casa 47 y suprimió la «golden visa», pero no publica cuántas de las 183.000 viviendas prometidas están terminadas (cuenta 120.479 «movilizadas»). Su ley del impuesto del 100 % a compradores extracomunitarios caducó. De sus decretos de vivienda reaprobados, se convalidó el RDL 29/2026 y cayó el 28/2026."
 coherencia: coherente
-actualizado: 2026-11-12
+actualizado: 2026-11-13
 fuentes:
   - titulo: "Real Decreto-ley 29/2026, de 6 de octubre, por el que se adoptan medidas urgentes para la protección de la función social de la vivienda y la ampliación de la oferta de vivienda asequible"
     url: https://www.boe.es/buscar/doc.php?id=BOE-A-2026-20823
@@ -71,11 +71,21 @@ fuentes:
     medio: Demócrata
     fecha: 2026-11-10
     tipo: prensa
+  - titulo: "La Diputación Permanente convalida el decreto de vivienda y rechaza el de alquileres indefinidos"
+    url: https://www.idealista.com/news/inmobiliario/vivienda/2026/11/12/923779-la-diputacion-permanente-convalida-el-decreto-de-vivienda-y-rechaza-el-de
+    medio: idealista/news
+    fecha: 2026-11-12
+    tipo: prensa
+  - titulo: "La diputación permanente del Congreso aprueba el 'decreto Maricarmen' pero tumba el de la renovación automática de alquileres: estas son las principales medidas"
+    url: https://www.infobae.com/espana/2026/11/12/la-diputacion-permanente-del-congreso-aprueba-el-decreto-maricarmen-pero-tumba-el-de-alquileres-indefinidos/
+    medio: Infobae
+    fecha: 2026-11-12
+    tipo: prensa
 ---
 
-A 12 de noviembre de 2026 el PSOE no ha publicado su programa para el 29-N. Su propuesta de vivienda se apoya en los decretos que aprobó el Gobierno. El Congreso derogó el 2 de octubre el RDL 26/2026 y el RDL 27/2026 [4], y el Gobierno los reaprobó el 6 de octubre para que los convalide la Diputación Permanente, que según la última información publicada (16 de octubre) tenía previsto votarlos el 12 de noviembre [8]:
-- El RDL 29/2026 suspende hasta 2030 los desahucios de personas vulnerables sin alternativa habitacional, prevé una prórroga extraordinaria de los alquileres y limita su actualización al 2 % hasta 2027. Incluye también medidas fiscales sobre pisos turísticos y socimis [1][2].
-- El RDL 28/2026 refuerza la estabilidad de los contratos [2].
+A 12 de noviembre de 2026 el PSOE no ha publicado su programa para el 29-N. Su propuesta de vivienda se apoya en los decretos que aprobó el Gobierno. El Congreso derogó el 2 de octubre el RDL 26/2026 y el RDL 27/2026 [4], y el Gobierno los reaprobó el 6 de octubre para que los convalidara la Diputación Permanente [8], que los votó el 12 de noviembre [14][15]:
+- El RDL 29/2026 suspende hasta 2030 los desahucios de personas vulnerables sin alternativa habitacional, prevé una prórroga extraordinaria de los alquileres y limita su actualización al 2 % hasta 2027. Incluye también medidas fiscales sobre pisos turísticos y socimis [1][2]. Se convalidó por 35 votos a favor y 34 en contra (PP, Vox y Junts) [14][15].
+- El RDL 28/2026, que reforzaba la estabilidad de los contratos [2], cayó por 34 votos a favor y 35 en contra, porque el PNV votó con PP, Vox y Junts; no llegará a aplicarse [14][15].
 
 El Gobierno anunció además préstamos ICO sin interés para la entrada de la primera vivienda, con 10.000 millones [2]. La ponencia de su 41.º Congreso Federal (2024) planteaba elevar el parque público hasta al menos el 6 % del total [5]. En una entrevista en La Séptima, el 9 de noviembre de 2026, Sánchez admitió que en vivienda «tenemos que hacer mucho más, sin duda alguna» y defendió combinar la construcción de vivienda protegida con la regulación de los alquileres turísticos, de temporada y de habitaciones, y ayudas y avales para que los jóvenes accedan a su primera vivienda [12][13].
 

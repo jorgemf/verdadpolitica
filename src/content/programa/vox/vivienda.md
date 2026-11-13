@@ -1,11 +1,16 @@
 ---
 partido: vox
 tema: vivienda
-propuesta: "Derogar la Ley de Vivienda de 2023, construir vivienda pública \"masivamente\" y adjudicarla con \"prioridad nacional\", liberalizar el suelo y desregular la construcción, ayudas directas a jóvenes compradores, suprimir impuestos a la primera vivienda y \"tolerancia cero\" con la ocupación ilegal."
-balance: "Votó contra los RDL 26/2026 y 27/2026 de vivienda, que el Congreso no convalidó en octubre de 2026. El Congreso rechazó en junio su moción de prioridad nacional en vivienda. En Extremadura y en los presupuestos valencianos de 2026 pactó con el PP una prioridad por empadronamiento y arraigo, no por nacionalidad."
+propuesta: "«Prioridad nacional» en la vivienda protegida, social y las ayudas al alquiler; nueva Ley del Suelo; derogar la Ley de Vivienda; desalojo de okupas en menos de 24 horas; IVA del 0 % e ITP bonificado al 100 % en la primera vivienda de una familia española, y prohibir alquilar a inmigrantes en situación irregular."
+balance: "Votó contra los decretos de vivienda: el Congreso derogó los RDL 26 y 27/2026 en octubre, y el 12 de noviembre la Diputación Permanente convalidó el RDL 29/2026 (35-34) y rechazó el 28/2026. Se rechazó su moción de prioridad nacional en vivienda; en Extremadura y Valencia la pactó por arraigo, no por nacionalidad."
 coherencia: parcial
-actualizado: 2026-11-12
+actualizado: 2026-11-13
 fuentes:
+  - titulo: "Es sentido común. Programa electoral, 29 de noviembre de 2026"
+    url: https://theobjective.com/wp-content/uploads/2026/11/programa-elecct-vox.pdf
+    medio: Vox (copia publicada por The Objective)
+    fecha: 2026-11-12
+    tipo: partido
   - titulo: "Programa electoral para las Elecciones Generales del 23J de 2023"
     url: https://theobjective.com/wp-content/uploads/2023/07/programa-vox-23j.pdf
     medio: Vox (copia publicada por The Objective)
@@ -70,14 +75,36 @@ fuentes:
     medio: Demócrata
     fecha: 2026-11-10
     tipo: prensa
+  - titulo: "La Diputación Permanente convalida el decreto de vivienda y rechaza el de alquileres indefinidos"
+    url: https://www.idealista.com/news/inmobiliario/vivienda/2026/11/12/923779-la-diputacion-permanente-convalida-el-decreto-de-vivienda-y-rechaza-el-de
+    medio: idealista/news
+    fecha: 2026-11-12
+    tipo: prensa
+  - titulo: "La diputación permanente del Congreso aprueba el 'decreto Maricarmen' pero tumba el de la renovación automática de alquileres: estas son las principales medidas"
+    url: https://www.infobae.com/espana/2026/11/12/la-diputacion-permanente-del-congreso-aprueba-el-decreto-maricarmen-pero-tumba-el-de-alquileres-indefinidos/
+    medio: Infobae
+    fecha: 2026-11-12
+    tipo: prensa
+  - titulo: "El Gobierno saca adelante el decreto que prorroga los alquileres y prohíbe desahucios"
+    url: https://www.eldiario.es/politica/gobierno-sortea-rechazo-pp-vox-junts-logra-prohibir-desahucios-2031-horas-iniciarse-campana_1_13657109.html
+    medio: elDiario.es
+    fecha: 2026-11-12
+    tipo: prensa
 ---
 
-A 12 de noviembre de 2026, Vox no ha publicado programa para el 29-N. Se recogen el programa de 2023 [1], su plan de desregulación de junio de 2026 [2] y las propuestas que presentó al arrancar la precampaña [10].
+La propuesta procede del programa «Es sentido común», que Vox presentó el 12 de noviembre de 2026 para el 29-N [1]. El programa de 2023 prometía «tolerancia cero con la ocupación ilegal», eximir del IBI a los propietarios afectados, liberar «todo el suelo» que no deba estar protegido (medidas 64 y 65) y eliminar el IVA de la compra de la primera vivienda habitual (medida 149) [2]. El de 2026 fija un plazo de desalojo de menos de 24 horas y añade la prioridad nacional y la prohibición de alquilar a inmigrantes en situación irregular [1].
 
-**Qué proponen.** En 2023 prometía "tolerancia cero con la ocupación ilegal", eximir del IBI a los propietarios afectados y liberar "todo el suelo" que no deba estar protegido [1]. El plan de 2026 añade la derogación de la Ley de Vivienda y el bloqueo de la regulación de precios del alquiler [2]. El 11 de octubre de 2026, el secretario general, Ignacio Garriga, propuso "incrementar de forma considerable la oferta de vivienda pública" y adjudicarla con "prioridad nacional", liberalizar el suelo, reducir la carga fiscal, dar ayudas directas a los jóvenes para la primera vivienda y aplazar el pago de algunos impuestos de la compraventa. No detalló cómo se aplicaría la preferencia por nacionalidad [10]. En Telemadrid, el 26 de octubre, Abascal llamó a la vivienda «el mayor drama social que vive España», atribuyó la demanda a la «invasión migratoria» y propuso liberalizar el suelo, acabar con las «regulaciones ideológicas» y rebajar los impuestos a la construcción y la compraventa [11]. En «La Revuelta» (TVE), el 9 de noviembre, defendió eliminar los impuestos a la compra de la primera vivienda, construir más vivienda pública y liberar suelo, y dijo: «Yo creo que el Estado tiene que intervenir cuando hay una práctica abusiva en el mercado» [12][13].
+**Qué proponen.** El programa parte de que «el punto de partida de todo programa de vivienda es el control férreo de las fronteras» (medida 26) y propone «prioridad nacional para acceder a una vivienda protegida, social o a una ayuda al alquiler» (medida 27). Plantea reformar la Ley del Suelo para ampliar el suelo disponible y agilizar los procedimientos (medida 28), aumentar la inversión pública y la construcción de vivienda protegida «para las familias españolas» con colaboración público-privada (medida 29), y derogar la Ley de Vivienda, con incentivos fiscales al alquiler de larga duración, deducciones «para inquilinos españoles» y la regulación de las viviendas de uso turístico (medida 30). Contra la ocupación, propone el desalojo «en menos de 24 horas», asistencia jurídica gratuita y exención de impuestos al propietario mientras dure, y tipificar la «inquiocupación» como estafa (medida 31). Exigiría verificar la residencia legal para firmar un contrato de alquiler (medida 32). En fiscalidad, con el lema «la primera vivienda habitual de una familia española no paga impuestos», IVA del 0 % en la compra de la primera vivienda habitual nueva, bonificación del 100 % del ITP en la de segunda mano y recuperar la deducción por inversión en vivienda habitual (medida 34), menos impuestos a la edificación (medida 33) y una «fiscalidad agravada y disuasoria» para compradores no comunitarios y operaciones especulativas de fondos (medida 35) [1]. La derogación de la Ley de Vivienda figuraba ya en su plan de desregulación de junio de 2026 [3]. En la precampaña, el secretario general, Ignacio Garriga, propuso el 11 de octubre «incrementar de forma considerable la oferta de vivienda pública» y adjudicarla con «prioridad nacional» [11]; Abascal llamó a la vivienda «el mayor drama social que vive España» en Telemadrid el 26 de octubre [12] y, en «La Revuelta» (TVE), el 9 de noviembre, dijo: «Yo creo que el Estado tiene que intervenir cuando hay una práctica abusiva en el mercado» [13][14].
 
-**Qué han hecho.** Vox votó en contra de los dos reales decretos-ley de vivienda del Gobierno. En octubre de 2026 el Congreso no convalidó el RDL 26/2026, de vivienda asequible (172-178), ni el RDL 27/2026, sobre estabilidad de los contratos de alquiler (166-184). En este último votaron en contra PP, Vox, Junts, PNV y UPN [3][4]. El 18 de junio de 2026, el resto de la Cámara rechazó una moción de Vox que pedía aplicar la "prioridad nacional" en la vivienda protegida y en las ayudas, y suprimir impuestos a la compra de la primera vivienda [5]. El 18 de febrero de 2025 el Congreso rechazó tramitar, por 169 votos a 174, su ley para impedir que los okupas se empadronen y anotar en el padrón la situación irregular de los inmigrantes [9].
+**Qué han hecho.** Vox votó en contra de los dos reales decretos-ley de vivienda del Gobierno. En octubre de 2026 el Congreso no convalidó el RDL 26/2026, de vivienda asequible (172-178), ni el RDL 27/2026, sobre estabilidad de los contratos de alquiler (166-184). En este último votaron en contra PP, Vox, Junts, PNV y UPN [4][5]. El Gobierno los aprobó de nuevo el 6 de octubre, con cambios, y el 12 de noviembre Vox votó contra los dos en la Diputación Permanente [15][16][17]:
 
-El pacto de Extremadura (abril de 2026) incluye al menos 3.500 viviendas protegidas adjudicadas con "prioridad nacional" y exige 10 años de empadronamiento para comprarlas [6]. Los presupuestos valencianos de 2026, aprobados con el voto de Vox, aplican esa prioridad en el acceso a la vivienda pública [7]. En ambos casos la preferencia se da por años de empadronamiento y arraigo, no por nacionalidad, como propone Vox.
+- **RDL 29/2026, sobre la función social de la vivienda.** Convalidado por 35 votos a favor (PSOE, Sumar, ERC, EH Bildu, PNV, Podemos y BNG) y 34 en contra (PP, Vox y Junts) [16][17]. Suspende hasta el 31 de diciembre de 2030 los desahucios de personas vulnerables sin alternativa habitacional, permite una prórroga extraordinaria de hasta dos años de los contratos que venzan antes de que acabe 2028 y limita la actualización de las rentas hasta finales de 2027 [15].
+- **RDL 28/2026, sobre la estabilidad de los contratos de alquiler.** Preveía prórrogas obligatorias de cinco años, o de siete si el propietario es una persona jurídica [15][16]. Se rechazó por 34 votos a favor y 35 en contra, porque el PNV votó con PP, Vox y Junts [15][16][17].
 
-**Coherencia.** Sus votos y su moción se ajustan a lo que propone. Es parcial porque, sobre la prioridad nacional, firmó y votó en las comunidades una preferencia por arraigo, no por nacionalidad. El 22 de abril de 2026 rechazó una enmienda de sustitución del PP con ese criterio, que habría reemplazado su moción entera [8].
+Su portavoz de Vivienda, Carlos Hernández Quero, sostuvo que aprobar el RDL 29/2026 suponía «cambiar las reglas del juego en mitad del partido» y que la incertidumbre retrae la oferta de alquiler [15].
+
+El 18 de junio de 2026, el resto de la Cámara rechazó una moción de Vox que pedía aplicar la "prioridad nacional" en la vivienda protegida y en las ayudas, y suprimir impuestos a la compra de la primera vivienda [6]. El 18 de febrero de 2025 el Congreso rechazó tramitar, por 169 votos a 174, su ley para impedir que los okupas se empadronen y anotar en el padrón la situación irregular de los inmigrantes [10].
+
+El pacto de Extremadura (abril de 2026) incluye al menos 3.500 viviendas protegidas adjudicadas con "prioridad nacional" y exige 10 años de empadronamiento para comprarlas [7]. Los presupuestos valencianos de 2026, aprobados con el voto de Vox, aplican esa prioridad en el acceso a la vivienda pública [8]. En ambos casos la preferencia se da por años de empadronamiento y arraigo, no por nacionalidad, como propone Vox.
+
+**Coherencia.** Sus votos contra los decretos y su moción se ajustan a lo que propone. Es parcial porque, sobre la prioridad nacional, firmó y votó en las comunidades una preferencia por arraigo, no por nacionalidad. El 22 de abril de 2026 rechazó una enmienda de sustitución del PP con ese criterio, que habría reemplazado su moción entera [9].

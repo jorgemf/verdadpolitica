@@ -2,9 +2,9 @@
 partido: pp
 tema: vivienda
 propuesta: "Construir un millón de viviendas con una nueva Ley del Suelo y licencias en tres meses con silencio positivo, derogar la Ley de Vivienda, desalojar a los okupas en 48 horas y, para menores de 40 años, IVA del 4 % en la primera vivienda, aval público de hasta el 20 % del precio y la «Hucha Hogar Joven»."
-balance: "Sus leyes antiokupación y de seguridad jurídica urbanística se admitieron a trámite y caducaron en fase de enmiendas. En 2025 votó contra tramitar la reforma del suelo de PNV y PSOE, que también protegía los planes urbanísticos. En octubre de 2026 votó contra los RDL 26/2026 y 27/2026, que fueron derogados."
+balance: "Sus leyes antiokupación y de seguridad jurídica urbanística caducaron en fase de enmiendas. En 2025 votó contra tramitar la reforma del suelo de PNV y PSOE, que también protegía los planes urbanísticos. Votó contra los decretos de vivienda: en octubre se derogaron; en noviembre se convalidó el RDL 29/2026."
 coherencia: coherente
-actualizado: 2026-11-12
+actualizado: 2026-11-13
 fuentes:
   - titulo: "Mi contrato con España"
     url: https://www.pp.es/wp-content/uploads/2026/10/CONTRATO-CON-ESPANA-.pdf
@@ -71,6 +71,16 @@ fuentes:
     medio: Partido Popular
     fecha: 2026-11-10
     tipo: partido
+  - titulo: "La Diputación Permanente convalida el decreto de vivienda y rechaza el de alquileres indefinidos"
+    url: https://www.idealista.com/news/inmobiliario/vivienda/2026/11/12/923779-la-diputacion-permanente-convalida-el-decreto-de-vivienda-y-rechaza-el-de
+    medio: idealista/news
+    fecha: 2026-11-12
+    tipo: prensa
+  - titulo: "La diputación permanente del Congreso aprueba el 'decreto Maricarmen' pero tumba el de la renovación automática de alquileres: estas son las principales medidas"
+    url: https://www.infobae.com/espana/2026/11/12/la-diputacion-permanente-del-congreso-aprueba-el-decreto-maricarmen-pero-tumba-el-de-alquileres-indefinidos/
+    medio: Infobae
+    fecha: 2026-11-12
+    tipo: prensa
 ---
 
 El programa del PP para el 29-N, «Reconstrucción Nacional» (10 de noviembre de 2026), promete construir un millón de viviendas movilizando suelo público y privado, con una nueva Ley del Suelo, vivienda social en suelo dotacional, cambio de uso de oficinas y locales a vivienda asequible y licencias de obra resueltas «en tres meses, con silencio positivo» (medida 144) [13]. Propone derogar la Ley de Vivienda y eliminar las zonas tensionadas y el índice de precios (medida 145), un IVA del 4 % para la rehabilitación de la vivienda habitual (medida 148) y una ley para que el propietario recupere su vivienda ocupada «en 48 horas desde el primer día», que las comunidades de propietarios puedan pedir al juez el desalojo y que se anule el empadronamiento del ocupa (medida 157). Para los menores de 40 años, bajar del 10 % al 4 % el IVA de la compra de la primera vivienda y acordar con las comunidades un ITP reducido (medida 153); ampliar el aval público, «que cubre hasta el 20 % del valor de la vivienda», para que la hipoteca cubra también la entrada, con posibilidad de extenderlo hasta los 50 años (medida 154), y una «Hucha Hogar Joven» con aportaciones de hasta 2.000 euros al año y una deducción del 20 % (medida 155). Con la fórmula «Tres años+», los inquilinos tendrán una deducción en el IRPF según sus ingresos, y el propietario que renueve el contrato tres años más con una subida inferior al IPC, una deducción o un crédito fiscal (medida 156) [13].
@@ -85,6 +95,8 @@ El 2 de octubre de 2026 votó contra la convalidación de dos decretos del Gobie
 
 - **RDL 26/2026, sobre la función social de la vivienda.** Incluía el veto a compras por fondos y reglas sobre desahucios de personas vulnerables. 172 votos a favor y 178 en contra (PP, Vox, Junts y UPN, entre otros).
 - **RDL 27/2026, sobre la estabilidad de los alquileres.** Preveía prórrogas sucesivas de los contratos. 166 a favor y 184 en contra (PP, Vox, Junts, PNV, UPN y CC).
+
+El 12 de noviembre, en la Diputación Permanente, votó también contra las versiones reaprobadas: el RDL 29/2026 se convalidó por 35 votos a favor y 34 en contra (PP, Vox y Junts), y el RDL 28/2026 cayó por 34 a 35, con el voto en contra del PNV [14][15].
 
 Juan Bravo defendió "más viviendas y menos intervencionismo" [6].
 

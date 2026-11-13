@@ -2,13 +2,13 @@
 partido: frente-amplio
 categoria: bloqueado
 titulo: "Prórroga de los alquileres y renovación automática de los contratos de vivienda"
-resumen: "El Congreso derogó en abril de 2026 el RDL 8/2026 (prórroga de alquileres y tope del 2 %) y el 2 de octubre los RDL 26/2026 (función social de la vivienda) y 27/2026 (estabilidad de los contratos). Los RDL 28/2026 y 29/2026, aprobados el 6 de octubre, se prevé votarlos el 12 de noviembre en la Diputación Permanente."
+resumen: "El Congreso derogó en abril de 2026 el RDL 8/2026 (prórroga de alquileres y tope del 2 %) y el 2 de octubre los RDL 26/2026 (función social de la vivienda) y 27/2026 (estabilidad de los contratos). El 12 de noviembre la Diputación Permanente convalidó el RDL 29/2026 (35-34) y rechazó el RDL 28/2026 (34-35)."
 tema: vivienda
 promesa: "«Aumentaremos la duración mínima de los contratos de arrendamiento de vivienda tendiendo a que sean indefinidos con causas de resolución excepcionales para proteger al propietario» (programa de Sumar 2023)."
-bloqueadoPor: [PP, Vox, Junts, UPN, "PNV y Coalición Canaria (solo el RDL 27/2026, estabilidad de los contratos)"]
+bloqueadoPor: [PP, Vox, Junts, UPN, "PNV (solo los decretos de estabilidad de los contratos, RDL 27/2026 y 28/2026)", "Coalición Canaria (solo el RDL 27/2026)"]
 importancia: 3
 fecha: 2026-10-02
-actualizado: 2026-10-23
+actualizado: 2026-11-13
 fuentes:
   - titulo: "Un programa para ti. Programa electoral de Sumar para las elecciones generales de 2023"
     url: https://movimientosumar.es/wp-content/uploads/2023/07/Un-Programa-para-ti.pdf
@@ -64,6 +64,16 @@ fuentes:
     medio: RTVC
     fecha: 2026-10-02
     tipo: prensa
+  - titulo: "La Diputación Permanente convalida el decreto de vivienda y rechaza el de alquileres indefinidos"
+    url: https://www.idealista.com/news/inmobiliario/vivienda/2026/11/12/923779-la-diputacion-permanente-convalida-el-decreto-de-vivienda-y-rechaza-el-de
+    medio: idealista/news
+    fecha: 2026-11-12
+    tipo: prensa
+  - titulo: "La diputación permanente del Congreso aprueba el 'decreto Maricarmen' pero tumba el de la renovación automática de alquileres: estas son las principales medidas"
+    url: https://www.infobae.com/espana/2026/11/12/la-diputacion-permanente-del-congreso-aprueba-el-decreto-maricarmen-pero-tumba-el-de-alquileres-indefinidos/
+    medio: Infobae
+    fecha: 2026-11-12
+    tipo: prensa
 ---
 
 ## Qué se prometió
@@ -75,7 +85,7 @@ El programa de Sumar de 2023 decía: "Aumentaremos la duración mínima de los c
 - **Proposición de ley 122/000162 (17 de febrero de 2025).** El grupo Sumar propuso que los alquileres se prorrogaran "obligatoriamente por plazos anuales" salvo renuncia del inquilino, incumplimiento o necesidad acreditada del arrendador persona física [10]. No llegó a debatirse y caducó con la disolución.
 - **Real Decreto-ley 8/2026 (20 de marzo).** Prórroga extraordinaria de hasta dos años y tope del 2 % a la subida anual. Derogado el 28 de abril de 2026 por 177 votos en contra (PP, Vox, Junts y UPN), 166 a favor y 5 abstenciones del PNV [2] [3].
 - **Reales decretos-leyes 26/2026 y 27/2026 (29 de septiembre).** PSOE y Sumar separaron sus medidas en dos normas [4]: el 26/2026, sobre la función social de la vivienda (desahucios, prórroga, alquiler de temporada), y el 27/2026, sobre la estabilidad de los contratos, con la renovación automática que pedía Sumar. El 2 de octubre el Pleno derogó el 26/2026 por 172 votos a favor y 178 en contra, y el 27/2026 por 166 a favor y 184 en contra [5] [6]. PP, Vox, Junts y UPN votaron en contra de los dos; el PNV y Coalición Canaria apoyaron el 26/2026 y rechazaron el 27/2026 [11]. El rechazo precipitó el adelanto electoral [9].
-- **Reales decretos-leyes 28/2026 y 29/2026 (6 de octubre).** Según el 28/2026, cumplido el plazo mínimo, el contrato "se prorrogará tácita y obligatoriamente por plazos sucesivos de cinco años"; entra en vigor el 15 de noviembre [7]. El 29/2026 suspende hasta el 31 de diciembre de 2030 los desahucios de personas vulnerables sin alternativa habitacional e incluye una prórroga extraordinaria de hasta dos años con un límite del 2 % [8]. La Diputación Permanente prevé votarlos el 12 de noviembre; el PNV rechaza el 28/2026 [9].
+- **Reales decretos-leyes 28/2026 y 29/2026 (6 de octubre).** Según el 28/2026, cumplido el plazo mínimo, el contrato "se prorrogará tácita y obligatoriamente por plazos sucesivos de cinco años"; su entrada en vigor estaba fijada para el 15 de noviembre [7]. El 29/2026 suspende hasta el 31 de diciembre de 2030 los desahucios de personas vulnerables sin alternativa habitacional e incluye una prórroga extraordinaria de hasta dos años con un límite del 2 % [8]. El 12 de noviembre, ya disueltas las Cortes, la Diputación Permanente convalidó el 29/2026 por 35 votos a favor y 34 en contra (PP, Vox y Junts), y rechazó el 28/2026 por 34 a 35, porque el PNV votó con PP, Vox y Junts; la renovación automática de los contratos no llegará a aplicarse [12] [13].
 
 ## Por qué
 
