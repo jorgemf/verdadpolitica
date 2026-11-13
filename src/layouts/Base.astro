@@ -2,7 +2,7 @@
 import '@fontsource-variable/archivo/wdth.css';
 import '@fontsource-variable/literata/opsz.css';
 import '../styles/global.css';
-import { url, REPO, partidos } from '../lib/datos';
+import { url, REPO, partidos, ultimaActualizacion, fecha } from '../lib/datos';
 
 interface Props {
   titulo?: string;
@@ -20,6 +20,7 @@ const {
 const tituloCompleto = titulo ? `${titulo} | verdadpolitica.es` : 'verdadpolitica.es · Elecciones generales 29-N';
 const canonical = new URL(Astro.url.pathname, Astro.site);
 const lista = await partidos();
+const actualizada = await ultimaActualizacion();
 const esPortada = Astro.url.pathname.replace(/\/$/, '') === url('/').replace(/\/$/, '');
 const MENU = [
   { href: url('/'), texto: 'Expedientes', actual: esPortada },
@@ -47,6 +48,9 @@ const MENU = [
   </head>
   <body>
     <a class="saltar" href="#contenido">Saltar al contenido</a>
+    <p class="actualizacion">
+      <span class="envoltorio">Información actualizada a <time datetime={actualizada.toISOString().slice(0, 10)}>{fecha(actualizada)}</time></span>
+    </p>
     <header class="cabecera">
       <div class="envoltorio cabecera__fila">
         <a class="logo" href={url('/')}>verdad<span>política</span>.es</a>

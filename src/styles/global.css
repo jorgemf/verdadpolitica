@@ -93,6 +93,20 @@ p {
   padding-inline: 0.12em;
 }
 
+/* Franja superior con la fecha de la última revisión del contenido */
+.actualizacion {
+  margin: 0;
+  padding-block: 0.3rem;
+  background: var(--tinta);
+  color: var(--papel-alto);
+  font-size: 0.85rem;
+  line-height: 1.4;
+}
+
+.actualizacion .envoltorio {
+  display: block;
+}
+
 /* Cabecera fija: logo, salto a cada partido y menú */
 :root {
   --alto-cabecera: 3.75rem;

@@ -302,6 +302,14 @@ export async function programa(): Promise<EntradaPrograma[]> {
   return getCollection('programa');
 }
 
+/** Fecha más reciente en que se revisó una ficha o una entrada de programa. */
+export async function ultimaActualizacion(): Promise<Date> {
+  const fechas = [...(await getCollection('fichas')), ...(await getCollection('programa'))].map((e) =>
+    e.data.actualizado.getTime(),
+  );
+  return new Date(Math.max(...fechas));
+}
+
 export type Encuesta = CollectionEntry<'encuestas'>;
 
 /** La encuesta de preocupaciones más reciente. */
