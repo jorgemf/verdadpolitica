@@ -27,7 +27,10 @@ const MENU = [
   { href: url('tema/vivienda/'), texto: 'Por tema', actual: Astro.url.pathname.includes('/tema/') },
   { href: url('metodologia/'), texto: 'Metodología', actual: Astro.url.pathname.includes('/metodologia') },
   { href: url('colabora/'), texto: 'Colabora', actual: Astro.url.pathname.includes('/colabora') },
+  // En escritorio no cabe en la fila; allí se enlaza desde la barra bajo la cabecera.
+  { href: url('otras-webs/'), texto: 'Otras webs', actual: Astro.url.pathname.includes('/otras-webs'), soloMovil: true },
 ];
+const enOtrasWebs = Astro.url.pathname.includes('/otras-webs');
 ---
 
 <!doctype html>
@@ -65,7 +68,7 @@ const MENU = [
           }
         </nav>
         <nav class="cabecera__menu" aria-label="Principal">
-          {MENU.map((m) => <a href={m.href} aria-current={m.actual ? 'page' : undefined}>{m.texto}</a>)}
+          {MENU.filter((m) => !m.soloMovil).map((m) => <a href={m.href} aria-current={m.actual ? 'page' : undefined}>{m.texto}</a>)}
         </nav>
         <details class="cabecera__desplegable">
           <summary aria-label="Menú">
@@ -80,10 +83,19 @@ const MENU = [
       </div>
     </header>
     {
-      lema && (
-        <p class="envoltorio lema-barra">
-          <span class="rotulador">Estás usando mal esta web si solo lees una ideología política.</span>
-        </p>
+      (lema || !enOtrasWebs) && (
+        <div class="envoltorio lema-barra">
+          {lema && (
+            <p class="lema-barra__lema">
+              <span class="rotulador">Estás usando mal esta web si solo lees una ideología política.</span>
+            </p>
+          )}
+          {!enOtrasWebs && (
+            <a class="contrastar" href={url('otras-webs/')}>
+              <span class="contrastar__pregunta">¿Quieres contrastar?</span> Otras webs para comparar <span aria-hidden="true">→</span>
+            </a>
+          )}
+        </div>
       )
     }
 
@@ -104,6 +116,7 @@ const MENU = [
           <p><a href={url('colabora/')}>Cómo colaborar</a></p>
           <p><a href={url('metodologia/')}>Cómo elaboramos las fichas</a></p>
           <p><a href={url('quien-soy/')}>Quién hay detrás</a></p>
+          <p><a href={url('otras-webs/')}>Otras webs para comparar</a></p>
           <p><a href={REPO}>Código fuente en GitHub</a></p>
           <p><a href={`${REPO}/issues/new/choose`}>Avisar de un error</a></p>
         </div>

@@ -1,0 +1,206 @@
+---
+import Base from '../layouts/Base.astro';
+import { url } from '../lib/datos';
+
+interface Web {
+  nombre: string;
+  enlace: string;
+  dominio: string;
+  autoria: string;
+  resumen: string;
+  ofrece: string[];
+  diferencia: string;
+}
+
+// Orden alfabético por dominio, para no dar preferencia a ninguna.
+const WEBS: Web[] = [
+  {
+    nombre: 'Elecciones 2026: guía neutral del 29-N',
+    enlace: 'https://eleccionesenespana.es/',
+    dominio: 'eleccionesenespana.es',
+    autoria: 'Proyecto personal de Pablo Braojos.',
+    resumen:
+      'Guía general de las elecciones: qué partidos se presentan, dónde, en qué coaliciones y cómo votaron en el Congreso durante la legislatura 2023-2026.',
+    ofrece: [
+      'Fichas con la misma estructura para unos 50 partidos, también los de ámbito autonómico.',
+      'Lista de programas electorales con su estado (publicado o pendiente) y enlace al documento oficial.',
+      'Coaliciones del 29-N y circunscripciones en las que se presenta cada una.',
+      'Votaciones de la legislatura por tema y una vista «según tu situación» (alquiler, jubilación, paro, autónomos).',
+      'Calendario electoral, test de afinidad y una sección de encuestas.',
+    ],
+    diferencia:
+      'Cubre muchos más partidos, incluidos los autonómicos, y explica cómo funcionan el calendario y las coaliciones. También publica encuestas.',
+  },
+  {
+    nombre: 'Observatorio de Promesas',
+    enlace: 'https://promesas29n.defufu.me/',
+    dominio: 'promesas29n.defufu.me',
+    autoria: 'Proyecto independiente de Inés Villarino de Funes.',
+    resumen:
+      'Seguimiento de lo que prometieron los partidos y lo que hicieron después, desde las primeras elecciones generales de 1977.',
+    ofrece: [
+      'Las legislaturas de 1977 a 2026: quién gobernó, cómo terminaron y el reparto de los 350 escaños.',
+      'Promesas valoradas como cumplidas, parciales, intentadas, abandonadas o contradichas, con su fuente.',
+      'Candidaturas proclamadas en el BOE, con el número 1 de cada provincia en un mapa, y alianzas para el Senado.',
+      'Un registro fechado de novedades de la campaña y un comparador de programas por tema.',
+      'Un espacio personal para guardar partidos y notas, que se queda en tu navegador.',
+    ],
+    diferencia:
+      'Se parece a esta web, pero mira hacia atrás hasta 1977 en lugar de centrarse en la última legislatura. Incluye estimaciones del CIS.',
+  },
+  {
+    nombre: 'Lo que votaron',
+    enlace: 'https://www.votarbien.info/',
+    dominio: 'votarbien.info',
+    autoria: 'Proyecto de Pablo Carcaba y Nacho Rodríguez.',
+    resumen:
+      'Simulador que te enseña qué votó cada partido en las leyes que afectan a tu situación: sueldo, impuestos, vivienda, negocio y familia.',
+    ofrece: [
+      'Un cuestionario de un minuto, sin registro, que se calcula en tu navegador.',
+      'Una clasificación de los partidos según cómo votaron las leyes que te afectan, con enlace a cada votación oficial.',
+      'Votaciones del Congreso (legislatura XV) y del Parlamento Europeo.',
+      'Los datos descargables y el código abierto en GitHub.',
+    ],
+    diferencia:
+      'Solo mira lo que se votó, no lo que se prometió. Qué leyes te afectan lo decide una clasificación hecha con ayuda de inteligencia artificial y una rúbrica pública.',
+  },
+];
+---
+
+<Base
+  titulo="Otras webs"
+  descripcion="Otras webs independientes que ayudan a comparar partidos antes de las elecciones del 29 de noviembre de 2026."
+>
+  <article class="envoltorio pagina">
+    <h1>Otras webs para comparar</h1>
+    <p class="entradilla">
+      No somos la única web que ayuda a decidir el voto con datos. Estas otras webs son independientes y miran a los
+      partidos desde ángulos distintos. Merece la pena contrastar.
+    </p>
+
+    <ul class="webs">
+      {
+        WEBS.map((w) => (
+          <li>
+            <h2>
+              <a href={w.enlace}>{w.nombre}</a>
+            </h2>
+            <p class="webs__dominio">{w.dominio}</p>
+            <p class="webs__resumen">{w.resumen}</p>
+            <h3>Qué tiene</h3>
+            <ul>
+              {w.ofrece.map((o) => (
+                <li>{o}</li>
+              ))}
+            </ul>
+            <h3>En qué se diferencia de esta web</h3>
+            <p>{w.diferencia}</p>
+            <p class="webs__autoria">{w.autoria}</p>
+            <p>
+              <a class="boton boton--secundario" href={w.enlace}>
+                Visitar {w.dominio}
+              </a>
+            </p>
+          </li>
+        ))
+      }
+    </ul>
+
+    <div class="prosa">
+      <h2>Antes de usarlas</h2>
+      <p>
+        Estas webs no tienen relación con verdadpolitica.es. Se incluyen porque son independientes de los partidos,
+        tratan las elecciones del 29-N y citan sus fuentes. Enlazarlas no significa que hayamos revisado todos sus datos
+        ni que compartamos todos sus criterios. Cada una explica su metodología; léela antes
+        de sacar conclusiones.
+      </p>
+      <p>
+        ¿Conoces otra web independiente que debería estar aquí? <a href={url('colabora/')}>Cuéntanoslo</a>.
+      </p>
+    </div>
+  </article>
+</Base>
+
+<style>
+  .pagina {
+    padding-top: 2.5rem;
+  }
+
+  .pagina h1 {
+    font-size: clamp(2.2rem, 6vw, 3.75rem);
+    font-weight: 850;
+    font-stretch: 72%;
+  }
+
+  .entradilla {
+    font-size: 1.2rem;
+    max-width: 60ch;
+  }
+
+  .webs {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(min(100%, 19rem), 1fr));
+    gap: 1.5rem;
+    margin: 2rem 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .webs > li {
+    display: flex;
+    flex-direction: column;
+    padding: 1.5rem;
+    border: 2px solid var(--tinta);
+    border-radius: 6px;
+    background: var(--papel-alto);
+  }
+
+  .webs h2 {
+    margin: 0;
+    font-size: 1.4rem;
+    line-height: 1.2;
+  }
+
+  .webs h2 a {
+    color: var(--tinta);
+  }
+
+  .webs h3 {
+    margin: 1.1rem 0 0.35rem;
+    font-size: 0.95rem;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+  }
+
+  .webs ul {
+    margin: 0;
+    padding-left: 1.2rem;
+  }
+
+  .webs ul li + li {
+    margin-top: 0.3rem;
+  }
+
+  .webs p {
+    margin: 0.35rem 0 0;
+  }
+
+  .webs__dominio {
+    font-size: 0.9rem;
+    opacity: 0.75;
+  }
+
+  .webs__resumen {
+    font-weight: 600;
+  }
+
+  .webs__autoria {
+    font-size: 0.9rem;
+    font-style: italic;
+  }
+
+  .webs > li > p:last-child {
+    margin-top: auto;
+    padding-top: 1.25rem;
+  }
+</style>
