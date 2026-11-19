@@ -1,0 +1,361 @@
+partido: podemos
+actualizado: 2026-11-20
+puntos:
+  # ── Respaldo ────────────────────────────────────────────────────────────────
+  - tipo: respaldo
+    tema: sanidad
+    titulo: "Los estudios asocian una atención primaria más fuerte a menos mortalidad y a una salud más equitativa"
+    texto: "La medida 305 propone una ley que fije que «al menos el 25% del presupuesto sanitario se destine efectivamente a Atención Primaria», con un máximo de 1.300 pacientes por médico de familia y cita «en un máximo de 48 horas hábiles». En 2024 la atención primaria supuso el 13,9 % del gasto sanitario consolidado de las comunidades autónomas (13.230 millones), según la Estadística de Gasto Sanitario Público. La revisión de Starfield, Shi y Macinko (Milbank Quarterly, 2005) concluye que la atención primaria ayuda a prevenir enfermedad y muerte y se asocia a una distribución más equitativa de la salud, tanto entre países como dentro de ellos. Límites: la evidencia es sobre todo observacional y no fija un porcentaje óptimo; pasar del 13,9 % al 25 % a gasto constante supondría unos 10.500 millones más para este nivel, y el programa no cifra ese coste."
+    medidas: "Medida 305 (p. 90); medida 302 (p. 89)"
+    fuentes:
+      - titulo: "Contribution of Primary Care to Health Systems and Health (Starfield, Shi y Macinko)"
+        url: https://pmc.ncbi.nlm.nih.gov/articles/PMC2690145/
+        medio: "The Milbank Quarterly"
+        tipo: academica
+      - titulo: "Estadística de Gasto Sanitario Público 2024. Principales resultados"
+        url: https://www.sanidad.gob.es/estadEstudios/estadisticas/inforRecopilaciones/gastoSanitario2005/tablasEstEGSP/Principales_resultados.pdf
+        medio: "Ministerio de Sanidad"
+        tipo: oficial
+      - titulo: "Así de básico: Paz, casa y trabajo. Programa electoral de Podemos para las elecciones generales del 29N"
+        url: https://podemos.info/wp-content/uploads/2026/11/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf
+        medio: "Podemos"
+        fecha: 2026-11-17
+        tipo: partido
+  - tipo: respaldo
+    tema: sanidad
+    titulo: "En España deja de ir al dentista por el coste una parte de la población mayor que en la UE; la OMS pide más cobertura"
+    texto: "La medida 307 promete aumentar «hasta el 100% la cobertura de la cartera de servicios de salud bucodental, oftalmológica y auditiva», con un dentista público que «incluirá empastes, limpiezas, ortodoncias, endodoncias, prótesis y férulas». Según Eurostat, en 2025 el 4,0 % de los mayores de 16 años en España dejó de ir al dentista por ser demasiado caro, frente al 2,8 % de la UE; en el 20 % con menos ingresos fue el 8,6 %, y en el 20 % con más ingresos, el 0,9 %. La Oficina Europea de la OMS (2021) señaló que la cobertura limitada del dentista y la óptica en el Sistema Nacional de Salud causa dificultades económicas a parte de la población y recomendó ampliarla. Límites: estos datos indican dónde está el problema, no el efecto de esta reforma concreta; el programa no cifra su coste ni cuántos profesionales públicos necesitaría."
+    medidas: "Medida 307 (p. 91); medida 305 (p. 90)"
+    fuentes:
+      - titulo: "Self-reported unmet needs for dental examination by sex, age, main reason declared and income quintile (hlth_silc_09)"
+        url: https://ec.europa.eu/eurostat/databrowser/view/hlth_silc_09/default/table?lang=en
+        medio: "Eurostat"
+        fecha: 2026-10-20
+        tipo: oficial
+      - titulo: "Spain's health system more likely to protect people from financial hardship than health systems in most other European countries, new WHO report finds"
+        url: https://www.who.int/europe/news/item/04-11-2021-spain-s-health-system-more-likely-to-protect-people-from-financial-hardship-than-health-systems-in-most-other-european-countries-new-who-report-finds
+        medio: "Organización Mundial de la Salud (Oficina Regional para Europa)"
+        fecha: 2021-11-04
+        tipo: oficial
+      - titulo: "Así de básico: Paz, casa y trabajo. Programa electoral de Podemos para las elecciones generales del 29N"
+        url: https://podemos.info/wp-content/uploads/2026/11/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf
+        medio: "Podemos"
+        fecha: 2026-11-17
+        tipo: partido
+  - tipo: respaldo
+    tema: vivienda
+    titulo: "El Banco de España cifra el alquiler social en el 1,5 % de las viviendas y pide centrar la política en ampliarlo"
+    texto: "Las medidas 9, 16, 17 y 18 amplían el parque público de alquiler social (viviendas y suelo de la Sareb, derecho de tanteo y retracto, reserva del 50 % de la vivienda nueva de los planes urbanísticos) y evitan que se pierda: «Toda vivienda que tenga algún tipo de protección pública conservará permanentemente esta condición». El Banco de España (Informe Anual 2023) estima el alquiler social en unas 300.000 viviendas, el 1,5 % de las principales; sitúa los problemas de acceso en los hogares de menor renta, jóvenes e inmigrantes, y recomienda «un foco especial en el estímulo de la oferta de vivienda, especialmente en el caso del mercado del alquiler y el alquiler social». Límites: el Banco no evalúa la protección permanente ni la compra pública de viviendas ya alquiladas, pide un horizonte largo y colaboración privada, y el programa no cifra el coste de ampliar el parque."
+    medidas: "Medidas 9 y 16 (p. 10); medidas 17 y 18 (p. 11)"
+    fuentes:
+      - titulo: "Informe Anual 2023. Capítulo 4: El mercado de la vivienda en España: evolución reciente, riesgos y problemas de accesibilidad"
+        url: https://www.bde.es/f/webbe/SES/Secciones/Publicaciones/PublicacionesAnuales/InformesAnuales/23/Fich/InfAnual_2023_Cap4.pdf
+        medio: "Banco de España"
+        tipo: oficial
+      - titulo: "Así de básico: Paz, casa y trabajo. Programa electoral de Podemos para las elecciones generales del 29N"
+        url: https://podemos.info/wp-content/uploads/2026/11/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf
+        medio: "Podemos"
+        fecha: 2026-11-17
+        tipo: partido
+  - tipo: respaldo
+    tema: educacion
+    titulo: "La educación infantil pública y de calidad beneficia sobre todo a los niños desfavorecidos; la evidencia global es mixta"
+    texto: "La medida 281 promete construir «en un plazo máximo de cuatro años todas las plazas públicas necesarias para garantizar una cobertura universal, gratuita y de gestión pública directa» en educación infantil de 0 a 3 años, y la 280 baja sus ratios. Un metaanálisis de 250 estimaciones de 30 estudios con experimentos naturales (van Huizen y Plantenga, 2018) describe una evidencia global mixta, con mejores resultados en programas de más calidad y públicos y ganancias concentradas en niños de familias desfavorecidas. En España, la extensión de plazas públicas para niños de 3 años a principios de los noventa mejoró la lectura a los 15 años en unas 0,15 desviaciones típicas, sobre todo en niñas y alumnos desfavorecidos (Felfe, Nollenberger y Rodríguez-Planas, 2015). Límites: el estudio español trata de los 3 años, no del primer ciclo, y el programa no cifra el coste."
+    medidas: "Medidas 280 y 281 (p. 80)"
+    fuentes:
+      - titulo: "Do children benefit from universal early childhood education and care? A meta-analysis of evidence from natural experiments (van Huizen y Plantenga)"
+        url: https://econpapers.repec.org/RePEc:eee:ecoedu:v:66:y:2018:i:c:p:206-222
+        medio: "Economics of Education Review"
+        tipo: academica
+      - titulo: "Can't buy mommy's love? Universal childcare and children's long-term cognitive development (Felfe, Nollenberger y Rodríguez-Planas)"
+        url: https://econpapers.repec.org/RePEc:spr:jopoec:v:28:y:2015:i:2:p:393-422
+        medio: "Journal of Population Economics"
+        tipo: academica
+      - titulo: "Así de básico: Paz, casa y trabajo. Programa electoral de Podemos para las elecciones generales del 29N"
+        url: https://podemos.info/wp-content/uploads/2026/11/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf
+        medio: "Podemos"
+        fecha: 2026-11-17
+        tipo: partido
+  - tipo: respaldo
+    tema: economia-impuestos
+    titulo: "Un impuesto de patrimonio armonizado evita los traslados entre comunidades que restan recaudación, según un estudio"
+    texto: "La medida 30 convierte el impuesto a las grandes fortunas en «un impuesto estatal permanente» que alcance a todos los contribuyentes de Patrimonio, «para evitar que las Comunidades Autónomas lo eliminen». Con datos españoles, Agrawal, Foremny y Martínez-Toledano (2025) hallan que, al recuperarse el impuesto en todas las comunidades salvo Madrid, hubo traslados de contribuyentes a esa comunidad, con una pérdida de IRPF seis veces mayor que la de Patrimonio, y que Madrid recaudaría más con un tipo armonizado. Con datos de Suecia, Jakobsen, Kleven y otros (2024) estiman que cada punto más de tipo reduce un 2 % el número de grandes contribuyentes residentes, con un efecto pequeño sobre el empleo (0,02 %) y el valor añadido (0,10 %). Límites: armonizar dentro de España no impide la salida al extranjero, y el programa no cifra la recaudación que espera."
+    medidas: "Medida 30 (p. 17)"
+    fuentes:
+      - titulo: "Wealth Tax Mobility and Tax Coordination (American Economic Journal: Applied Economics, 2025)"
+        url: https://diposit.ub.edu/items/d3c4aa85-2611-4969-a7af-5df2aa6e070d/full
+        medio: "Universitat de Barcelona (repositorio)"
+        tipo: academica
+      - titulo: "Taxing Top Wealth: Migration Responses and their Aggregate Economic Implications (NBER Working Paper 32153)"
+        url: https://nber.org/papers/w32153
+        medio: "National Bureau of Economic Research"
+        tipo: academica
+      - titulo: "Así de básico: Paz, casa y trabajo. Programa electoral de Podemos para las elecciones generales del 29N"
+        url: https://podemos.info/wp-content/uploads/2026/11/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf
+        medio: "Podemos"
+        fecha: 2026-11-17
+        tipo: partido
+  - tipo: respaldo
+    tema: educacion
+    titulo: "Las clases de 13 a 17 alumnos mejoraron los resultados en el experimento STAR, aunque otros estudios no hallan efecto"
+    texto: "La medida 280 fija «nuevas ratios máximas en 15 alumnos y alumnas en Primaria, 20 en Secundaria y 23 en Bachillerato». En el experimento STAR de Tennessee, que asignó al azar a alumnos de los primeros cursos a clases de 13 a 17 o de 22 a 25, los de clases pequeñas mejoraron unos 4 percentiles en las pruebas el primer año (Krueger, NBER, 1997). La evidencia está dividida: con la variación natural del tamaño de las clases en Connecticut, Hoxby (NBER, 1998) no encontró efecto de reducirlas desde una base de entre 15 y 30 alumnos. Límites: STAR evaluó los primeros cursos de primaria, no secundaria ni bachillerato, y bajar las ratios exige contratar más docentes, un coste que el programa no cuantifica."
+    medidas: "Medida 280 (p. 80)"
+    fuentes:
+      - titulo: "Experimental Estimates of Education Production Functions (NBER Working Paper 6051)"
+        url: https://www.nber.org/papers/w6051
+        medio: "National Bureau of Economic Research"
+        tipo: academica
+      - titulo: "The Effects of Class Size and Composition on Student Achievement: New Evidence from Natural Population Variation (NBER Working Paper 6869)"
+        url: https://www.nber.org/papers/w6869
+        medio: "National Bureau of Economic Research"
+        tipo: academica
+      - titulo: "Así de básico: Paz, casa y trabajo. Programa electoral de Podemos para las elecciones generales del 29N"
+        url: https://podemos.info/wp-content/uploads/2026/11/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf
+        medio: "Podemos"
+        fecha: 2026-11-17
+        tipo: partido
+  # ── Choque ──────────────────────────────────────────────────────────────────
+  - tipo: choque
+    tema: economia-impuestos
+    titulo: "El programa no cuantifica su coste total ni cómo encaja en las reglas fiscales europeas"
+    texto: "El programa no incluye una memoria económica con el coste de sus medidas ni su efecto sobre el déficit y la deuda. España cerró 2025 con un déficit del 2,18 % del PIB (2,39 % con las medidas por la DANA) y una deuda del 100,7 %. Con una deuda superior al 90 %, el Reglamento (UE) 2024/1263 exige que la senda de ajuste la reduzca una media mínima de un punto del PIB al año (art. 7) y alcanzar un margen de 1,5 puntos de déficit estructural por debajo del 3 % (art. 8). Entre sus medidas de mayor coste previsible están llevar el gasto sanitario a 2.900 euros por habitante, «en torno al 8% del PIB», frente al 6,4 % de 2024 (medida 302); la jubilación a los 63 y la pensión mínima igual al SMI (116 y 127) y la compra de la mayoría de Repsol (37), que el Gobierno cifró en unos 9.000 millones. Propone nuevos impuestos sin cifrar su recaudación."
+    medidas: "Medidas 30, 31, 47, 48 y 62 (pp. 17-23); 37 (p. 18); 116 (p. 41); 127 (p. 44); 302 (p. 89)"
+    fuentes:
+      - titulo: "España cierra 2025 con un déficit público del 2,2 % del PIB y mejora por sexto año consecutivo el objetivo pactado con la Comisión Europea"
+        url: https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/hacienda/paginas/2026/310326-cierre-deficit-2025.aspx
+        medio: "La Moncloa (Ministerio de Hacienda)"
+        fecha: 2026-03-31
+        tipo: oficial
+      - titulo: "La deuda de las Administraciones Públicas se situó en el 100,7% del PIB al cierre de 2025, 1 pp menos que hace un año"
+        url: https://www.bde.es/wbe/es/noticias-eventos/actualidad-banco-espana/deuda-aapp-2025t4.html
+        medio: "Banco de España"
+        fecha: 2026-03-31
+        tipo: oficial
+      - titulo: "Reglamento (UE) 2024/1263 relativo a la coordinación eficaz de las políticas económicas y a la supervisión presupuestaria multilateral"
+        url: https://www.boe.es/doue/2024/1263/L00001-00021.pdf
+        medio: "Diario Oficial de la Unión Europea"
+        fecha: 2024-04-30
+        tipo: oficial
+      - titulo: "El gasto sanitario público alcanzó los 101.739 millones de euros en 2024, un 6,4% del PIB"
+        url: https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/sanidad14/paginas/2026/130526-gasto-sanitario-publico-2024.aspx
+        medio: "La Moncloa (Ministerio de Sanidad)"
+        fecha: 2026-05-13
+        tipo: oficial
+      - titulo: "Proposición de Ley 122/000236 de nacionalización de Repsol: disconformidad del Gobierno con su tramitación"
+        url: https://www.congreso.es/public_oficiales/L15/CONG/BOCG/B/BOCG-15-B-281-2.PDF
+        medio: "Boletín Oficial de las Cortes Generales"
+        fecha: 2026-02-13
+        tipo: oficial
+      - titulo: "El Gobierno veta la ley de Podemos para nacionalizar Repsol por costar 9.000 millones"
+        url: https://theobjective.com/espana/politica/2026-02-10/gobierno-ley-podemos-nacionalizar-repsol/
+        medio: "The Objective (Europa Press)"
+        fecha: 2026-02-10
+        tipo: prensa
+      - titulo: "Así de básico: Paz, casa y trabajo. Programa electoral de Podemos para las elecciones generales del 29N"
+        url: https://podemos.info/wp-content/uploads/2026/11/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf
+        medio: "Podemos"
+        fecha: 2026-11-17
+        tipo: partido
+  - tipo: choque
+    tema: vivienda
+    titulo: "Los topes al alquiler estudiados en Cataluña, Berlín y San Francisco bajaron los precios y, en varios casos, la oferta"
+    texto: "La medida 1 propone una «reducción extraordinaria del 40 % de los precios del alquiler», en contratos vigentes y nuevos. En Cataluña, el tope de 2020-2022 bajó los alquileres un 4-6 % sin reducir la oferta según un estudio (Jofre-Monseny y otros, 2023) y, según otro, bajó los caros, subió los baratos y redujo la oferta (Monràs y García-Montalvo, 2023). Con el tope de la Ley de Vivienda, aplicado allí desde marzo de 2024, los anuncios cayeron un 20,5 % hasta finales de 2025 (7 % en el resto de España) y la renta subió un 5,7 % (10,8 % nacional), según un análisis descriptivo de Fedea (2026). En Berlín, la congelación de 2020 bajó las rentas anunciadas y redujo los anuncios (Hahn y otros, 2024); en San Francisco, los caseros afectados redujeron un 15 % su oferta (Diamond y otros, 2019). Ningún estudio evalúa rebajas de esa magnitud."
+    medidas: "Medida 1 (p. 8); medidas 2 y 3 (p. 8)"
+    fuentes:
+      - titulo: "Effectiveness and supply effects of high-coverage rent control policies (Jofre-Monseny, Martínez-Mazza y Segú, Regional Science and Urban Economics, 2023)"
+        url: https://diposit.ub.edu/items/3351bd7e-9352-4975-9705-6a3a9dc705c6/full
+        medio: "Universitat de Barcelona (repositorio)"
+        tipo: academica
+      - titulo: "The Effect of Second-Generation Rent Controls: New Evidence from Catalonia (Working Paper 2023-28)"
+        url: https://www.frbsf.org/economic-research/publications/working-papers/2023/28
+        medio: "Federal Reserve Bank of San Francisco"
+        fecha: 2023-09-01
+        tipo: academica
+      - titulo: "La Ley 12/2023 por el derecho a la vivienda: un primer balance a partir de la aplicación desigual del control de rentas en España (Apuntes 2026/15)"
+        url: https://documentos.fedea.net/pubs/ap/2026/ap2026-15.pdf
+        medio: "Fedea"
+        fecha: 2026-06-01
+        tipo: academica
+      - titulo: "Forward to the Past: Short-Term Effects of the Rent Freeze in Berlin (Hahn, Kholodilin, Waltl y Fongoni)"
+        url: https://www.diw.de/de/diw_01.c.873005.de/publikationen/externe_referierte_aufsaetze/2024_0003/forward_to_the_past__short-term_effects_of_the_rent_freeze_in_berlin.html
+        medio: "Management Science"
+        fecha: 2024-03-01
+        tipo: academica
+      - titulo: "The Effects of Rent Control Expansion on Tenants, Landlords, and Inequality: Evidence from San Francisco (Diamond, McQuade y Qian)"
+        url: https://www.aeaweb.org/articles?id=10.1257/aer.20181289
+        medio: "American Economic Review"
+        fecha: 2019-09-01
+        tipo: academica
+      - titulo: "Así de básico: Paz, casa y trabajo. Programa electoral de Podemos para las elecciones generales del 29N"
+        url: https://podemos.info/wp-content/uploads/2026/11/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf
+        medio: "Podemos"
+        fecha: 2026-11-17
+        tipo: partido
+  - tipo: choque
+    tema: empleo-pensiones
+    titulo: "Jubilarse a los 63 y una pensión mínima igual al SMI elevan un gasto que la AIReF estima en el 14,6 % del PIB hasta 2050"
+    texto: "La medida 116 propone «adelantar la edad ordinaria de jubilación a los 63 años», y la 127, que «la pensión mínima contributiva se equipare al SMI», que la 111 quiere subir a 1.800 euros; el programa no cifra el coste. La AIReF (mayo de 2026) estima un gasto bruto en pensiones del 14,6 % del PIB de media en 2022-2050 y un gasto neto de los nuevos ingresos del 13 %, por debajo del umbral legal del 13,3 %, pero avisa de que ese cumplimiento no garantiza la sostenibilidad y de que, a políticas constantes, la deuda llegaría al 123 % del PIB en 2050. Las pensiones mínimas de jubilación de 2026 van de 11.590 a 17.592,40 euros al año, frente a 17.094 del SMI; con 1.800 euros serían 25.200. La OCDE prevé una edad normal de jubilación media de 66,4 años."
+    medidas: "Medidas 111 y 116 (p. 41); medida 127 (p. 44)"
+    fuentes:
+      - titulo: "Estudio de evaluación de la regla de gasto de pensiones (Estudio 1/2026)"
+        url: https://www.airef.es/wp-content/uploads/2026/05/Pensiones/AIReF.-Estudio-de-evaluacion-de-la-regla-de-gasto-de-pensiones.pdf
+        medio: "AIReF"
+        fecha: 2026-05-29
+        tipo: oficial
+      - titulo: "AIReF ratifica el cumplimiento de la regla de gasto de pensiones pero dice que no garantiza la sostenibilidad"
+        url: https://www.bolsamania.com/noticias/economia/economia--airef-ratifica-el-cumplimiento-de-la-regla-de-gasto-de-pensiones-pero-dice-que-no-garantiza-la-sostenibilidad--22574898.html
+        medio: "Europa Press (Bolsamanía)"
+        fecha: 2026-05-29
+        tipo: prensa
+      - titulo: "Pensions at a Glance 2025: Future retirement ages"
+        url: https://www.oecd.org/en/publications/2025/11/pensions-at-a-glance-2025_76510fe4/full-report/future-retirement-ages_23752280.html
+        medio: "OCDE"
+        tipo: oficial
+      - titulo: "Pensiones 2026: subida y revalorización"
+        url: https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/inclusion/paginas/2026/subida-pensiones-2026.aspx
+        medio: "La Moncloa (Ministerio de Inclusión, Seguridad Social y Migraciones)"
+        fecha: 2026-02-10
+        tipo: oficial
+      - titulo: "Real Decreto 126/2026, de 18 de febrero, por el que se fija el salario mínimo interprofesional para 2026"
+        url: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-3815
+        medio: "BOE"
+        fecha: 2026-02-19
+        tipo: oficial
+      - titulo: "Así de básico: Paz, casa y trabajo. Programa electoral de Podemos para las elecciones generales del 29N"
+        url: https://podemos.info/wp-content/uploads/2026/11/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf
+        medio: "Podemos"
+        fecha: 2026-11-17
+        tipo: partido
+  - tipo: choque
+    tema: vivienda
+    titulo: "El TJUE vio desproporcionado exigir arraigo en el municipio para comprar vivienda, como plantea el programa en las islas"
+    texto: "La medida 3 limita la compra de vivienda a la residencia propia o familiar y añade: «En los territorios insulares, aplicaremos limitaciones específicas a la adquisición de viviendas por personas sin residencia efectiva en ellos, con independencia de su nacionalidad u origen». El art. 63 del Tratado de Funcionamiento de la UE prohíbe restringir los movimientos de capitales, que incluyen comprar inmuebles. En el asunto Libert (C-197/11 y C-203/11, 2013), el Tribunal de Justicia vio que exigir un «vínculo suficiente» con el municipio, como haber residido allí seis años, para comprar vivienda es una restricción que va «más allá de lo necesario». Límites: el Tribunal admitió que proteger a la población local con menos recursos puede justificar restricciones si son proporcionadas; todo dependerá del diseño, que el programa no detalla."
+    medidas: "Medida 3 (p. 8)"
+    fuentes:
+      - titulo: "Comunicado de prensa n.º 57/13: Sentencia en los asuntos acumulados C-197/11 y C-203/11 (Libert y otros)"
+        url: https://curia.europa.eu/jcms/upload/docs/application/pdf/2013-05/cp130057es.pdf
+        medio: "Tribunal de Justicia de la Unión Europea"
+        fecha: 2013-05-08
+        tipo: judicial
+      - titulo: "Versión consolidada del Tratado de Funcionamiento de la Unión Europea (art. 63)"
+        url: https://www.boe.es/doue/2016/202/Z00001-00388.pdf
+        medio: "Diario Oficial de la Unión Europea"
+        fecha: 2016-06-07
+        tipo: oficial
+      - titulo: "Así de básico: Paz, casa y trabajo. Programa electoral de Podemos para las elecciones generales del 29N"
+        url: https://podemos.info/wp-content/uploads/2026/11/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf
+        medio: "Podemos"
+        fecha: 2026-11-17
+        tipo: partido
+  - tipo: choque
+    tema: empleo-pensiones
+    titulo: "Los estudios sobre reducir la jornada en Francia y Portugal no hallan la creación de empleo que el programa espera"
+    texto: "La medida 113 propone reducir «la jornada laboral a 30 horas semanales durante la legislatura, comenzando con una bajada a 35 horas», sin bajar salarios, y afirma que «permitirá la creación de nuevos puestos de trabajo». En Francia, la ley de 35 horas de 1998 se aplicó con menos rigor en Alsacia-Mosela y el empleo allí no evolucionó de forma significativamente distinta (Chemin y Wasmer, 2009). En Portugal, la bajada de 44 a 40 horas de 1996 redujo las salidas del empleo de los afectados y subió su salario por hora, sin crear empleo (Raposo y van Ours, 2010). Límites: ninguno evalúa 30 horas ni mide el bienestar; los ensayos voluntarios de semana de cuatro días sin rebaja salarial sí hallan menos agotamiento y más satisfacción (Fan, Schor y otros, 2025)."
+    medidas: "Medida 113 (p. 41)"
+    fuentes:
+      - titulo: "Using Alsace-Moselle Local Laws to Build a Difference-in-Differences Estimation Strategy of the Employment Effects of the 35-Hour Workweek Regulation in France (Chemin y Wasmer)"
+        url: https://econpapers.repec.org/RePEc:ucp:jlabec:v:27:y:2009:i:4:p:487-524
+        medio: "Journal of Labor Economics"
+        tipo: academica
+      - titulo: "How working time reduction affects jobs and wages (Raposo y van Ours)"
+        url: https://econpapers.repec.org/RePEc:eee:ecolet:v:106:y:2010:i:1:p:61-63
+        medio: "Economics Letters"
+        tipo: academica
+      - titulo: "Work time reduction via a 4-day workweek finds improvements in workers' well-being"
+        url: https://www.nature.com/articles/s41562-025-02259-6
+        medio: "Nature Human Behaviour"
+        fecha: 2025-07-21
+        tipo: academica
+      - titulo: "Así de básico: Paz, casa y trabajo. Programa electoral de Podemos para las elecciones generales del 29N"
+        url: https://podemos.info/wp-content/uploads/2026/11/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf
+        medio: "Podemos"
+        fecha: 2026-11-17
+        tipo: partido
+  - tipo: choque
+    tema: energia-medioambiente
+    titulo: "Cerrar las nucleares supone más gas y emisiones a corto plazo; a largo plazo depende de la inversión renovable"
+    texto: "La medida 339 defiende «el cumplimiento del calendario de cierre de las centrales nucleares, comenzando por Almaraz», y rechaza «prórrogas nucleares indefinidas». La Agencia Internacional de la Energía (2019) concluye que alargar la vida de un reactor es considerablemente más barato que construir una central nueva y competitivo con la solar y la eólica nuevas. Una simulación del mercado ibérico (Fabra, 2026) estima que prorrogar Almaraz bajaría a corto plazo los precios mayoristas y las emisiones al desplazar gas, pero reduciría los incentivos a invertir en renovables y almacenamiento; si esa inversión cae lo bastante, acabaría elevando precios y emisiones. En Alemania, el cierre nuclear se cubrió sobre todo con carbón e importaciones, con un coste social de 3.000 a 8.000 millones de euros al año (Jarvis, Deschenes y Jha, 2022)."
+    medidas: "Medida 339 (p. 101)"
+    fuentes:
+      - titulo: "Nuclear Power in a Clean Energy System"
+        url: https://www.iea.org/reports/nuclear-power-in-a-clean-energy-system
+        medio: "Agencia Internacional de la Energía"
+        fecha: 2019-05-27
+        tipo: oficial
+      - titulo: "The Price and Emissions Effects of Extending Nuclear Lifetimes: Evidence from Spain (CEPR Discussion Paper 21053)"
+        url: https://ideas.repec.org/p/cpr/ceprdp/21053.html
+        medio: "Centre for Economic Policy Research"
+        tipo: academica
+      - titulo: "The Private and External Costs of Germany's Nuclear Phase-Out (Journal of the European Economic Association, 20(3))"
+        url: https://econpapers.repec.org/RePEc:oup:jeurec:v:20:y:2022:i:3:p:1311-1346.
+        medio: "Journal of the European Economic Association"
+        tipo: academica
+      - titulo: "Así de básico: Paz, casa y trabajo. Programa electoral de Podemos para las elecciones generales del 29N"
+        url: https://podemos.info/wp-content/uploads/2026/11/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf
+        medio: "Podemos"
+        fecha: 2026-11-17
+        tipo: partido
+  # ── Incoherencia ────────────────────────────────────────────────────────────
+  - tipo: incoherencia
+    tema: energia-medioambiente
+    titulo: "El programa promete topar el precio del gas y los carburantes y, a la vez, eliminar las ayudas a los fósiles"
+    texto: "La medida 38, «Topes a la electricidad, el gas y los carburantes», fija que las tarifas domésticas de luz y gas no suban más de un 5 % sobre el periodo anterior y recupera «el tope al gas» a 40 €/MWh; en campaña, anuncia que Irene Montero se atreverá a «topar los precios de la gasolina». La medida 317 promete «eliminar progresivamente» las ayudas a la industria fósil y resume: «Ni un euro público para alimentar la crisis climática». Cita la cifra del FMI de 7 billones de dólares en ayudas a los fósiles. El FMI cuenta como subvención explícita cobrar por debajo del coste de suministro y atribuye que esas subvenciones se duplicaran, hasta 1,3 billones, al apoyo público a consumidores y empresas ante la subida de la energía. Límites: si el tope se financia recortando márgenes de las empresas y no por debajo del coste, no sería una subvención en ese sentido."
+    medidas: "Medida 38 (pp. 18-19); medida 317 (p. 95)"
+    fuentes:
+      - titulo: "Fossil Fuel Subsidies Surged to Record $7 Trillion"
+        url: https://www.imf.org/en/Blogs/Articles/2023/08/24/fossil-fuel-subsidies-surged-to-record-7-trillion
+        medio: "Fondo Monetario Internacional"
+        fecha: 2023-08-24
+        tipo: oficial
+      - titulo: "IMF Fossil Fuel Subsidies Data: 2023 Update (Black, Liu y Parry)"
+        url: https://www.imf.org/en/Publications/WP/Issues/2023/08/22/IMF-Fossil-Fuel-Subsidies-Data-2023-Update-537281
+        medio: "Fondo Monetario Internacional"
+        fecha: 2023-08-24
+        tipo: oficial
+      - titulo: "Podemos lanza la campaña con camiones para difundir sus propuestas de intervención en vivienda, gasolina y alimentos"
+        url: https://democrata.es/politica/podemos-lanza-la-campana-con-camiones-para-difundir-sus-propuestas-de-intervencion-en-vivienda-gasolina-y-alimentos
+        medio: "Demócrata"
+        fecha: 2026-11-13
+        tipo: prensa
+      - titulo: "Así de básico: Paz, casa y trabajo. Programa electoral de Podemos para las elecciones generales del 29N"
+        url: https://podemos.info/wp-content/uploads/2026/11/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf
+        medio: "Podemos"
+        fecha: 2026-11-17
+        tipo: partido
+  - tipo: incoherencia
+    tema: energia-medioambiente
+    titulo: "El programa compra la mayoría de Repsol y a la vez veta contratos y ayudas públicas a las grandes empresas contaminantes"
+    texto: "La medida 37 prevé que el Estado compre «la mayoría absoluta del accionariado de Repsol» para que la Empresa Pública de Energía cuente con su «infraestructura industrial, logística y comercial» en «el conjunto del sector energético». La medida 41 grava a las grandes empresas más contaminantes y dice que «prohibiremos que estas empresas reciban subvenciones públicas o puedan contratar con las administraciones mientras mantengan estas actividades contaminantes»; la 317 promete «ni un euro público para alimentar la crisis climática». La proposición de ley de Podemos de 2025 para nacionalizarla la describe como «la empresa líder en emisiones invernadero», con unos 10,8 millones de toneladas de CO₂ equivalente, el 4 % de las emisiones directas de España. Límites: aquella ley preveía recortar un 75 % la producción y el refino antes de 2030; el programa no dice si la Repsol pública lo haría."
+    medidas: "Medida 37 (p. 18); medida 41 (pp. 19-20); medida 317 (p. 95)"
+    fuentes:
+      - titulo: "Proposición de Ley de nacionalización de Repsol y de su reconversión en una empresa pública al servicio de una transición energética verde y justa (122/000236)"
+        url: https://www.congreso.es/public_oficiales/L15/CONG/BOCG/B/BOCG-15-B-281-1.PDF
+        medio: "Boletín Oficial de las Cortes Generales"
+        fecha: 2025-11-21
+        tipo: oficial
+      - titulo: "Así de básico: Paz, casa y trabajo. Programa electoral de Podemos para las elecciones generales del 29N"
+        url: https://podemos.info/wp-content/uploads/2026/11/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf
+        medio: "Podemos"
+        fecha: 2026-11-17
+        tipo: partido
+  - tipo: incoherencia
+    tema: economia-impuestos
+    titulo: "La gratuidad del transporte se paga en parte con impuestos a beneficios extraordinarios que otras medidas eliminan"
+    texto: "La medida 40 garantiza «la gratuidad de todo el transporte público de viajeros», incluida la media y larga distancia ferroviaria, y la financia con «la fiscalidad verde, los impuestos a los vuelos privados y la tributación de los beneficios extraordinarios de las grandes empresas energéticas». Pero la medida 39 reforma el mercado eléctrico para «acabar con los beneficios caídos del cielo», y la 37 pasa la mayoría de Repsol al Estado, con lo que esa base fiscal se reduce. Como referencia, el gravamen temporal a las energéticas recaudó 1.164 millones en 2024, según Hacienda, mientras que solo las bonificaciones parciales y el abono único del transporte cuestan al Estado más de 1.371 millones en 2026. Límites: el programa no cifra ni el coste de la gratuidad total ni lo que aportaría cada una de las tres fuentes."
+    medidas: "Medidas 37 y 39 (pp. 18-19); medida 40 (p. 19); medida 31 (p. 17)"
+    fuentes:
+      - titulo: "Los gravámenes de la banca y las energéticas alcanzan los 2.859 millones de euros en 2024"
+        url: https://www.hacienda.gob.es/GabineteMinistro/Notas%20Prensa/2024/S.E.HACIENDA/27-09-24-NP-GRAVAMENES-BANCA-Y-ENERGETICAS-RECAUDACION-2024.pdf
+        medio: "Ministerio de Hacienda"
+        fecha: 2024-09-27
+        tipo: oficial
+      - titulo: "El Congreso convalida el Real Decreto-ley que prorroga las bonificaciones al transporte público y crea el Abono Único"
+        url: https://www.mjusticia.gob.es/es/institucional/gabinete-comunicacion/noticias-ministerio/decreto-transportes
+        medio: "Ministerio de la Presidencia, Justicia y Relaciones con las Cortes"
+        fecha: 2026-01-27
+        tipo: oficial
+      - titulo: "Así de básico: Paz, casa y trabajo. Programa electoral de Podemos para las elecciones generales del 29N"
+        url: https://podemos.info/wp-content/uploads/2026/11/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf
+        medio: "Podemos"
+        fecha: 2026-11-17
+        tipo: partido

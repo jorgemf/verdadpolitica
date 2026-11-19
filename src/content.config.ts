@@ -196,4 +196,36 @@ const encuestas = defineCollection({
   }),
 });
 
-export const collections = { partidos, fichas, programa, encuestas };
+// Lo que la evidencia y la ley dicen de cada programa del 29-N. Un archivo por
+// partido; cada punto se apoya en fuentes y todos los partidos tienen puntos de
+// los tres tipos, para que nadie salga solo con elogios o solo con críticas.
+export const TIPOS_ANALISIS = ['respaldo', 'choque', 'incoherencia'] as const;
+
+const puntoAnalisis = z.object({
+  tipo: z.enum(TIPOS_ANALISIS),
+  tema: z.enum(TEMA_IDS),
+  titulo: z.string().min(1).max(120),
+  texto: z.string().min(1).max(900),
+  // Medidas del programa a las que se refiere, como las cita el propio documento.
+  medidas: z.string().min(1).max(160),
+  fuentes: z.array(fuente).min(2).refine(urlsDistintas, 'Las fuentes deben tener URLs distintas'),
+});
+
+const analisis = defineCollection({
+  loader: glob({ base: './src/content/analisis', pattern: '*.yaml' }),
+  schema: z
+    .object({
+      partido: reference('partidos'),
+      actualizado: fechaCampo,
+      puntos: z.array(puntoAnalisis).min(3),
+    })
+    .superRefine((a, ctx) => {
+      for (const tipo of TIPOS_ANALISIS) {
+        if (!a.puntos.some((p) => p.tipo === tipo)) {
+          ctx.addIssue({ code: 'custom', path: ['puntos'], message: `falta al menos un punto de tipo "${tipo}"` });
+        }
+      }
+    }),
+});
+
+export const collections = { partidos, fichas, programa, encuestas, analisis };

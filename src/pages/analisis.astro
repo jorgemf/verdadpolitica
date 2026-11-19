@@ -1,0 +1,289 @@
+---
+import Base from '../layouts/Base.astro';
+import FilaPartido from '../components/FilaPartido.astro';
+import MarcaAnalisis from '../components/MarcaAnalisis.astro';
+import PuntoAnalisis from '../components/PuntoAnalisis.astro';
+import { TEMAS } from '../data/temas';
+import {
+  partidos,
+  analisis,
+  programaConfirmado,
+  partidoUrl,
+  url,
+  fecha,
+  TIPO_ANALISIS,
+  ORDEN_TIPOS_ANALISIS,
+} from '../lib/datos';
+
+const lista = await partidos();
+const todos = await analisis();
+const porPartido = new Map(todos.map((a) => [a.data.partido.id, a]));
+
+// Solo se ofrecen en el filtro los temas que tienen algún punto, en el orden común de la web.
+const temasConPuntos = TEMAS.filter((t) => todos.some((a) => a.data.puntos.some((p) => p.tema === t.id)));
+
+const bloques = ORDEN_TIPOS_ANALISIS.map((tipo) => ({
+  tipo,
+  filas: lista.map((p) => {
+    const a = porPartido.get(p.id);
+    return { partido: p, analisis: a, puntos: a ? a.data.puntos.filter((x) => x.tipo === tipo) : [] };
+  }),
+}));
+
+const sinAnalisis = (p: (typeof lista)[number]) =>
+  programaConfirmado(p)
+    ? 'Análisis pendiente de publicar.'
+    : 'Sin análisis: aún no ha publicado su programa del 29-N.';
+---
+
+<Base
+  titulo="Análisis de los programas"
+  descripcion="Lo que respalda la evidencia, lo que choca con la evidencia o la ley y las incoherencias de cada programa del 29-N, partido a partido y con fuentes."
+>
+  <header class="cabeza envoltorio">
+    <h1>Análisis de los programas</h1>
+    <p>
+      Las propuestas de cada programa del 29-N, contrastadas con la evidencia empírica y con la ley. No se puntúa a
+      ningún partido ni se recomienda el voto: se recogen hechos comprobables, con sus fuentes, y la valoración queda
+      en manos de quien lee. Todos los partidos se analizan con los mismos criterios, explicados en la{' '}
+      <a href={url('metodologia/#analisis')}>metodología</a>.
+    </p>
+    <p class="cabeza__orden">El orden de los partidos cambia en cada visita.</p>
+    <nav class="cabeza__tipos" aria-label="Tipos de análisis">
+      {
+        ORDEN_TIPOS_ANALISIS.map((tipo) => (
+          <a href={`#${tipo}`}>
+            <MarcaAnalisis tipo={tipo} tamano={18} />
+            {TIPO_ANALISIS[tipo].titulo}
+          </a>
+        ))
+      }
+    </nav>
+  </header>
+
+  {
+    temasConPuntos.length > 1 && (
+      <div class="filtro" data-filtro hidden>
+        <div class="envoltorio filtro__fila" role="group" aria-label="Filtrar por tema">
+          <button type="button" class="filtro__opcion" data-tema="" aria-pressed="true">
+            Todos los temas
+          </button>
+          {temasConPuntos.map((t) => (
+            <button type="button" class="filtro__opcion" data-tema={t.id} aria-pressed="false">
+              {t.nombre}
+            </button>
+          ))}
+        </div>
+      </div>
+    )
+  }
+
+  <div class="envoltorio cuerpo">
+    {
+      todos.length === 0 && (
+        <p class="aviso-tentativo">El análisis de los programas está en elaboración y se publicará aquí.</p>
+      )
+    }
+    {
+      bloques.map(({ tipo, filas }) => (
+        <section class="tipo" id={tipo} aria-labelledby={`titulo-${tipo}`}>
+          <h2 id={`titulo-${tipo}`}>
+            <MarcaAnalisis tipo={tipo} tamano={26} />
+            {TIPO_ANALISIS[tipo].titulo}
+          </h2>
+          <p class="tipo__descripcion">{TIPO_ANALISIS[tipo].descripcion}</p>
+          <div data-baraja>
+            {filas.map(({ partido: p, analisis: a, puntos }) => (
+              <div data-partido={p.id}>
+                <FilaPartido
+                  partido={p}
+                  meta={a ? `Revisado el ${fecha(a.data.actualizado)}` : undefined}
+                  href={a ? `${partidoUrl(p.id)}#analisis` : partidoUrl(p.id)}
+                >
+                  {!a ? (
+                    <p class="tipo__vacio">{sinAnalisis(p)}</p>
+                  ) : (
+                    <>
+                      <div class="tipo__puntos">
+                        {puntos.map((punto) => (
+                          <PuntoAnalisis punto={punto} nivel={3} />
+                        ))}
+                      </div>
+                      <p class="tipo__vacio" data-sin-tema hidden>
+                        Ningún punto de este tipo sobre el tema elegido.
+                      </p>
+                    </>
+                  )}
+                </FilaPartido>
+              </div>
+            ))}
+          </div>
+        </section>
+      ))
+    }
+  </div>
+</Base>
+
+<script>
+  // Como en la portada, ningún partido va siempre primero: el orden se baraja en
+  // cada visita, y es el mismo en los tres bloques para comparar fila a fila.
+  const contenedores = [...document.querySelectorAll<HTMLElement>('[data-baraja]')];
+  const ids = [...new Set(contenedores.flatMap((c) => [...c.children].map((h) => (h as HTMLElement).dataset.partido)))];
+  for (let i = ids.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [ids[i], ids[j]] = [ids[j], ids[i]];
+  }
+  for (const c of contenedores) {
+    const hijos = [...c.children] as HTMLElement[];
+    c.append(...ids.map((id) => hijos.find((h) => h.dataset.partido === id)).filter((h): h is HTMLElement => !!h));
+  }
+
+  // Filtro por tema: sin JavaScript se ven todos los puntos y el filtro no aparece.
+  const filtro = document.querySelector<HTMLElement>('[data-filtro]');
+  if (filtro) {
+    filtro.hidden = false;
+    const botones = [...filtro.querySelectorAll<HTMLButtonElement>('button[data-tema]')];
+    const aplicar = (tema: string) => {
+      for (const b of botones) b.setAttribute('aria-pressed', String(b.dataset.tema === tema));
+      for (const punto of document.querySelectorAll<HTMLElement>('.tipo__puntos [data-tema]')) {
+        punto.hidden = tema !== '' && punto.dataset.tema !== tema;
+      }
+      for (const aviso of document.querySelectorAll<HTMLElement>('[data-sin-tema]')) {
+        const puntos = [...(aviso.previousElementSibling?.children ?? [])] as HTMLElement[];
+        aviso.hidden = puntos.some((p) => !p.hidden);
+      }
+    };
+    for (const b of botones) b.addEventListener('click', () => aplicar(b.dataset.tema ?? ''));
+    aplicar('');
+  }
+</script>
+
+<style>
+  .cabeza {
+    padding-block: 2rem 1.25rem;
+  }
+
+  .cabeza h1 {
+    font-size: clamp(2.2rem, 6vw, 3.75rem);
+    font-weight: 850;
+    font-stretch: 72%;
+  }
+
+  .cabeza p {
+    max-width: 66ch;
+    margin: 0 0 0.6rem;
+    font-size: 1.125rem;
+  }
+
+  .cabeza .cabeza__orden {
+    font-size: 0.875rem;
+    color: var(--tinta-suave);
+  }
+
+  .cabeza__tipos {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem 1.5rem;
+    margin-top: 1rem;
+  }
+
+  .cabeza__tipos a {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    min-height: 2.25rem;
+    color: var(--tinta);
+    font-weight: 700;
+  }
+
+  .filtro {
+    position: sticky;
+    top: var(--alto-cabecera);
+    z-index: 3;
+    background: var(--papel-alto);
+    border-block: 1px solid var(--linea);
+  }
+
+  .filtro__fila {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+    padding-block: 0.6rem;
+  }
+
+  .filtro__opcion {
+    padding: 0.35rem 0.8rem;
+    border: 1px solid var(--linea);
+    border-radius: 999px;
+    background: var(--papel);
+    color: var(--tinta);
+    font: inherit;
+    font-weight: 600;
+    font-size: 0.9375rem;
+    white-space: nowrap;
+    cursor: pointer;
+  }
+
+  .filtro__opcion:hover {
+    border-color: var(--tinta);
+  }
+
+  .filtro__opcion[aria-pressed='true'] {
+    background: var(--tinta);
+    border-color: var(--tinta);
+    color: var(--papel-alto);
+  }
+
+  .cuerpo {
+    padding-top: 1.5rem;
+  }
+
+  .tipo + .tipo {
+    margin-top: 3.5rem;
+  }
+
+  .tipo h2 {
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+    font-size: 1.6rem;
+    padding-bottom: 0.6rem;
+    border-bottom: 2px solid var(--tinta);
+  }
+
+  .tipo__descripcion {
+    max-width: 72ch;
+    color: var(--tinta-suave);
+  }
+
+  .tipo__puntos {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(min(100%, 22rem), 1fr));
+    gap: 0.85rem;
+    align-items: start;
+  }
+
+  .tipo__vacio {
+    margin: 0;
+    padding: 0.5rem 0.75rem;
+    border-left: 3px solid var(--linea);
+    background: var(--papel-alto);
+    color: var(--tinta-suave);
+  }
+
+  /* En pantallas estrechas el filtro ocupa varias líneas y deja de ser fijo. */
+  @media (max-width: 64rem) {
+    .filtro {
+      position: static;
+    }
+
+    .filtro__fila {
+      gap: 0.35rem;
+    }
+
+    .filtro__opcion {
+      padding: 0.3rem 0.65rem;
+      font-size: 0.875rem;
+    }
+  }
+</style>

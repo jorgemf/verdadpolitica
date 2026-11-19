@@ -1,0 +1,68 @@
+---
+// Análisis del programa de un partido, en los tres bloques comunes a todos:
+// lo que respalda la evidencia, lo que choca con la evidencia o la ley y las
+// incoherencias internas. Se usa en la página de cada partido.
+import MarcaAnalisis from './MarcaAnalisis.astro';
+import PuntoAnalisis from './PuntoAnalisis.astro';
+import { TIPO_ANALISIS, ORDEN_TIPOS_ANALISIS, analisisUrl, type Analisis } from '../lib/datos';
+
+interface Props {
+  analisis: Analisis;
+}
+
+const { analisis } = Astro.props;
+const bloques = ORDEN_TIPOS_ANALISIS.map((tipo) => ({
+  tipo,
+  puntos: analisis.data.puntos.filter((p) => p.tipo === tipo),
+}));
+---
+
+<div class="ap">
+  {
+    bloques.map(({ tipo, puntos }) => (
+      <section class="ap__bloque" aria-labelledby={`analisis-${tipo}`}>
+        <h3 id={`analisis-${tipo}`} class="ap__rotulo">
+          <MarcaAnalisis tipo={tipo} tamano={22} />
+          {TIPO_ANALISIS[tipo].titulo}
+        </h3>
+        <p class="ap__descripcion">
+          {TIPO_ANALISIS[tipo].descripcion} <a href={analisisUrl(tipo)}>Compáralo con los demás partidos</a>.
+        </p>
+        <div class="ap__puntos">
+          {puntos.map((punto) => (
+            <PuntoAnalisis punto={punto} nivel={4} />
+          ))}
+        </div>
+      </section>
+    ))
+  }
+</div>
+
+<style>
+  .ap__bloque + .ap__bloque {
+    margin-top: 2.25rem;
+  }
+
+  .ap__rotulo {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    margin: 0 0 0.35rem;
+    font-size: 1.3rem;
+    font-weight: 800;
+  }
+
+  .ap__descripcion {
+    max-width: 72ch;
+    margin: 0 0 1rem;
+    font-size: 0.9375rem;
+    color: var(--tinta-suave);
+  }
+
+  .ap__puntos {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(min(100%, 24rem), 1fr));
+    gap: 1rem;
+    align-items: start;
+  }
+</style>

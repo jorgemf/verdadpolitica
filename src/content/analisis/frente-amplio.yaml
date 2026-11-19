@@ -1,0 +1,362 @@
+partido: frente-amplio
+actualizado: 2026-11-20
+puntos:
+  # ── Respaldo ────────────────────────────────────────────────────────────────
+  - tipo: respaldo
+    tema: vivienda
+    titulo: "El Banco de España recomienda ampliar el alquiler social, que en España es menos del 2 % del parque según la OCDE"
+    texto: "El programa destina «el 1 % del PIB anual (aprox. 17.000 M€/año)» a un parque público que incorporaría «1,5 millones de viviendas públicas en 12 años». El Banco de España (Informe Anual 2023) sitúa el alquiler social en unas 300.000 viviendas, el 1,5 % de las principales, y recomienda «impulsar la oferta de alquiler social»; calcula que converger con la media de la UE exigiría unos 1,5 millones de viviendas nuevas, la cifra del programa. La OCDE estima el parque social en el 8 % de las viviendas de la UE, más del 20 % en Austria, Dinamarca y Países Bajos, y menos del 2 % en España. Límites: según el Banco de España, hacerlo en 10 años exigiría producir más de un 150 % más viviendas al año que la media reciente, y estas fuentes describen la escasez del parque, no miden cuánto bajarían los alquileres."
+    medidas: "Apartados 1.1 (p. 14) y 1.8"
+    fuentes:
+      - titulo: "Informe Anual 2023. Capítulo 4: El mercado de la vivienda en España: evolución reciente, riesgos y problemas de accesibilidad"
+        url: https://www.bde.es/f/webbe/SES/Secciones/Publicaciones/PublicacionesAnuales/InformesAnuales/23/Fich/InfAnual_2023_Cap4.pdf
+        medio: "Banco de España"
+        tipo: oficial
+      - titulo: "PH4.2. Social rental housing stock (OECD Affordable Housing Database)"
+        url: https://webfs.oecd.org/Els-com/Affordable_Housing_Database/PH4-2-Social-rental-housing-stock.pdf
+        medio: "OCDE"
+        tipo: oficial
+      - titulo: "Un programa como una casa. Programa electoral de Frente Amplio para las elecciones generales del 29 de noviembre de 2026"
+        url: https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf
+        medio: "Frente Amplio"
+        fecha: 2026-11-16
+        tipo: partido
+  - tipo: respaldo
+    tema: empleo-pensiones
+    titulo: "Los ensayos de semana de cuatro días sin rebaja salarial mejoraron el bienestar en las empresas que participaron"
+    texto: "El programa propone la «implantación inmediata a 37,5 horas en 2026» y reducir la jornada «de forma progresiva hasta las 32 horas semanales» sin reducción salarial. Un estudio en Nature Human Behaviour (Fan, Schor y otros, 2025) con 2.896 empleados de 141 organizaciones de seis países halló, tras seis meses de semana de cuatro días sin rebaja de sueldo, menos agotamiento y más satisfacción y salud, algo que no se vio en 12 empresas de control. Límites: las empresas se presentaron voluntarias y reorganizaron el trabajo antes; los ensayos no miden el efecto de una reducción obligatoria. Los estudios de reducciones legales en Francia (35 horas) y Portugal (40 horas) no hallan que crearan empleo (Chemin y Wasmer, 2009; Raposo y van Ours, 2010)."
+    medidas: "Apartado 4.1 (pp. 62-63)"
+    fuentes:
+      - titulo: "Work time reduction via a 4-day workweek finds improvements in workers' well-being"
+        url: https://www.nature.com/articles/s41562-025-02259-6
+        medio: "Nature Human Behaviour"
+        fecha: 2025-07-21
+        tipo: academica
+      - titulo: "Using Alsace-Moselle Local Laws to Build a Difference-in-Differences Estimation Strategy of the Employment Effects of the 35-Hour Workweek Regulation in France (Chemin y Wasmer)"
+        url: https://econpapers.repec.org/RePEc:ucp:jlabec:v:27:y:2009:i:4:p:487-524
+        medio: "Journal of Labor Economics"
+        tipo: academica
+      - titulo: "How working time reduction affects jobs and wages (Raposo y van Ours)"
+        url: https://econpapers.repec.org/RePEc:eee:ecolet:v:106:y:2010:i:1:p:61-63
+        medio: "Economics Letters"
+        tipo: academica
+      - titulo: "Un programa como una casa. Programa electoral de Frente Amplio para las elecciones generales del 29 de noviembre de 2026"
+        url: https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf
+        medio: "Frente Amplio"
+        fecha: 2026-11-16
+        tipo: partido
+  - tipo: respaldo
+    tema: sanidad
+    titulo: "El impuesto catalán a las bebidas azucaradas redujo sus compras un 7,7 %, según un estudio publicado en 2020"
+    texto: "El programa propone «impuestos específicos a bebidas energéticas, refrescos azucarados, tabaco y productos ultraprocesados» cuya recaudación se destine a salud. Cataluña aplica desde mayo de 2017 un impuesto de 0,08 a 0,12 euros por litro según el contenido de azúcar. Vall Castelló y López Casasnovas (Economics & Human Biology, 2020) estiman que redujo las compras de bebidas azucaradas un 7,7 %, más en las de mayor contenido de azúcar y en las zonas con más obesidad. Límites: parte de la caída se compensó con más ventas de bebidas «zero» o «light»; el estudio mide ventas, no efectos sobre el peso o la salud, y trata de una sola comunidad. El programa no define el impuesto a los ultraprocesados, sobre el que no hay evaluaciones comparables en España."
+    medidas: "Apartado 2.4, «Salud pública» (p. 35)"
+    fuentes:
+      - titulo: "Impact of SSB taxes on sales (Economics & Human Biology, vol. 36, 2020)"
+        url: https://diposit.ub.edu/dspace/handle/2445/159797?mode=full
+        medio: "Universitat de Barcelona (repositorio)"
+        tipo: academica
+      - titulo: "Un programa como una casa. Programa electoral de Frente Amplio para las elecciones generales del 29 de noviembre de 2026"
+        url: https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf
+        medio: "Frente Amplio"
+        fecha: 2026-11-16
+        tipo: partido
+  - tipo: respaldo
+    tema: educacion
+    titulo: "Las clases de 13 a 17 alumnos mejoraron los resultados en el experimento STAR, aunque otros estudios no hallan efecto"
+    texto: "El programa fijaría por ley ratios máximas de «15 en Primaria y FP, 20 en Secundaria y 23 en Bachillerato» y una ley para que el gasto educativo llegue «al 7 % del PIB en 2030». En el experimento STAR de Tennessee, que asignó al azar a alumnos de los primeros cursos a clases de 13 a 17 o de 22 a 25, los de clases pequeñas mejoraron unos 4 percentiles en las pruebas el primer año (Krueger, NBER, 1997). La evidencia está dividida: con la variación natural del tamaño de las clases en Connecticut, Hoxby (NBER, 1998) no encontró efecto de reducirlas desde una base de entre 15 y 30 alumnos. Límites: STAR evaluó los primeros cursos de primaria, no secundaria ni bachillerato, y bajar las ratios exige contratar más docentes, un coste que el programa no cuantifica por separado."
+    medidas: "Apartado 2.5 (p. 36)"
+    fuentes:
+      - titulo: "Experimental Estimates of Education Production Functions (NBER Working Paper 6051)"
+        url: https://www.nber.org/papers/w6051
+        medio: "National Bureau of Economic Research"
+        tipo: academica
+      - titulo: "The Effects of Class Size and Composition on Student Achievement: New Evidence from Natural Population Variation (NBER Working Paper 6869)"
+        url: https://www.nber.org/papers/w6869
+        medio: "National Bureau of Economic Research"
+        tipo: academica
+      - titulo: "Un programa como una casa. Programa electoral de Frente Amplio para las elecciones generales del 29 de noviembre de 2026"
+        url: https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf
+        medio: "Frente Amplio"
+        fecha: 2026-11-16
+        tipo: partido
+  - tipo: respaldo
+    tema: economia-impuestos
+    titulo: "Un impuesto de patrimonio armonizado evita los traslados entre comunidades que restan recaudación, según un estudio"
+    texto: "El programa propone que «todos los patrimonios de más de un millón de euros tributen como mínimo un 2 %» en toda España y una «Tasa Zucman» del 3 % anual sobre lo que supere los 50 millones. Con datos españoles, Agrawal, Foremny y Martínez-Toledano (2025) hallan que, al recuperarse el impuesto en todas las comunidades salvo Madrid, hubo traslados de contribuyentes a esa comunidad, con una pérdida de IRPF seis veces mayor que la de Patrimonio, y que Madrid recaudaría más con un tipo armonizado. Con datos de Suecia, Jakobsen, Kleven y otros (2024) estiman que cada punto más de tipo reduce un 2 % el número de grandes contribuyentes residentes, con un efecto pequeño sobre el empleo (0,02 %) y el valor añadido (0,10 %). Límites: armonizar dentro de España no impide la salida al extranjero, y ninguno de los dos estudios evalúa tipos del 2 % o el 3 %."
+    medidas: "Apartado 3.2 (p. 51)"
+    fuentes:
+      - titulo: "Wealth Tax Mobility and Tax Coordination (American Economic Journal: Applied Economics, 2025)"
+        url: https://diposit.ub.edu/items/d3c4aa85-2611-4969-a7af-5df2aa6e070d/full
+        medio: "Universitat de Barcelona (repositorio)"
+        tipo: academica
+      - titulo: "Taxing Top Wealth: Migration Responses and their Aggregate Economic Implications (NBER Working Paper 32153)"
+        url: https://nber.org/papers/w32153
+        medio: "National Bureau of Economic Research"
+        tipo: academica
+      - titulo: "Un programa como una casa. Programa electoral de Frente Amplio para las elecciones generales del 29 de noviembre de 2026"
+        url: https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf
+        medio: "Frente Amplio"
+        fecha: 2026-11-16
+        tipo: partido
+  - tipo: respaldo
+    tema: empleo-pensiones
+    titulo: "Las subidas del SMI elevaron los salarios bajos; sobre el empleo, los estudios van de un efecto marginal a uno negativo"
+    texto: "El programa propone un «suelo legal del SMI al 60 % del salario medio neto» (apartado 4.1). Los estudios sobre la subida del 22,3 % de 2019 coinciden en que elevó los ingresos de los trabajadores con salarios bajos, pero discrepan sobre el empleo. El Banco de España (Barceló y otros, 2021) halló un menor crecimiento del empleo de los afectados, más acusado entre jóvenes y mayores, y pide interpretar sus cifras con cautela. Fedea (Casanova y otros, 2025) estima unos 5 puntos menos de crecimiento del empleo en los establecimientos con toda la plantilla afectada, concentrados en los de hasta cinco trabajadores. La comisión asesora del Ministerio de Trabajo (2022) concluyó que hubo, «a lo más, una pequeña reducción de su crecimiento»."
+    medidas: "Apartado 4.1 (p. 62)"
+    fuentes:
+      - titulo: "Los efectos del salario mínimo interprofesional en el empleo: nueva evidencia para España (Documento Ocasional 2113)"
+        url: https://www.bde.es/wbe/es/publicaciones/analisis-economico-investigacion/documentos-ocasionales/efectos-salario-minimo-interprofesional-empleo-nueva-evidencia-para-espana.html
+        medio: "Banco de España"
+        fecha: 2021-06-08
+        tipo: academica
+      - titulo: "Firm-Level Employment Dynamics and Minimum Wages: Evidence from Spain"
+        url: https://documentos.fedea.net/documento/eee2025-10/texto
+        medio: "Fedea"
+        tipo: academica
+      - titulo: "II Informe de la Comisión Asesora para el análisis del SMI. Cálculo del 60% del salario medio neto e incidencia del SMI sobre los hogares pobres"
+        url: https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/trabajo14/Documents/2022/191222-Informe-SMI-2023.pdf
+        medio: "Ministerio de Trabajo y Economía Social"
+        fecha: 2022-12-07
+        tipo: oficial
+      - titulo: "Un programa como una casa. Programa electoral de Frente Amplio para las elecciones generales del 29 de noviembre de 2026"
+        url: https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf
+        medio: "Frente Amplio"
+        fecha: 2026-11-16
+        tipo: partido
+  # ── Choque ──────────────────────────────────────────────────────────────────
+  - tipo: choque
+    tema: economia-impuestos
+    titulo: "El programa no cuantifica su coste total ni cómo encaja en las reglas fiscales europeas"
+    texto: "El programa no incluye una memoria económica con el coste de sus medidas ni su efecto sobre el déficit y la deuda. España cerró 2025 con un déficit del 2,18 % del PIB (2,39 % con las medidas por la DANA) y una deuda del 100,7 %. Con una deuda superior al 90 %, el Reglamento (UE) 2024/1263 exige que la senda de ajuste la reduzca una media mínima de un punto del PIB al año (art. 7) y alcanzar un margen de 1,5 puntos de déficit estructural por debajo del 3 % (art. 8). Entre sus medidas de mayor coste previsible están sus suelos de gasto en sanidad («8 % del PIB»), educación («7 % del PIB en 2030») y vivienda («1 % del PIB anual»): unos 5,4 puntos más que el gasto de 2024 según Eurostat (6,5 % y 4,1 % en sanidad y educación), unos 92.000 millones al año con su equivalencia de 17.000 millones por punto, más el 3,5 % del PIB para la transición ecológica."
+    medidas: "Apartados 1.1, 1.8, 2.4, 2.5, 5.1 y 11.1"
+    fuentes:
+      - titulo: "España cierra 2025 con un déficit público del 2,2 % del PIB y mejora por sexto año consecutivo el objetivo pactado con la Comisión Europea"
+        url: https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/hacienda/paginas/2026/310326-cierre-deficit-2025.aspx
+        medio: "La Moncloa (Ministerio de Hacienda)"
+        fecha: 2026-03-31
+        tipo: oficial
+      - titulo: "La deuda de las Administraciones Públicas se situó en el 100,7% del PIB al cierre de 2025, 1 pp menos que hace un año"
+        url: https://www.bde.es/wbe/es/noticias-eventos/actualidad-banco-espana/deuda-aapp-2025t4.html
+        medio: "Banco de España"
+        fecha: 2026-03-31
+        tipo: oficial
+      - titulo: "Reglamento (UE) 2024/1263 relativo a la coordinación eficaz de las políticas económicas y a la supervisión presupuestaria multilateral"
+        url: https://www.boe.es/doue/2024/1263/L00001-00021.pdf
+        medio: "Diario Oficial de la Unión Europea"
+        fecha: 2024-04-30
+        tipo: oficial
+      - titulo: "General government expenditure by function (COFOG), España, % del PIB (gov_10a_exp)"
+        url: https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/gov_10a_exp?geo=ES&unit=PC_GDP&sector=S13&na_item=TE&cofog99=GF06&cofog99=GF07&cofog99=GF09&time=2024
+        medio: "Eurostat"
+        tipo: oficial
+      - titulo: "Un programa como una casa. Programa electoral de Frente Amplio para las elecciones generales del 29 de noviembre de 2026"
+        url: https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf
+        medio: "Frente Amplio"
+        fecha: 2026-11-16
+        tipo: partido
+  - tipo: choque
+    tema: vivienda
+    titulo: "Los topes al alquiler estudiados en Cataluña, Berlín y San Francisco bajaron los precios y, en varios casos, la oferta"
+    texto: "El programa limitaría el alquiler en zonas tensionadas al «25 % de la renta neta media por hogar de la sección censal» o al índice SERPAVI, con «una reducción media del 35 %». En Cataluña, el tope de 2020-2022 bajó los alquileres un 4-6 % sin reducir la oferta según un estudio (Jofre-Monseny y otros, 2023) y, según otro, bajó los caros, subió los baratos y redujo la oferta (Monràs y García-Montalvo, 2023). Con el tope de la Ley de Vivienda, aplicado allí desde marzo de 2024, los anuncios cayeron un 20,5 % hasta finales de 2025 (7 % en el resto de España) y la renta subió un 5,7 % (10,8 % nacional), según un análisis descriptivo de Fedea (2026). En Berlín, la congelación de 2020 bajó las rentas anunciadas y redujo los anuncios (Hahn y otros, 2024); en San Francisco, los caseros afectados redujeron un 15 % su oferta (Diamond y otros, 2019). Ningún estudio evalúa rebajas de esa magnitud."
+    medidas: "Apartado 1.3 (p. 17)"
+    fuentes:
+      - titulo: "Effectiveness and supply effects of high-coverage rent control policies (Jofre-Monseny, Martínez-Mazza y Segú, Regional Science and Urban Economics, 2023)"
+        url: https://diposit.ub.edu/items/3351bd7e-9352-4975-9705-6a3a9dc705c6/full
+        medio: "Universitat de Barcelona (repositorio)"
+        tipo: academica
+      - titulo: "The Effect of Second-Generation Rent Controls: New Evidence from Catalonia (Working Paper 2023-28)"
+        url: https://www.frbsf.org/economic-research/publications/working-papers/2023/28
+        medio: "Federal Reserve Bank of San Francisco"
+        fecha: 2023-09-01
+        tipo: academica
+      - titulo: "La Ley 12/2023 por el derecho a la vivienda: un primer balance a partir de la aplicación desigual del control de rentas en España (Apuntes 2026/15)"
+        url: https://documentos.fedea.net/pubs/ap/2026/ap2026-15.pdf
+        medio: "Fedea"
+        fecha: 2026-06-01
+        tipo: academica
+      - titulo: "Forward to the Past: Short-Term Effects of the Rent Freeze in Berlin (Hahn, Kholodilin, Waltl y Fongoni)"
+        url: https://www.diw.de/de/diw_01.c.873005.de/publikationen/externe_referierte_aufsaetze/2024_0003/forward_to_the_past__short-term_effects_of_the_rent_freeze_in_berlin.html
+        medio: "Management Science"
+        fecha: 2024-03-01
+        tipo: academica
+      - titulo: "The Effects of Rent Control Expansion on Tenants, Landlords, and Inequality: Evidence from San Francisco (Diamond, McQuade y Qian)"
+        url: https://www.aeaweb.org/articles?id=10.1257/aer.20181289
+        medio: "American Economic Review"
+        fecha: 2019-09-01
+        tipo: academica
+      - titulo: "Un programa como una casa. Programa electoral de Frente Amplio para las elecciones generales del 29 de noviembre de 2026"
+        url: https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf
+        medio: "Frente Amplio"
+        fecha: 2026-11-16
+        tipo: partido
+  - tipo: choque
+    tema: vivienda
+    titulo: "Expropiar viviendas exige indemnizar su valor real (art. 33.3 CE) y limitar quién compra debe ser proporcionado (TJUE)"
+    texto: "El programa prevé una «Ley de Expropiación de Viviendas a Propietarios Corporativos Privados» en tres fases (más de 1.000, 700 y 50 viviendas) y prohibir de forma «absoluta» que las personas jurídicas con ánimo de lucro compren vivienda. Ada Colau dijo el 10 de noviembre que se pagaría «a un precio muy inferior» al de mercado. El art. 33.3 CE exige causa de utilidad pública o interés social e indemnización, y el Constitucional (STC 166/1986) dijo que esta debe corresponder al «valor real» del bien, con un «proporcional equilibrio». El TEDH admite pagar menos que el valor de mercado en reformas de justicia social (James c. Reino Unido, 1986), pero no sin relación razonable con el valor. El TJUE (Libert, 2013) considera que condicionar quién compra inmuebles restringe las libertades de la UE; lo admite por vivienda social solo si se ciñe a proteger a quien lo necesita."
+    medidas: "Apartados 1.1 (p. 14) y 1.2 (p. 15)"
+    fuentes:
+      - titulo: "Constitución Española (texto consolidado), artículo 33"
+        url: https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229
+        medio: "BOE"
+        tipo: oficial
+      - titulo: "Sentencia 166/1986, de 19 de diciembre (expropiación de Rumasa)"
+        url: https://hj.tribunalconstitucional.es/es/Resolucion/Show/729
+        medio: "Tribunal Constitucional"
+        fecha: 1986-12-19
+        tipo: judicial
+      - titulo: "Handbook on property rights. Effective implementation of compensation and restitution rights in Albania (doctrina del TEDH: James and Others v. the United Kingdom, 1986)"
+        url: https://rm.coe.int/training-manual-on-property-rights-eng/16808b7c6c
+        medio: "Consejo de Europa"
+        tipo: oficial
+      - titulo: "Annual Report 2013. Judicial activity: Joined Cases C-197/11 and C-203/11 Libert and Others"
+        url: https://curia.europa.eu/site/upload/docs/application/pdf/2025-09/ra_jur_2013_en.pdf
+        medio: "Tribunal de Justicia de la Unión Europea"
+        tipo: judicial
+      - titulo: "Colau en 'La Revuelta': «Una prioridad es que no haya Gobierno facha, y otra que el PSOE no sea connivente con la especulación»"
+        url: https://www.eldiario.es/politica/colau-revuelta-prioridad-no-haya-gobierno-facha-psoe-no-tenga-connivencia-especulacion_1_13654090.html
+        medio: "elDiario.es"
+        fecha: 2026-11-10
+        tipo: prensa
+      - titulo: "Un programa como una casa. Programa electoral de Frente Amplio para las elecciones generales del 29 de noviembre de 2026"
+        url: https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf
+        medio: "Frente Amplio"
+        fecha: 2026-11-16
+        tipo: partido
+  - tipo: choque
+    tema: economia-impuestos
+    titulo: "La financiación directa del BCE a los Estados que propone el programa la prohíbe el art. 123 del Tratado de la UE"
+    texto: "El programa propone: «Habilitaremos al BCE para la financiación directa a los Estados miembros de la UE, evitando que los países tengan que acudir a colocar su deuda pública en los mercados». El art. 123 del Tratado de Funcionamiento de la UE prohíbe que el BCE y los bancos centrales nacionales den créditos a los gobiernos o les compren deuda directamente. Cambiarlo exige reformar los Tratados por el art. 48 del Tratado de la UE, con ratificación de todos los Estados; España no puede hacerlo sola. El programa también reformaría el art. 135 CE para que las sendas de estabilidad no se apliquen mientras el paro supere la media de los cinco países de la UE con menos desempleo: en 2025 era del 10,5 % en España y de entre el 2,8 % y el 3,8 % en esos cinco (Eurostat). Esa reforma no exime a España de las reglas fiscales de la UE (art. 126 del Tratado)."
+    medidas: "Bloque «La seguridad humana: paz, solidaridad y Europa» (p. 163) y reforma del art. 135 CE (p. 169)"
+    fuentes:
+      - titulo: "Versiones consolidadas del Tratado de la Unión Europea y del Tratado de Funcionamiento de la Unión Europea (2016/C 202/01)"
+        url: https://www.boe.es/doue/2016/202/Z00001-00388.pdf
+        medio: "Diario Oficial de la Unión Europea"
+        fecha: 2016-06-07
+        tipo: oficial
+      - titulo: "Unemployment by sex and age – annual data (une_rt_a), 2025"
+        url: https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/une_rt_a?age=Y15-74&sex=T&unit=PC_ACT&time=2025
+        medio: "Eurostat"
+        tipo: oficial
+      - titulo: "Un programa como una casa. Programa electoral de Frente Amplio para las elecciones generales del 29 de noviembre de 2026"
+        url: https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf
+        medio: "Frente Amplio"
+        fecha: 2026-11-16
+        tipo: partido
+  - tipo: choque
+    tema: energia-medioambiente
+    titulo: "Cerrar las nucleares supone más gas y emisiones a corto plazo; a largo plazo depende de la inversión renovable"
+    texto: "El apartado 5.1 dice: «Almaraz I y II cerrarán en los plazos previstos (2027-2028)»; la Orden TED/864/2026 los prorrogó hasta junio de 2030, y habría que revocarla. La Agencia Internacional de la Energía (2019) concluye que alargar la vida de un reactor es considerablemente más barato que construir una central nueva y competitivo con la solar y la eólica nuevas. Una simulación del mercado ibérico (Fabra, 2026) estima que prorrogar Almaraz bajaría a corto plazo los precios mayoristas y las emisiones al desplazar gas, pero reduciría los incentivos a invertir en renovables y almacenamiento; si esa inversión cae lo bastante, acabaría elevando precios y emisiones. En Alemania, el cierre nuclear se cubrió sobre todo con carbón e importaciones, con un coste social de 3.000 a 8.000 millones de euros al año (Jarvis, Deschenes y Jha, 2022)."
+    medidas: "Apartado 5.1 (p. 72)"
+    fuentes:
+      - titulo: "Nuclear Power in a Clean Energy System"
+        url: https://www.iea.org/reports/nuclear-power-in-a-clean-energy-system
+        medio: "Agencia Internacional de la Energía"
+        fecha: 2019-05-27
+        tipo: oficial
+      - titulo: "The Price and Emissions Effects of Extending Nuclear Lifetimes: Evidence from Spain (CEPR Discussion Paper 21053)"
+        url: https://ideas.repec.org/p/cpr/ceprdp/21053.html
+        medio: "Centre for Economic Policy Research"
+        tipo: academica
+      - titulo: "The Private and External Costs of Germany's Nuclear Phase-Out (Journal of the European Economic Association, 20(3))"
+        url: https://econpapers.repec.org/RePEc:oup:jeurec:v:20:y:2022:i:3:p:1311-1346.
+        medio: "Journal of the European Economic Association"
+        tipo: academica
+      - titulo: "Orden TED/864/2026, de 12 de agosto, por la que se concede la renovación de la autorización de explotación de la Central Nuclear Almaraz, Unidades I y II"
+        url: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-17756
+        medio: "BOE"
+        fecha: 2026-08-14
+        tipo: oficial
+      - titulo: "Un programa como una casa. Programa electoral de Frente Amplio para las elecciones generales del 29 de noviembre de 2026"
+        url: https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf
+        medio: "Frente Amplio"
+        fecha: 2026-11-16
+        tipo: partido
+  - tipo: choque
+    tema: empleo-pensiones
+    titulo: "El programa blinda el IPC en la Constitución y adelanta la jubilación; la AIReF ve tensiones de sostenibilidad"
+    texto: "El apartado 4.3 propone llevar a la Constitución el derecho a la pensión pública y «su revalorización automática con arreglo al IPC», que ninguna pensión sea inferior al SMI y devolver la edad de jubilación a los 65 años; la candidatura cifró en «unos 20.000 millones al año» estas dos últimas medidas. La AIReF (mayo de 2026) estima un gasto bruto en pensiones del 14,6 % del PIB de media en 2022-2050 y un gasto neto de los nuevos ingresos del 13 %, por debajo del umbral legal del 13,3 %, pero avisa de que ese cumplimiento no garantiza la sostenibilidad y de que, a políticas constantes, la deuda llegaría al 123 % del PIB en 2050. Con la revalorización en la Constitución, una ley ordinaria ya no podría cambiar ese parámetro si hubiera que corregir el gasto."
+    medidas: "Apartado 4.3 (p. 64)"
+    fuentes:
+      - titulo: "Estudio de evaluación de la regla de gasto de pensiones (Estudio 1/2026)"
+        url: https://www.airef.es/wp-content/uploads/2026/05/Pensiones/AIReF.-Estudio-de-evaluacion-de-la-regla-de-gasto-de-pensiones.pdf
+        medio: "AIReF"
+        fecha: 2026-05-29
+        tipo: oficial
+      - titulo: "AIReF ratifica el cumplimiento de la regla de gasto de pensiones pero dice que no garantiza la sostenibilidad"
+        url: https://www.bolsamania.com/noticias/economia/economia--airef-ratifica-el-cumplimiento-de-la-regla-de-gasto-de-pensiones-pero-dice-que-no-garantiza-la-sostenibilidad--22574898.html
+        medio: "Europa Press (Bolsamanía)"
+        fecha: 2026-05-29
+        tipo: prensa
+      - titulo: "Frente Amplio propone que ninguna pensión esté por debajo del salario mínimo y recuperar la jubilación a los 65 años"
+        url: https://www.frenteamplio.info/noticias/frente-amplio-propone-ninguna-pension-este-debajo-salario-minimo-recuperar/
+        medio: "Frente Amplio"
+        fecha: 2026-10-24
+        tipo: partido
+      - titulo: "Un programa como una casa. Programa electoral de Frente Amplio para las elecciones generales del 29 de noviembre de 2026"
+        url: https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf
+        medio: "Frente Amplio"
+        fecha: 2026-11-16
+        tipo: partido
+  # ── Incoherencia ────────────────────────────────────────────────────────────
+  - tipo: incoherencia
+    tema: vivienda
+    titulo: "125.000 viviendas públicas al año no alcanzan la media europea en la legislatura ni el 20 % del parque en 2035"
+    texto: "El apartado 1.1 promete incorporar «1,5 millones de viviendas públicas en 12 años (125.000 viviendas públicas/año), alcanzando la media europea (9,3 %) durante la legislatura y el 20 % del parque total en 2035». Según el Censo de 2021 (INE) hay 26,6 millones de viviendas, 18,5 millones de ellas principales, y el Banco de España cifra el alquiler social en unas 300.000. A 125.000 al año, al final de una legislatura de cuatro años habría unas 800.000 viviendas públicas (el 4,3 % de las principales y el 3 % del total) y en 2035, unos 1,4 millones (el 7,7 % y el 5,4 %). El 20 % del parque total serían unos 5,3 millones. Las tres metas de la misma medida no pueden cumplirse a la vez: el ritmo anual previsto se acerca a la media europea al cabo de los 12 años, como estima el Banco de España para 1,5 millones de viviendas."
+    medidas: "Apartado 1.1 (p. 14)"
+    fuentes:
+      - titulo: "Censos de Población y Viviendas 2021. Resultados sobre Hogares y Viviendas"
+        url: https://www.ine.es/prensa/censo_2021_jun.pdf
+        medio: "INE"
+        fecha: 2023-06-30
+        tipo: oficial
+      - titulo: "Informe Anual 2023. Capítulo 4: El mercado de la vivienda en España: evolución reciente, riesgos y problemas de accesibilidad"
+        url: https://www.bde.es/f/webbe/SES/Secciones/Publicaciones/PublicacionesAnuales/InformesAnuales/23/Fich/InfAnual_2023_Cap4.pdf
+        medio: "Banco de España"
+        tipo: oficial
+      - titulo: "Un programa como una casa. Programa electoral de Frente Amplio para las elecciones generales del 29 de noviembre de 2026"
+        url: https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf
+        medio: "Frente Amplio"
+        fecha: 2026-11-16
+        tipo: partido
+  - tipo: incoherencia
+    tema: energia-medioambiente
+    titulo: "El programa destina «íntegramente» el gravamen a las energéticas a una ayuda de 1.000 euros y también a pagar luz gratis"
+    texto: "El apartado 3.1 recupera el gravamen del 1,2 % sobre la cifra de negocios de las grandes energéticas y dice: «Destinaremos íntegramente la recaudación del gravamen energético a financiar una ayuda directa de 1.000 euros por hogar durante dos años, beneficiando a 1,4 millones de familias»; son unos 1.400 millones al año. El apartado 5.1, sobre las «tres horas diarias gratuitas» de luz, añade: «Los peajes de red de esas horas se pagarán con el gravamen a las grandes energéticas». Hacienda estimó en 2023 que el gravamen recaudaría unos 1.700 millones al año, tras las exclusiones aprobadas en su tramitación. Si la ayuda absorbe toda la recaudación, no queda nada para los peajes. El programa no cuantifica esos peajes y prevé además deducciones por activos renovables que reducirían lo recaudado."
+    medidas: "Apartados 3.1 (p. 50) y 5.1 (p. 72)"
+    fuentes:
+      - titulo: "Informe sobre la entrada en vigor de los nuevos impuestos y gravámenes para reforzar la justicia fiscal"
+        url: https://www.hacienda.gob.es/GabineteMinistro/Varios/22-03-2023-INFORME-GRAVAMENES-E-ITSGF.pdf
+        medio: "Ministerio de Hacienda y Función Pública"
+        fecha: 2023-03-22
+        tipo: oficial
+      - titulo: "Un programa como una casa. Programa electoral de Frente Amplio para las elecciones generales del 29 de noviembre de 2026"
+        url: https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf
+        medio: "Frente Amplio"
+        fecha: 2026-11-16
+        tipo: partido
+  - tipo: incoherencia
+    tema: economia-impuestos
+    titulo: "La candidatura cifra en 10.000 millones lo que recaudan sus tres impuestos y en 20.000 millones dos medidas de pensiones"
+    texto: "El programa afirma que «los derechos se sostienen con justicia tributaria» y que su reforma fiscal hará que «el nuevo esfuerzo tributario» recaiga sobre grandes empresas, banca y grandes fortunas. El 24 de octubre la candidatura cifró en «unos 20.000 millones al año» la pensión mínima igual al SMI y la jubilación a los 65 años, que el programa recoge, y atribuyó hasta 10.000 millones solo a un tipo mínimo del 15 % en Sociedades. El 5 de noviembre, al presentar el impuesto del 2 % y el 3 % a los patrimonios, la subida a grandes empresas y banca y el impuesto a la acumulación de viviendas, cifró el conjunto en «10.000 millones de euros más al año» para vivienda, servicios públicos, pensiones y tren. Con sus propias cifras, esos impuestos cubren la mitad de dos medidas de pensiones; el programa asigna además 17.000 millones al año a vivienda. El déficit de 2025 fue de 36.780 millones."
+    medidas: "Introducción (p. 11) y apartados 1.8, 3.1, 3.2 y 4.3"
+    fuentes:
+      - titulo: "Frente Amplio propone que ninguna pensión esté por debajo del salario mínimo y recuperar la jubilación a los 65 años"
+        url: https://www.frenteamplio.info/noticias/frente-amplio-propone-ninguna-pension-este-debajo-salario-minimo-recuperar/
+        medio: "Frente Amplio"
+        fecha: 2026-10-24
+        tipo: partido
+      - titulo: "Frente Amplio propone subir impuestos a grandes fortunas y empresas para mejorar servicios públicos y redistribuir la riqueza"
+        url: https://www.frenteamplio.info/noticias/frente-amplio-propone-subir-impuestos-grandes-fortunas-empresas-mejorar-servicios/
+        medio: "Frente Amplio"
+        fecha: 2026-11-05
+        tipo: partido
+      - titulo: "España cierra 2025 con un déficit público del 2,2 % del PIB y mejora por sexto año consecutivo el objetivo pactado con la UE"
+        url: https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/hacienda/paginas/2026/310326-cierre-deficit-2025.aspx
+        medio: "La Moncloa (Ministerio de Hacienda)"
+        fecha: 2026-03-31
+        tipo: oficial
+      - titulo: "Un programa como una casa. Programa electoral de Frente Amplio para las elecciones generales del 29 de noviembre de 2026"
+        url: https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf
+        medio: "Frente Amplio"
+        fecha: 2026-11-16
+        tipo: partido

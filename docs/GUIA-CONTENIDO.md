@@ -166,6 +166,24 @@ No se publican encuestas ni estimaciones de voto o escaños, para no influir en 
 
 Estructura común para todos, sin balance valorativo (el balance va en las fichas): `resumen` = papel institucional en la legislatura + dónde gobierna + contexto electoral (coalición, candidatura). `nota` = advertencias comunes (por ejemplo, si el programa 2026 aún no está publicado y cuáles son sus propuestas oficiales más recientes). `programaUrl` solo enlaza el programa del 29-N; mientras no esté publicado se deja vacío y la ficha muestra «aún no disponible» (no se enlaza el de 2023).
 
+## Análisis de los programas (`src/content/analisis/<partido>.yaml`)
+
+Contrasta las propuestas del programa del 29-N con la evidencia y la ley. No dice qué programa es mejor ni puntúa a los partidos: recoge hechos comprobables sobre cada propuesta y deja la valoración al lector. Se muestra en la página de cada partido y en la página comparativa «Análisis de los programas».
+
+Cada punto tiene un `tipo`:
+
+- `respaldo`: hay evidencia empírica o institucional de que la medida puede lograr lo que persigue (estudios revisados por pares, evaluaciones de la AIReF, el Banco de España, la OCDE, la Comisión Europea, el FMI, o experiencias comparables en otros países con resultados medidos).
+- `choque`: la medida choca con la evidencia (efectos documentados en contra, coste sin financiación frente a datos oficiales) o con una norma superior (Constitución, jurisprudencia del Tribunal Constitucional o del TJUE, tratados y derecho de la UE). Se cita el artículo o la sentencia concreta.
+- `incoherencia`: dos partes del mismo programa son incompatibles entre sí, o el programa contradice lo que su candidatura dice en campaña. Se citan literalmente las dos partes, con su número de medida o página. Las diferencias entre programa y actuaciones de la legislatura no van aquí: van a `coherencia` del programa y a las fichas. Una medida anunciada en campaña que el programa no recoge es un añadido, no una incoherencia, salvo que contradiga el texto del programa (otra cifra, otro plazo u otro destinatario) o que la candidatura afirme que figura en él. También es incoherencia que dos compromisos del programa no puedan cumplirse a la vez por su coste (por ejemplo, reducir el déficit y, al mismo tiempo, rebajas fiscales y gasto nuevo sin compensación, o financiar una medida con un impuesto cuya recaudación no alcanza), siempre que se citen literalmente los dos compromisos y la incompatibilidad se cuantifique con cifras oficiales (AIReF, IGAE, Agencia Tributaria, Banco de España, INE). Sin cifras, es una crítica de coste y va al punto común `choque` sobre el coste del programa.
+
+Reglas:
+
+1. **Mismo rasero.** Todos los partidos tienen puntos de los tres tipos y una cantidad comparable (entre 3 y 6 por tipo). Si una crítica se aplica a varios partidos (por ejemplo, programas sin memoria económica), se aplica a todos los que la merecen con la misma redacción. Un criterio no se usa para un partido y se omite en otro. Cuando la misma evidencia vale para medidas de varios partidos (ayudas a la compra, topes al alquiler, calendario nuclear, pensiones, coste del programa), se cita con los mismos estudios, las mismas cifras y la misma redacción, sea como `respaldo` de quien propone una cosa o como `choque` de quien propone la contraria.
+2. **La evidencia, no la ideología.** Un punto no puede basarse en una preferencia («el Estado debe ser más pequeño», «hay que redistribuir más»). Debe apoyarse en un efecto medido, un dato oficial o una norma. Si la evidencia está dividida, se dice y se citan estudios de ambos lados; si solo existe una opinión, no hay punto.
+3. **Fuentes.** Al menos dos por punto, y al menos una académica, institucional u oficial (tipos `academica` u `oficial`); la otra puede ser el propio programa. La prensa solo sirve para declaraciones de campaña.
+4. **Texto.** `titulo` (máx. 120) describe el hecho, no lo valora: «El tope del 40 % a los alquileres reduce la oferta a medio plazo según la experiencia de Berlín», no «Una medida populista». `texto` (máx. 900) explica la propuesta con cita literal, qué dice la evidencia o la norma y su alcance o sus límites. `medidas` indica las medidas del programa afectadas.
+5. **Proporción.** No se exagera el efecto ni se generaliza: si un estudio trata de una ciudad o un periodo, se dice.
+
 ## Formato de una ficha
 
 Archivo `src/content/fichas/<partido>/<slug-descriptivo>.md`:

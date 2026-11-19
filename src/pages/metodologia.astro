@@ -1,7 +1,18 @@
 ---
 import Base from '../layouts/Base.astro';
 import Marca from '../components/Marca.astro';
-import { CATEGORIA_INFO, ORDEN_CATEGORIAS, COHERENCIA, partidos, url, REPO } from '../lib/datos';
+import MarcaAnalisis from '../components/MarcaAnalisis.astro';
+import {
+  CATEGORIA_INFO,
+  ORDEN_CATEGORIAS,
+  COHERENCIA,
+  TIPO_ANALISIS,
+  ORDEN_TIPOS_ANALISIS,
+  partidos,
+  url,
+  analisisUrl,
+  REPO,
+} from '../lib/datos';
 
 const lista = await partidos();
 ---
@@ -81,6 +92,53 @@ const lista = await partidos();
           ))
         }
       </ul>
+
+      <h2 id="analisis">Análisis de los programas</h2>
+      <p>
+        El <a href={analisisUrl()}>análisis de los programas</a> contrasta las propuestas del 29-N con la evidencia y
+        con la ley. No dice qué programa es mejor ni puntúa a los partidos: recoge hechos comprobables sobre cada
+        propuesta y deja la valoración a quien lee. Cada punto es de uno de estos tres tipos:
+      </p>
+    </div>
+    <ul class="cats">
+      {
+        ORDEN_TIPOS_ANALISIS.map((t) => (
+          <li>
+            <MarcaAnalisis tipo={t} tamano={26} />
+            <div>
+              <b>{TIPO_ANALISIS[t].titulo}.</b> {TIPO_ANALISIS[t].descripcion}
+            </div>
+          </li>
+        ))
+      }
+    </ul>
+
+    <div class="prosa">
+      <p>Se aplican las mismas reglas a todos los partidos:</p>
+      <ul>
+        <li>
+          <b>Mismo rasero.</b> Todos tienen puntos de los tres tipos y en cantidad comparable. Si una crítica vale para
+          varios partidos (por ejemplo, un programa sin memoria económica), se aplica a todos los que la merecen y con
+          la misma redacción.
+        </li>
+        <li>
+          <b>Evidencia, no ideología.</b> Un punto se apoya en un efecto medido, un dato oficial o una norma concreta,
+          nunca en una preferencia política. Si la evidencia está dividida, se dice y se citan estudios de ambos lados;
+          si solo hay opiniones, no hay punto.
+        </li>
+        <li>
+          <b>Fuentes.</b> Al menos dos por punto, y al menos una académica u oficial. La prensa solo se usa para
+          recoger declaraciones de campaña.
+        </li>
+        <li>
+          <b>Proporción.</b> Los títulos describen el hecho sin calificarlo, y no se exagera el alcance de un estudio:
+          si trata de una ciudad o de un periodo concreto, se indica.
+        </li>
+      </ul>
+      <p>
+        Las diferencias entre lo que propone un partido y lo que hizo en la legislatura no forman parte del análisis:
+        se recogen en la valoración de cada tema del programa y en las fichas.
+      </p>
 
       <h2>Fuentes</h2>
       <p>

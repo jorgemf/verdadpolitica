@@ -1,0 +1,334 @@
+partido: pp
+actualizado: 2026-11-20
+puntos:
+  # ── Respaldo ────────────────────────────────────────────────────────────────
+  - tipo: respaldo
+    tema: vivienda
+    titulo: "El Banco de España sitúa la falta de suelo y la lentitud urbanística entre los frenos a la construcción de vivienda"
+    texto: "El programa quiere movilizar suelo, aprobar una nueva Ley del Suelo para «agilizar el planeamiento urbanístico», resolver las licencias «en tres meses, con silencio positivo» (medida 144), unificar trámites de los grandes desarrollos (146) y facilitar más edificabilidad y altura (149). El Banco de España (Informe Anual 2025) atribuye la escasa respuesta de la oferta a «la escasez de suelo edificable, la lentitud en la ejecución y las limitaciones de gestión de la planificación urbanística»: en Sevilla, Madrid o Málaga se ha ejecutado entre el 28 % y el 35 % de las viviendas previstas, y señala la densificación como alternativa. Límites: el urbanismo es competencia autonómica y municipal, y la ley estatal del suelo hoy exige acto expreso con silencio negativo para las obras de nueva planta (art. 11.4 del texto refundido de 2015), que habría que reformar."
+    medidas: "medidas 144, 146 y 149"
+    fuentes:
+      - titulo: "Informe Anual 2025 (capítulo 2: Retos del mercado de la vivienda)"
+        url: https://www.bde.es/f/webbe/SES/Secciones/Publicaciones/PublicacionesAnuales/InformesAnuales/25/InfAnual_2025.pdf
+        medio: "Banco de España"
+        fecha: 2026-06-18
+        tipo: oficial
+      - titulo: "Real Decreto Legislativo 7/2015, texto refundido de la Ley de Suelo y Rehabilitación Urbana (art. 11)"
+        url: https://www.boe.es/buscar/act.php?id=BOE-A-2015-11723
+        medio: "BOE"
+        fecha: 2015-10-31
+        tipo: oficial
+      - titulo: "Reconstrucción Nacional. El programa del cambio necesario para España"
+        url: https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf
+        medio: "Partido Popular"
+        fecha: 2026-11-10
+        tipo: partido
+  - tipo: respaldo
+    tema: economia-impuestos
+    titulo: "Sin deflactar, la inflación explica la mitad del aumento del IRPF sobre el PIB en 2019-2023, según el Banco de España"
+    texto: "La medida 178 promete deflactar la tarifa y actualizar «los principales parámetros del impuesto para impedir que la inflación vuelva a utilizarse como una subida encubierta de impuestos», y la 177, elevar los mínimos personales y familiares. Un documento ocasional del Banco de España (2024), con microdatos de declarantes, estima que cada 1 % de subida de las rentas sin actualizar el impuesto eleva la recaudación un 1,85 %, y que en torno a la mitad del aumento de la ratio IRPF/PIB entre 2019 y 2023 se debe a esa «progresividad en frío», que pesa más en las rentas medias y medias-altas. Actualizar la tarifa evita ese efecto. Límites: el mismo estudio señala que la progresividad en frío redujo la desigualdad de la renta neta, y deflactar supone renunciar a esos ingresos, que el programa no cuantifica."
+    medidas: "medidas 177 y 178"
+    fuentes:
+      - titulo: "Progresividad en frío: el impacto heterogéneo de la inflación sobre la recaudación por IRPF (Documento Ocasional 2422)"
+        url: https://www.bde.es/f/webbe/SES/Secciones/Publicaciones/PublicacionesSeriadas/DocumentosOcasionales/24/Fich/do2422.pdf
+        medio: "Banco de España"
+        fecha: 2024-06-01
+        tipo: oficial
+      - titulo: "Reconstrucción Nacional. El programa del cambio necesario para España"
+        url: https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf
+        medio: "Partido Popular"
+        fecha: 2026-11-10
+        tipo: partido
+  - tipo: respaldo
+    tema: economia-impuestos
+    titulo: "Poder amortizar la inversión el mismo año aumentó la inversión de las empresas en EE. UU., sobre todo en las pequeñas"
+    texto: "La medida 181 propone ampliar la libertad de amortización: lo que una empresa invierta en «maquinaria, equipos, digitalización, inteligencia artificial, ciberseguridad, software o patentes podrá descontarse entero el mismo año». Zwick y Mahon (American Economic Review, 2017), con datos de más de 120.000 empresas estadounidenses, estiman que la amortización acelerada elevó la inversión en bienes que podían acogerse frente a los que no un 10,4 % en 2001-2004 y un 16,9 % en 2008-2010, con una respuesta mucho mayor en las empresas pequeñas y cuando el incentivo daba liquidez inmediata. Límites: el estudio analiza incentivos temporales en Estados Unidos, que adelantan la inversión más que uno permanente; el programa no dice si la medida sería temporal ni cuánto costaría en recaudación diferida."
+    medidas: "medida 181"
+    fuentes:
+      - titulo: "Tax Policy and Heterogeneous Investment Behavior"
+        url: https://www.aeaweb.org/articles?id=10.1257/aer.20140855
+        medio: "American Economic Review"
+        fecha: 2017-01-01
+        tipo: academica
+      - titulo: "Reconstrucción Nacional. El programa del cambio necesario para España"
+        url: https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf
+        medio: "Partido Popular"
+        fecha: 2026-11-10
+        tipo: partido
+  - tipo: respaldo
+    tema: energia-medioambiente
+    titulo: "Alargar la vida de las nucleares abarata la luz a corto plazo; a largo plazo depende de la inversión renovable"
+    texto: "La medida 228 promete eliminar el calendario de cierre de las centrales nucleares y tramitar «en los primeros cien días» la extensión de su vida útil «con el visto bueno del Consejo de Seguridad Nuclear». La Agencia Internacional de la Energía (2019) concluye que alargar la vida de un reactor es considerablemente más barato que construir una central nueva y competitivo con la solar y la eólica nuevas. Una simulación del mercado ibérico (Fabra, 2026) estima que prorrogar Almaraz bajaría a corto plazo los precios mayoristas y las emisiones al desplazar gas, pero reduciría los incentivos a invertir en renovables y almacenamiento; si esa inversión cae lo bastante, acabaría elevando precios y emisiones. En Alemania, el cierre nuclear se cubrió sobre todo con carbón e importaciones, con un coste social de 3.000 a 8.000 millones de euros al año (Jarvis, Deschenes y Jha, 2022)."
+    medidas: "medida 228"
+    fuentes:
+      - titulo: "Nuclear Power in a Clean Energy System"
+        url: https://www.iea.org/reports/nuclear-power-in-a-clean-energy-system
+        medio: "Agencia Internacional de la Energía"
+        fecha: 2019-05-27
+        tipo: oficial
+      - titulo: "The Price and Emissions Effects of Extending Nuclear Lifetimes: Evidence from Spain (CEPR Discussion Paper 21053)"
+        url: https://ideas.repec.org/p/cpr/ceprdp/21053.html
+        medio: "Centre for Economic Policy Research"
+        tipo: academica
+      - titulo: "The Private and External Costs of Germany's Nuclear Phase-Out (Journal of the European Economic Association, 20(3))"
+        url: https://econpapers.repec.org/RePEc:oup:jeurec:v:20:y:2022:i:3:p:1311-1346.
+        medio: "Journal of the European Economic Association"
+        tipo: academica
+      - titulo: "Reconstrucción Nacional. El programa del cambio necesario para España"
+        url: https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf
+        medio: "Partido Popular"
+        fecha: 2026-11-10
+        tipo: partido
+  - tipo: respaldo
+    tema: economia-impuestos
+    titulo: "La rebaja del IVA de los alimentos de 2023 llegó casi entera a los precios; la mitad del ahorro fue al 40 % más rico"
+    texto: "La medida 180 promete, «mientras persista la actual crisis de inflación», un IVA del 0 % a los alimentos básicos, «incluidos la carne, el pescado y las conservas». La rebaja aplicada en España desde enero de 2023 se trasladó a los precios: un documento de trabajo del Banco de España con precios diarios de un supermercado la estima «casi completa», y la CNMC no halló «problemas sistemáticos» en la traslación. Límites: Fedea estimó un coste de unos 700 millones para aquella rebaja, con cerca de la mitad del ahorro para el 40 % de hogares con más renta, porque es una medida general y no focalizada. La de 2023 no incluía la carne ni el pescado, que hoy tributan al 10 %, por lo que la del programa sería más amplia y más costosa, y su efecto con esos productos no se ha medido."
+    medidas: "medida 180"
+    fuentes:
+      - titulo: "Analysing the VAT cut pass-through in Spain using web-scraped supermarket data and machine learning (Documento de Trabajo 2417)"
+        url: https://ideas.repec.org/p/bde/wpaper/2417.html
+        medio: "Banco de España"
+        fecha: 2024-05-01
+        tipo: academica
+      - titulo: "La traslación de la reducción del IVA en el sector alimentario (E/CNMC/003/23): preguntas y respuestas"
+        url: https://www.cnmc.es/sites/default/files/4840419.pdf
+        medio: "CNMC"
+        tipo: oficial
+      - titulo: "Efectos recaudatorios y distributivos de la reducción de los tipos del IVA a determinados productos de alimentación"
+        url: https://ideas.repec.org/p/fda/fdafen/2023-02.html
+        medio: "Fedea"
+        fecha: 2023-01-01
+        tipo: academica
+      - titulo: "Reconstrucción Nacional. El programa del cambio necesario para España"
+        url: https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf
+        medio: "Partido Popular"
+        fecha: 2026-11-10
+        tipo: partido
+  - tipo: respaldo
+    tema: vivienda
+    titulo: "Con el tope de la Ley de Vivienda cayó la oferta de alquiler en Cataluña y las rentas subieron menos, según Fedea"
+    texto: "La medida 145 promete eliminar las zonas tensionadas y el índice de precios, que según el programa «han introducido más intervención, más incertidumbre y menos oferta en el mercado del alquiler». La evidencia está dividida. En Cataluña, el tope de 2020-2022 bajó los alquileres un 4-6 % sin reducir la oferta según un estudio (Jofre-Monseny y otros, 2023) y, según otro, bajó los caros, subió los baratos y redujo la oferta (Monràs y García-Montalvo, 2023). Con el tope de la Ley de Vivienda, aplicado allí desde marzo de 2024, los anuncios cayeron un 20,5 % hasta finales de 2025 (7 % en el resto de España) y la renta subió un 5,7 % (10,8 % nacional), según un análisis descriptivo de Fedea (2026). En Berlín, la congelación de 2020 bajó las rentas anunciadas y redujo los anuncios (Hahn y otros, 2024); en San Francisco, los caseros afectados redujeron un 15 % su oferta (Diamond y otros, 2019)."
+    medidas: "medida 145"
+    fuentes:
+      - titulo: "Effectiveness and supply effects of high-coverage rent control policies (Jofre-Monseny, Martínez-Mazza y Segú, Regional Science and Urban Economics, 2023)"
+        url: https://diposit.ub.edu/items/3351bd7e-9352-4975-9705-6a3a9dc705c6/full
+        medio: "Universitat de Barcelona (repositorio)"
+        tipo: academica
+      - titulo: "The Effect of Second-Generation Rent Controls: New Evidence from Catalonia (Working Paper 2023-28)"
+        url: https://www.frbsf.org/economic-research/publications/working-papers/2023/28
+        medio: "Federal Reserve Bank of San Francisco"
+        fecha: 2023-09-01
+        tipo: academica
+      - titulo: "La Ley 12/2023 por el derecho a la vivienda: un primer balance a partir de la aplicación desigual del control de rentas en España (Apuntes 2026/15)"
+        url: https://documentos.fedea.net/pubs/ap/2026/ap2026-15.pdf
+        medio: "Fedea"
+        fecha: 2026-06-01
+        tipo: academica
+      - titulo: "Forward to the Past: Short-Term Effects of the Rent Freeze in Berlin (Hahn, Kholodilin, Waltl y Fongoni)"
+        url: https://www.diw.de/de/diw_01.c.873005.de/publikationen/externe_referierte_aufsaetze/2024_0003/forward_to_the_past__short-term_effects_of_the_rent_freeze_in_berlin.html
+        medio: "Management Science"
+        fecha: 2024-03-01
+        tipo: academica
+      - titulo: "The Effects of Rent Control Expansion on Tenants, Landlords, and Inequality: Evidence from San Francisco (Diamond, McQuade y Qian)"
+        url: https://www.aeaweb.org/articles?id=10.1257/aer.20181289
+        medio: "American Economic Review"
+        fecha: 2019-09-01
+        tipo: academica
+      - titulo: "Reconstrucción Nacional. El programa del cambio necesario para España"
+        url: https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf
+        medio: "Partido Popular"
+        fecha: 2026-11-10
+        tipo: partido
+  # ── Choque ──────────────────────────────────────────────────────────────────
+  - tipo: choque
+    tema: economia-impuestos
+    titulo: "El programa no cuantifica su coste total ni cómo encaja en las reglas fiscales europeas"
+    texto: "El programa no incluye una memoria económica con el coste de sus medidas ni su efecto sobre el déficit y la deuda. España cerró 2025 con un déficit del 2,18 % del PIB (2,39 % con las medidas por la DANA) y una deuda del 100,7 %. Con una deuda superior al 90 %, el Reglamento (UE) 2024/1263 exige que la senda de ajuste la reduzca una media mínima de un punto del PIB al año (art. 7) y alcanzar un margen de 1,5 puntos de déficit estructural por debajo del 3 % (art. 8). Entre sus medidas de mayor coste previsible están la deflactación y rebaja del IRPF (medidas 177 a 179), el IVA del 0 % en alimentos (180), el IVA del 4 % en la primera vivienda (153), la deducción familiar reembolsable (158), la escuela gratuita de 0 a 3 años (163) y un fondo de nivelación autonómico (100). La medida 2 promete decir «cómo se pagará», y ocho medidas numeradas figuran sin contenido."
+    medidas: "medidas 2, 100, 153, 158, 163 y 177 a 180"
+    fuentes:
+      - titulo: "España cierra 2025 con un déficit público del 2,2 % del PIB y mejora por sexto año consecutivo el objetivo pactado con la Comisión Europea"
+        url: https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/hacienda/paginas/2026/310326-cierre-deficit-2025.aspx
+        medio: "La Moncloa (Ministerio de Hacienda)"
+        fecha: 2026-03-31
+        tipo: oficial
+      - titulo: "La deuda de las Administraciones Públicas se situó en el 100,7% del PIB al cierre de 2025, 1 pp menos que hace un año"
+        url: https://www.bde.es/wbe/es/noticias-eventos/actualidad-banco-espana/deuda-aapp-2025t4.html
+        medio: "Banco de España"
+        fecha: 2026-03-31
+        tipo: oficial
+      - titulo: "Reglamento (UE) 2024/1263 relativo a la coordinación eficaz de las políticas económicas y a la supervisión presupuestaria multilateral"
+        url: https://www.boe.es/doue/2024/1263/L00001-00021.pdf
+        medio: "Diario Oficial de la Unión Europea"
+        fecha: 2024-04-30
+        tipo: oficial
+      - titulo: "Reconstrucción Nacional. El programa del cambio necesario para España"
+        url: https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf
+        medio: "Partido Popular"
+        fecha: 2026-11-10
+        tipo: partido
+  - tipo: choque
+    tema: vivienda
+    titulo: "Un millón de viviendas en una legislatura exige terminar unas 250.000 al año, casi el triple de las acabadas en 2025"
+    texto: "La medida 144 dice «Construiremos un millón de viviendas», y el programa se presenta como «compromisos concretos a cumplir en una legislatura». Feijóo lo concretó a Politico (16 de noviembre) en leyes para que «se pueda volver a construir una cifra de 250.000 viviendas al año». Según el Banco de España, en 2025 se terminaron unas 92.000 viviendas, frente a una creación neta de 240.000 hogares; el 63 % de las empresas de construcción y promoción que encuesta señala la falta de personal como límite, y la oferta responde poco a los precios. El Ministerio de Vivienda contabilizó en 2024 100.980 viviendas terminadas y 136.187 iniciadas. Límites: el programa incluye medidas para ampliar esa capacidad (suelo, licencias, vivienda industrializada y formación y contratación de trabajadores, medidas 144 a 152), y el millón no distingue entre vivienda pública y privada."
+    medidas: "medidas 144 a 152"
+    fuentes:
+      - titulo: "Informe Anual 2025 (capítulo 2: Retos del mercado de la vivienda)"
+        url: https://www.bde.es/f/webbe/SES/Secciones/Publicaciones/PublicacionesAnuales/InformesAnuales/25/InfAnual_2025.pdf
+        medio: "Banco de España"
+        fecha: 2026-06-18
+        tipo: oficial
+      - titulo: "La construcción de vivienda protegida y de vivienda de obra nueva alcanza sus mejores registros de los últimos años"
+        url: https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/vivienda-agenda-urbana/Paginas/2025/040725-vivienda-protegida-observatorio-suelo.aspx
+        medio: "Ministerio de Vivienda y Agenda Urbana"
+        fecha: 2025-07-04
+        tipo: oficial
+      - titulo: "Feijóo: «Haré una auditoría a las cuentas públicas de España. No me creo los datos»"
+        url: https://www.politico.eu/article/feijoo-hare-una-auditoria-a-las-cuentas-publicas-de-espana-no-me-creo-los-datos/
+        medio: "Politico"
+        fecha: 2026-11-16
+        tipo: prensa
+      - titulo: "Reconstrucción Nacional. El programa del cambio necesario para España"
+        url: https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf
+        medio: "Partido Popular"
+        fecha: 2026-11-10
+        tipo: partido
+  - tipo: choque
+    tema: vivienda
+    titulo: "Las ayudas a la compra tienden a subir precios donde la oferta es rígida, según el Banco de España y el caso británico"
+    texto: "Para los menores de 40 años, el programa propone bajar el IVA de la primera vivienda del 10 % al 4 % (medida 153), un aval público que «cubre hasta el 20% del valor de la vivienda» (154) y una «Hucha Hogar Joven» con deducción del 20 % (155). El Banco de España (Informe Anual 2023) advierte de que, con una oferta rígida, las políticas de apoyo a la compra «suelen generar un aumento de los precios de compraventa». El programa británico Help to Buy, un préstamo público del 20 % del precio (40 % en Londres), subió los precios en Londres sin aumentar la construcción; cerca de la frontera con Gales, con oferta más flexible, aumentó la construcción sin efecto apreciable en los precios (Carozzi, Hilber y Yu, 2024). Además, la Directiva del IVA (art. 98, reformado en 2022) solo admite tipos inferiores al 5 % en una lista tasada de casos; hoy la vivienda nueva tributa al 10 %."
+    medidas: "medidas 153, 154 y 155"
+    fuentes:
+      - titulo: "Informe Anual 2023. Capítulo 4: El mercado de la vivienda en España: evolución reciente, riesgos y problemas de accesibilidad"
+        url: https://www.bde.es/f/webbe/SES/Secciones/Publicaciones/PublicacionesAnuales/InformesAnuales/23/Fich/InfAnual_2023_Cap4.pdf
+        medio: "Banco de España"
+        fecha: 2024-04-23
+        tipo: oficial
+      - titulo: "On the economic impacts of mortgage credit expansion policies: evidence from Help to Buy (Journal of Urban Economics, 139)"
+        url: https://cep.lse.ac.uk/_NEW/PUBLICATIONS/abstract.asp?index=10612
+        medio: "Journal of Urban Economics"
+        fecha: 2024-01-01
+        tipo: academica
+      - titulo: "Directiva (UE) 2022/542 del Consejo, de 5 de abril de 2022, por la que se modifican las Directivas 2006/112/CE y (UE) 2020/285 en lo que respecta a los tipos del IVA"
+        url: https://www.boe.es/buscar/doc.php?id=DOUE-L-2022-80541
+        medio: "Diario Oficial de la Unión Europea (BOE)"
+        fecha: 2022-04-06
+        tipo: oficial
+      - titulo: "Ley 37/1992, de 28 de diciembre, del Impuesto sobre el Valor Añadido (art. 91)"
+        url: https://www.boe.es/buscar/act.php?id=BOE-A-1992-28740
+        medio: "Boletín Oficial del Estado"
+        tipo: oficial
+      - titulo: "Reconstrucción Nacional. El programa del cambio necesario para España"
+        url: https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf
+        medio: "Partido Popular"
+        fecha: 2026-11-10
+        tipo: partido
+  - tipo: choque
+    tema: inmigracion
+    titulo: "Hacer de la expulsión la regla tras ciertas condenas choca, para ciudadanos de la UE, con la Directiva 2004/38"
+    texto: "La medida 44 establece que «la expulsión será la regla para los extranjeros condenados por delitos sexuales, delitos de sangre y multirreincidencia». Para los ciudadanos de otros países de la UE y sus familiares, el art. 27.2 de la Directiva 2004/38 exige que la expulsión se base «exclusivamente en la conducta personal del interesado», que esta sea «una amenaza real, actual y suficientemente grave», y dispone que «la existencia de condenas penales anteriores no constituirá por sí sola una razón» para expulsar. El art. 28 obliga además a valorar la duración de la residencia, la edad, la familia y la integración, y solo admite expulsar a quien tiene residencia permanente por «motivos graves». Límites: la directiva no ampara a los nacionales de fuera de la UE, y una regla general cabe si cada expulsión de un europeo se decide caso por caso; el programa no lo distingue."
+    medidas: "medida 44"
+    fuentes:
+      - titulo: "Directiva 2004/38/CE relativa al derecho de los ciudadanos de la Unión y de los miembros de sus familias a circular y residir libremente"
+        url: https://www.boe.es/doue/2004/158/L00077-00123.pdf
+        medio: "Diario Oficial de la Unión Europea"
+        fecha: 2004-04-30
+        tipo: oficial
+      - titulo: "Reconstrucción Nacional. El programa del cambio necesario para España"
+        url: https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf
+        medio: "Partido Popular"
+        fecha: 2026-11-10
+        tipo: partido
+  - tipo: choque
+    tema: inmigracion
+    titulo: "Priorizar ayudas por arraigo choca con la igualdad de trato de la UE si perjudica a residentes de otros países"
+    texto: "La medida 98 fija «criterios de prioridad en el acceso a determinadas ayudas, prestaciones y recursos públicos» para quienes tengan «un arraigo real, duradero y verificable con España», valorando el empadronamiento y la cotización, y añade que se aplicarán «dentro de los límites constitucionales y europeos». La Directiva 2003/109/CE (art. 11) obliga a tratar como a los nacionales a los residentes de larga duración en seguridad social, asistencia social y acceso a la vivienda, y el Reglamento 492/2011 (art. 9) da a los trabajadores de la UE igual derecho a las listas de vivienda. La Comisión Europea respondió en 2026, sobre criterios de este tipo pactados por PP y Vox en varias comunidades, que son discriminatorios si perjudican a los nacionales de otros países, «a menos que esté justificada y sea proporcionada». Límite: el programa no concreta las ayudas ni el peso de cada criterio."
+    medidas: "medida 98"
+    fuentes:
+      - titulo: "Directiva 2003/109/CE del Consejo, de 25 de noviembre de 2003, relativa al estatuto de los nacionales de terceros países residentes de larga duración (art. 11)"
+        url: https://www.boe.es/buscar/doc.php?id=DOUE-L-2004-80112
+        medio: "Diario Oficial de la Unión Europea (BOE)"
+        fecha: 2004-01-23
+        tipo: oficial
+      - titulo: "Reglamento (UE) n.º 492/2011, de 5 de abril de 2011, relativo a la libre circulación de los trabajadores dentro de la Unión (arts. 7 y 9)"
+        url: https://www.boe.es/buscar/doc.php?id=DOUE-L-2011-81015
+        medio: "Diario Oficial de la Unión Europea (BOE)"
+        fecha: 2011-05-27
+        tipo: oficial
+      - titulo: "Bruselas advierte que la «prioridad nacional» de PP y Vox en vivienda y ayudas sociales puede vulnerar el derecho europeo"
+        url: https://www.infobae.com/espana/2026/10/13/bruselas-advierte-que-la-prioridad-nacional-de-pp-y-vox-en-vivienda-y-ayudas-sociales-puede-vulnerar-el-derecho-europeo/
+        medio: "Infobae"
+        fecha: 2026-10-13
+        tipo: prensa
+      - titulo: "Reconstrucción Nacional. El programa del cambio necesario para España"
+        url: https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf
+        medio: "Partido Popular"
+        fecha: 2026-11-10
+        tipo: partido
+  # ── Incoherencia ────────────────────────────────────────────────────────────
+  - tipo: incoherencia
+    tema: economia-impuestos
+    titulo: "El programa promete reducir el déficit estructural y la deuda a la vez que rebaja impuestos y añade gasto"
+    texto: "La medida 107 dice: «Reduciremos el déficit estructural y la deuda», y la 4, que la deuda bajará «conforme a las reglas europeas» y que «ningún gasto nuevo se aprobará sin garantizar cómo se financiará». A la vez, el programa reduce ingresos: deflactar el IRPF y elevar sus mínimos (177 y 178), eximir del IRPF a los jóvenes el primer año (179), IVA del 0 % en alimentos (180) y eliminar «de inmediato» el impuesto del 7 % a la producción eléctrica (229). Y añade gasto: un fondo de nivelación autonómico «financiado con recursos del Estado» (100), la mitad de la escuela gratuita de 0 a 3 años (163) y más efectivos y sueldos militares (53). Según el Banco de España, la falta de deflactación explica la mitad de la subida del IRPF sobre el PIB en 2019-2023. Para financiarlo, el programa remite a la auditoría del gasto y a la lucha contra el fraude (medidas 1, 5 y 183), sin cifras."
+    medidas: "medidas 1, 4, 5, 53, 100, 107, 163, 177 a 180, 183 y 229"
+    fuentes:
+      - titulo: "Reconstrucción Nacional. El programa del cambio necesario para España"
+        url: https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf
+        medio: "Partido Popular"
+        fecha: 2026-11-10
+        tipo: partido
+      - titulo: "Progresividad en frío: el impacto heterogéneo de la inflación sobre la recaudación por IRPF (Documento Ocasional 2422)"
+        url: https://www.bde.es/f/webbe/SES/Secciones/Publicaciones/PublicacionesSeriadas/DocumentosOcasionales/24/Fich/do2422.pdf
+        medio: "Banco de España"
+        fecha: 2024-06-01
+        tipo: oficial
+  - tipo: incoherencia
+    tema: vivienda
+    titulo: "Feijóo promete un ITP un 60 % más bajo para la primera vivienda; el programa no da cifra y lo deja a un pacto autonómico"
+    texto: "La medida 153 rebaja el IVA de la primera vivienda «del 10% al 4% para menores de 40 años» y, sobre el impuesto de transmisiones patrimoniales (ITP) de la vivienda usada, solo dice: «Acordaremos con las Comunidades Autónomas un Impuesto de Transmisiones Patrimoniales reducido». En campaña, el PP anunció en Sevilla (21 de octubre) «rebajas del 60% del IVA y del ITP para menores de 40 años», y Feijóo dijo a Politico (16 de noviembre): «los menores de 35 años, 60% menos de impuesto de transmisiones patrimoniales y de IVA para comprar su primera vivienda». El 60 % del ITP no figura en el programa, y la edad de la entrevista no coincide con la del programa. El tipo del ITP lo regulan las comunidades autónomas (art. 49 de la Ley 22/2009), por lo que el Gobierno central no puede fijar esa rebaja por sí solo, como reconoce el programa al remitirla a un acuerdo."
+    medidas: "medida 153"
+    fuentes:
+      - titulo: "Reconstrucción Nacional. El programa del cambio necesario para España"
+        url: https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf
+        medio: "Partido Popular"
+        fecha: 2026-11-10
+        tipo: partido
+      - titulo: "Feijóo anuncia deducciones para alquileres y aprobará en sus cien días las leyes para construir un millón de viviendas y desalojar okupas"
+        url: https://www.pp.es/actualidad/articulos/feijoo-anuncia-deducciones-para-alquileres-y-aprobara-en-sus-cien-dias-las-leyes-para-construir-un-millon-de-viviendas-y-desalojar-okupas/
+        medio: "Partido Popular"
+        fecha: 2026-10-21
+        tipo: partido
+      - titulo: "Feijóo: «Haré una auditoría a las cuentas públicas de España. No me creo los datos»"
+        url: https://www.politico.eu/article/feijoo-hare-una-auditoria-a-las-cuentas-publicas-de-espana-no-me-creo-los-datos/
+        medio: "Politico"
+        fecha: 2026-11-16
+        tipo: prensa
+      - titulo: "Ley 22/2009, por la que se regula el sistema de financiación de las Comunidades Autónomas de régimen común (art. 49)"
+        url: https://www.boe.es/buscar/act.php?id=BOE-A-2009-20375
+        medio: "BOE"
+        fecha: 2009-12-19
+        tipo: oficial
+  - tipo: incoherencia
+    tema: exterior-defensa
+    titulo: "El programa promete cumplir los compromisos de defensa; Feijóo no fija el gasto y cita entre el 3,1 % y el 3,8 %"
+    texto: "La medida 52 promete una inversión plurianual en defensa que permita «conocer fehacientemente y cumplir nuestros compromisos internacionales», y añade que «España volverá a ser un socio fiable». La Declaración de La Haya de la OTAN (25 de junio de 2025) fija para los aliados un gasto de al menos el 3,5 % del PIB en defensa básica en 2035. Preguntado por Politico (16 de noviembre), Feijóo respondió: «No puedo decir qué porcentaje se va a destinar a la defensa porque no sé cómo voy a encontrarme las cuentas públicas españolas. No sé si vamos a llegar al 3,5%, 3,1% o 3,8%». Una de las cifras que cita queda por debajo de ese objetivo. Según la OTAN, España gastó en 2025 el 2,00 % del PIB (33.123 millones), así que cada punto adicional equivale a unos 16.500 millones al año, que el programa no cuantifica. Límite: el plazo de 2035 va más allá de la legislatura."
+    medidas: "medidas 52 y 53"
+    fuentes:
+      - titulo: "Reconstrucción Nacional. El programa del cambio necesario para España"
+        url: https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf
+        medio: "Partido Popular"
+        fecha: 2026-11-10
+        tipo: partido
+      - titulo: "Feijóo: «Haré una auditoría a las cuentas públicas de España. No me creo los datos»"
+        url: https://www.politico.eu/article/feijoo-hare-una-auditoria-a-las-cuentas-publicas-de-espana-no-me-creo-los-datos/
+        medio: "Politico"
+        fecha: 2026-11-16
+        tipo: prensa
+      - titulo: "The Hague Summit Declaration"
+        url: https://www.nato.int/cps/en/natohq/official_texts_236705.htm
+        medio: "OTAN"
+        fecha: 2025-06-25
+        tipo: oficial
+      - titulo: "Defence Expenditure of NATO Countries (2014-2025)"
+        url: https://nato.int/content/dam/nato/webready/documents/finance/def-exp-2025-en.pdf
+        medio: "OTAN"
+        tipo: oficial

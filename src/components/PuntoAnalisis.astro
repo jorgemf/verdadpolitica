@@ -1,0 +1,97 @@
+---
+// Un punto del análisis de un programa: el hecho, la explicación con su
+// evidencia o norma, las medidas del programa a las que se refiere y las
+// fuentes, plegadas para que la lista se pueda recorrer de un vistazo.
+import Fuentes from './Fuentes.astro';
+import { nombreTema } from '../data/temas';
+import { temaUrl, type PuntoAnalisis } from '../lib/datos';
+
+interface Props {
+  punto: PuntoAnalisis;
+  /** Nivel del encabezado del título, según la página en la que se use. */
+  nivel?: 3 | 4;
+}
+
+const { punto, nivel = 4 } = Astro.props;
+const Titulo = nivel === 3 ? 'h3' : 'h4';
+---
+
+<article class="pa" data-tema={punto.tema}>
+  <p class="pa__tema"><a href={temaUrl(punto.tema)}>{nombreTema(punto.tema)}</a></p>
+  <Titulo class="pa__titulo">{punto.titulo}</Titulo>
+  <p class="pa__texto">{punto.texto}</p>
+  <p class="pa__medidas"><b>Medidas:</b> {punto.medidas}</p>
+  <details class="pa__fuentes">
+    <summary>Fuentes ({punto.fuentes.length})</summary>
+    <Fuentes fuentes={punto.fuentes} titulo={`Fuentes: ${punto.titulo}`} compacta />
+  </details>
+</article>
+
+<style>
+  .pa {
+    padding: 0.85rem 1rem 0.9rem;
+    background: var(--papel-alto);
+    border: 1px solid var(--linea);
+    border-radius: 6px;
+    min-width: 0;
+  }
+
+  .pa__tema {
+    margin: 0 0 0.3rem;
+    font-size: 0.8125rem;
+    font-weight: 700;
+  }
+
+  .pa__tema a {
+    color: var(--tinta-suave);
+    text-decoration-color: var(--linea);
+  }
+
+  .pa__tema a:hover {
+    color: var(--tinta);
+    text-decoration-color: currentColor;
+  }
+
+  .pa__titulo {
+    margin: 0 0 0.45rem;
+    font-size: 1.0625rem;
+    font-weight: 750;
+    line-height: 1.25;
+    text-wrap: pretty;
+  }
+
+  .pa__texto {
+    margin: 0 0 0.6rem;
+    font-family: var(--serif);
+    font-size: 0.96875rem;
+    line-height: 1.6;
+  }
+
+  .pa__medidas {
+    margin: 0;
+    font-size: 0.875rem;
+    color: var(--tinta-suave);
+  }
+
+  .pa__medidas b {
+    color: var(--tinta);
+  }
+
+  .pa__fuentes {
+    margin-top: 0.6rem;
+    font-size: 0.875rem;
+  }
+
+  .pa__fuentes summary {
+    cursor: pointer;
+    font-weight: 600;
+    color: var(--enlace);
+    width: fit-content;
+  }
+
+  @media (max-width: 40rem) {
+    .pa {
+      padding: 0.75rem 0.8rem 0.8rem;
+    }
+  }
+</style>

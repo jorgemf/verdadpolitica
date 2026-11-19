@@ -1,10 +1,12 @@
 ---
 import Base from '../../layouts/Base.astro';
 import Marca from '../../components/Marca.astro';
+import AnalisisPartido from '../../components/AnalisisPartido.astro';
 import {
   partidos,
   fichas,
   programa,
+  analisis,
   CATEGORIA_INFO,
   ORDEN_CATEGORIAS,
   ESTADO_JUDICIAL,
@@ -16,6 +18,9 @@ import {
   fichaUrl,
   partidoUrl,
   temaUrl,
+  url,
+  analisisUrl,
+  fecha,
   type Partido,
 } from '../../lib/datos';
 import { TEMAS } from '../../data/temas';
@@ -36,6 +41,7 @@ const propias = (await fichas()).filter((f) => f.data.partido.id === partido.id)
 const prog = (await programa()).filter((e) => e.data.partido.id === partido.id);
 const otros = lista.filter((p) => p.id !== partido.id);
 const confirmado = programaConfirmado(partido);
+const analisisPropio = (await analisis()).find((a) => a.data.partido.id === partido.id);
 ---
 
 <Base titulo={d.nombre} descripcion={d.resumen}>
@@ -89,6 +95,23 @@ const confirmado = programaConfirmado(partido);
         }
       </ul>
     </section>
+
+    {
+      analisisPropio && (
+        <section class="bloque bloque--analisis" id="analisis" aria-labelledby="titulo-analisis">
+          <h2 id="titulo-analisis">Análisis del programa</h2>
+          <p class="analisis__intro">
+            Contrasta las propuestas del programa de {d.siglas} con la evidencia empírica y con la ley. No puntúa el
+            programa ni recomienda votar o no votar a nadie: recoge hechos comprobables, con sus fuentes, y la valoración
+            queda en manos de quien lee. Todos los partidos se analizan con los mismos criterios, que se explican en la{' '}
+            <a href={url('metodologia/#analisis')}>metodología</a>; también puedes ver el{' '}
+            <a href={analisisUrl()}>análisis de todos los programas</a> en paralelo.
+          </p>
+          <p class="analisis__fecha">Revisado el {fecha(analisisPropio.data.actualizado)}.</p>
+          <AnalisisPartido analisis={analisisPropio} />
+        </section>
+      )
+    }
 
     <p class="partido__resumen">{d.resumen}</p>
     {d.nota && <p class="partido__nota">{d.nota}</p>}
@@ -238,6 +261,22 @@ const confirmado = programaConfirmado(partido);
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(min(100%, 30rem), 1fr));
     column-gap: 3rem;
+  }
+
+  .bloque.bloque--analisis {
+    margin-top: 1rem;
+    margin-bottom: 3rem;
+  }
+
+  .analisis__intro {
+    max-width: 72ch;
+    margin: 0 0 0.35rem;
+  }
+
+  .analisis__fecha {
+    margin: 0 0 1.75rem;
+    font-size: 0.875rem;
+    color: var(--tinta-suave);
   }
 
   .bloque {

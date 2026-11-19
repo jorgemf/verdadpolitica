@@ -10,6 +10,9 @@ export type Partido = CollectionEntry<'partidos'>;
 export const programaConfirmado = (p: Partido) => Boolean(p.data.programaUrl);
 export type Ficha = CollectionEntry<'fichas'>;
 export type EntradaPrograma = CollectionEntry<'programa'>;
+export type Analisis = CollectionEntry<'analisis'>;
+export type PuntoAnalisis = Analisis['data']['puntos'][number];
+export type TipoAnalisis = PuntoAnalisis['tipo'];
 
 export const CATEGORIA_INFO: Record<Categoria, { titulo: string; corto: string; descripcion: string }> = {
   cumplido: {
@@ -302,11 +305,38 @@ export async function programa(): Promise<EntradaPrograma[]> {
   return getCollection('programa');
 }
 
-/** Fecha más reciente en que se revisó una ficha o una entrada de programa. */
+export async function analisis(): Promise<Analisis[]> {
+  return getCollection('analisis');
+}
+
+/** Rótulos de los tres tipos de punto del análisis, en el orden en que se muestran. */
+export const TIPO_ANALISIS: Record<TipoAnalisis, { titulo: string; descripcion: string }> = {
+  respaldo: {
+    titulo: 'Lo que respalda la evidencia',
+    descripcion:
+      'Medidas con evidencia empírica o institucional de que pueden lograr lo que persiguen: estudios revisados, evaluaciones de organismos públicos o experiencias comparables con resultados medidos.',
+  },
+  choque: {
+    titulo: 'Lo que choca con la evidencia o la ley',
+    descripcion:
+      'Medidas con efectos documentados en contra, un coste sin financiación frente a los datos oficiales o un conflicto con una norma superior: la Constitución, la jurisprudencia o el derecho de la UE.',
+  },
+  incoherencia: {
+    titulo: 'Incoherencias del programa',
+    descripcion:
+      'Partes del mismo programa que son incompatibles entre sí, o propuestas que contradicen lo que la candidatura dice en campaña.',
+  },
+};
+
+export const ORDEN_TIPOS_ANALISIS: TipoAnalisis[] = ['respaldo', 'choque', 'incoherencia'];
+
+/** Fecha más reciente en que se revisó una ficha, una entrada de programa o un análisis. */
 export async function ultimaActualizacion(): Promise<Date> {
-  const fechas = [...(await getCollection('fichas')), ...(await getCollection('programa'))].map((e) =>
-    e.data.actualizado.getTime(),
-  );
+  const fechas = [
+    ...(await getCollection('fichas')),
+    ...(await getCollection('programa')),
+    ...(await getCollection('analisis')),
+  ].map((e) => e.data.actualizado.getTime());
   return new Date(Math.max(...fechas));
 }
 
@@ -388,6 +418,7 @@ export const fichaUrl = (f: Ficha) => url(`ficha/${f.id}/`);
 export const partidoUrl = (id: string) => url(`partido/${id}/`);
 export const temaUrl = (id: string) => url(`tema/${id}/`);
 export const categoriaUrl = (id: string) => url(`categoria/${id}/`);
+export const analisisUrl = (ancla?: string) => url(`analisis/${ancla ? `#${ancla}` : ''}`);
 
 export const editarUrl = (filePath?: string) =>
   filePath ? `${REPO}/edit/main/${filePath.replace(/^\.\//, '')}` : `${REPO}`;

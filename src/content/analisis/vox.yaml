@@ -1,0 +1,363 @@
+partido: vox
+actualizado: 2026-11-20
+puntos:
+  # ── Respaldo ────────────────────────────────────────────────────────────────
+  - tipo: respaldo
+    tema: vivienda
+    titulo: "El Banco de España vincula la subida de precios a la falta de suelo edificable y a la lentitud de la tramitación"
+    texto: "La medida 28 plantea reformar la Ley del Suelo para aumentar la construcción con «ampliación de suelo disponible, agilización de procedimientos, supresión de trabas regulatorias innecesarias, simplificación administrativa». El Banco de España (Informe Anual 2023) estima un déficit de unas 375.000 viviendas entre la creación neta de hogares y la vivienda nueva en 2022-2023, constata que los precios de compra y alquiler subieron más en los municipios con menos suelo edificable y señala que la celeridad y la certidumbre de la tramitación urbanística condicionan la oferta. Límites: el mismo informe cita como otro freno la escasez de mano de obra (el 55 % de las constructoras la señalaba a finales de 2023), y el planeamiento depende sobre todo de comunidades y ayuntamientos."
+    medidas: "Medida 28"
+    fuentes:
+      - titulo: "Es sentido común. Programa electoral, 29 de noviembre de 2026"
+        url: https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf
+        medio: "Vox"
+        fecha: 2026-11-12
+        tipo: partido
+      - titulo: "Informe Anual 2023. Capítulo 4: El mercado de la vivienda en España: evolución reciente, riesgos y problemas de accesibilidad"
+        url: https://www.bde.es/f/webbe/SES/Secciones/Publicaciones/PublicacionesAnuales/InformesAnuales/23/Fich/InfAnual_2023_Cap4.pdf
+        medio: "Banco de España"
+        tipo: oficial
+  - tipo: respaldo
+    tema: energia-medioambiente
+    titulo: "El Gobierno reconoció en 2026 que el tope a la inversión en redes eléctricas era insuficiente para atender la demanda"
+    texto: "La medida 8 propone eliminar «el tope a la inversión en redes para que España tenga la red eléctrica que necesita para crecer, contratar y construir vivienda». El Ministerio para la Transición Ecológica reconoció en julio de 2026 que los límites vigentes desde 2013 (0,13 % del PIB en distribución y 0,065 % en transporte) «se han mostrado insuficientes» ante «el gran volumen de peticiones de acceso para nuevas demandas», y el Real Decreto 640/2026 autorizó 17.900 millones adicionales hasta 2030. Límites: el propio decreto recuerda que estas inversiones se pagan con los peajes de la factura de todos los consumidores y que las empresas no siempre agotaron los límites existentes, de modo que suprimir el tope no garantiza por sí solo más inversión y tiene un coste para el consumidor."
+    medidas: "Medida 8"
+    fuentes:
+      - titulo: "Es sentido común. Programa electoral, 29 de noviembre de 2026"
+        url: https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf
+        medio: "Vox"
+        fecha: 2026-11-12
+        tipo: partido
+      - titulo: "El Gobierno acelera la electrificación de la economía e incrementa la inversión en redes eléctricas"
+        url: https://www.miteco.gob.es/es/prensa/ultimas-noticias/2026/julio/el-gobierno-acelera-la-electrificacion-de-la-economia-incrementa.html
+        medio: "Ministerio para la Transición Ecológica y el Reto Demográfico"
+        fecha: 2026-07-28
+        tipo: oficial
+      - titulo: "Real Decreto 640/2026, de 29 de julio, por el que se regulan los planes de inversión de las redes de transporte y distribución de energía eléctrica"
+        url: https://www.boe.es/buscar/doc.php?id=BOE-A-2026-16661
+        medio: "Boletín Oficial del Estado"
+        fecha: 2026-07-31
+        tipo: oficial
+  - tipo: respaldo
+    tema: economia-impuestos
+    titulo: "Un estudio del Banco de España asocia una regulación más compleja con menos empresas"
+    texto: "El programa propone suprimir lo que no sea «estrictamente necesario» (medida 36), «derogar tres normas por cada una que se apruebe» (40) y que una misma actividad no tenga requisitos distintos en cada territorio (42). Un documento de trabajo del Banco de España (Mora-Sanguinetti y Pérez-Valls, 2020) calcula que la producción normativa se multiplicó por cuatro desde finales de los años setenta, hasta 11.737 normas en 2018, y encuentra que una regulación más compleja se asocia a menos empresas y a menos sociedades limitadas, las de mayor tamaño. Límites: es una asociación y no mide el efecto de una regla concreta como la del «tres por uno»; el silencio positivo como regla general (41) ya figura en la Ley 39/2015 (art. 24), con excepciones como las actividades que puedan dañar el medio ambiente, y la técnica de la medida 42 la anuló el Tribunal Constitucional en 2017."
+    medidas: "Medidas 36, 40, 41 y 42"
+    fuentes:
+      - titulo: "Es sentido común. Programa electoral, 29 de noviembre de 2026"
+        url: https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf
+        medio: "Vox"
+        fecha: 2026-11-12
+        tipo: partido
+      - titulo: "¿Cómo afecta la complejidad de la regulación a la demografía empresarial? Evidencia para España (Documento de Trabajo 2002)"
+        url: https://www.bde.es/wbe/es/publicaciones/analisis-economico-investigacion/documentos-trabajo/como-afecta-complejidad-regulacion-demografia-empresarial-evidencia-para-espana.html
+        medio: "Banco de España"
+        fecha: 2020-01-22
+        tipo: academica
+      - titulo: "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas (art. 24)"
+        url: https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565
+        medio: "Boletín Oficial del Estado"
+        tipo: oficial
+  - tipo: respaldo
+    tema: empleo-pensiones
+    titulo: "Las plazas públicas de educación infantil aumentaron el empleo de las madres en España, aunque no en todos los países"
+    texto: "La medida 94 incluye «la gratuidad real de la educación infantil de 0 a 3 años». En España, la extensión de plazas públicas a tiempo completo para niños de 3 años aumentó el empleo materno: dos madres más empleadas por cada diez niños escolarizados, sobre todo madres de 30 años o más y con dos o más hijos (Nollenberger y Rodríguez-Planas, Labour Economics, 2015). La evidencia no es uniforme: en Noruega, la expansión de plazas subvencionadas apenas cambió el empleo de las madres porque sustituyó sobre todo cuidados informales (Havnes y Mogstad, Journal of Public Economics, 2011). El efecto depende de cuántas familias usarían la plaza y de qué cuidado sustituya. El estudio español trata de niños de 3 años, no de 0 a 2, y el programa no indica cuántas plazas crearía ni su coste."
+    medidas: "Medida 94"
+    fuentes:
+      - titulo: "Es sentido común. Programa electoral, 29 de noviembre de 2026"
+        url: https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf
+        medio: "Vox"
+        fecha: 2026-11-12
+        tipo: partido
+      - titulo: "Full-time universal childcare in a context of low maternal employment: Quasi-experimental evidence from Spain"
+        url: https://ideas.repec.org/a/eee/labeco/v36y2015icp124-136.html
+        medio: "Labour Economics"
+        tipo: academica
+      - titulo: "Money for nothing? Universal child care and maternal employment"
+        url: https://ideas.repec.org/a/eee/pubeco/v95y2011i11p1455-1465.html
+        medio: "Journal of Public Economics"
+        tipo: academica
+  - tipo: respaldo
+    tema: energia-medioambiente
+    titulo: "Alargar la vida de las nucleares abarata la luz a corto plazo; a largo plazo depende de la inversión renovable"
+    texto: "La medida 8 promete garantizar «la supervivencia de las centrales nucleares actuales, derogando el calendario de cierre», y estudiar nuevas centrales junto a las actuales. La Agencia Internacional de la Energía (2019) concluye que alargar la vida de un reactor es considerablemente más barato que construir una central nueva y competitivo con la solar y la eólica nuevas. Una simulación del mercado ibérico (Fabra, 2026) estima que prorrogar Almaraz bajaría a corto plazo los precios mayoristas y las emisiones al desplazar gas, pero reduciría los incentivos a invertir en renovables y almacenamiento; si esa inversión cae lo bastante, acabaría elevando precios y emisiones. En Alemania, el cierre nuclear se cubrió sobre todo con carbón e importaciones, con un coste social de 3.000 a 8.000 millones de euros al año (Jarvis, Deschenes y Jha, 2022)."
+    medidas: "Medida 8"
+    fuentes:
+      - titulo: "Es sentido común. Programa electoral, 29 de noviembre de 2026"
+        url: https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf
+        medio: "Vox"
+        fecha: 2026-11-12
+        tipo: partido
+      - titulo: "Nuclear Power in a Clean Energy System"
+        url: https://www.iea.org/reports/nuclear-power-in-a-clean-energy-system
+        medio: "Agencia Internacional de la Energía"
+        fecha: 2019-05-27
+        tipo: oficial
+      - titulo: "The Price and Emissions Effects of Extending Nuclear Lifetimes: Evidence from Spain (CEPR Discussion Paper 21053)"
+        url: https://ideas.repec.org/p/cpr/ceprdp/21053.html
+        medio: "Centre for Economic Policy Research"
+        tipo: academica
+      - titulo: "The Private and External Costs of Germany's Nuclear Phase-Out (Journal of the European Economic Association, 20(3))"
+        url: https://econpapers.repec.org/RePEc:oup:jeurec:v:20:y:2022:i:3:p:1311-1346.
+        medio: "Journal of the European Economic Association"
+        tipo: academica
+  - tipo: respaldo
+    tema: vivienda
+    titulo: "Con el tope de la Ley de Vivienda cayó la oferta de alquiler en Cataluña y las rentas subieron menos, según Fedea"
+    texto: "La medida 30 propone la «derogación de la Ley de Vivienda» para recuperar «una oferta de alquileres estable, abundante y asequible». La evidencia está dividida. En Cataluña, el tope de 2020-2022 bajó los alquileres un 4-6 % sin reducir la oferta según un estudio (Jofre-Monseny y otros, 2023) y, según otro, bajó los caros, subió los baratos y redujo la oferta (Monràs y García-Montalvo, 2023). Con el tope de la Ley de Vivienda, aplicado allí desde marzo de 2024, los anuncios cayeron un 20,5 % hasta finales de 2025 (7 % en el resto de España) y la renta subió un 5,7 % (10,8 % nacional), según un análisis descriptivo de Fedea (2026). En Berlín, la congelación de 2020 bajó las rentas anunciadas y redujo los anuncios (Hahn y otros, 2024); en San Francisco, los caseros afectados redujeron un 15 % su oferta (Diamond y otros, 2019)."
+    medidas: "Medida 30"
+    fuentes:
+      - titulo: "Es sentido común. Programa electoral, 29 de noviembre de 2026"
+        url: https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf
+        medio: "Vox"
+        fecha: 2026-11-12
+        tipo: partido
+      - titulo: "Effectiveness and supply effects of high-coverage rent control policies (Jofre-Monseny, Martínez-Mazza y Segú, Regional Science and Urban Economics, 2023)"
+        url: https://diposit.ub.edu/items/3351bd7e-9352-4975-9705-6a3a9dc705c6/full
+        medio: "Universitat de Barcelona (repositorio)"
+        tipo: academica
+      - titulo: "The Effect of Second-Generation Rent Controls: New Evidence from Catalonia (Working Paper 2023-28)"
+        url: https://www.frbsf.org/economic-research/publications/working-papers/2023/28
+        medio: "Federal Reserve Bank of San Francisco"
+        fecha: 2023-09-01
+        tipo: academica
+      - titulo: "La Ley 12/2023 por el derecho a la vivienda: un primer balance a partir de la aplicación desigual del control de rentas en España (Apuntes 2026/15)"
+        url: https://documentos.fedea.net/pubs/ap/2026/ap2026-15.pdf
+        medio: "Fedea"
+        fecha: 2026-06-01
+        tipo: academica
+      - titulo: "Forward to the Past: Short-Term Effects of the Rent Freeze in Berlin (Hahn, Kholodilin, Waltl y Fongoni)"
+        url: https://www.diw.de/de/diw_01.c.873005.de/publikationen/externe_referierte_aufsaetze/2024_0003/forward_to_the_past__short-term_effects_of_the_rent_freeze_in_berlin.html
+        medio: "Management Science"
+        fecha: 2024-03-01
+        tipo: academica
+      - titulo: "The Effects of Rent Control Expansion on Tenants, Landlords, and Inequality: Evidence from San Francisco (Diamond, McQuade y Qian)"
+        url: https://www.aeaweb.org/articles?id=10.1257/aer.20181289
+        medio: "American Economic Review"
+        fecha: 2019-09-01
+        tipo: academica
+  # ── Choque ──────────────────────────────────────────────────────────────────
+  - tipo: choque
+    tema: economia-impuestos
+    titulo: "El programa no cuantifica su coste total ni cómo encaja en las reglas fiscales europeas"
+    texto: "El programa no incluye una memoria económica con el coste de sus medidas ni su efecto sobre el déficit y la deuda. España cerró 2025 con un déficit del 2,18 % del PIB (2,39 % con las medidas por la DANA) y una deuda del 100,7 %. Con una deuda superior al 90 %, el Reglamento (UE) 2024/1263 exige que la senda de ajuste la reduzca una media mínima de un punto del PIB al año (art. 7) y alcanzar un margen de 1,5 puntos de déficit estructural por debajo del 3 % (art. 8). Entre sus medidas de mayor coste previsible están la «rebaja masiva» del IRPF, el IVA y Sociedades (medida 2), el IVA del 0 % y el ITP bonificado en la primera vivienda (34) y las cotizaciones pagadas por el Estado por cuidado de hijos (94). Propone compensarlo con recortes de «gastos superfluos» (43), sin cifrarlos."
+    medidas: "Medidas 2, 3, 34, 43 y 94"
+    fuentes:
+      - titulo: "España cierra 2025 con un déficit público del 2,2 % del PIB y mejora por sexto año consecutivo el objetivo pactado con la Comisión Europea"
+        url: https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/hacienda/paginas/2026/310326-cierre-deficit-2025.aspx
+        medio: "La Moncloa (Ministerio de Hacienda)"
+        fecha: 2026-03-31
+        tipo: oficial
+      - titulo: "La deuda de las Administraciones Públicas se situó en el 100,7% del PIB al cierre de 2025, 1 pp menos que hace un año"
+        url: https://www.bde.es/wbe/es/noticias-eventos/actualidad-banco-espana/deuda-aapp-2025t4.html
+        medio: "Banco de España"
+        fecha: 2026-03-31
+        tipo: oficial
+      - titulo: "Reglamento (UE) 2024/1263 relativo a la coordinación eficaz de las políticas económicas y a la supervisión presupuestaria multilateral"
+        url: https://www.boe.es/doue/2024/1263/L00001-00021.pdf
+        medio: "Diario Oficial de la Unión Europea"
+        fecha: 2024-04-30
+        tipo: oficial
+      - titulo: "Es sentido común. Programa electoral, 29 de noviembre de 2026"
+        url: https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf
+        medio: "Vox"
+        fecha: 2026-11-12
+        tipo: partido
+  - tipo: choque
+    tema: inmigracion
+    titulo: "La «prioridad nacional» en vivienda y ayudas choca con la igualdad de trato que exige el derecho de la UE"
+    texto: "Las medidas 18 y 27 piden «acceso preferente de los españoles» a vivienda pública, guarderías, ayudas y servicios sociales, y la 22, que el IMV atienda «únicamente» a españoles. La Constitución remite los derechos de los extranjeros a «los tratados y la ley» (art. 13.1). La Directiva 2003/109/CE (art. 11) obliga a tratar como a los nacionales a los residentes de larga duración en seguridad social, asistencia social y «procedimientos para acceder a la vivienda», y solo deja limitar la asistencia a «prestaciones básicas»; el Reglamento 492/2011 (art. 9) da a los trabajadores de la UE igual derecho a las listas de vivienda y sus «prioridades». El IMV es una prestación de la Seguridad Social. La Comisión Europea avisó en 2026 de que puede ser discriminatoria. Una ley puede cambiar la de extranjería, no el derecho de la UE. Esas normas no amparan a quien está en situación irregular (19)."
+    medidas: "Medidas 18, 19, 22, 27 y 74"
+    fuentes:
+      - titulo: "Es sentido común. Programa electoral, 29 de noviembre de 2026"
+        url: https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf
+        medio: "Vox"
+        fecha: 2026-11-12
+        tipo: partido
+      - titulo: "Directiva 2003/109/CE del Consejo, de 25 de noviembre de 2003, relativa al estatuto de los nacionales de terceros países residentes de larga duración (art. 11)"
+        url: https://www.boe.es/buscar/doc.php?id=DOUE-L-2004-80112
+        medio: "Diario Oficial de la Unión Europea (BOE)"
+        fecha: 2004-01-23
+        tipo: oficial
+      - titulo: "Reglamento (UE) n.º 492/2011, de 5 de abril de 2011, relativo a la libre circulación de los trabajadores dentro de la Unión (arts. 7 y 9)"
+        url: https://www.boe.es/buscar/doc.php?id=DOUE-L-2011-81015
+        medio: "Diario Oficial de la Unión Europea (BOE)"
+        fecha: 2011-05-27
+        tipo: oficial
+      - titulo: "Constitución Española (art. 13)"
+        url: https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229
+        medio: "Boletín Oficial del Estado"
+        tipo: oficial
+      - titulo: "Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España (arts. 13 y 14)"
+        url: https://www.boe.es/buscar/act.php?id=BOE-A-2000-544
+        medio: "Boletín Oficial del Estado"
+        tipo: oficial
+      - titulo: "Ley 19/2021, de 20 de diciembre, por la que se establece el ingreso mínimo vital (art. 2)"
+        url: https://www.boe.es/buscar/act.php?id=BOE-A-2021-21007
+        medio: "Boletín Oficial del Estado"
+        tipo: oficial
+      - titulo: "Bruselas advierte que la «prioridad nacional» de PP y Vox en vivienda y ayudas sociales puede vulnerar el derecho europeo"
+        url: https://www.infobae.com/espana/2026/10/13/bruselas-advierte-que-la-prioridad-nacional-de-pp-y-vox-en-vivienda-y-ayudas-sociales-puede-vulnerar-el-derecho-europeo/
+        medio: "Infobae"
+        fecha: 2026-10-13
+        tipo: prensa
+  - tipo: choque
+    tema: modelo-territorial
+    titulo: "La regla de que lo legal en una comunidad lo sea en toda España ya la anuló el Tribunal Constitucional en 2017"
+    texto: "La medida 42 propone que «lo que es legal en una región de España, lo es en toda España» y que cualquier empresa, profesional o producto que opere legalmente en una comunidad pueda hacerlo en el resto «sin trámites, licencias ni registros adicionales». Es el «principio de eficacia nacional» que introdujo la Ley 20/2013 de garantía de la unidad de mercado y que el Tribunal Constitucional anuló en la STC 79/2017 (arts. 19 y 20): consideró que excede la competencia estatal del art. 149.1.13 CE y vulnera la territorialidad de las competencias autonómicas, porque permitiría aplicar en un mismo territorio «hasta diecisiete normativas distintas», y que no es una cuestión disponible para el legislador estatal. Alcance: el Estado sí puede armonizar con normas básicas o suprimir trabas injustificadas; lo que el Tribunal rechazó es reconocer en todo el país la norma del lugar de origen."
+    medidas: "Medida 42"
+    fuentes:
+      - titulo: "Es sentido común. Programa electoral, 29 de noviembre de 2026"
+        url: https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf
+        medio: "Vox"
+        fecha: 2026-11-12
+        tipo: partido
+      - titulo: "Pleno. Sentencia 79/2017, de 22 de junio de 2017. Recurso de inconstitucionalidad 1397-2014 (Ley 20/2013, de garantía de la unidad de mercado)"
+        url: https://www.boe.es/buscar/doc.php?id=BOE-A-2017-8464
+        medio: "Boletín Oficial del Estado"
+        fecha: 2017-07-19
+        tipo: oficial
+      - titulo: "STC 79/2017, de 22 de junio de 2017"
+        url: https://hj.tribunalconstitucional.es/es/Resolucion/GetDocumentResolucion/25387
+        medio: "Tribunal Constitucional"
+        fecha: 2017-06-22
+        tipo: judicial
+  - tipo: choque
+    tema: sanidad
+    titulo: "La restricción sanitaria de 2012 a inmigrantes sin papeles elevó su mortalidad, según un estudio publicado"
+    texto: "La medida 20 propone «garantizar la sostenibilidad del sistema sanitario» excluyendo «a los extranjeros en situación ilegal salvo casos de urgencia grave». España aplicó una restricción parecida con el Real Decreto-ley 16/2012, que mantenía la asistencia de urgencia por enfermedad grave o accidente, el embarazo y a los menores. Un estudio publicado en European Economic Review (Juanmarti, López Casasnovas y Vall Castelló, 2021) estima que, en sus tres primeros años, la restricción elevó la mortalidad de los inmigrantes en situación irregular en 0,31 muertes mensuales por cada 100.000, unas 82 muertes adicionales al año, y que la emigración selectiva solo explica el 3,45 % de ese efecto. Límites: es un estudio de un país y un periodo concretos, y el programa no cuantifica el ahorro que espera de la medida."
+    medidas: "Medida 20"
+    fuentes:
+      - titulo: "Es sentido común. Programa electoral, 29 de noviembre de 2026"
+        url: https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf
+        medio: "Vox"
+        fecha: 2026-11-12
+        tipo: partido
+      - titulo: "The deadly effects of losing health insurance"
+        url: https://ideas.repec.org/a/eee/eecrev/v131y2021ics0014292120302385.html
+        medio: "European Economic Review"
+        tipo: academica
+      - titulo: "Real Decreto-ley 16/2012, de 20 de abril, de medidas urgentes para garantizar la sostenibilidad del Sistema Nacional de Salud"
+        url: https://www.boe.es/buscar/doc.php?id=BOE-A-2012-5403
+        medio: "Boletín Oficial del Estado"
+        fecha: 2012-04-24
+        tipo: oficial
+  - tipo: choque
+    tema: vivienda
+    titulo: "Las ayudas a la compra tienden a subir precios donde la oferta es rígida, según el Banco de España y el caso británico"
+    texto: "La medida 34 promete un IVA del 0 % en la compra de la primera vivienda nueva, bonificar al 100 % el ITP en la usada y recuperar la deducción por vivienda habitual, y la 29 añade avales y créditos blandos. El Banco de España (Informe Anual 2023) advierte de que, con una oferta rígida, las políticas de apoyo a la compra «suelen generar un aumento de los precios de compraventa». El programa británico Help to Buy, un préstamo público del 20 % del precio (40 % en Londres), subió los precios en Londres sin aumentar la construcción; cerca de la frontera con Gales, con oferta más flexible, aumentó la construcción sin efecto apreciable en los precios (Carozzi, Hilber y Yu, 2024). Además, la Directiva del IVA (art. 98, reformado en 2022) solo admite tipos inferiores al 5 % o exenciones con deducción en una lista tasada de casos; hoy la vivienda nueva tributa al 10 %."
+    medidas: "Medidas 29 y 34"
+    fuentes:
+      - titulo: "Informe Anual 2023. Capítulo 4: El mercado de la vivienda en España: evolución reciente, riesgos y problemas de accesibilidad"
+        url: https://www.bde.es/f/webbe/SES/Secciones/Publicaciones/PublicacionesAnuales/InformesAnuales/23/Fich/InfAnual_2023_Cap4.pdf
+        medio: "Banco de España"
+        fecha: 2024-04-23
+        tipo: oficial
+      - titulo: "On the economic impacts of mortgage credit expansion policies: evidence from Help to Buy (Journal of Urban Economics, 139)"
+        url: https://cep.lse.ac.uk/_NEW/PUBLICATIONS/abstract.asp?index=10612
+        medio: "Journal of Urban Economics"
+        fecha: 2024-01-01
+        tipo: academica
+      - titulo: "Directiva (UE) 2022/542 del Consejo, de 5 de abril de 2022, por la que se modifican las Directivas 2006/112/CE y (UE) 2020/285 en lo que respecta a los tipos del IVA"
+        url: https://www.boe.es/buscar/doc.php?id=DOUE-L-2022-80541
+        medio: "Diario Oficial de la Unión Europea (BOE)"
+        fecha: 2022-04-06
+        tipo: oficial
+      - titulo: "Ley 37/1992, de 28 de diciembre, del Impuesto sobre el Valor Añadido (art. 91)"
+        url: https://www.boe.es/buscar/act.php?id=BOE-A-1992-28740
+        medio: "Boletín Oficial del Estado"
+        tipo: oficial
+      - titulo: "Es sentido común. Programa electoral, 29 de noviembre de 2026"
+        url: https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf
+        medio: "Vox"
+        fecha: 2026-11-12
+        tipo: partido
+  - tipo: choque
+    tema: inmigracion
+    titulo: "Deportar por delitos o por costumbres choca, para ciudadanos de la UE, con la Directiva 2004/38"
+    texto: "La medida 14 propone la «deportación de quienes cometan delitos graves o hagan del delito leve su forma de vida, así como de quienes traten de imponer costumbres, hábitos o culturas ajenas a nuestro modo de vida». Para los ciudadanos de otros países de la UE y sus familiares, el art. 27.2 de la Directiva 2004/38 exige que la expulsión se base «exclusivamente en la conducta personal del interesado», que esta sea «una amenaza real, actual y suficientemente grave», y dispone que «la existencia de condenas penales anteriores no constituirá por sí sola una razón» para expulsar. El art. 28 obliga además a valorar la duración de la residencia, la edad, la familia y la integración. Límites: la directiva no ampara a los nacionales de fuera de la UE, y la expulsión de un europeo cabe si se decide caso por caso; el programa no lo distingue."
+    medidas: "Medida 14"
+    fuentes:
+      - titulo: "Es sentido común. Programa electoral, 29 de noviembre de 2026"
+        url: https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf
+        medio: "Vox"
+        fecha: 2026-11-12
+        tipo: partido
+      - titulo: "Directiva 2004/38/CE relativa al derecho de los ciudadanos de la Unión y de los miembros de sus familias a circular y residir libremente"
+        url: https://www.boe.es/doue/2004/158/L00077-00123.pdf
+        medio: "Diario Oficial de la Unión Europea"
+        fecha: 2004-04-30
+        tipo: oficial
+  # ── Incoherencia ────────────────────────────────────────────────────────────
+  - tipo: incoherencia
+    tema: economia-impuestos
+    titulo: "El programa promete reducir la deuda y Abascal plantea en campaña acudir a deuda para la transición fiscal"
+    texto: "La medida 3 se titula «Reducción de la deuda pública» y propone «compatibilizar la rebaja de impuestos con la financiación de los servicios públicos esenciales, mediante el control del déficit». En una entrevista en Onda Cero el 4 de noviembre de 2026, preguntado por cómo sostener el gasto bajando impuestos, Santiago Abascal respondió que «el sistema exacto es discutible, accesorio» y apuntó a «acudir a deuda pública temporalmente» como mecanismo de transición. La deuda pública cerró 2025 en el 100,7 % del PIB (Banco de España), y con deuda superior al 90 % las reglas fiscales europeas exigen reducirla al menos un punto del PIB al año de media. Financiar la transición con deuda supone más endeudamiento en esos años, en sentido contrario al compromiso de la medida 3."
+    medidas: "Medidas 2 y 3"
+    fuentes:
+      - titulo: "Es sentido común. Programa electoral, 29 de noviembre de 2026"
+        url: https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf
+        medio: "Vox"
+        fecha: 2026-11-12
+        tipo: partido
+      - titulo: "Ni supresión de las autonomías ni derogar el aborto con el PP: Abascal dice que «España está en una urgencia que no es esa»"
+        url: https://www.elindependiente.com/espana/2026/11/04/abascal-aborto-supresion-autonomias-pp-gobierno-coalicion-generales-feijoo/
+        medio: "El Independiente"
+        fecha: 2026-11-04
+        tipo: prensa
+      - titulo: "Vox anuncia una bajada «masiva de impuestos» y reducir el IVA al 18%: ¿cómo pretende financiarlo?"
+        url: https://www.infobae.com/espana/2026/11/04/vox-anuncia-bajada-masiva-de-impuestos-y-reducir-el-iva-al-18-como-pretende-hacerlo/
+        medio: "Infobae (con EFE)"
+        fecha: 2026-11-04
+        tipo: prensa
+      - titulo: "La deuda de las Administraciones Públicas se situó en el 100,7% del PIB al cierre de 2025, 1 pp menos que hace un año"
+        url: https://www.bde.es/wbe/es/noticias-eventos/actualidad-banco-espana/deuda-aapp-2025t4.html
+        medio: "Banco de España"
+        fecha: 2026-03-31
+        tipo: oficial
+      - titulo: "Reglamento (UE) 2024/1263, de 29 de abril de 2024, relativo a la coordinación eficaz de las políticas económicas y a la supervisión presupuestaria multilateral (art. 7)"
+        url: https://www.hacienda.gob.es/DocLeyes/REPOSITORIO%20NORMATIVA/87039.htm
+        medio: "Ministerio de Hacienda (DOUE L 2024/1263)"
+        fecha: 2024-04-30
+        tipo: oficial
+  - tipo: incoherencia
+    tema: sanidad
+    titulo: "Promete reforzar la sanidad, que gestionan las comunidades, y en campaña propone recortar sobre todo sus transferencias"
+    texto: "El programa se compromete a «compatibilizar la rebaja de impuestos con la financiación de los servicios públicos esenciales» (medida 3) y a reforzar la atención primaria, reducir las listas de espera y mejorar plantillas y retribuciones sanitarias (61 a 63). El 4 de noviembre de 2026, el secretario general de Vox en el Congreso, José María Figaredo, cifró en 180.000 millones anuales el gasto en «cuestiones que no son esenciales», sobre todo transferencias a las comunidades autónomas, y propuso reducirlo primero a 120.000 millones y después a 80.000. Las comunidades gestionan el 93,6 % del gasto sanitario público, que fue de 101.739 millones en 2024 (Ministerio de Sanidad). Ni el programa ni Figaredo detallan qué transferencias se recortarían ni cómo se mantendría la sanidad que financian."
+    medidas: "Medidas 3, 43 y 61 a 63"
+    fuentes:
+      - titulo: "Es sentido común. Programa electoral, 29 de noviembre de 2026"
+        url: https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf
+        medio: "Vox"
+        fecha: 2026-11-12
+        tipo: partido
+      - titulo: "Vox propone bajar el IVA al 18% y recortar las transferencias a las comunidades autónomas"
+        url: https://theobjective.com/espana/politica/2026-11-04/vox-iva-18-transferencias-comunidades-autonomas/
+        medio: "The Objective"
+        fecha: 2026-11-04
+        tipo: prensa
+      - titulo: "Vox anuncia una bajada «masiva de impuestos» y reducir el IVA al 18%: ¿cómo pretende financiarlo?"
+        url: https://www.infobae.com/espana/2026/11/04/vox-anuncia-bajada-masiva-de-impuestos-y-reducir-el-iva-al-18-como-pretende-hacerlo/
+        medio: "Infobae (con EFE)"
+        fecha: 2026-11-04
+        tipo: prensa
+      - titulo: "El gasto sanitario público alcanzó los 101.739 millones de euros en 2024, un 6,4% del PIB"
+        url: https://www.sanidad.gob.es/gabinete/notasPrensa.do?id=6908
+        medio: "Ministerio de Sanidad"
+        fecha: 2026-05-13
+        tipo: oficial
+  - tipo: incoherencia
+    tema: economia-impuestos
+    titulo: "Pide reducir «al mínimo» la Administración y reforzar a la vez plantillas de sanidad, seguridad, defensa y prisiones"
+    texto: "La medida 43 propone «reducir al mínimo estrictamente necesario el tamaño de la Administración Pública» para «compensar la bajada masiva de impuestos». A la vez, el programa pide «refuerzo de plantillas médicas, de enfermería y personal administrativo» (63), dotar de «suficientes medios humanos» a Fuerzas Armadas, Guardia Civil, Policía, CNI, Vigilancia Aduanera e Instituciones Penitenciarias (83), «plantillas adecuadamente dimensionadas» en prisiones (85) y el derecho a ser atendido «presencialmente en cualquier oficina pública de forma inmediata» (39). Según la estadística de personal de enero de 2026, de 3.071.725 empleados públicos, 284.853 son militares, policías nacionales y guardias civiles, y el 62,8 % trabaja para las comunidades, donde las instituciones sanitarias son el área que más creció desde 2017 (48 %). El programa no indica en qué áreas se reduciría el personal."
+    medidas: "Medidas 39, 43, 63, 83 y 85"
+    fuentes:
+      - titulo: "Es sentido común. Programa electoral, 29 de noviembre de 2026"
+        url: https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf
+        medio: "Vox"
+        fecha: 2026-11-12
+        tipo: partido
+      - titulo: "Estadística del Personal al Servicio de las Administraciones Públicas. Enero de 2026 (nota informativa)"
+        url: https://digital.gob.es/content/dam/portal-mtdfp/funcion-publica/rcp/notaepsap/Noticia_EPSAP_Enero_26.pdf
+        medio: "Ministerio para la Transformación Digital y de la Función Pública"
+        tipo: oficial

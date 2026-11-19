@@ -1,0 +1,357 @@
+partido: psoe
+actualizado: 2026-11-20
+puntos:
+  # ── Respaldo ────────────────────────────────────────────────────────────────
+  - tipo: respaldo
+    tema: vivienda
+    titulo: "El Banco de España recomienda ampliar el alquiler social; llegar a la media europea exigiría 1,5 millones de viviendas"
+    texto: "El programa propone «aumentar el parque de viviendas públicas y protegidas para alcanzar la media de los países de nuestro entorno» (medida 39) y un parque estatal de 100.000 viviendas (42). Según la OCDE, el alquiler social es de media el 7 % del parque de viviendas en la OCDE y el 8 % en la UE; supera el 20 % en Austria, Dinamarca y Países Bajos y no llega al 2 % en España. El Banco de España recomienda «impulsar la oferta de alquiler social», pero advierte de la escala: partiendo del 1,5 % de las viviendas principales, converger con la media supondría unos 1,5 millones de viviendas, y hacerlo en diez años, aumentar más de un 150 % la producción anual reciente. Las 100.000 viviendas estatales son menos del 7 % de esa cifra; el resto dependería de comunidades y ayuntamientos."
+    medidas: "medidas 39, 41 y 42"
+    fuentes:
+      - titulo: "Informe Anual 2023. Capítulo 4: El mercado de la vivienda en España: evolución reciente, riesgos y problemas de accesibilidad"
+        url: https://www.bde.es/f/webbe/SES/Secciones/Publicaciones/PublicacionesAnuales/InformesAnuales/23/Fich/InfAnual_2023_Cap4.pdf
+        medio: "Banco de España"
+        fecha: 2024-04-23
+        tipo: oficial
+      - titulo: "OECD Affordable Housing Database. PH4.2 Social rental housing stock"
+        url: https://webfs.oecd.org/Els-com/Affordable_Housing_Database/PH4-2-Social-rental-housing-stock.pdf
+        medio: "OCDE"
+        fecha: 2025-11-24
+        tipo: oficial
+      - titulo: "La fuerza de seguir avanzando. Programa elecciones generales 29 noviembre 2026"
+        url: https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf
+        medio: "PSOE"
+        fecha: 2026-11-15
+        tipo: partido
+  - tipo: respaldo
+    tema: empleo-pensiones
+    titulo: "Las subidas del SMI elevaron los salarios bajos; sobre el empleo, los estudios van de un efecto marginal a uno negativo"
+    texto: "El programa propone «blindar por ley el SMI por encima del 60% del salario medio» (medida 87). Los estudios sobre la subida del 22,3 % de 2019 coinciden en que elevó los ingresos de los trabajadores con salarios bajos, pero discrepan sobre el empleo. El Banco de España (Barceló y otros, 2021) halló un menor crecimiento del empleo de los afectados, más acusado entre jóvenes y mayores, y pide interpretar sus cifras con cautela. Fedea (Casanova y otros, 2025) estima unos 5 puntos menos de crecimiento del empleo en los establecimientos con toda la plantilla afectada, concentrados en los de hasta cinco trabajadores. La comisión asesora del Ministerio de Trabajo (2022) concluyó que hubo, «a lo más, una pequeña reducción de su crecimiento». El programa no precisa si el 60 % se mide sobre el salario medio neto, como hace esa comisión, o sobre el bruto."
+    medidas: "medida 87"
+    fuentes:
+      - titulo: "Los efectos del salario mínimo interprofesional en el empleo: nueva evidencia para España (Documento Ocasional 2113)"
+        url: https://www.bde.es/wbe/es/publicaciones/analisis-economico-investigacion/documentos-ocasionales/efectos-salario-minimo-interprofesional-empleo-nueva-evidencia-para-espana.html
+        medio: "Banco de España"
+        fecha: 2021-06-08
+        tipo: academica
+      - titulo: "Firm-Level Employment Dynamics and Minimum Wages: Evidence from Spain"
+        url: https://documentos.fedea.net/documento/eee2025-10/texto
+        medio: "Fedea"
+        tipo: academica
+      - titulo: "II Informe de la Comisión Asesora para el análisis del SMI. Cálculo del 60% del salario medio neto e incidencia del SMI sobre los hogares pobres"
+        url: https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/trabajo14/Documents/2022/191222-Informe-SMI-2023.pdf
+        medio: "Ministerio de Trabajo y Economía Social"
+        fecha: 2022-12-07
+        tipo: oficial
+      - titulo: "La fuerza de seguir avanzando. Programa elecciones generales 29 noviembre 2026"
+        url: https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf
+        medio: "PSOE"
+        fecha: 2026-11-15
+        tipo: partido
+  - tipo: respaldo
+    tema: economia-impuestos
+    titulo: "Las transferencias por hijo reducen la pobreza infantil según los datos de EE. UU. y las simulaciones para España"
+    texto: "El programa propone una «prestación estatal por crianza para todos los hogares con menores de edad» (192) y convertir el mínimo por descendiente del IRPF en un «crédito fiscal reembolsable» para 2 millones de hogares que hoy no se benefician de él (134). España tenía en 2024 la segunda tasa de riesgo de pobreza o exclusión infantil de la UE, el 34,6 %, según Eurostat. En EE. UU., los créditos fiscales reembolsables sacaron de la pobreza a 9,6 millones de personas en 2021, con la ampliación temporal del crédito por hijo; tras su expiración, la tasa de pobreza infantil (medida suplementaria) pasó del 5,2 % en 2021 al 12,4 % en 2022, según la Oficina del Censo. Para España, una simulación de UNICEF citada por el Gobierno estima que una prestación de 200 euros al mes reduciría la pobreza infantil en más de 7 puntos. El efecto depende de la cuantía, que el programa no fija."
+    medidas: "medidas 134 y 192"
+    fuentes:
+      - titulo: "24% of EU children at poverty risk or social exclusion"
+        url: https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20250528-1
+        medio: "Eurostat"
+        fecha: 2025-05-28
+        tipo: oficial
+      - titulo: "Poverty in the United States: 2022 (P60-280)"
+        url: https://www.census.gov/library/publications/2023/demo/p60-280.html
+        medio: "U.S. Census Bureau"
+        fecha: 2023-09-12
+        tipo: oficial
+      - titulo: "Sira Rego asegura que la Prestación Universal por Crianza es la herramienta más eficaz para combatir las cifras insoportables de pobreza infantil"
+        url: https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/juventud-e-infancia/paginas/2025/201125-rego-prestacion-crianza.aspx
+        medio: "La Moncloa"
+        fecha: 2025-11-20
+        tipo: oficial
+      - titulo: "La fuerza de seguir avanzando. Programa elecciones generales 29 noviembre 2026"
+        url: https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf
+        medio: "PSOE"
+        fecha: 2026-11-15
+        tipo: partido
+  - tipo: respaldo
+    tema: energia-medioambiente
+    titulo: "Según el Banco de España, el aumento de la eólica y la solar abarató más de un 40 % el precio mayorista de la luz"
+    texto: "El programa propone llegar al «81% de generación eléctrica» renovable en 2030 (234) y acelerar el almacenamiento, la gestión de la demanda y las interconexiones (237). Un artículo del Banco de España (Quintana, 2024) estima que en el primer semestre de 2024 el precio mayorista fue más de un 40 % inferior al que habría habido con la generación eólica y solar de 2019, y que podría bajar hasta un 50 % adicional en 2030 con el despliegue previsto en el PNIEC. El estudio advierte de una «considerable incertidumbre» y de que el efecto no es lineal: cuando las renovables cubren toda la demanda de una hora, más generación ya no baja el precio. El informe final de ENTSO-E sobre el apagón del 28 de abril de 2025 lo atribuye a varios factores, entre ellos carencias en el control de tensión y de potencia reactiva; el programa no menciona el apagón ni el control de tensión."
+    medidas: "medidas 234 y 237"
+    fuentes:
+      - titulo: "El impacto de las energías renovables sobre el precio mayorista de la electricidad (Boletín Económico 2024/T3)"
+        url: https://www.bde.es/f/webbe/SES/Secciones/Publicaciones/InformesBoletinesRevistas/BoletinEconomico/24/T3/Fich/be2403-art09.pdf
+        medio: "Banco de España"
+        fecha: 2024-09-04
+        tipo: academica
+      - titulo: "ENTSO-E publishes Expert Panel final report on 28 April 2025 blackout in Spain and Portugal"
+        url: https://www.entsoe.eu/news/2026/03/20/entso-e-publishes-expert-panel-final-report-on-28-april-2025-blackout-in-spain-and-portugal/
+        medio: "ENTSO-E"
+        fecha: 2026-03-20
+        tipo: oficial
+      - titulo: "La fuerza de seguir avanzando. Programa elecciones generales 29 noviembre 2026"
+        url: https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf
+        medio: "PSOE"
+        fecha: 2026-11-15
+        tipo: partido
+  - tipo: respaldo
+    tema: regeneracion-democratica
+    titulo: "La Comisión Europea recomienda a España un registro obligatorio de lobbies y separar el mandato del fiscal general"
+    texto: "El programa propone una ley de grupos de interés «con registro obligatorio, publicidad de sus reuniones y huella normativa» (446), una Agencia Independiente de Integridad Pública (445) y un mandato de cinco años para la Fiscalía General «desvinculado de la legislatura» y sin instrucciones del Gobierno en casos concretos (436). Coinciden con las recomendaciones del Informe sobre el Estado de Derecho 2026 de la Comisión Europea (17 de julio de 2026), que pide a España aprobar la ley de lobbies con un registro público obligatorio, separar el mandato del fiscal general del del Gobierno y garantizar la independencia del órgano que supervise los conflictos de interés. La Comisión vio progresos «limitados» en lobbies y conflictos de interés porque esos proyectos no se aprobaron; caducaron con la disolución. Es un respaldo institucional, no una medición de efectos."
+    medidas: "medidas 436, 445 y 446"
+    fuentes:
+      - titulo: "2026 Rule of Law Report. Country Chapter on the rule of law situation in Spain (SWD(2026) 909)"
+        url: https://commission.europa.eu/document/download/82ce1391-cde5-49e9-9d1b-3f14f4975eb7_en?filename=Country%20chapter%20-%20Spain%20-%20EN.pdf
+        medio: "Comisión Europea"
+        fecha: 2026-07-17
+        tipo: oficial
+      - titulo: "La fuerza de seguir avanzando. Programa elecciones generales 29 noviembre 2026"
+        url: https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf
+        medio: "PSOE"
+        fecha: 2026-11-15
+        tipo: partido
+  - tipo: respaldo
+    tema: empleo-pensiones
+    titulo: "Los ensayos de semana de cuatro días sin rebaja salarial mejoraron el bienestar en las empresas que participaron"
+    texto: "El programa propone «completar la reducción de la jornada a 37,5 horas e incentivar los avances en la negociación colectiva hacia las 35 horas» (108). Un estudio en Nature Human Behaviour (Fan, Schor y otros, 2025) con 2.896 empleados de 141 organizaciones de seis países halló, tras seis meses de semana de cuatro días sin rebaja de sueldo, menos agotamiento y más satisfacción y salud, algo que no se vio en 12 empresas de control. Límites: las empresas se presentaron voluntarias y reorganizaron el trabajo antes; los ensayos no miden el efecto de una reducción obligatoria. Los estudios de reducciones legales en Francia (35 horas) y Portugal (40 horas) no hallan que crearan empleo (Chemin y Wasmer, 2009; Raposo y van Ours, 2010)."
+    medidas: "medida 108"
+    fuentes:
+      - titulo: "Work time reduction via a 4-day workweek finds improvements in workers' well-being"
+        url: https://www.nature.com/articles/s41562-025-02259-6
+        medio: "Nature Human Behaviour"
+        fecha: 2025-07-21
+        tipo: academica
+      - titulo: "Using Alsace-Moselle Local Laws to Build a Difference-in-Differences Estimation Strategy of the Employment Effects of the 35-Hour Workweek Regulation in France (Chemin y Wasmer)"
+        url: https://econpapers.repec.org/RePEc:ucp:jlabec:v:27:y:2009:i:4:p:487-524
+        medio: "Journal of Labor Economics"
+        tipo: academica
+      - titulo: "How working time reduction affects jobs and wages (Raposo y van Ours)"
+        url: https://econpapers.repec.org/RePEc:eee:ecolet:v:106:y:2010:i:1:p:61-63
+        medio: "Economics Letters"
+        tipo: academica
+      - titulo: "La fuerza de seguir avanzando. Programa elecciones generales 29 noviembre 2026"
+        url: https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf
+        medio: "PSOE"
+        fecha: 2026-11-15
+        tipo: partido
+  # ── Choque ──────────────────────────────────────────────────────────────────
+  - tipo: choque
+    tema: economia-impuestos
+    titulo: "El programa no cuantifica su coste total ni cómo encaja en las reglas fiscales europeas"
+    texto: "El programa no incluye una memoria económica con el coste de sus medidas ni su efecto sobre el déficit y la deuda. España cerró 2025 con un déficit del 2,18 % del PIB (2,39 % con las medidas por la DANA) y una deuda del 100,7 %. Con una deuda superior al 90 %, el Reglamento (UE) 2024/1263 exige que la senda de ajuste la reduzca una media mínima de un punto del PIB al año (art. 7) y alcanzar un margen de 1,5 puntos de déficit estructural por debajo del 3 % (art. 8). Entre sus medidas de mayor coste previsible están movilizar cada año el 1 % del PIB para vivienda (unos 16.900 millones con el PIB de 2025, aunque incluye préstamos y avales del ICO, medida 38), la prestación universal por crianza (192), el crédito fiscal reembolsable por hijo (134), el Plan Sonríe (137) y el 0,7 % de la RNB en ayuda al desarrollo (459). Promete un plan fiscal compatible con las reglas (125), sin cifras."
+    medidas: "medidas 38, 125, 134, 137, 192 y 459"
+    fuentes:
+      - titulo: "España cierra 2025 con un déficit público del 2,2 % del PIB y mejora por sexto año consecutivo el objetivo pactado con la Comisión Europea"
+        url: https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/hacienda/paginas/2026/310326-cierre-deficit-2025.aspx
+        medio: "La Moncloa (Ministerio de Hacienda)"
+        fecha: 2026-03-31
+        tipo: oficial
+      - titulo: "La deuda de las Administraciones Públicas se situó en el 100,7% del PIB al cierre de 2025, 1 pp menos que hace un año"
+        url: https://www.bde.es/wbe/es/noticias-eventos/actualidad-banco-espana/deuda-aapp-2025t4.html
+        medio: "Banco de España"
+        fecha: 2026-03-31
+        tipo: oficial
+      - titulo: "Reglamento (UE) 2024/1263 relativo a la coordinación eficaz de las políticas económicas y a la supervisión presupuestaria multilateral"
+        url: https://www.boe.es/doue/2024/1263/L00001-00021.pdf
+        medio: "Diario Oficial de la Unión Europea"
+        fecha: 2024-04-30
+        tipo: oficial
+      - titulo: "La fuerza de seguir avanzando. Programa elecciones generales 29 noviembre 2026"
+        url: https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf
+        medio: "PSOE"
+        fecha: 2026-11-15
+        tipo: partido
+  - tipo: choque
+    tema: vivienda
+    titulo: "Los topes al alquiler estudiados en Cataluña, Berlín y San Francisco bajaron los precios y, en varios casos, la oferta"
+    texto: "El programa propone «congelar temporalmente las rentas que superen los índices de referencia» en mercados tensionados (62); el RDL 29/2026 ya lo impone hasta finales de 2027. La evidencia está dividida. En Cataluña, el tope de 2020-2022 bajó los alquileres un 4-6 % sin reducir la oferta según un estudio (Jofre-Monseny y otros, 2023) y, según otro, bajó los caros, subió los baratos y redujo la oferta (Monràs y García-Montalvo, 2023). Con el tope de la Ley de Vivienda, aplicado allí desde marzo de 2024, los anuncios cayeron un 20,5 % hasta finales de 2025 (7 % en el resto de España) y la renta subió un 5,7 % (10,8 % nacional), según un análisis descriptivo de Fedea (2026). En Berlín, la congelación de 2020 bajó las rentas anunciadas y redujo los anuncios (Hahn y otros, 2024); en San Francisco, los caseros afectados redujeron un 15 % su oferta (Diamond y otros, 2019)."
+    medidas: "medida 62"
+    fuentes:
+      - titulo: "Effectiveness and supply effects of high-coverage rent control policies (Jofre-Monseny, Martínez-Mazza y Segú, Regional Science and Urban Economics, 2023)"
+        url: https://diposit.ub.edu/items/3351bd7e-9352-4975-9705-6a3a9dc705c6/full
+        medio: "Universitat de Barcelona (repositorio)"
+        tipo: academica
+      - titulo: "The Effect of Second-Generation Rent Controls: New Evidence from Catalonia (Working Paper 2023-28)"
+        url: https://www.frbsf.org/economic-research/publications/working-papers/2023/28
+        medio: "Federal Reserve Bank of San Francisco"
+        fecha: 2023-09-01
+        tipo: academica
+      - titulo: "La Ley 12/2023 por el derecho a la vivienda: un primer balance a partir de la aplicación desigual del control de rentas en España (Apuntes 2026/15)"
+        url: https://documentos.fedea.net/pubs/ap/2026/ap2026-15.pdf
+        medio: "Fedea"
+        fecha: 2026-06-01
+        tipo: academica
+      - titulo: "Forward to the Past: Short-Term Effects of the Rent Freeze in Berlin (Hahn, Kholodilin, Waltl y Fongoni)"
+        url: https://www.diw.de/de/diw_01.c.873005.de/publikationen/externe_referierte_aufsaetze/2024_0003/forward_to_the_past__short-term_effects_of_the_rent_freeze_in_berlin.html
+        medio: "Management Science"
+        fecha: 2024-03-01
+        tipo: academica
+      - titulo: "The Effects of Rent Control Expansion on Tenants, Landlords, and Inequality: Evidence from San Francisco (Diamond, McQuade y Qian)"
+        url: https://www.aeaweb.org/articles?id=10.1257/aer.20181289
+        medio: "American Economic Review"
+        fecha: 2019-09-01
+        tipo: academica
+      - titulo: "Real Decreto-ley 29/2026, de 6 de octubre, por el que se adoptan medidas urgentes para la protección de la función social de la vivienda y la ampliación de la oferta de vivienda asequible"
+        url: https://www.boe.es/buscar/doc.php?id=BOE-A-2026-20823
+        medio: "Boletín Oficial del Estado"
+        fecha: 2026-10-07
+        tipo: oficial
+      - titulo: "La fuerza de seguir avanzando. Programa elecciones generales 29 noviembre 2026"
+        url: https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf
+        medio: "PSOE"
+        fecha: 2026-11-15
+        tipo: partido
+  - tipo: choque
+    tema: vivienda
+    titulo: "Las ayudas a la compra tienden a subir precios donde la oferta es rígida, según el Banco de España y el caso británico"
+    texto: "El programa propone ampliar la línea TU CASA «en caso de que se agoten los 10.000 millones» (67): préstamos públicos sin intereses de hasta el 20 % del valor de la primera vivienda, con un máximo de 50.000 euros (RDL 29/2026). El Banco de España (Informe Anual 2023) advierte de que, con una oferta rígida, las políticas de apoyo a la compra «suelen generar un aumento de los precios de compraventa». El programa británico Help to Buy, un préstamo público del 20 % del precio (40 % en Londres), subió los precios en Londres sin aumentar la construcción; cerca de la frontera con Gales, con oferta más flexible, aumentó la construcción sin efecto apreciable en los precios (Carozzi, Hilber y Yu, 2024). A diferencia de aquel, TU CASA limita para siempre el precio de reventa de las viviendas financiadas."
+    medidas: "medida 67"
+    fuentes:
+      - titulo: "Informe Anual 2023. Capítulo 4: El mercado de la vivienda en España: evolución reciente, riesgos y problemas de accesibilidad"
+        url: https://www.bde.es/f/webbe/SES/Secciones/Publicaciones/PublicacionesAnuales/InformesAnuales/23/Fich/InfAnual_2023_Cap4.pdf
+        medio: "Banco de España"
+        fecha: 2024-04-23
+        tipo: oficial
+      - titulo: "On the economic impacts of mortgage credit expansion policies: evidence from Help to Buy (Journal of Urban Economics, 139)"
+        url: https://cep.lse.ac.uk/_NEW/PUBLICATIONS/abstract.asp?index=10612
+        medio: "Journal of Urban Economics"
+        fecha: 2024-01-01
+        tipo: academica
+      - titulo: "Real Decreto-ley 29/2026, de 6 de octubre, por el que se adoptan medidas urgentes para la protección de la función social de la vivienda y la ampliación de la oferta de vivienda asequible"
+        url: https://www.boe.es/buscar/doc.php?id=BOE-A-2026-20823
+        medio: "Boletín Oficial del Estado"
+        fecha: 2026-10-07
+        tipo: oficial
+      - titulo: "La fuerza de seguir avanzando. Programa elecciones generales 29 noviembre 2026"
+        url: https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf
+        medio: "PSOE"
+        fecha: 2026-11-15
+        tipo: partido
+  - tipo: choque
+    tema: empleo-pensiones
+    titulo: "El programa blinda el IPC en la Constitución; la AIReF ve tensiones de sostenibilidad aunque se cumpla la regla de gasto"
+    texto: "El programa propone «blindar constitucionalmente el sistema público de pensiones y su revalorización conforme al IPC» (100 y 365). Esa revalorización la fija hoy la Ley 21/2021, que derogó el índice de revalorización de 2013. La AIReF (mayo de 2026) estima un gasto bruto en pensiones del 14,6 % del PIB de media en 2022-2050 y un gasto neto de los nuevos ingresos del 13 %, por debajo del umbral legal del 13,3 %, pero avisa de que ese cumplimiento no garantiza la sostenibilidad y de que, a políticas constantes, la deuda llegaría al 123 % del PIB en 2050. El BCE atribuye en parte a la reversión parcial de las reformas de 2011 y 2013 que el gasto previsto para España en 2070 sea 7 puntos mayor que en las proyecciones anteriores. Con la revalorización en la Constitución, una ley ordinaria ya no podría cambiar ese parámetro si hubiera que corregir el gasto."
+    medidas: "medidas 100 y 365"
+    fuentes:
+      - titulo: "Estudio de evaluación de la regla de gasto de pensiones (Estudio 1/2026)"
+        url: https://www.airef.es/wp-content/uploads/2026/05/Pensiones/AIReF.-Estudio-de-evaluacion-de-la-regla-de-gasto-de-pensiones.pdf
+        medio: "AIReF"
+        fecha: 2026-05-29
+        tipo: oficial
+      - titulo: "AIReF ratifica el cumplimiento de la regla de gasto de pensiones pero dice que no garantiza la sostenibilidad"
+        url: https://www.bolsamania.com/noticias/economia/economia--airef-ratifica-el-cumplimiento-de-la-regla-de-gasto-de-pensiones-pero-dice-que-no-garantiza-la-sostenibilidad--22574898.html
+        medio: "Europa Press (Bolsamanía)"
+        fecha: 2026-05-29
+        tipo: prensa
+      - titulo: "Ley 21/2021, de 28 de diciembre, de garantía del poder adquisitivo de las pensiones y de otras medidas de refuerzo de la sostenibilidad financiera y social del sistema público de pensiones"
+        url: https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21652
+        medio: "Boletín Oficial del Estado"
+        fecha: 2021-12-29
+        tipo: oficial
+      - titulo: "Ageing cost projections – new evidence from the 2024 Ageing Report (Economic Bulletin 5/2024)"
+        url: https://www.ecb.europa.eu/press/economic-bulletin/focus/2024/html/ecb.ebbox202405_08~5f9531042f.es.html
+        medio: "Banco Central Europeo"
+        tipo: oficial
+      - titulo: "La fuerza de seguir avanzando. Programa elecciones generales 29 noviembre 2026"
+        url: https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf
+        medio: "PSOE"
+        fecha: 2026-11-15
+        tipo: partido
+  - tipo: choque
+    tema: energia-medioambiente
+    titulo: "Cerrar las nucleares supone más gas y emisiones a corto plazo; a largo plazo depende de la inversión renovable"
+    texto: "El programa propone «mantener el calendario de cierre de las centrales nucleares hasta 2035» (240) y un 81 % de electricidad renovable en 2030 (234). La Agencia Internacional de la Energía (2019) concluye que alargar la vida de un reactor es considerablemente más barato que construir una central nueva y competitivo con la solar y la eólica nuevas. Una simulación del mercado ibérico (Fabra, 2026) estima que prorrogar Almaraz bajaría a corto plazo los precios mayoristas y las emisiones al desplazar gas, pero reduciría los incentivos a invertir en renovables y almacenamiento; si esa inversión cae lo bastante, acabaría elevando precios y emisiones. En Alemania, el cierre nuclear se cubrió sobre todo con carbón e importaciones, con un coste social de 3.000 a 8.000 millones de euros al año (Jarvis, Deschenes y Jha, 2022)."
+    medidas: "medidas 234 y 240"
+    fuentes:
+      - titulo: "Nuclear Power in a Clean Energy System"
+        url: https://www.iea.org/reports/nuclear-power-in-a-clean-energy-system
+        medio: "Agencia Internacional de la Energía"
+        fecha: 2019-05-27
+        tipo: oficial
+      - titulo: "The Price and Emissions Effects of Extending Nuclear Lifetimes: Evidence from Spain (CEPR Discussion Paper 21053)"
+        url: https://ideas.repec.org/p/cpr/ceprdp/21053.html
+        medio: "Centre for Economic Policy Research"
+        tipo: academica
+      - titulo: "The Private and External Costs of Germany's Nuclear Phase-Out (Journal of the European Economic Association, 20(3))"
+        url: https://econpapers.repec.org/RePEc:oup:jeurec:v:20:y:2022:i:3:p:1311-1346.
+        medio: "Journal of the European Economic Association"
+        tipo: academica
+      - titulo: "La fuerza de seguir avanzando. Programa elecciones generales 29 noviembre 2026"
+        url: https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf
+        medio: "PSOE"
+        fecha: 2026-11-15
+        tipo: partido
+  # ── Incoherencia ────────────────────────────────────────────────────────────
+  - tipo: incoherencia
+    tema: economia-impuestos
+    titulo: "La prestación por crianza se pagaría con impuestos a grandes patrimonios; el tributo estatal recaudó 19 millones en 2025"
+    texto: "El programa promete una prestación por crianza para «los 8 millones de niñas, niños y adolescentes», financiada con «la nueva tributación de los grandes patrimonios y rentas del capital» (192); según la medida 127, esa recaudación «contribuirá a financiar» la prestación, y la 126 promete «una senda decreciente» de deuda y déficit. El impuesto estatal de solidaridad de las grandes fortunas, complementario del de Patrimonio, recaudó 623 millones en 2023 y, tras reactivar varias comunidades el de Patrimonio, 37 millones en 2024 y casi 19 en 2025, según la Agencia Tributaria. El programa no fija la cuantía de la prestación ni estima lo que daría la subida del tipo sobre las rentas del capital (130). Como referencia, con los 7,96 millones de menores que cuenta el INE, cada 10 euros mensuales por menor cuestan unos 955 millones al año."
+    medidas: "medidas 126, 127, 130 y 192"
+    fuentes:
+      - titulo: "Informe anual de recaudación tributaria 2025. 6. Otros impuestos"
+        url: https://sede.agenciatributaria.gob.es/Sede/estadisticas/recaudacion-tributaria/informe-anual/ejercicio-2025/6-otros-impuestos.html
+        medio: "Agencia Tributaria"
+        fecha: 2026-04-23
+        tipo: oficial
+      - titulo: "Población residente por fecha, sexo y edad (tabla 56934)"
+        url: https://www.ine.es/jaxiT3/Tabla.htm?t=56934
+        medio: "INE"
+        fecha: 2025-01-01
+        tipo: oficial
+      - titulo: "El impuesto a las grandes fortunas recauda 623 millones, casi todo en Madrid"
+        url: https://www.idealista.com/news/node/808147
+        medio: "idealista/news"
+        fecha: 2023-09-20
+        tipo: prensa
+      - titulo: "La fuerza de seguir avanzando. Programa elecciones generales 29 noviembre 2026"
+        url: https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf
+        medio: "PSOE"
+        fecha: 2026-11-15
+        tipo: partido
+  - tipo: incoherencia
+    tema: economia-impuestos
+    titulo: "Promete mantener la inversión tras los fondos europeos y bajar el déficit, con el gasto ya por encima del límite"
+    texto: "El programa admite que la legislatura «será más exigente, puesto que terminan los fondos Next Generation EU», y promete a la vez «una senda decreciente» de deuda y déficit (126), un gasto neto «compatible con las reglas fiscales europeas» (125), mantener «el esfuerzo de inversión pública» tras los fondos (128) y movilizar cada año el 1 % del PIB para vivienda (38). El gasto financiado por la UE no computa en la regla europea de gasto neto; el que lo sustituya con recursos propios, sí. La AIReF prevé que, a políticas constantes, ese gasto crezca un 5,8 % en 2026, frente al 3,5 % pactado con Bruselas, y que hagan falta ajustes del 0,6 % del PIB en 2026 para no superar el límite acumulado. Su directora de Análisis Económico dijo en mayo de 2026 que queda «muy poco margen» para que el sector público supla esos fondos. No detalla qué ingresos o recortes harían compatibles esos compromisos."
+    medidas: "medidas 38, 125, 126 y 128"
+    fuentes:
+      - titulo: "Análisis económico y presupuestario en el Congreso. Newsletter 1.er semestre 2026"
+        url: https://www.congreso.es/docu/docum/NewsletterDAEP1semestre2026_amp.pdf
+        medio: "Congreso de los Diputados"
+        tipo: oficial
+      - titulo: "AIReF ve poco margen en los Presupuestos para sustituir el impulso de fondos europeos en el gasto productivo"
+        url: https://www.bolsamania.com/noticias/economia/economia--airef-ve-poco-margen-en-los-presupuestos-para-sustituir-el-impulso-de-fondos-europeos-en-el-gasto-productivo--22558787.html
+        medio: "Europa Press (Bolsamanía)"
+        fecha: 2026-05-27
+        tipo: prensa
+      - titulo: "La fuerza de seguir avanzando. Programa elecciones generales 29 noviembre 2026"
+        url: https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf
+        medio: "PSOE"
+        fecha: 2026-11-15
+        tipo: partido
+  - tipo: incoherencia
+    tema: economia-impuestos
+    titulo: "Sánchez presenta un bono deporte de 200 euros como parte del programa, que no lo incluye"
+    texto: "El 19 de noviembre, Pedro Sánchez anunció en un vídeo un «Bono Deporte» de 200 euros al año para jóvenes de 18 a 25 años y escribió: «No nos estamos tirando un triple, es nuestro programa electoral». El programa presentado el 15 de noviembre no contiene esa medida: su apartado de deporte (medidas 186 a 191) trata del Estatuto del Deportista, una estrategia contra el sedentarismo, la Ley de Mecenazgo y el deporte femenino, y el de juventud solo dice «promover el acceso a la cultura, el deporte y un ocio saludable» (380). Con los 4,31 millones de personas de 18 a 25 años que contaba el INE el 1 de enero de 2025, el bono costaría unos 860 millones de euros al año si lo pidieran todas; ni el anuncio ni el programa lo cuantifican ni dicen cómo se pagaría."
+    medidas: "medidas 186 a 191 y 380"
+    fuentes:
+      - titulo: "Sánchez anuncia una paga de 200 euros a los jóvenes para hacer deporte con el reclamo: «Todo el mundo votando»"
+        url: https://www.elespanol.com/espana/politica/20261119/sanchez-anuncia-paga-euros-jovenes-hacer-deporte-reclamo-mundo-votando/1003744464626_0.html
+        medio: "El Español"
+        fecha: 2026-11-19
+        tipo: prensa
+      - titulo: "Bono Deporte de 200€: nueva medida de Sánchez para el 29N"
+        url: https://www.elindependiente.com/espana/2026/11/19/bono-deporte-200-euros-medida-sanchez-29n/
+        medio: "El Independiente"
+        fecha: 2026-11-19
+        tipo: prensa
+      - titulo: "Población residente por fecha, sexo y edad (tabla 56934)"
+        url: https://www.ine.es/jaxiT3/Tabla.htm?t=56934
+        medio: "INE"
+        fecha: 2025-01-01
+        tipo: oficial
+      - titulo: "La fuerza de seguir avanzando. Programa elecciones generales 29 noviembre 2026"
+        url: https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf
+        medio: "PSOE"
+        fecha: 2026-11-15
+        tipo: partido

@@ -5,13 +5,15 @@ import { TIPO_FUENTE, fecha } from '../lib/datos';
 interface Props {
   fuentes: Fuente[];
   titulo?: string;
+  /** Sin encabezado ni separación, para listas dentro de un desplegable. */
+  compacta?: boolean;
 }
 
-const { fuentes, titulo = 'Fuentes' } = Astro.props;
+const { fuentes, titulo = 'Fuentes', compacta = false } = Astro.props;
 ---
 
-<section class="fuentes" aria-label={titulo}>
-  <h2>{titulo}</h2>
+<section class:list={['fuentes', { 'fuentes--compacta': compacta }]} aria-label={titulo}>
+  {!compacta && <h2>{titulo}</h2>}
   <ol>
     {
       fuentes.map((f) => (
@@ -35,6 +37,21 @@ const { fuentes, titulo = 'Fuentes' } = Astro.props;
     padding-top: 1.5rem;
     border-top: 2px solid var(--tinta);
     max-width: 68ch;
+  }
+
+  .fuentes--compacta {
+    margin-top: 0.5rem;
+    padding-top: 0;
+    border-top: 0;
+    font-size: 0.875rem;
+  }
+
+  .fuentes--compacta li {
+    margin-bottom: 0.5rem;
+  }
+
+  .fuentes--compacta .fuentes__meta {
+    font-size: 0.8125rem;
   }
 
   .fuentes h2 {

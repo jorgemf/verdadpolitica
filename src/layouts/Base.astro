@@ -27,10 +27,12 @@ const MENU = [
   { href: url('tema/vivienda/'), texto: 'Por tema', actual: Astro.url.pathname.includes('/tema/') },
   { href: url('metodologia/'), texto: 'Metodología', actual: Astro.url.pathname.includes('/metodologia') },
   { href: url('colabora/'), texto: 'Colabora', actual: Astro.url.pathname.includes('/colabora') },
-  // En escritorio no cabe en la fila; allí se enlaza desde la barra bajo la cabecera.
+  // En escritorio no caben en la fila; allí se enlazan desde la barra bajo la cabecera.
+  { href: url('analisis/'), texto: 'Análisis de los programas', actual: Astro.url.pathname.includes('/analisis'), soloMovil: true },
   { href: url('otras-webs/'), texto: 'Otras webs', actual: Astro.url.pathname.includes('/otras-webs'), soloMovil: true },
 ];
 const enOtrasWebs = Astro.url.pathname.includes('/otras-webs');
+const enAnalisis = Astro.url.pathname.includes('/analisis');
 ---
 
 <!doctype html>
@@ -83,17 +85,26 @@ const enOtrasWebs = Astro.url.pathname.includes('/otras-webs');
       </div>
     </header>
     {
-      (lema || !enOtrasWebs) && (
+      (lema || !enOtrasWebs || !enAnalisis) && (
         <div class="envoltorio lema-barra">
           {lema && (
             <p class="lema-barra__lema">
               <span class="rotulador">Estás usando mal esta web si solo lees una ideología política.</span>
             </p>
           )}
-          {!enOtrasWebs && (
-            <a class="contrastar" href={url('otras-webs/')}>
-              <span class="contrastar__pregunta">¿Quieres contrastar?</span> Otras webs para comparar <span aria-hidden="true">→</span>
-            </a>
+          {(!enOtrasWebs || !enAnalisis) && (
+            <div class="lema-barra__acciones">
+              {!enAnalisis && (
+                <a class="contrastar" href={url('analisis/')}>
+                  Análisis de <span class="contrastar__ancho">los</span> programas <span aria-hidden="true">→</span>
+                </a>
+              )}
+              {!enOtrasWebs && (
+                <a class="contrastar" href={url('otras-webs/')}>
+                  <span class="contrastar__pregunta">¿Quieres contrastar?</span> Otras webs <span class="contrastar__ancho">para comparar</span> <span aria-hidden="true">→</span>
+                </a>
+              )}
+            </div>
           )}
         </div>
       )
@@ -116,6 +127,7 @@ const enOtrasWebs = Astro.url.pathname.includes('/otras-webs');
           <p><a href={url('colabora/')}>Cómo colaborar</a></p>
           <p><a href={url('metodologia/')}>Cómo elaboramos las fichas</a></p>
           <p><a href={url('quien-soy/')}>Quién hay detrás</a></p>
+          <p><a href={url('analisis/')}>Análisis de los programas</a></p>
           <p><a href={url('otras-webs/')}>Otras webs para comparar</a></p>
           <p><a href={REPO}>Código fuente en GitHub</a></p>
           <p><a href={`${REPO}/issues/new/choose`}>Avisar de un error</a></p>

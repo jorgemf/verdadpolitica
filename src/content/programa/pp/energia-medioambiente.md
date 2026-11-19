@@ -52,7 +52,7 @@ fuentes:
     fecha: 2024-12-09
     tipo: oficial
   - titulo: "Mi contrato con España"
-    url: https://www.pp.es/wp-content/uploads/2026/10/CONTRATO-CON-ESPANA-.pdf
+    url: https://web.archive.org/web/20261102212611/https://www.pp.es/wp-content/uploads/2026/10/CONTRATO-CON-ESPANA-.pdf
     medio: Partido Popular
     fecha: 2026-10-19
     tipo: partido

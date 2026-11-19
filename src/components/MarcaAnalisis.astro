@@ -1,0 +1,51 @@
+---
+// Símbolo de cada tipo de punto del análisis de los programas. Como las marcas
+// de las categorías, van en tinta y sin color.
+import type { TipoAnalisis } from '../lib/datos';
+
+interface Props {
+  tipo: TipoAnalisis;
+  tamano?: number;
+}
+
+const { tipo, tamano = 20 } = Astro.props;
+---
+
+<svg
+  class="marca-analisis"
+  width={tamano}
+  height={tamano}
+  viewBox="0 0 24 24"
+  fill="none"
+  stroke="currentColor"
+  stroke-width="2.2"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+  aria-hidden="true"
+>
+  {
+    tipo === 'respaldo' && (
+      <>
+        <circle cx="12" cy="12" r="8.5" />
+        <path d="M8 12.3l2.8 2.8L16.2 9.5" />
+      </>
+    )
+  }
+  {
+    tipo === 'choque' && (
+      <>
+        <path d="M3 12h11M10 8l4 4-4 4" />
+        <path d="M19.5 4.5v15" />
+      </>
+    )
+  }
+  {tipo === 'incoherencia' && <path d="M5 9h14M5 15h14M15.5 4.5l-7 15" />}
+</svg>
+
+<style>
+  .marca-analisis {
+    flex: none;
+    display: inline-block;
+    vertical-align: -0.2em;
+  }
+</style>
