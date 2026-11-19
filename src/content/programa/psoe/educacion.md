@@ -40,6 +40,16 @@ fuentes:
     medio: PSOE
     fecha: 2026-11-15
     tipo: partido
+  - titulo: "BOCG Congreso, serie B, núm. 243-1: Proposición de Ley de Conciliación y Corresponsabilidad Familiar del Grupo Popular (122/000203)"
+    url: https://www.congreso.es/public_oficiales/L15/CONG/BOCG/B/BOCG-15-B-243-1.PDF
+    medio: Boletín Oficial de las Cortes Generales
+    fecha: 2025-06-20
+    tipo: oficial
+  - titulo: "Diario de Sesiones del Congreso, Pleno y Diputación Permanente, núm. 142 (14 de octubre de 2025)"
+    url: https://www.congreso.es/public_oficiales/L15/CONG/DS/PL/DSCD-15-PL-142.PDF
+    medio: Congreso de los Diputados
+    fecha: 2025-10-14
+    tipo: oficial
 ---
 
 El programa del PSOE para el 29-N, «La fuerza de seguir avanzando» (15 de noviembre de 2026), aspira a «una educación pública y gratuita de los 0 a los 18 años» [7]. Propone «universalizar la educación de 0 a 3 años», con más escuelas infantiles públicas y «reduciendo el número de alumnos por aula» (compromiso 157); ampliar las becas y «limitar la capacidad máxima por aula», con doble cómputo del alumnado con necesidades educativas especiales (158); un Estatuto del Docente (159); reducir el abandono escolar temprano «por debajo del 10% antes de 2030» (160); un profesional de orientación por cada 250 estudiantes (161), y comedor escolar gratuito para el alumnado en situación de pobreza o exclusión social (168). En la universidad, «la gratuidad de la matrícula del primer curso de grado» en las públicas (179); ampliar las plazas de alojamiento más allá de las «2.000 nuevas plazas» aprobadas en 2026 (180); becas Erasmus de hasta 1.000 y 1.500 euros mensuales según la renta (178), y una Ley de Equidad en el Acceso a la Universidad Pública con financiación plurianual (181) [7].
@@ -53,4 +63,6 @@ En la legislatura:
 
 La gestión de los centros educativos es autonómica. Las fuentes consultadas no permiten valorar el avance de la escolarización de 0 a 3 años en la legislatura. La LOMLOE, que derogó la LOMCE, y la Ley Orgánica 3/2022 de Formación Profesional se aprobaron en la XIV legislatura y tienen ficha propia.
 
-Coherencia coherente. El Ministerio de Educación, en manos del PSOE, presentó el proyecto de ratios y jornada lectiva, que va en la línea de limitar el alumnado por aula que propone el programa; que caducara por la disolución no rebaja la coherencia.
+El 14 de octubre de 2025 el Pleno rechazó, por 171 votos a favor y 175 en contra, tomar en consideración la ley de conciliación del PP, que ordenaba al Gobierno aprobar en seis meses un plan para extender la gratuidad del primer ciclo de infantil, cofinanciado al 50 % entre el Estado y las comunidades y «adaptándose a los modelos implantados en cada territorio» [8][9]. El Grupo Socialista se opuso en el debate: criticó que la ley eliminara las seis semanas obligatorias de permiso tras el parto y defendió los «más de 670 millones» invertidos por el Gobierno en la etapa [9]. No es un voto contra la medida que propone el programa, universalizar el 0-3 ampliando la oferta de escuelas infantiles públicas: la ley del PP no la recogía, sino un plan de gratuidad con el modelo de cada comunidad, dentro de un texto más amplio sobre permisos, bonificaciones y fiscalidad.
+
+Es coherente con lo que hizo en la legislatura. El Ministerio de Educación, en manos del PSOE, presentó el proyecto de ratios y jornada lectiva, que va en la línea de limitar el alumnado por aula que propone el programa; que caducara por la disolución no rebaja la coherencia.

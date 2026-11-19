@@ -51,6 +51,16 @@ fuentes:
     medio: Podemos
     fecha: 2026-11-17
     tipo: partido
+  - titulo: "BOCG Congreso, serie B, núm. 243-1: Proposición de Ley de Conciliación y Corresponsabilidad Familiar del Grupo Popular (122/000203)"
+    url: https://www.congreso.es/public_oficiales/L15/CONG/BOCG/B/BOCG-15-B-243-1.PDF
+    medio: Boletín Oficial de las Cortes Generales
+    fecha: 2025-06-20
+    tipo: oficial
+  - titulo: "Diario de Sesiones del Congreso, Pleno y Diputación Permanente, núm. 142 (14 de octubre de 2025)"
+    url: https://www.congreso.es/public_oficiales/L15/CONG/DS/PL/DSCD-15-PL-142.PDF
+    medio: Congreso de los Diputados
+    fecha: 2025-10-14
+    tipo: oficial
 ---
 
 El programa de Podemos para el 29-N, «Así de básico: Paz, casa y trabajo» (17 de noviembre de 2026), propone una Ley de Calidad de la Educación con estándares mínimos para los centros públicos y concertados (medida 278) y avanzar «hacia una única red educativa de gestión pública directa», con una «moratoria indefinida» de nuevos conciertos y la reabsorción «progresiva y voluntaria» de los concertados en la red pública (medida 279) [9]. Fija ratios máximas de 3 bebés menores de un año por profesional en el primer ciclo de infantil, 13 alumnos en el segundo, 15 en Primaria, 20 en Secundaria y 23 en Bachillerato (medida 280); un fondo estatal solo para la enseñanza pública de gestión directa, una inversión pública del 7 % del PIB y todas las plazas públicas de 0 a 3 años necesarias en cuatro años (medida 281); subir un 30 % los salarios del personal de los centros públicos (medida 282); un plan estatal para que «todo el alumnado» acceda gratis a libros y material escolar «con independencia de la renta familiar», y la gratuidad progresiva de comedores, transporte y extraescolares (medida 286); suprimir la enseñanza de «cualquier religión en cualquier colegio» (medida 288), y la gratuidad de las tasas universitarias públicas, con becas-salario de hasta 800 euros mensuales (medida 294) (pp. 78-85) [9].
@@ -60,5 +70,7 @@ Su web de campaña solo pedía «sanidad y educación pública con recursos sufi
 En la legislatura, la moción sobre la etapa de 0 a 3 años, votada en los términos de una enmienda transaccional, se rechazó el 20 de mayo de 2026 por 169 votos a favor (entre ellos los de PSOE, Sumar y Podemos), 170 en contra (PP y Vox, más un diputado del Grupo Mixto) y 8 abstenciones, siete de ellas de Junts [3]. La gratuidad del material escolar se rechazó el 16 de septiembre de 2026 por 18 votos a favor, 171 en contra (PP y Vox, entre otros) y 157 abstenciones, entre ellas las de PSOE, Sumar y Junts [5].
 
 En junio de 2024 registró además una ley orgánica que obligaba al Gobierno a regular, con las comunidades autónomas, un servicio de comedor escolar universal en la red pública, gratuito y que se mantuviera en vacaciones; quedó pendiente de debate desde octubre de 2024 y caducó con la disolución [6].
+
+El 14 de octubre de 2025 el Pleno rechazó, por 171 votos a favor y 175 en contra, tomar en consideración la ley de conciliación del PP, que ordenaba al Gobierno aprobar en seis meses un plan para extender la gratuidad del primer ciclo de infantil, cofinanciado al 50 % entre el Estado y las comunidades y «adaptándose a los modelos implantados en cada territorio» [10][11]. Podemos anunció su voto en contra: alegó que la ley sustituía «el derecho universal a cuidar y a ser cuidado por un sistema de deducciones y bonificaciones» y que no tenía presupuesto [11]. No es un voto contra la medida que propone el programa, una cobertura universal, gratuita y de gestión pública directa: la ley del PP no la recogía, sino un plan de gratuidad con el modelo de cada comunidad, dentro de un texto más amplio sobre permisos, bonificaciones y fiscalidad.
 
 La coherencia mide las actuaciones, no el resultado: sus iniciativas van en la línea de su propuesta, y el programa mantiene su contenido [9].

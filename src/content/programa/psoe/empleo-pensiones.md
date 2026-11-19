@@ -76,6 +76,16 @@ fuentes:
     medio: Nueva Tribuna
     fecha: 2026-11-18
     tipo: prensa
+  - titulo: "Trabajo quiere garantizar por ley la subida del SMI al 60% del salario medio y abre un nuevo frente con CEOE"
+    url: https://www.elnacional.cat/oneconomia/es/economia/trabajo-quiere-garantizar-por-ley-subida-smi-60-salario-medio-abre-nuevo-frente-con-ceoe_1411780_102.html
+    medio: ON Economia (El Nacional)
+    fecha: 2025-05-12
+    tipo: prensa
+  - titulo: "Blindar el SMI para transponer una directiva pendiente desde 2024: la propuesta en trámite de Trabajo"
+    url: https://www.newtral.es/blindar-smi-directiva-trabajo/20260306/
+    medio: Newtral
+    fecha: 2026-03-06
+    tipo: verificacion
 ---
 
 El programa del PSOE para el 29-N, «La fuerza de seguir avanzando» (15 de noviembre de 2026), propone [12]:
@@ -97,5 +107,6 @@ En la legislatura:
 - La reducción de la jornada a 37,5 horas, recogida en el acuerdo con Sumar, cayó en el Congreso por 178 votos contra 170 con las enmiendas de PP, Vox y Junts [3].
 - La promesa de 2023 de blindar en la Constitución el poder adquisitivo de las pensiones no llegó a presentarse.
 - En marzo de 2025 el Gobierno vetó una enmienda del BNG que fijaba el SMI en el 60 % del salario medio en el Estatuto de los Trabajadores. Entre sus argumentos estaba que fijar esa cuantía por ley restaba papel a los agentes sociales [6].
+- Al mes siguiente, en abril de 2025, el Ministerio de Trabajo, dirigido por Yolanda Díaz (Sumar), presentó a sindicatos y patronales un borrador para fijar en el Estatuto un SMI de al menos el 60 % del salario medio neto, que CEOE y ATA rechazaron; las fuentes consultadas no recogen que llegara al Consejo de Ministros ni al Congreso [15][16].
 
 Coherencia parcial. Las subidas del SMI, la ampliación del permiso por nacimiento y el proyecto de reducción de jornada, que perdió la votación en el Congreso, van en la línea de lo que propone. La rebaja una actuación del Gobierno: en marzo de 2025 vetó la enmienda que fijaba por ley el SMI en el 60 % del salario medio, alegando que restaba papel a los agentes sociales, y el programa propone ahora «blindar por ley» ese umbral [6][12] (ver ficha propia). Que no presentara la reforma constitucional de las pensiones que prometía en 2023 y vuelve a proponer es una omisión, no una actuación contraria, y tiene también ficha propia.

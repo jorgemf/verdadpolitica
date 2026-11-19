@@ -65,19 +65,30 @@ fuentes:
     medio: PSOE
     fecha: 2026-11-15
     tipo: partido
+  - titulo: "Orden TED/864/2026, de 12 de agosto, por la que se concede la renovación de la autorización de explotación de la Central Nuclear Almaraz, Unidades I y II"
+    url: https://www.boe.es/boe/dias/2026/08/14/pdfs/BOE-A-2026-17756.pdf
+    medio: BOE
+    fecha: 2026-08-14
+    tipo: oficial
+  - titulo: "Plan Nacional Integrado de Energía y Clima. Actualización 2023-2030"
+    url: https://www.energias-renovables.com/panorama/asi-es-el-plan-nacional-integrado-de-20241012
+    medio: Energías Renovables
+    fecha: 2024-10-12
+    tipo: prensa
 ---
 
 El programa del PSOE para el 29-N, «La fuerza de seguir avanzando» (15 de noviembre de 2026), propone impulsar las renovables «para alcanzar el 81% de generación eléctrica en 2030», priorizando las Zonas de Aceleración Renovable (compromiso 234); un plan nacional de bombeo hidroeléctrico y «una hoja de ruta para el abandono progresivo de los combustibles fósiles» (235); «mantener el calendario de cierre de las centrales nucleares hasta 2035», con proyectos de transición justa en las comarcas afectadas (240), y desplegar el Plan Social para el Clima (242). Presenta su propuesta de Pacto de Estado frente a la Emergencia Climática como «hoja de ruta» de adaptación (pág. 68), con un Centro Estatal de Predicción y Seguimiento de Fenómenos Extremos, una Agencia Estatal de Protección Civil y Emergencias y una Ley de Adaptación al Cambio Climático (251 a 253). Para el ferrocarril, tras «las tragedias ferroviarias ocurridas en 2026», promete un Pacto de Estado por la Seguridad Ferroviaria (22), unos 19.000 millones para la conservación y el mantenimiento de la red en 2026-2030 (23) y poner «en servicio el sistema ERTMS de nivel 2 en la línea Madrid-Sevilla», con un calendario público para el resto de la red (26) [12].
 
 Coincide con el objetivo de renovables del Plan Nacional Integrado de Energía y Clima 2023-2030, actualizado por el Gobierno en septiembre de 2024, que fija además un recorte de emisiones del 32 % respecto a 1990 [3]; el programa no cita esa cifra. Retoma el pacto de Estado frente a la emergencia climática que Sánchez propuso el 17 de agosto de 2025, durante la ola de incendios [5]. El programa de 2023 defendía el desmantelamiento «ordenado y progresivo» de las centrales nucleares, zonas idóneas para renovables, autoconsumo, almacenamiento e hidrógeno verde [4]; el de 2026 fija 2035 como horizonte del cierre [12].
 
-En la legislatura, el Ministerio para la Transición Ecológica renovó en agosto de 2026 la autorización de los dos reactores de Almaraz hasta el 8 de junio de 2030, cuando debían cerrar en 2027 y 2028 [1]:
+En la legislatura, el Ministerio para la Transición Ecológica renovó por la Orden TED/864/2026, de 12 de agosto, la autorización de los dos reactores de Almaraz hasta el 8 de junio de 2030; la anterior vencía el 1 de noviembre de 2027 para la unidad I y el 31 de octubre de 2028 para la unidad II [1][13]:
+- El Plan Nacional Integrado de Energía y Clima que el Gobierno actualizó en septiembre de 2024 confirmaba el calendario de cierre acordado, que arrancaba en 2027 con Almaraz [14].
 - Lo pidieron Iberdrola, Endesa y Naturgy, y el Consejo de Seguridad Nuclear informó a favor.
-- El Gobierno sostiene que se cumplieron sus condiciones de seguridad, suministro y coste cero para el consumidor, y que el cierre del resto del parque sigue fijado en 2035.
+- El Gobierno sostiene que se cumplieron sus condiciones de seguridad, suministro y coste cero para el consumidor, y la orden afirma que no se altera «el resto del calendario ni la fecha de cese definitivo del conjunto del parque nuclear a 2035» [13].
 - El PP lo considera una rectificación insuficiente.
 
 El abono único de transporte estatal, de 60 euros al mes (30 para menores de 26), funciona desde enero de 2026 para Cercanías, Media Distancia y autobuses estatales [2]. El gravamen extraordinario a las energéticas decayó en enero de 2025.
 
 En el ferrocarril, la línea de alta velocidad Madrid-Sevilla sufrió dos accidentes en 2026: el de Adamuz (Córdoba), el 18 de enero, con 46 muertos [8], y el de Urda (Toledo), el 28 de octubre, en el que un AVE alcanzó a un tren de Iryo detenido tras una avería del sistema de señalización LZB y murieron 69 personas, según la autoridad de investigación técnica (AITAT), que mantiene abiertas todas las hipótesis [6]. Adif adjudicó en septiembre de 2021 la sustitución del LZB por el sistema ERTMS en esa línea con un plazo de 52 meses, que vencía el 16 de enero de 2026; a 30 de octubre de 2026 seguía «en proceso» [7]. El ministro de Transportes, Óscar Puente, dimitió el 3 de noviembre («es una cuestión de dignidad política») [10] y el BOE publicó su cese al día siguiente [9]; el vicepresidente primero, Carlos Cuerpo, asumió el despacho ordinario del ministerio [11].
 
-Coherencia parcial. La mayoría de sus actuaciones van en la línea del plan que defiende, pero la prórroga de Almaraz, una decisión de su propio Gobierno, se aparta del calendario de cierre que fijaba y que el programa dice mantener. El programa promete poner en servicio el ERTMS en la línea Madrid-Sevilla, donde el plazo del contrato de Adif para instalarlo vencía en enero de 2026 [7][12].
+Coherencia parcial. La mayoría de sus actuaciones van en la línea del plan que defiende. La rebaja una decisión de su propio Gobierno: la prórroga de Almaraz retrasó unos 31 y 19 meses el cierre de sus dos reactores respecto al calendario que el mismo Gobierno había confirmado en 2024 [13][14]. El programa, posterior a la prórroga, promete «mantener el calendario de cierre» hasta 2035, la fecha final que la orden no cambió [12][13]. El programa promete poner en servicio el ERTMS en la línea Madrid-Sevilla, donde el plazo del contrato de Adif para instalarlo vencía en enero de 2026 [7][12].

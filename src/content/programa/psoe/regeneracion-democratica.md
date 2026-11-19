@@ -45,6 +45,16 @@ fuentes:
     medio: PSOE
     fecha: 2026-11-15
     tipo: partido
+  - titulo: "Diario de Sesiones del Congreso, Pleno y Diputación Permanente, núm. 130 (9 de julio de 2025)"
+    url: https://www.congreso.es/public_oficiales/L15/CONG/DS/PL/DSCD-15-PL-130.PDF
+    medio: Congreso de los Diputados
+    fecha: 2025-07-09
+    tipo: oficial
+  - titulo: "Diario de Sesiones del Congreso, Pleno y Diputación Permanente, núm. 131 (9 de julio de 2025)"
+    url: https://www.congreso.es/public_oficiales/L15/CONG/DS/PL/DSCD-15-PL-131.PDF
+    medio: Congreso de los Diputados
+    fecha: 2025-07-09
+    tipo: oficial
 ---
 
 El programa del PSOE para el 29-N, «La fuerza de seguir avanzando» (15 de noviembre de 2026), quiere completar el Plan Estatal de Lucha contra la Corrupción aprobado en 2025 (pág. 103) [8]. Propone «una Ley Orgánica de Integridad Pública y una Estrategia Nacional Anticorrupción», con una Agencia Independiente de Integridad Pública que refuerce la protección de quienes denuncian (compromiso 445); una ley de grupos de interés «con registro obligatorio, publicidad de sus reuniones y huella normativa» (446); más control de la contratación, las subvenciones y la financiación política (448), y «suprimir los aforamientos de los cargos públicos para los delitos ajenos al ejercicio de su cargo» (373). En justicia, reforzar la autonomía del Ministerio Fiscal «con un mandato de cinco años para la Fiscalía General del Estado desvinculado de la legislatura y la prohibición de instrucciones del Gobierno sobre casos concretos», y una nueva Ley de Enjuiciamiento Criminal que «atribuya la investigación a la Fiscalía bajo supervisión judicial» (436); además, pruebas anonimizadas de acceso a las carreras judicial y fiscal y la prohibición de la financiación privada de sus asociaciones (435). También crear un «escaño ciudadano» sin voto en el Congreso y el Senado y rebajar la edad de voto a los 16 años (371 y 372) [8].
@@ -53,11 +63,11 @@ Retoma dos proyectos de su Gobierno que caducaron con la disolución, como todos
 - La Ley Orgánica de Integridad Pública. Su anteproyecto se aprobó en febrero de 2026 y creaba una Agencia Independiente de Integridad Pública [1]. El Consejo de Ministros la aprobó en segunda vuelta y la remitió al Congreso el 28 de julio de 2026 [6].
 - La nueva Ley de Enjuiciamiento Criminal, aprobada como proyecto en octubre de 2025. Traslada la instrucción a los fiscales y restringe la acusación popular [5]. El programa no menciona la acusación popular [8].
 
-Recupera, además, la supresión de los aforamientos que prometía en 2023. El Gobierno no presentó ninguna iniciativa para suprimirlos en la legislatura, y el plan anticorrupción de julio de 2025 no incluyó la medida; según fuentes del Gobierno citadas por El Español, eliminarlos dejaría a los cargos públicos expuestos a las querellas de las acusaciones populares [3][8]. En la legislatura, PSOE y PP pactaron en junio de 2024 la renovación del Consejo General del Poder Judicial, cuyo mandato llevaba más de cinco años caducado [2].
+Recupera, además, la supresión de los aforamientos que prometía en 2023. El Gobierno no presentó ninguna iniciativa para suprimirlos en la legislatura, y el plan anticorrupción de julio de 2025 no incluyó la medida; el único motivo publicado procede de fuentes del Gobierno sin identificar, citadas por El Español: eliminarlos dejaría a los cargos públicos expuestos a las querellas de las acusaciones populares [3][8]. Los Diarios de Sesiones de los dos plenos del 9 de julio de 2025, en los que Sánchez presentó el plan, no recogen ninguna mención a los aforamientos, y no consta una renuncia pública de un ministro o portavoz identificado [9][10]. En la legislatura, PSOE y PP pactaron en junio de 2024 la renovación del Consejo General del Poder Judicial, cuyo mandato llevaba más de cinco años caducado [2].
 
 Las causas judiciales que afectan a antiguos y actuales cargos del partido se tratan en fichas propias y no determinan esta valoración:
 - El Supremo condenó a 24 años de prisión al exministro y exsecretario de Organización José Luis Ábalos [4].
 - Su sucesor, Santos Cerdán, está investigado por presuntas comisiones.
 - La gerente del PSOE está investigada por presunta falsedad en el caso Leire Díez.
 
-Coherencia coherente. Sus actuaciones van en la línea de lo que propone: el Gobierno llevó al Congreso las leyes de Integridad Pública y de Enjuiciamiento Criminal que el programa retoma [5][6], y no consta ningún voto ni decisión suya contraria a esas propuestas. La supresión de los aforamientos, que el programa vuelve a incluir, no se presentó en la legislatura y quedó fuera del plan anticorrupción de 2025 [3]: es una promesa sin intento, con ficha propia, no una actuación contraria.
+Es coherente con lo que hizo en la legislatura. Sus actuaciones van en la línea de lo que propone: el Gobierno llevó al Congreso las leyes de Integridad Pública y de Enjuiciamiento Criminal que el programa retoma [5][6], y no consta ningún voto ni decisión suya contraria a esas propuestas. La supresión de los aforamientos, que el programa vuelve a incluir, no se presentó en la legislatura y quedó fuera del plan anticorrupción de 2025 [3]. Es una promesa sin intento, con ficha propia, y no una actuación contraria: no consta una renuncia pública de un ministro o portavoz identificado, solo la versión de fuentes anónimas [3][9][10].

@@ -67,4 +67,4 @@ En la legislatura:
 - El Congreso convalidó en abril de 2025 el decreto-ley para el reparto de menores migrantes no acompañados entre comunidades, con el voto en contra de PP y Vox [7].
 - La ley para delegar competencias de inmigración a Cataluña, pactada con Junts, no pasó la toma en consideración en septiembre de 2025. Votaron en contra PP, Vox, UPN, Podemos y dos diputados de Sumar [3].
 
-Coherencia coherente. Sus actuaciones (la regularización, el nuevo reglamento de extranjería y el reparto de menores) van en la línea de la migración legal y la protección de los menores que propone el programa, aunque la regularización no figuraba en el programa de 2023 ni la menciona el de 2026.
+Es coherente con lo que hizo en la legislatura. Sus actuaciones (la regularización, el nuevo reglamento de extranjería y el reparto de menores) van en la línea de la migración legal y la protección de los menores que propone el programa, aunque la regularización no figuraba en el programa de 2023 ni la menciona el de 2026.

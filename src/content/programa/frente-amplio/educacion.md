@@ -34,6 +34,16 @@ fuentes:
     medio: Frente Amplio
     fecha: 2026-11-16
     tipo: partido
+  - titulo: "BOCG Congreso, serie B, núm. 243-1: Proposición de Ley de Conciliación y Corresponsabilidad Familiar del Grupo Popular (122/000203)"
+    url: https://www.congreso.es/public_oficiales/L15/CONG/BOCG/B/BOCG-15-B-243-1.PDF
+    medio: Boletín Oficial de las Cortes Generales
+    fecha: 2025-06-20
+    tipo: oficial
+  - titulo: "Diario de Sesiones del Congreso, Pleno y Diputación Permanente, núm. 142 (14 de octubre de 2025)"
+    url: https://www.congreso.es/public_oficiales/L15/CONG/DS/PL/DSCD-15-PL-142.PDF
+    medio: Congreso de los Diputados
+    fecha: 2025-10-14
+    tipo: oficial
 ---
 
 El programa de Frente Amplio para el 29-N, «Un programa como una casa» (16 de noviembre de 2026), resume su propuesta en «una educación pública blindada con el 7 % del PIB, ratios reducidas y gratuidad desde los 0 años hasta la universidad» [6]. En el apartado 2.5 propone una Ley de Financiación Educativa con un mínimo de inversión que «deberá llegar al 7 % del PIB en 2030»; crear «de forma prioritaria plazas públicas en todas las etapas —incluyendo de 0 a 3 años—» y una hoja de ruta para que «el 100 % de los fondos públicos vayan destinados a la educación pública», prohibiendo mientras tanto las cuotas obligatorias en los centros concertados; fijar por ley ratios máximas por aula (de 4 a 8 niños en la etapa de 0 a 3 años, 15 en Primaria y FP, 20 en Secundaria y 23 en Bachillerato); subir las becas postobligatorias hasta el 0,44 % del PIB y duplicar las de las etapas obligatorias para familias vulnerables; reforzar los programas de cooperación territorial para la «gratuidad en servicios de comedor, transporte escolar y material didáctico»; limitar por ley la carga lectiva docente a 18 horas en Secundaria y 23 en Infantil y Primaria, y garantizar «la inmersión lingüística en catalán como lengua vehicular en Cataluña». En la universidad, que las comunidades destinen al menos el 1 % de su PIB a las universidades públicas y bajar los precios «hacia la gratuidad» [6].
@@ -44,4 +54,6 @@ En la legislatura el Ministerio de Educación lo dirigió el PSOE. El Real Decre
 
 Búsqueda realizada el 20 de octubre de 2026 en las proposiciones de ley de la XV legislatura de los datos abiertos del Congreso: no consta ninguna del grupo Sumar sobre la educación de 0 a 3 años ni sobre la gratuidad de los comedores escolares [5]. No se revisaron proposiciones no de ley ni enmiendas.
 
-La coherencia mide las actuaciones y no el resultado. Las iniciativas documentadas van en la línea de la propuesta: la reducción de ratios por ley que recoge el programa es el objeto de la proposición que Sumar registró en 2025 [4] [6]. En el ciclo de 0 a 3 años no se ha documentado ninguna actuación específica de Sumar.
+El 14 de octubre de 2025 el Pleno rechazó, por 171 votos a favor y 175 en contra, tomar en consideración la ley de conciliación del PP, que ordenaba al Gobierno aprobar en seis meses un plan para extender la gratuidad del primer ciclo de infantil, cofinanciado al 50 % entre el Estado y las comunidades y «adaptándose a los modelos implantados en cada territorio» [7][8]. Sumar anunció su voto en contra: sostuvo que la ley devolvía a las mujeres el peso de los cuidados y defendió frente a ella la ley de familias del Ministerio de Derechos Sociales [8]. No es un voto contra la medida que propone el programa, plazas públicas gratuitas garantizadas: la ley del PP no la recogía, sino un plan de gratuidad con el modelo de cada comunidad, dentro de un texto más amplio sobre permisos, bonificaciones y fiscalidad.
+
+La coherencia mide las actuaciones y no el resultado. Las iniciativas documentadas van en la línea de la propuesta: la reducción de ratios por ley que recoge el programa es el objeto de la proposición que Sumar registró en 2025 [4] [6]. En el ciclo de 0 a 3 años no se ha documentado ninguna iniciativa propia de Sumar; su única actuación documentada es el voto contra la ley de conciliación del PP [8].

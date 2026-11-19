@@ -58,4 +58,4 @@ En la legislatura:
 
 La gestión de hospitales y centros de salud es autonómica, y el ministerio del ramo correspondió a Sumar, no al PSOE.
 
-Coherencia coherente. Sus actuaciones van en la línea de lo que propone: se creó la Agencia Estatal de Salud Pública y el Gobierno presentó el proyecto de gestión pública, cuya caducidad no rebaja la nota. No consta ninguna actuación contraria a sus propuestas. Que el PSOE no llevara a las Cortes la ley de esperas máximas que prometió en 2023 es falta de iniciativa, no una actuación contraria a su programa (ver ficha propia); el programa de 2026 ya no la incluye.
+Es coherente con lo que hizo en la legislatura. Sus actuaciones van en la línea de lo que propone: se creó la Agencia Estatal de Salud Pública y el Gobierno presentó el proyecto de gestión pública, cuya caducidad no rebaja la nota. No consta ninguna actuación contraria a sus propuestas. Que el PSOE no llevara a las Cortes la ley de esperas máximas que prometió en 2023 es falta de iniciativa, no una actuación contraria a su programa (ver ficha propia); el programa de 2026 ya no la incluye.

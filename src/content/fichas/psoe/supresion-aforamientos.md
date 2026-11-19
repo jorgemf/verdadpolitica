@@ -5,10 +5,10 @@ titulo: Supresión de los aforamientos de los cargos públicos
 resumen: "El programa de 2023 prometía suprimir los aforamientos por delitos ajenos al cargo. En la legislatura no se presentó ninguna reforma constitucional para suprimir esos aforamientos y el plan anticorrupción de julio de 2025 dejó fuera la medida."
 tema: regeneracion-democratica
 promesa: "«Defenderemos la supresión de los aforamientos de los cargos públicos en los casos ajenos al ejercicio de la actividad propia de su cargo» (programa electoral de 2023)."
-motivo: "Fuentes del Gobierno alegaron en julio de 2025 que suprimir los aforamientos dejaría a los cargos públicos «a la intemperie» ante cualquier juez de instrucción que admita querellas de acusaciones populares, citando las causas contra la esposa y el hermano del presidente. La reforma, además, exige tres quintos de las Cortes, lo que obliga a contar con el PP."
+motivo: "No consta una explicación pública de un ministro o portavoz identificado. Fuentes del Gobierno sin identificar alegaron en julio de 2025, según El Español, que suprimir los aforamientos dejaría a los cargos públicos «a la intemperie» ante cualquier juez de instrucción que admita querellas de acusaciones populares, citando las causas contra la esposa y el hermano del presidente. La reforma, además, exige tres quintos de las Cortes, lo que obliga a contar con el PP."
 importancia: 2
 fecha: 2025-07-09
-actualizado: 2026-10-19
+actualizado: 2026-11-19
 fuentes:
   - titulo: "Programa electoral del PSOE. Elecciones generales 23 de julio de 2023"
     url: https://www.psoe.es/media-content/2023/07/PROGRAMA_ELECTORAL-GENERALES-2023.pdf
@@ -30,6 +30,21 @@ fuentes:
     medio: Congreso de los Diputados
     fecha: 2026-10-02
     tipo: oficial
+  - titulo: "Sánchez presenta en el Congreso su «potente» plan anticorrupción"
+    url: https://www.menorca.info/actualidad/nacional/2025/07/09/2425825/sanchez-presenta-congreso-potente-plan-anticorrupcion.html
+    medio: Menorca - Es Diari
+    fecha: 2025-07-09
+    tipo: prensa
+  - titulo: "Diario de Sesiones del Congreso, Pleno y Diputación Permanente, núm. 130 (9 de julio de 2025)"
+    url: https://www.congreso.es/public_oficiales/L15/CONG/DS/PL/DSCD-15-PL-130.PDF
+    medio: Congreso de los Diputados
+    fecha: 2025-07-09
+    tipo: oficial
+  - titulo: "Diario de Sesiones del Congreso, Pleno y Diputación Permanente, núm. 131 (9 de julio de 2025)"
+    url: https://www.congreso.es/public_oficiales/L15/CONG/DS/PL/DSCD-15-PL-131.PDF
+    medio: Congreso de los Diputados
+    fecha: 2025-07-09
+    tipo: oficial
 ---
 
 ## Qué se prometió
@@ -47,8 +62,8 @@ El plan anticorrupción que Sánchez presentó en el Congreso el 9 de julio de 2
 
 ## Por qué
 
-Según fuentes del Gobierno citadas por El Español, eliminar el aforamiento dejaría a los cargos políticos expuestos a cualquier juez que admita una querella, y citan las causas contra Begoña Gómez y David Sánchez, iniciadas por denuncias de asociaciones de ultraderecha [2]. Toda reforma constitucional exige además tres quintos del Congreso y del Senado.
+No consta una explicación pública de un ministro o portavoz identificado. El 9 de julio de 2025 la prensa publicó, citando al Gobierno sin dar nombres, que el Ejecutivo no preveía en principio poner fin a los aforamientos, como pedía Sumar [5]. Los Diarios de Sesiones de los dos plenos de ese día no recogen ninguna mención a los aforamientos [6][7]. Dos días después, según fuentes del Gobierno citadas por El Español, eliminar el aforamiento dejaría a los cargos políticos expuestos a cualquier juez que admita una querella, y citan las causas contra Begoña Gómez y David Sánchez, iniciadas por denuncias de asociaciones de ultraderecha [2]. Toda reforma constitucional exige además tres quintos del Congreso y del Senado.
 
 ## Lo que dicen las partes
 
-El Gobierno sostiene que el contexto de querellas que considera infundadas ha cambiado el análisis. Sus críticos lo interpretan como una renuncia para proteger a sus altos cargos [2]. La promesa ya figuraba en el acuerdo de coalición con Unidas Podemos de 2019, que tampoco se llevó a cabo [2], y se repitió en el programa de 2023 [1].
+Las fuentes del Gobierno citadas, que no se identifican, sostienen que el contexto de querellas que consideran infundadas ha cambiado el análisis. Sus críticos lo interpretan como una renuncia para proteger a sus altos cargos [2]. La promesa ya figuraba en el acuerdo de coalición con Unidas Podemos de 2019, que tampoco se llevó a cabo [2], y se repitió en el programa de 2023 [1].

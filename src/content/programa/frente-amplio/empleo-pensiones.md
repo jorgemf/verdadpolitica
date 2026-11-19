@@ -61,6 +61,21 @@ fuentes:
     medio: Nueva Tribuna
     fecha: 2026-11-18
     tipo: prensa
+  - titulo: "Trabajo quiere garantizar por ley la subida del SMI al 60% del salario medio y abre un nuevo frente con CEOE"
+    url: https://www.elnacional.cat/oneconomia/es/economia/trabajo-quiere-garantizar-por-ley-subida-smi-60-salario-medio-abre-nuevo-frente-con-ceoe_1411780_102.html
+    medio: ON Economia (El Nacional)
+    fecha: 2025-05-12
+    tipo: prensa
+  - titulo: "Blindar el SMI para transponer una directiva pendiente desde 2024: la propuesta en trámite de Trabajo"
+    url: https://www.newtral.es/blindar-smi-directiva-trabajo/20260306/
+    medio: Newtral
+    fecha: 2026-03-06
+    tipo: verificacion
+  - titulo: "Criterio del Gobierno sobre la enmienda núm. 30 (Mixto-BNG) al proyecto de ley 121/33"
+    url: https://www.congreso.es/enmiendas/comisiones/15_372_121_000033/e_0061522_n_000_disconformidad_Gobierno.pdf
+    medio: Congreso de los Diputados
+    fecha: 2025-03-18
+    tipo: oficial
 ---
 
 El programa de Frente Amplio para el 29-N, «Un programa como una casa» (16 de noviembre de 2026), propone la «implantación inmediata a 37,5 horas en 2026 y 35 horas en el sector público» y reducir después la jornada «de forma progresiva hasta las 32 horas semanales» sin reducción salarial; garantizar por ley que el salario mínimo mantenga «un suelo permanente equivalente al 60 % del salario medio neto»; un gravamen del 30 % sobre el aumento del beneficio de las empresas que facturen más de 50 millones si no suben los salarios al menos con la inflación; una indemnización por despido improcedente que «repare el daño real», y subir la prestación por desempleo del 70 % al 80 % de la base reguladora en los seis primeros meses (apartado 4.1) [9]. En pensiones, una reforma constitucional por el procedimiento ordinario para incluir entre los derechos de la Sección 2.ª la «revalorización automática con arreglo al IPC», que ninguna pensión sea inferior al salario mínimo y que no se privatice su gestión; devolver la edad de jubilación a los 65 años, permitir jubilarse a los 60 en oficios penosos como la construcción, la limpieza o la pesca, y eliminar los coeficientes reductores para quienes se jubilan anticipadamente de forma involuntaria tras más de 40 años cotizados (4.3) [9].
@@ -69,4 +84,4 @@ Recoge las 32 horas que propuso Emilio Delgado en la presentación de la candida
 
 El empleo es el área en la que Sumar gestionó más directamente, a través del Ministerio de Trabajo. El salario mínimo llegó a 1.221 euros mensuales en 14 pagas en 2026 [2]. Ya disueltas las Cortes, el Consejo de Ministros aprobó el 17 de noviembre de 2026, a propuesta del Ministerio de Trabajo, el real decreto que fija el SMI de 2027 en 1.286 euros al mes en 14 pagas (18.004 euros al año), un 5,3 % más, desde el 1 de enero de 2027 [10]. Ese día aprobó también el Real Decreto-ley 38/2026, que eleva la deducción del IRPF sobre los rendimientos del trabajo para que no tribute quien cobre el SMI de 2027, de forma decreciente hasta los 23.172 euros anuales; está pendiente de convalidación parlamentaria [10][11]. La reforma del subsidio de desempleo se aprobó en mayo de 2024, después de que el Congreso derogara en enero una primera versión que rebajaba del 125 % al 105 % la base de cotización para la jubilación de los parados mayores de 52 años; el texto definitivo recuperó el 125 % [4] [6] [7]. La principal medida pendiente fue la reducción de la jornada máxima a 37,5 horas: el proyecto de ley se devolvió al Gobierno el 10 de septiembre de 2025 con los votos de PP, Vox, Junts y UPN [3]. El Plan Anual Normativo de 2026 no lo volvió a incluir [5].
 
-La propuesta de las 32 horas es coherente con lo que Sumar defendió en la legislatura y con su programa de 2023. La reducción de jornada se frenó por falta de mayoría en el Congreso. La subida del salario mínimo que gestionó Trabajo va en la línea del suelo legal que propone ahora [2] [9]. La valoración de coherencia se refiere a la jornada y al salario mínimo: las fuentes de esta entrada no recogen actuaciones de la legislatura sobre las propuestas de pensiones del programa (jubilación a los 65 años y pensión mínima igual al salario mínimo).
+La propuesta de las 32 horas es coherente con lo que Sumar defendió en la legislatura y con su programa de 2023. La reducción de jornada se frenó por falta de mayoría en el Congreso. La subida del salario mínimo que gestionó Trabajo va en la línea del suelo legal que propone ahora [2] [9]. En abril de 2025, el ministerio, dirigido por Yolanda Díaz (Sumar), presentó a sindicatos y patronales un borrador para fijar en el Estatuto de los Trabajadores un SMI de al menos el 60 % del salario medio neto, que CEOE y ATA rechazaron; las fuentes consultadas no recogen que llegara al Consejo de Ministros ni al Congreso, y en marzo de 2026 Trabajo sometió a audiencia pública un real decreto con ese 60 % como objetivo [12] [13]. Un mes antes del borrador, el 18 de marzo de 2025, el Gobierno había vetado una enmienda del BNG que fijaba el SMI en el 60 % del salario medio en el Estatuto: el escrito es de la Secretaría de Estado de Relaciones con las Cortes y las fuentes no recogen la posición de Sumar [14]. La valoración de coherencia se refiere a la jornada y al salario mínimo: las fuentes de esta entrada no recogen actuaciones de la legislatura sobre las propuestas de pensiones del programa (jubilación a los 65 años y pensión mínima igual al salario mínimo).
