@@ -3,8 +3,8 @@ partido: pp
 tema: sanidad
 propuesta: "Un Pacto de Estado por la Sanidad Pública con un plan urgente contra las listas de espera, al menos 4.500 médicos más en atención primaria, más plazas de formación especializada, un ámbito de negociación propio para los médicos, guardias más cortas, un Plan de Salud Mental 2027-2037 y una ley de cuidados paliativos."
 balance: "Pactó y votó la ley de la ELA (2024). El Congreso rechazó en 2025 su ley contra las agresiones a sanitarios. Votó contra la primera ley de la Agencia de Salud Pública y se abstuvo en el Senado en la segunda. Apoyó a los médicos frente al Estatuto Marco. En Andalucía, la consejera de Salud dimitió por los cribados."
-coherencia: coherente
-actualizado: 2026-11-12
+coherencia: parcial
+actualizado: 2026-11-19
 fuentes:
   - titulo: "Mi contrato con España"
     url: https://www.pp.es/wp-content/uploads/2026/10/CONTRATO-CON-ESPANA-.pdf
@@ -73,4 +73,4 @@ En el conflicto por el Estatuto Marco, Feijóo se reunió con el comité de huel
 
 En Andalucía, gobernada por el PP, la consejera de Salud, Rocío Hernández, dimitió en octubre de 2025 por los fallos en el cribado del cáncer de mama, con unas 2.000 mujeres con resultados dudosos; Juanma Moreno pidió disculpas y anunció un plan para completar antes del 30 de noviembre las pruebas pendientes, con la contratación de 119 profesionales [10].
 
-La coherencia es alta. Sus iniciativas y votos en las Cortes van en la línea de lo que propone, y el ámbito de negociación propio para los médicos que recoge el programa coincide con lo que Feijóo ofreció al comité de huelga en febrero de 2026 [7]. El voto contra la primera versión de la Agencia de Salud Pública lo justificó por la falta de memoria económica, no por oposición al objetivo; el programa de 2026 propone fortalecerla. El plan de choque y el MIR extraordinario eran medidas de Gobierno. La crisis de los cribados es un episodio de gestión autonómica, no una actuación contraria a sus propuestas.
+La coherencia es parcial. La mayoría de sus iniciativas y votos en las Cortes van en la línea de lo que propone, y el ámbito de negociación propio para los médicos que recoge el programa coincide con lo que Feijóo ofreció al comité de huelga en febrero de 2026 [7]. La rebaja su voto de marzo de 2025 contra la ley que creaba la Agencia Estatal de Salud Pública, que decayó con los votos de PP, Vox y Junts: el programa de 2026 propone fortalecer esa agencia (medida 222) [6][11]. El PP alegó la falta de memoria económica y en el segundo intento, tras incorporar enmiendas en el Senado, se abstuvo [6]. El plan de choque y el MIR extraordinario eran medidas de Gobierno. La crisis de los cribados es un episodio de gestión autonómica, no una actuación contraria a sus propuestas.

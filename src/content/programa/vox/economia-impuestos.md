@@ -4,11 +4,11 @@ tema: economia-impuestos
 propuesta: "Rebajar el IRPF según el número de hijos, el IVA reducido y el general y el Impuesto de Sociedades, sin fijar tipos; cuota cero para autónomos por debajo del SMI; bajar los impuestos de la luz, gravar las remesas y compensarlo con menos deuda y gasto, una auditoría de las administraciones y menos subvenciones."
 balance: "El Gobierno vetó en 2024 su ley de IRPF de dos tipos. En 2026 votó en solitario contra los decretos que bajaban el IVA de la luz y el gas. Pactó en Extremadura y Andalucía rebajas del IRPF autonómico de 0,25 puntos al año y fue decisivo para los presupuestos valencianos de 2025."
 coherencia: parcial
-actualizado: 2026-11-13
+actualizado: 2026-11-19
 fuentes:
   - titulo: "Es sentido común. Programa electoral, 29 de noviembre de 2026"
-    url: https://theobjective.com/wp-content/uploads/2026/11/programa-elecct-vox.pdf
-    medio: Vox (copia publicada por The Objective)
+    url: https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf
+    medio: Vox
     fecha: 2026-11-12
     tipo: partido
   - titulo: "Vox presenta en el Congreso su plan fiscal: reducción del IVA, dos tipos de IRPF y deducciones por hijo"
@@ -75,4 +75,4 @@ La propuesta procede del programa «Es sentido común», que Vox presentó el 12
 
 En las comunidades, los pactos de 2026 recogen rebajas más limitadas: 0,25 puntos menos al año en los dos primeros tramos autonómicos del IRPF en Extremadura [6] y una rebaja similar para rentas inferiores a 60.000 euros en Andalucía [7]. En la Comunitat Valenciana, sus votos fueron decisivos para aprobar los presupuestos de 2025 [8].
 
-**Coherencia.** Su proposición de IRPF, su moción y sus pactos van en la línea que propone. Se marca como parcial porque votó contra dos decretos que bajaban los impuestos sobre la luz y el gas, una rebaja que su programa de 2026 también promete (medida 8) [1].
+**Coherencia.** Su proposición de IRPF, su moción y sus pactos van en la línea que propone. Es parcial porque votó contra dos decretos que bajaban los impuestos sobre la luz y el gas, una rebaja que su programa de 2026 también promete (medida 8) [1].

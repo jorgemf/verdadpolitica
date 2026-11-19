@@ -4,7 +4,7 @@ tema: economia-impuestos
 propuesta: "Bajar y deflactar el IRPF, que no tribute quien cobre el SMI y rebajarlo a los jóvenes de 18 a 35 años los cuatro primeros años en que lo paguen (100, 75, 50 y 25 %), IVA del 0 % en alimentos básicos mientras persista la crisis de inflación y de poder adquisitivo y sin IVA para autónomos que facturen menos de 85.000 €."
 balance: "Logró en 2024 que el Congreso pidiera deflactar el IRPF, algo que el Gobierno no aplicó, y en 2026 registró una rebaja fiscal de 3.200 millones. En las comunidades que gobierna ha bajado impuestos; la Comunitat Valenciana, por ejemplo, bonificó al 99 % sucesiones y donaciones en 2023."
 coherencia: coherente
-actualizado: 2026-11-12
+actualizado: 2026-11-19
 fuentes:
   - titulo: "Mi contrato con España"
     url: https://www.pp.es/wp-content/uploads/2026/10/CONTRATO-CON-ESPANA-.pdf
@@ -56,13 +56,23 @@ fuentes:
     medio: Partido Popular
     fecha: 2026-11-10
     tipo: partido
+  - titulo: "Referencia del Consejo de Ministros. 17 de noviembre de 2026"
+    url: https://www.lamoncloa.gob.es/consejodeministros/referencias/Paginas/2026/20261117-referencia-rueda-de-consejo-ministros.aspx
+    medio: La Moncloa
+    fecha: 2026-11-17
+    tipo: oficial
+  - titulo: "El Consejo de Ministros y el BOE: decretos-leyes 38 y 39/2026, cambios fiscales, financiación autonómica y nuevos derechos laborales"
+    url: https://www.nuevatribuna.es/actualidad/consejo-ministros-boe-decretos-leyes-38-39-2026-cambios-fiscales-financiacion-autonomica-nuevos-derechos-laborales/20261118202006256534.html
+    medio: Nueva Tribuna
+    fecha: 2026-11-18
+    tipo: prensa
 ---
 
 El programa del PP para el 29-N, «Reconstrucción Nacional» (10 de noviembre de 2026), dedica un capítulo a que «los españoles pagarán menos impuestos» [10]. Propone elevar los mínimos personales y familiares, bajar el IRPF a las rentas medias y bajas y que no lo pague quien cobre el salario mínimo, con un umbral que suba por ley con el SMI (medida 177); deflactar la tarifa (medida 178); reducir el IRPF de los trabajadores y autónomos de 18 a 35 años durante «los cuatro primeros años en que paguen IRPF», un 100 % el primero, un 75 % el segundo, un 50 % el tercero y un 25 % el cuarto, desde la primera declaración tras aprobarse la ley (medida 179), y un IVA del 0 % para los alimentos básicos, «incluidos la carne, el pescado y las conservas», mientras persista «la actual crisis de inflación y de poder adquisitivo» (medida 180). Los autónomos que facturen menos de 85.000 euros no tendrán que cobrar ni declarar el IVA (medida 171), y las deducciones familiares se refundirán en una sola, reembolsable y de abono mensual (medida 158). Para las empresas, libertad de amortización de las inversiones (medida 181) y un Estatuto del Contribuyente (medida 182). En la luz, suprimir «de inmediato» el impuesto del 7 % a la producción eléctrica y reducir «la carga fiscal del recibo» (medida 229). El programa no cuantifica el coste de las rebajas; afirma que «ningún gasto nuevo se aprobará sin garantizar cómo se financiará» y que reducirá la deuda (medida 4) [10].
 
 Hay algunos cambios respecto a los anuncios previos. El programa no recoge el compromiso del "Contrato con España" (19 de octubre) de revisar «una a una las más de cien subidas fiscales de los últimos años» [1]. El programa no concreta la rebaja del IVA de la luz que citaban los argumentarios de campaña [7] y el mitin de Vigo del 24 de octubre [9]; propone eliminar el impuesto del 7 % a la producción eléctrica y reducir la carga fiscal del recibo (medida 229). En lugar de los «impuestos cero» en la compra de la primera vivienda en el medio rural [9], propone que los jóvenes no paguen impuestos por adquirir su vivienda habitual en municipios despoblados (medida 196), y el IRPF "cero" para los jóvenes en su primer año [8] se amplía a la rebaja decreciente de cuatro años. La rebaja fiscal a los jóvenes que compren vivienda anunciada en julio [2] se concreta en bajar del 10 % al 4 % el IVA de la primera vivienda para los menores de 40 años (medida 153) [10]. En 2023 el programa proponía bajar el IRPF a las rentas de menos de 40.000 euros y una reforma integral del sistema fiscal [3].
 
-En la oposición, el PP mantuvo la misma línea. En abril de 2024 logró que el Congreso aprobara una proposición no de ley para deflactar el IRPF, gracias a la abstención de Junts, PNV y BNG. No era vinculante y el Gobierno no la aplicó [4]. En junio de 2026 registró en el Congreso una rebaja fiscal de unos 3.200 millones como alternativa al decreto energético del Gobierno [5].
+En la oposición, el PP mantuvo la misma línea. En abril de 2024 logró que el Congreso aprobara una proposición no de ley para deflactar el IRPF, gracias a la abstención de Junts, PNV y BNG. No era vinculante y el Gobierno no la aplicó [4]. En junio de 2026 registró en el Congreso una rebaja fiscal de unos 3.200 millones como alternativa al decreto energético del Gobierno [5]. Sobre la medida 177, el Gobierno aprobó el 17 de noviembre de 2026, ya disueltas las Cortes, el Real Decreto-ley 38/2026, que eleva la deducción del IRPF para que no tribute quien cobre el SMI de 2027 (18.004 euros al año); está pendiente de convalidación parlamentaria [11][12].
 
 En las comunidades que gobierna aplicó rebajas. En julio de 2023, en su primer pleno, el Consell de Carlos Mazón aprobó bonificar al 99 % sucesiones y donaciones entre familiares directos [6]. La oposición lo criticó como una rebaja para las rentas altas.
 

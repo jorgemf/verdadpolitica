@@ -4,11 +4,11 @@ tema: sanidad
 propuesta: "Tarjeta sanitaria única con historia clínica compartida, un plan nacional contra las listas de espera con colaboración público-privada, más atención primaria y mejores condiciones para los profesionales; atender a los extranjeros en situación irregular solo en «urgencia grave», y defender la vida «desde su concepción»."
 balance: "Se rechazaron su ley de tarjeta sanitaria única (2024) y su moción para derogar el RD 180/2026 (33-179). El Constitucional desestimó su recurso contra la reforma del aborto (2024) y su ley de cuidados paliativos caducó. Pactó en Extremadura 500 M€ anuales para listas de espera."
 coherencia: coherente
-actualizado: 2026-11-13
+actualizado: 2026-11-19
 fuentes:
   - titulo: "Es sentido común. Programa electoral, 29 de noviembre de 2026"
-    url: https://theobjective.com/wp-content/uploads/2026/11/programa-elecct-vox.pdf
-    medio: Vox (copia publicada por The Objective)
+    url: https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf
+    medio: Vox
     fecha: 2026-11-12
     tipo: partido
   - titulo: "Vox lleva al 29-N un programa electoral con repatriaciones y deportaciones de migrantes, prioridad nacional y derogación de leyes de género"

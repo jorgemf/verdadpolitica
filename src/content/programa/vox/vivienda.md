@@ -4,11 +4,11 @@ tema: vivienda
 propuesta: "«Prioridad nacional» en la vivienda protegida, social y las ayudas al alquiler; nueva Ley del Suelo; derogar la Ley de Vivienda; desalojo de okupas en menos de 24 horas; IVA del 0 % e ITP bonificado al 100 % en la primera vivienda de una familia española, y prohibir alquilar a inmigrantes en situación irregular."
 balance: "Votó contra los decretos de vivienda: el Congreso derogó los RDL 26 y 27/2026 en octubre, y el 12 de noviembre la Diputación Permanente convalidó el RDL 29/2026 (35-34) y rechazó el 28/2026. Se rechazó su moción de prioridad nacional en vivienda; en Extremadura y Valencia la pactó por arraigo, no por nacionalidad."
 coherencia: parcial
-actualizado: 2026-11-13
+actualizado: 2026-11-19
 fuentes:
   - titulo: "Es sentido común. Programa electoral, 29 de noviembre de 2026"
-    url: https://theobjective.com/wp-content/uploads/2026/11/programa-elecct-vox.pdf
-    medio: Vox (copia publicada por The Objective)
+    url: https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf
+    medio: Vox
     fecha: 2026-11-12
     tipo: partido
   - titulo: "Programa electoral para las Elecciones Generales del 23J de 2023"

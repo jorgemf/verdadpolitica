@@ -4,11 +4,11 @@ tema: empleo-pensiones
 propuesta: "Derogar «la legislación laboral de Sánchez», cuota de autónomos de cero euros por debajo del SMI, cotización pagada por el Estado a los españoles que cuiden de sus hijos y más conciliación. En pensiones, «garantizar la sostenibilidad» con crecimiento, empleo y natalidad, sin detallar cambios en el sistema."
 balance: "Con PP y Junts tumbó la reducción de jornada a 37,5 horas (septiembre de 2025). Votó contra los decretos ómnibus de enero de 2025 y 2026, que incluían la subida de las pensiones, y fue el único grupo contra el RDL 1/2025 (revalorización y otras medidas) y el RDL 3/2026 (pensiones y Seguridad Social)."
 coherencia: coherente
-actualizado: 2026-11-13
+actualizado: 2026-11-19
 fuentes:
   - titulo: "Es sentido común. Programa electoral, 29 de noviembre de 2026"
-    url: https://theobjective.com/wp-content/uploads/2026/11/programa-elecct-vox.pdf
-    medio: Vox (copia publicada por The Objective)
+    url: https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf
+    medio: Vox
     fecha: 2026-11-12
     tipo: partido
   - titulo: "Vox lleva al 29-N un programa electoral con repatriaciones y deportaciones de migrantes, prioridad nacional y derogación de leyes de género"

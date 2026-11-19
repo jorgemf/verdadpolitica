@@ -1,10 +1,10 @@
 ---
 partido: frente-amplio
 tema: seguridad-ciudadana
-propuesta: "Frente Amplio no ha presentado propuestas nuevas. Las últimas oficiales son las de Sumar en 2023: reformar la «ley mordaza», prohibir las pelotas de goma, restringir las identificaciones policiales y los perfiles raciales, desmilitarizar la Guardia Civil y aprobar una ley de prevención y convivencia."
+propuesta: "Derogar «por completo» la «ley mordaza»; prohibir las pelotas de goma y los controles por perfil racial; un órgano independiente que investigue los abusos policiales; desmilitarizar la Guardia Civil y no aplicarle el Código Penal Militar en tareas policiales, y cumplir el acuerdo de equiparación salarial de 2018."
 balance: "Registró en 2024 su reforma de la «ley mordaza» y firmó con PSOE, EH Bildu y PNV otra, tomada en consideración en octubre de 2024; ambas caducaron, como su ley de 2025 para no aplicar el Código Penal Militar a guardias civiles fuera de servicio. En febrero de 2026 votó contra la ley de multirreincidencia de Junts."
 coherencia: coherente
-actualizado: 2026-11-12
+actualizado: 2026-11-19
 fuentes:
   - titulo: "Un programa para ti. Programa electoral de Sumar para las elecciones generales de 2023"
     url: https://movimientosumar.es/wp-content/uploads/2023/07/Un-Programa-para-ti.pdf
@@ -44,12 +44,19 @@ fuentes:
     medio: BOE
     fecha: 2026-04-09
     tipo: oficial
+  - titulo: "Un programa como una casa. Programa electoral de Frente Amplio para las elecciones generales del 29 de noviembre de 2026"
+    url: https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf
+    medio: Frente Amplio
+    fecha: 2026-11-16
+    tipo: partido
 ---
 
-A 12 de noviembre de 2026 Frente Amplio no ha publicado su programa para el 29-N, y en la presentación de la candidatura no anunció medidas de seguridad ciudadana. Las propuestas oficiales más recientes son las del programa de Sumar de 2023: reformar y derogar los aspectos de la «ley mordaza» que limitan los derechos de reunión y expresión, prohibir "el uso de pelotas de goma y otros materiales antidisturbios altamente lesivos", prohibir los perfiles raciales y limitar las paradas de identificación, la "desmilitarización de la Guardia Civil" y una ley de prevención y convivencia para la seguridad local [1].
+El programa de Frente Amplio para el 29-N, «Un programa como una casa» (16 de noviembre de 2026), propone «un modelo de seguridad fundado en la prevención y la justicia social» (apartado 18.4) [9]. Se compromete a derogar «por completo la Ley Mordaza» (18.3); prohibir «las pelotas de goma y otros materiales antidisturbios muy lesivos», regular el uso de la fuerza y de las cámaras corporales, garantizar la identificación visible de los agentes y prohibir «los controles de identidad por perfil racial»; restringir las paradas de identificación y prohibirlas para aplicar la ley de extranjería; crear un órgano externo e independiente que investigue las denuncias de malos tratos y abusos; desmilitarizar la Guardia Civil y derogar el Código Penal Militar «como norma sancionadora en todas las tareas estrictamente policiales»; dar a policías y guardias civiles la misma jornada que al resto de la administración, cumplir íntegramente el acuerdo de equiparación salarial de 2018 y reconocerles como profesión de riesgo, y reformar la ley de Fuerzas y Cuerpos de Seguridad para que las policías autonómicas estén en los organismos internacionales de cooperación policial (18.4) [9].
+
+En la presentación de la candidatura no había anunciado medidas de seguridad ciudadana. El programa mantiene las propuestas del de Sumar de 2023: reformar y derogar los aspectos de la «ley mordaza» que limitan los derechos de reunión y expresión, prohibir "el uso de pelotas de goma y otros materiales antidisturbios altamente lesivos", prohibir los perfiles raciales y limitar las paradas de identificación y la "desmilitarización de la Guardia Civil" [1]. Pasa de reformar la «ley mordaza» a derogarla entera y no menciona la ley de prevención y convivencia para la seguridad local que proponía en 2023 [1] [9]. No incluye medidas sobre la multirreincidencia [9].
 
 En la legislatura, el grupo Sumar registró el 10 de mayo de 2024 su propia reforma de la Ley Orgánica 4/2015 [2]. El 4 de octubre de 2024 firmó con PSOE, EH Bildu y PNV la proposición de ley orgánica de protección de las libertades y seguridad ciudadana, que el Pleno tomó en consideración el 29 de octubre por 176 votos a 170 [3]. La ponencia no llegó a reunirse en 2026 por las diferencias del PNV, contrario a rebajar las sanciones por desobediencia, y de Podemos, que pedía fijar un plazo para prohibir las pelotas de goma [4]. Ambas iniciativas caducaron con la disolución [3]. El 30 de enero de 2025 Sumar registró una proposición para que el Código Penal Militar solo se aplique a los guardias civiles en los supuestos tasados del artículo 1.4 y nunca por hechos fuera de servicio; no llegó a debatirse [5].
 
 El 12 de febrero de 2026 el grupo Sumar votó en contra de la ley de multirreincidencia impulsada por Junts, que endurece las penas por hurtos reiterados: 24 de sus diputados votaron no y dos no votaron [6]. Salió adelante por 302 votos a favor (PSOE, PP, Vox, Junts y PNV), 36 en contra (Sumar, Podemos, EH Bildu y BNG) y 8 abstenciones (ERC y Coalición Canaria) [6] [7], y se publicó como Ley Orgánica 1/2026 [8].
 
-Las iniciativas de Sumar van en la línea de su propuesta, aunque ninguna salió adelante. Su voto contra la ley de multirreincidencia no choca con ninguna propuesta de su programa de 2023. Las fichas de la reforma de la ley de seguridad ciudadana recogen el detalle del bloqueo.
+Las iniciativas de Sumar van en la línea de su propuesta, aunque ninguna salió adelante. Su voto contra la ley de multirreincidencia no choca con ninguna propuesta de su programa de 2023 ni del de 2026. La no aplicación del Código Penal Militar a las tareas policiales de la Guardia Civil que propone el programa va en la línea de la proposición que registró en 2025 [5] [9]. Las fichas de la reforma de la ley de seguridad ciudadana recogen el detalle del bloqueo.

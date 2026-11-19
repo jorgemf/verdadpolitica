@@ -1,10 +1,10 @@
 ---
 partido: podemos
 tema: seguridad-ciudadana
-propuesta: "Sin programa publicado ni propuestas de seguridad en su web de campaña, su última propuesta es su ley de 2024 de reforma de la ley de seguridad ciudadana: prohibir las pelotas de goma y evitar las «devoluciones en caliente» (proposición de ley 122/000103)."
+propuesta: "Derogar la «ley mordaza» y prohibir las pelotas de goma, quitar la presunción de veracidad a las declaraciones policiales, detención máxima de 48 horas, identificación visible y cámaras corporales para los agentes, prohibir las identificaciones por perfil racial y despenalizar el cannabis."
 balance: "Su ley de seguridad ciudadana caducó sin debatirse. Votó a favor de tramitar la reforma de PSOE, Sumar, EH Bildu y PNV (176 a 170, octubre de 2024), que caducó en ponencia, y en contra de la ley de multirreincidencia, aprobada en el Congreso el 12 de febrero de 2026 por 302 votos a 36."
 coherencia: coherente
-actualizado: 2026-11-12
+actualizado: 2026-11-19
 fuentes:
   - titulo: "Paz, casa y trabajo. Cinco cosas (web de campaña de Podemos para el 29-N)"
     url: https://pazcasaytrabajo.es/
@@ -50,12 +50,19 @@ fuentes:
     medio: Diari de Tarragona (EFE)
     fecha: 2026-02-11
     tipo: prensa
+  - titulo: "Así de básico: Paz, casa y trabajo. Programa electoral de Podemos para las elecciones generales del 29N"
+    url: https://podemos.info/wp-content/uploads/2026/11/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf
+    medio: Podemos
+    fecha: 2026-11-17
+    tipo: partido
 ---
 
-A 12 de noviembre de 2026 Podemos no ha publicado un programa completo para el 29-N, y su web de campaña no incluye propuestas sobre seguridad ciudadana [1]. La propuesta recoge su proposición de ley de mayo de 2024 para reformar la Ley Orgánica 4/2015 («ley mordaza»): prohíbe expresamente el uso de pelotas de goma por las fuerzas de seguridad y busca evitar las «devoluciones en caliente» en frontera [2]. El tratamiento de la ley desde el punto de vista de las libertades y los derechos figura también en el tema de corrupción, justicia e instituciones.
+El programa de Podemos para el 29-N, «Así de básico: Paz, casa y trabajo» (17 de noviembre de 2026), trata la seguridad ciudadana en su capítulo sobre las instituciones [10]. Propone derogar la reforma de la Ley Orgánica de protección de la seguridad ciudadana («ley mordaza») y aprobar una regulación que incluya «la prohibición del uso de pelotas de goma»; eliminar la presunción de veracidad de los atestados y de las declaraciones de los agentes y exigir otros testigos o pruebas materiales para sancionar; revisar los delitos que «puedan restringir desproporcionadamente la protesta pacífica», y fijar una detención máxima de 48 horas (medida 427, p. 133). Todos los agentes llevarían un número de identificación visible y se implantarían cámaras corporales (medida 424), y se prohibiría la infiltración policial en movimientos sociales pacíficos (medida 423) (p. 132). Propone también prohibir las identificaciones por perfil racial (medida 207, p. 66) y despenalizar el cultivo y la tenencia de cannabis y legalizar su uso medicinal y recreativo (medida 429, pp. 133-134). No incluye medidas sobre la multirreincidencia ni sobre las plantillas policiales [10]. El tratamiento de la ley desde el punto de vista de las libertades y los derechos figura también en el tema de corrupción, justicia e instituciones.
+
+Hasta la publicación del programa, su web de campaña no recogía propuestas de seguridad [1] y la referencia era su proposición de ley de mayo de 2024, que prohibía las pelotas de goma y buscaba evitar las «devoluciones en caliente» [2]. El programa mantiene ambas cosas (la segunda, en la nueva ley de extranjería, medida 205) y pasa de reformar la ley a derogarla [10].
 
 En la legislatura, su proposición de ley no llegó a debatirse en el Pleno y caducó con la disolución [3]. El 29 de octubre de 2024 sus cuatro diputados votaron a favor de tomar en consideración la reforma de la ley de seguridad ciudadana registrada por PSOE, Sumar, EH Bildu y PNV, que salió adelante por 176 votos a favor y 170 en contra [4]. Su diputada Martina Velarde la calificó de «reforma parcial que llega tarde, es insuficiente y no supone un gran avance», pero dio un voto de confianza para corregirla en las enmiendas [5]. Durante la tramitación, Podemos exigió un plazo concreto para prohibir las pelotas de goma y que el rechazo en frontera quedara expresamente prohibido; la ponencia no se reunió en 2026 y la reforma caducó [6].
 
 El 12 de febrero de 2026 Podemos votó en contra de la ley de multirreincidencia impulsada por Junts, que endurece las penas por hurtos y estafas reiteradas y por el robo de móviles. Se aprobó por 302 votos a favor (PP, PSOE, Vox, Junts y PNV, entre otros), 36 en contra (Sumar, EH Bildu y Podemos, entre otros) y 8 abstenciones [7] [9]. Martina Velarde la calificó de «racista» y «clasista» [8].
 
-La coherencia mide las actuaciones, no el resultado: sus votos e iniciativas van en la línea de su propuesta de limitar las facultades sancionadoras y el material antidisturbios.
+La coherencia mide las actuaciones, no el resultado: sus votos e iniciativas van en la línea de su propuesta de limitar las facultades sancionadoras y el material antidisturbios. Su voto contra la ley de multirreincidencia no se opone al programa, que no trata ese asunto [10].

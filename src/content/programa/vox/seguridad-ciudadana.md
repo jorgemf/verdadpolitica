@@ -4,11 +4,11 @@ tema: seguridad-ciudadana
 propuesta: "Bajar la edad de responsabilidad penal y plantear suprimir la inimputabilidad en homicidios y agresiones sexuales; ampliar la prisión permanente revisable; deportar a extranjeros por delitos graves; equiparación salarial y profesión de riesgo para policías, guardias civiles y funcionarios de prisiones; OCON-Sur."
 balance: "Se rechazaron sus leyes para bajar la edad penal a 12 años (2025, con la abstención del PP), tipificar el petaqueo (171-172) y prohibir el burka (170-177). Apoyó la ley de multirreincidencia, que acabó tipificando el petaqueo, y la que reconoce a los funcionarios de prisiones como agentes de la autoridad (2026)."
 coherencia: coherente
-actualizado: 2026-11-13
+actualizado: 2026-11-19
 fuentes:
   - titulo: "Es sentido común. Programa electoral, 29 de noviembre de 2026"
-    url: https://theobjective.com/wp-content/uploads/2026/11/programa-elecct-vox.pdf
-    medio: Vox (copia publicada por The Objective)
+    url: https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf
+    medio: Vox
     fecha: 2026-11-12
     tipo: partido
   - titulo: "Programa electoral para las Elecciones Generales del 23J de 2023"

@@ -4,11 +4,11 @@ tema: energia-medioambiente
 propuesta: "Derogar el calendario de cierre nuclear y estudiar nuevas centrales junto a las actuales; bajar los impuestos de la electricidad; revertir la prohibición de motores de combustión, los impuestos al CO2, el Pacto Verde y las zonas de bajas emisiones; frenar las macroplantas renovables; interconectar todas las cuencas."
 balance: "Apoyó la PNL del PP para prorrogar las nucleares (febrero de 2025) y votó contra el decreto antiapagones, derogado en julio de 2025. En Extremadura pactó suprimir la ecotasa sobre Almaraz, cuya autorización prorrogó el Gobierno hasta junio de 2030. Salvo Almaraz, el calendario de cierre nuclear sigue vigente."
 coherencia: coherente
-actualizado: 2026-11-13
+actualizado: 2026-11-19
 fuentes:
   - titulo: "Es sentido común. Programa electoral, 29 de noviembre de 2026"
-    url: https://theobjective.com/wp-content/uploads/2026/11/programa-elecct-vox.pdf
-    medio: Vox (copia publicada por The Objective)
+    url: https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf
+    medio: Vox
     fecha: 2026-11-12
     tipo: partido
   - titulo: "Programa electoral para las Elecciones Generales del 23J de 2023"
@@ -57,4 +57,4 @@ En Extremadura, el pacto de gobierno de 2026 reduce un 30 % al año la ecotasa a
 
 La proposición sobre las nucleares no era vinculante. La prórroga efectiva de Almaraz la concedió el Ministerio para la Transición Ecológica en la Orden TED/864/2026, de 12 de agosto, que renueva la autorización de sus dos unidades hasta el 8 de junio de 2030 [7]. Salvo esa excepción, el calendario de cierre nuclear seguía vigente al disolverse las Cortes.
 
-**Coherencia.** Sus votos y sus acuerdos autonómicos se ajustan a su programa en energía y medio ambiente: el apoyo a prorrogar las nucleares y la supresión de la ecotasa de Almaraz van en la línea de derogar el calendario de cierre, y el freno a los macroparques en Extremadura coincide con la medida 54 [1][6]. Su voto contra las rebajas fiscales de la luz y el gas de 2026 se valora en el bloque de economía e impuestos.
+**Coherencia.** Sus votos y sus acuerdos autonómicos se ajustan a su programa en energía y medio ambiente: el apoyo a prorrogar las nucleares y la supresión de la ecotasa de Almaraz van en la línea de derogar el calendario de cierre, y el freno a los macroparques en Extremadura coincide con la medida 54 [1][6]. Su voto contra las rebajas fiscales de la luz y el gas de 2026 se trata en el tema de economía e impuestos.

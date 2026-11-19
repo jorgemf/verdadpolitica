@@ -1,10 +1,10 @@
 ---
 partido: psoe
 tema: inmigracion
-propuesta: "Culminar la regularización extraordinaria (1.174.978 solicitudes), mantener el reparto de menores no acompañados entre comunidades, desmantelar las mafias en origen, ampliar los convenios de migración circular y aprobar una ley de nacionalidad."
+propuesta: "Desplegar el Plan de Integración y Ciudadanía 2026-2030 con 500 millones, ampliar las vías legales y seguras de protección internacional, reforzar la acogida y el asilo, impulsar la contratación en origen y una Unidad de Apoyo a la Infancia Migrante para las comunidades en emergencia. No menciona la regularización."
 balance: "Aprobó por real decreto una regularización extraordinaria pactada con Podemos (solicitudes del 16 de abril al 30 de junio de 2026) y un nuevo reglamento de extranjería. El Congreso rechazó la delegación de competencias de inmigración a Cataluña pactada con Junts."
 coherencia: coherente
-actualizado: 2026-11-06
+actualizado: 2026-11-19
 fuentes:
   - titulo: "Proceso de regularización migratoria extraordinaria: plazos y requisitos"
     url: https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/inclusion/paginas/2026/proceso-regularizacion-migratoria.aspx
@@ -49,9 +49,16 @@ fuentes:
     medio: El Salto
     fecha: 2026-11-04
     tipo: prensa
+  - titulo: "La fuerza de seguir avanzando. Programa elecciones generales 29 noviembre 2026"
+    url: https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf
+    medio: PSOE
+    fecha: 2026-11-15
+    tipo: partido
 ---
 
-El PSOE no ha publicado propuestas migratorias nuevas para el 29-N. Su oferta es la continuidad de lo aprobado y los compromisos pendientes de su programa de 2023: una estrategia para desmantelar las mafias que trafican con personas, ampliar los convenios de migración circular y promover una ley de nacionalidad [4].
+El programa del PSOE para el 29-N, «La fuerza de seguir avanzando» (15 de noviembre de 2026), defiende «una migración ordenada, legal y segura» y quiere «simplificar los trámites, dar seguridad jurídica, impulsar la contratación en origen, agilizar la homologación de títulos y facilitar el acceso al empleo» (pág. 93) [10]. Sus compromisos son desplegar el Plan de Integración y Ciudadanía 2026-2030, «con una dotación inicial de 500 millones de euros» (compromiso 388); ampliar las vías legales y seguras de protección internacional, con reasentamiento y visados humanitarios, y reforzar el sistema público de acogida y asilo (389); proteger especialmente a los niños y adolescentes que lleguen solos, «situando siempre el interés superior del menor en el centro» (391); crear una Unidad de Apoyo a la Infancia Migrante que ayude a las comunidades que afronten situaciones de emergencia (200), y defender en la UE una política migratoria que combine «la lucha contra las mafias con una gestión eficaz del asilo, las fronteras y las vías legales y seguras de migración» (479) [10].
+
+El programa no menciona la regularización extraordinaria de 2026 ni el reparto de menores migrantes no acompañados entre comunidades. Del programa de 2023 mantiene la lucha contra las mafias, pero no recoge otros dos compromisos que seguían pendientes: ampliar los convenios de migración circular y promover una ley de nacionalidad [4][10].
 
 En la legislatura:
 - Tras un acuerdo con Podemos en enero de 2026 [5], el Gobierno aprobó en abril una regularización extraordinaria por real decreto. Se dirigía a personas que estuvieran en España antes del 1 de enero de 2026, con al menos cinco meses de estancia y sin antecedentes penales, y el plazo de solicitud fue del 16 de abril al 30 de junio [1].
@@ -60,4 +67,4 @@ En la legislatura:
 - El Congreso convalidó en abril de 2025 el decreto-ley para el reparto de menores migrantes no acompañados entre comunidades, con el voto en contra de PP y Vox [7].
 - La ley para delegar competencias de inmigración a Cataluña, pactada con Junts, no pasó la toma en consideración en septiembre de 2025. Votaron en contra PP, Vox, UPN, Podemos y dos diputados de Sumar [3].
 
-Las propuestas actuales son coherentes con lo hecho, aunque la regularización no figuraba en el programa de 2023.
+Coherencia coherente. Sus actuaciones (la regularización, el nuevo reglamento de extranjería y el reparto de menores) van en la línea de la migración legal y la protección de los menores que propone el programa, aunque la regularización no figuraba en el programa de 2023 ni la menciona el de 2026.

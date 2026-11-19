@@ -4,11 +4,11 @@ tema: educacion
 propuesta: "Derogar la LOMLOE; currículo y evaluaciones nacionales, reválidas y EVAU única; educación en español en todo el país; libre elección de centro con «prioridad nacional»; máximo por aula de alumnos «procedentes de otras culturas o con dominio insuficiente del español»; fin de los menús halal; escuela 0-3 gratuita."
 balance: "En la Comunitat Valenciana registró con el PP y aprobó en 2024 la ley que deja a las familias elegir el castellano como lengua base, recurrida ante el TC. Su ley para modificar la LOMLOE (2025) caducó sin debatirse. En Extremadura pactó la escuela 0-3 gratuita y suprimir el programa de lengua árabe."
 coherencia: coherente
-actualizado: 2026-11-13
+actualizado: 2026-11-19
 fuentes:
   - titulo: "Es sentido común. Programa electoral, 29 de noviembre de 2026"
-    url: https://theobjective.com/wp-content/uploads/2026/11/programa-elecct-vox.pdf
-    medio: Vox (copia publicada por The Objective)
+    url: https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf
+    medio: Vox
     fecha: 2026-11-12
     tipo: partido
   - titulo: "Programa electoral para las Elecciones Generales del 23J de 2023"

@@ -4,11 +4,11 @@ tema: modelo-territorial
 propuesta: "No plantea devolver competencias al Estado. Propone una Ley de Unidad de Mercado («lo que es legal en una región de España, lo es en toda España»), currículo común y enseñanza en español, que no saber lenguas regionales no impida optar a plazas sanitarias, recuperar la sedición e ilegalizar partidos contra la unidad."
 balance: "En 2024 registró PNL para devolver al Estado la sanidad e impulsó recursos al TC contra la amnistía desde los gobiernos autonómicos que compartía con el PP; el TC avaló la ley en lo esencial. Votó contra la condonación de deuda autonómica (julio de 2026). Desde 2026 forma parte de cuatro gobiernos autonómicos."
 coherencia: coherente
-actualizado: 2026-11-13
+actualizado: 2026-11-19
 fuentes:
   - titulo: "Es sentido común. Programa electoral, 29 de noviembre de 2026"
-    url: https://theobjective.com/wp-content/uploads/2026/11/programa-elecct-vox.pdf
-    medio: Vox (copia publicada por The Objective)
+    url: https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf
+    medio: Vox
     fecha: 2026-11-12
     tipo: partido
   - titulo: "Programa electoral para las Elecciones Generales del 23J de 2023"

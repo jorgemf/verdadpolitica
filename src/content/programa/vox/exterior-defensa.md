@@ -4,11 +4,11 @@ tema: exterior-defensa
 propuesta: "Militarizar la frontera de Ceuta y Melilla y sancionar a Marruecos hasta que respete las fronteras; Fuerzas Armadas en la protección de fronteras; más inversión en Defensa; «toda la presión internacional necesaria» sobre Gibraltar; sin cooperación para países que no colaboren en migración; no al acuerdo UE-Mercosur."
 balance: "El Congreso rechazó en 2026 su ley para que las Fuerzas Armadas actúen contra la inmigración ilegal (168-178, con apoyo del PP). Votó con el PP contra el embargo de armas a Israel (2025). Criticó el plan de defensa de 2025, pero votó contra las mociones para revertirlo (2025 y 2026). Rechaza el tratado de Gibraltar."
 coherencia: coherente
-actualizado: 2026-11-13
+actualizado: 2026-11-19
 fuentes:
   - titulo: "Es sentido común. Programa electoral, 29 de noviembre de 2026"
-    url: https://theobjective.com/wp-content/uploads/2026/11/programa-elecct-vox.pdf
-    medio: Vox (copia publicada por The Objective)
+    url: https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf
+    medio: Vox
     fecha: 2026-11-12
     tipo: partido
   - titulo: "Vox lleva a su programa electoral el procesamiento de Sánchez por traición"

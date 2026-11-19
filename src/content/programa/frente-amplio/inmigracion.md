@@ -1,10 +1,10 @@
 ---
 partido: frente-amplio
 tema: inmigracion
-propuesta: "Frente Amplio no ha presentado propuestas nuevas de inmigración. Las últimas oficiales son las de Sumar en 2023: reformar la ley de extranjería para crear un procedimiento de regularización permanente, simplificar los trámites de residencia y cerrar los centros de internamiento de extranjeros (CIE)."
+propuesta: "Resolver todas las solicitudes de la regularización extraordinaria de 2026 y reformar la ley de extranjería para crear un «procedimiento estable, permanente y reglado de regularización»; cerrar los CIE; derogar el «rechazo en frontera»; asilo en embajadas y consulados, y una ley integral contra el racismo."
 balance: "Apoyó la ILP de regularización y pidió hacerla por decreto. El Real Decreto 316/2026 abrió en abril una regularización extraordinaria, desbloqueada por un pacto PSOE-Podemos. No hubo regularización permanente y los CIE siguen abiertos. Dos de sus diputados votaron contra la delegación de competencias a Cataluña."
 coherencia: coherente
-actualizado: 2026-11-12
+actualizado: 2026-11-19
 fuentes:
   - titulo: "Un programa para ti. Programa electoral de Sumar para las elecciones generales de 2023"
     url: https://movimientosumar.es/wp-content/uploads/2023/07/Un-Programa-para-ti.pdf
@@ -45,9 +45,16 @@ fuentes:
     medio: Congreso de los Diputados
     fecha: 2026-10-23
     tipo: oficial
+  - titulo: "Un programa como una casa. Programa electoral de Frente Amplio para las elecciones generales del 29 de noviembre de 2026"
+    url: https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf
+    medio: Frente Amplio
+    fecha: 2026-11-16
+    tipo: partido
 ---
 
-A 12 de noviembre de 2026 Frente Amplio no ha publicado su programa para el 29-N, y en la presentación de la candidatura no anunció medidas concretas de inmigración. Las propuestas oficiales más recientes son las del programa de Sumar de 2023: reformar la ley de extranjería para "introducir un procedimiento de regularización permanente", simplificar los trámites de residencia y cerrar los CIE [1].
+El programa de Frente Amplio para el 29-N, «Un programa como una casa» (16 de noviembre de 2026), dedica el bloque 16 a «Migraciones y antirracismo» [9]. Propone «culminar la regularización extraordinaria de 2026» resolviendo todas las solicitudes y reformar de forma integral la ley de extranjería para instaurar «un procedimiento estable, permanente y reglado de regularización administrativa»; garantizar cita en las oficinas de extranjería en un máximo de siete días; derogar la disposición adicional décima de la ley de extranjería, el llamado «rechazo en frontera»; cerrar los centros de internamiento de extranjeros (CIE); permitir pedir asilo en embajadas y consulados; suprimir la lista nacional de países seguros y rechazar los centros de retorno en terceros países; crear una agencia de asilo dependiente de la Presidencia del Gobierno; ampliar el voto de los migrantes en las elecciones municipales, y devolver la nacionalidad española a los saharauis nacidos bajo administración española antes de septiembre de 1977 (apartado 16.2). También una ley integral contra el racismo y un Estatuto del Pueblo Gitano (16.1) [9].
+
+En la presentación de la candidatura no había anunciado medidas concretas de inmigración. El programa mantiene las propuestas del de Sumar de 2023: reformar la ley de extranjería para "introducir un procedimiento de regularización permanente", simplificar los trámites de residencia, cerrar los CIE [1] y permitir el asilo en embajadas [6] [1]. No recoge la reforma del acceso a la nacionalidad por residencia que el grupo registró en 2025 [7] [9].
 
 Durante la legislatura, Sumar apoyó la ILP que pedía regularizar a unas 500.000 personas. En septiembre de 2025 pidió al PSOE aprobarla por decreto [2]. El Real Decreto 316/2026, de 14 de abril, abrió una regularización extraordinaria por arraigo para quienes estuvieran en España antes de 2026 [3]. Su aprobación se desbloqueó tras un pacto entre PSOE y Podemos. La medida fue extraordinaria y por reglamento, no el procedimiento permanente que pedía el programa. Interior, en manos del PSOE, sustituyó en febrero de 2026 el CIE de Algeciras por uno nuevo [4].
 
@@ -55,4 +62,4 @@ El grupo Sumar registró además dos proposiciones de ley. La primera, de marzo 
 
 El 23 de septiembre de 2025 el Congreso rechazó, por 177 votos a 173, la ley pactada por PSOE y Junts para delegar en Cataluña competencias de inmigración, entre ellas la gestión de los CIE. El grupo Sumar votó a favor, salvo Alberto Ibáñez (Compromís) y Jorge Pueyo (CHA), que votaron en contra [5].
 
-Las actuaciones documentadas de Sumar van en la línea de su propuesta: apoyó la ILP y la regularización. No consta ninguna proposición de ley suya para cerrar los CIE, pero tampoco votos a favor de ampliarlos. La competencia sobre los CIE es del Ministerio del Interior, dirigido por el PSOE.
+Las actuaciones documentadas de Sumar van en la línea de su propuesta: apoyó la ILP y la regularización extraordinaria que el programa propone completar, y registró la ley de asilo en embajadas que vuelve a proponer [2] [6] [9]. No consta ninguna proposición de ley suya para cerrar los CIE, pero tampoco votos a favor de ampliarlos. La competencia sobre los CIE es del Ministerio del Interior, dirigido por el PSOE.

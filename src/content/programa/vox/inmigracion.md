@@ -4,11 +4,11 @@ tema: inmigracion
 propuesta: "«Ni uno más»: prohibir las regularizaciones masivas y suprimir el arraigo; repatriar a quien esté en situación irregular, «remigración» de quienes «vivan de subsidios», deportar por delitos graves, devolver a los menores no acompañados, «prioridad nacional» en ayudas, IMV solo para españoles y gravar remesas."
 balance: "Único grupo contra tramitar la ILP de regularización (2024). En julio de 2024 dejó cinco gobiernos autonómicos por el reparto de menores. Recurrió la regularización de 2026; el Supremo no la suspendió. Su PNL de prioridad nacional fue rechazada en 2026, y en sus pactos autonómicos entró como arraigo, no nacionalidad."
 coherencia: parcial
-actualizado: 2026-11-13
+actualizado: 2026-11-19
 fuentes:
   - titulo: "Es sentido común. Programa electoral, 29 de noviembre de 2026"
-    url: https://theobjective.com/wp-content/uploads/2026/11/programa-elecct-vox.pdf
-    medio: Vox (copia publicada por The Objective)
+    url: https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf
+    medio: Vox
     fecha: 2026-11-12
     tipo: partido
   - titulo: "Votaciones del Pleno de 25 de junio de 2026: proposición no de ley del Grupo VOX sobre el principio de prioridad nacional en las prestaciones públicas (162/000784)"

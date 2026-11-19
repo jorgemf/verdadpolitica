@@ -4,11 +4,11 @@ tema: regeneracion-democratica
 propuesta: "Que los jueces elijan a los doce vocales judiciales del CGPJ; sacar el Constitucional «de las manos de los políticos»; recuperar la sedición, agravar la malversación y prohibir indultos por corrupción; ilegalizar partidos contra la unidad de España; que los condenados por corrupción respondan con todos sus bienes."
 balance: "El Congreso rechazó en 2024 (170-176) su ley para que los jueces elijan al CGPJ, y la amnistía sigue vigente. El Supremo anuló las dos multas del Tribunal de Cuentas a Vox, Anticorrupción archivó en 2025 la denuncia por el préstamo de MBH y Vox votó contra fiscalizar su fundación Disenso."
 coherencia: parcial
-actualizado: 2026-11-13
+actualizado: 2026-11-19
 fuentes:
   - titulo: "Es sentido común. Programa electoral, 29 de noviembre de 2026"
-    url: https://theobjective.com/wp-content/uploads/2026/11/programa-elecct-vox.pdf
-    medio: Vox (copia publicada por The Objective)
+    url: https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf
+    medio: Vox
     fecha: 2026-11-12
     tipo: partido
   - titulo: "Programa electoral para las Elecciones Generales del 23J de 2023"
@@ -72,4 +72,4 @@ En 2023, bajo el lema "Los jueces deben elegir a los jueces", prometía también
 
 **Su propia financiación.** El Tribunal de Cuentas multó a Vox con 233.324 euros en 2024 y con 862.496 euros en 2025 [5][6]. Vox recurrió y el Supremo anuló ambas sanciones en octubre de 2025 y junio de 2026 [9][7]. El Tribunal de Cuentas no pudo verificar si el banco húngaro MBH, que prestó 6,5 millones a Vox en 2023, tiene participación pública extranjera, porque la entidad no le informó [8]. La Fiscalía Anticorrupción archivó en junio de 2025 la denuncia del PSOE por esos préstamos sin llevarla a un juzgado [11]. En diciembre de 2025 la Comisión Mixta con el Tribunal de Cuentas aprobó una fiscalización especial de la Fundación Disenso, que preside Abascal, con el único voto en contra de Vox, que dijo que la apoyaría si se aplicara a todas las fundaciones políticas [10].
 
-**Coherencia.** Su proposición sobre el CGPJ va en la línea de su programa. Se marca como parcial por una actuación concreta: votó contra la fiscalización de Disenso pese a prometer en 2023 la fiscalización de los caudales públicos [2]; el programa de 2026 promete una auditoría integral de las administraciones [1]. Las sanciones anuladas y el archivo fiscal no se tienen en cuenta para esta nota.
+**Coherencia.** Su proposición sobre el CGPJ va en la línea de su programa. Es parcial por una actuación concreta: votó contra la fiscalización de Disenso pese a prometer en 2023 la fiscalización de los caudales públicos [2]; el programa de 2026 promete una auditoría integral de las administraciones [1]. Las sanciones anuladas y el archivo de la Fiscalía no son actuaciones contrarias a su programa.

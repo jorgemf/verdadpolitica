@@ -1,10 +1,10 @@
 ---
 partido: podemos
 tema: vivienda
-propuesta: "Prohibir comprar vivienda para especular (web de campaña e Irene Montero, noviembre de 2026), rebajar por ley un 40 % todos los alquileres, expropiar el uso de las viviendas turísticas ilegales y de las de grandes propietarios para el parque público y controlar los precios (moción de septiembre de 2026)."
+propuesta: "Rebajar por ley un 40 % los alquileres sin bajar del 60 % del precio medio de la zona, contratos indefinidos, prohibir comprar vivienda que no sea para residir, expropiar el uso de las viviendas que superen las diez por propietario, prohibir los pisos turísticos y crear una inmobiliaria pública con rentas topadas."
 balance: "Registró en 2024 una ley de contratos de 10 años y congelación de rentas, que caducó. Sus mociones para rebajar los alquileres un 40 % se rechazaron en 2025 (12 a 301) y 2026 (19 a 183). Votó a favor de todos los decretos de alquiler del Gobierno (RDL 8, 26, 27, 28 y 29/2026); solo se convalidó el 29/2026."
 coherencia: coherente
-actualizado: 2026-11-13
+actualizado: 2026-11-19
 fuentes:
   - titulo: "Irene Montero presenta su candidatura a las generales: \"La gente buena es mayoría\""
     url: https://es.ara.cat/politica/irene-montero-presenta-candidatura-generales-gente-buena_1_5848007.html
@@ -66,12 +66,19 @@ fuentes:
     medio: Infobae
     fecha: 2026-11-12
     tipo: prensa
+  - titulo: "Así de básico: Paz, casa y trabajo. Programa electoral de Podemos para las elecciones generales del 29N"
+    url: https://podemos.info/wp-content/uploads/2026/11/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf
+    medio: Podemos
+    fecha: 2026-11-17
+    tipo: partido
 ---
 
-A 12 de noviembre de 2026 Podemos no ha publicado un programa completo para el 29-N. La propuesta recoge su última moción en el Congreso, de septiembre de 2026: rebajar por ley «la cuantía de todos los alquileres un 40 %» y expropiar el uso de las viviendas turísticas ilegales y de las 650.000 viviendas que atribuye a grandes propietarios [2]. Al presentar su candidatura, Irene Montero defendió la «expropiación y el control de precios» [1]. Su web de campaña, de octubre, abre con «Las casas son para vivir» y «Nadie que quiera especular debería poder comprar una vivienda en España» [8]. El 6 de noviembre de 2026 Montero concretó esa idea: prohibir la compra de vivienda con fines especulativos, permitirla solo para residir en ella e incorporar al alquiler social las viviendas acumuladas por fondos de inversión, sin detallar cómo [9] [10].
+El programa de Podemos para el 29-N, «Así de básico: Paz, casa y trabajo» (17 de noviembre de 2026), abre con el capítulo «Las casas son para vivir» [13]. Propone «una reducción extraordinaria del 40 % de los precios del alquiler», aplicable a los contratos vigentes, a sus prórrogas y a los nuevos, siempre que la renta no quede por debajo del 60 % del precio medio de la zona (medida 1); convertir los contratos de vivienda habitual en indefinidos «por defecto» (medida 2); prohibir «la adquisición y acumulación de viviendas que no estén destinadas a residencia habitual», con la obligación de destinarlas durante cuatro años a residencia del comprador o de un familiar o a segunda residencia de uso propio (medida 3); expropiar el uso de las viviendas «que superen las diez en manos de grandes tenedores», incluidas «las aproximadamente 626.000» que atribuye a grandes propietarios, para el alquiler social (medida 4); suspender indefinidamente los desahucios de personas vulnerables sin alternativa habitacional (medida 5); ilegalizar las empresas de «desokupación» (medida 6); eliminar progresivamente las licencias de pisos turísticos y ceder a la empresa pública los ilegales (medida 7), y crear una inmobiliaria pública con una renta máxima «equivalente al 30 % de la renta media del municipio» (medida 8) (pp. 8-10). En fiscalidad, cuadruplicaría el tipo de IRPF de las rentas imputadas por viviendas que no sean la del contribuyente y crearía un impuesto estatal a las viviendas vacías (medida 54, p. 22) [13].
+
+El programa recoge la moción de septiembre de 2026, que pedía la misma rebaja del 40 % y expropiar el uso de las viviendas turísticas ilegales y de las 650.000 que entonces atribuía a grandes propietarios [2]; el programa habla de unas 626.000. Al presentar su candidatura, Irene Montero ya defendía la «expropiación y el control de precios» [1]. Desarrolla también la frase de su web de campaña «Nadie que quiera especular debería poder comprar una vivienda en España» [8] y lo que Irene Montero anunció el 6 de noviembre, permitir la compra solo para residir en la vivienda [9] [10]: el programa admite además la compra para un familiar y como segunda residencia de uso propio. Su ley de 2024 fijaba contratos mínimos de 10 años [3]; el programa los hace indefinidos.
 
 En la legislatura, Podemos registró en mayo de 2024 una proposición de ley con contratos mínimos de 10 años (12 si el casero es una empresa) y congelación de rentas, que no llegó a debatirse [3]. Sus mociones para rebajar los alquileres un 40 % se rechazaron el 19 de febrero de 2025, por 12 votos a favor y 301 en contra, y el 16 de septiembre de 2026, por 19 a favor, 183 en contra y 144 abstenciones de PSOE y Sumar [4] [5].
 
 Votó a favor del Real Decreto-ley 8/2026 (prórroga de alquileres y tope del 2 %), derogado el 28 de abril de 2026 por 166 votos a favor y 177 en contra [6]. También apoyó los decretos 26/2026 y 27/2026, derogados el 2 de octubre, aunque Ione Belarra los calificó de «migajas» [7]. El 12 de noviembre, en la Diputación Permanente, votó a favor de sus versiones reaprobadas: el RDL 29/2026 se convalidó por 35 a 34 y el 28/2026 cayó por 34 a 35 [11][12].
 
-La coherencia mide las actuaciones, no el resultado: sus iniciativas y votos van en la línea de su propuesta, aunque no lograron mayoría.
+La coherencia mide las actuaciones, no el resultado: sus iniciativas y votos van en la línea de su propuesta, aunque no lograron mayoría. La rebaja del 40 % y la expropiación de uso que defendió en sus mociones [2] [4] [5] siguen en el programa [13].

@@ -71,7 +71,7 @@ gravedad:
       delito: "prevaricación (art. 404 CP: inhabilitación especial de 9 a 15 años) y obstrucción a la justicia (las fuentes no precisan el artículo; la del art. 464 CP se castiga con prisión de 1 a 4 años)"
       clasificacion: grave
 fecha: 2026-10-22
-actualizado: 2026-11-06
+actualizado: 2026-11-19
 fuentes:
   - titulo: "El juez Pedraz rechaza imputar «en este momento» al PSOE en el caso Leire Díez"
     url: https://www.eldiario.es/politica/juez-pedraz-rechaza-imputar-momento-psoe-caso-leire-diez_1_13574529.html
@@ -227,6 +227,16 @@ fuentes:
     medio: ESdiario
     fecha: 2026-09-10
     tipo: prensa
+  - titulo: "El juez del caso Forestalia se inhibe a favor de Pedraz por la conexión con el caso Leire"
+    url: https://www.infobae.com/espana/agencias/2026/11/18/el-juez-del-caso-forestalia-se-inhibe-a-favor-de-pedraz-por-la-conexion-con-el-caso-leire/
+    medio: Infobae (EFE)
+    fecha: 2026-11-18
+    tipo: prensa
+  - titulo: "Un juez de Teruel envía a Pedraz el 'caso Forestalia' tras detectar \"gestiones\" de Cerdán ante el Gobierno para lograr pelotazos"
+    url: https://www.elespanol.com/espana/tribunales/20261118/juez-teruel-envia-pedraz-caso-forestalia-detectar-gestiones-cerdan-gobierno-lograr-pelotazos/1003744462613_0.html
+    medio: El Español
+    fecha: 2026-11-18
+    tipo: prensa
 ---
 
 ## Hechos
@@ -245,7 +255,11 @@ El 10 de julio el juez imputó, también a petición de Anticorrupción, a Juan 
 
 El 29 de julio Pedraz citó como investigado, a petición de la acusación popular que coordina el PP, a Leonardo Marcos, director general de la Guardia Civil entre junio de 2023 y septiembre de 2024 [28][29]. El exjefe de la UCO Rafael Yuste sostiene que Marcos presionó para que la unidad «se pusiera de perfil» en la investigación del juzgado de Badajoz sobre David Sánchez y que pidió un nuevo informe que concluyera que «no había nada» [28][29]. A comienzos de julio el juez había dejado fuera a Marcos, cuya imputación no pedía la Fiscalía [18][19]. Declaró el 10 de septiembre [30][31]. Las fuentes no precisan los delitos que se le atribuyen, por lo que no figura en la gravedad de esta ficha.
 
-El juez pidió el 6 de octubre al servicio jurídico del PSOE la relación de abogados, despachos y consultoras contratados entre 2021 y 2025, con los encargos y los justificantes de los servicios, dejando a salvo el secreto profesional. Al no recibir respuesta, el 20 de octubre reiteró el requerimiento con un plazo de dos días [7]. El PSOE presentó un escrito en el que alega la confidencialidad entre abogado y cliente y dice haber consultado al Colegio de Abogados si puede entregar los contratos [8]. El 23 de octubre el juez rechazó que esa consulta suspendiera el requerimiento y dio al partido 15 días para entregar la documentación «sin más demora»; si invoca el secreto profesional, debe identificar cada documento y su fundamento legal [12]. En un auto conocido el 3 de noviembre prorrogó la instrucción seis meses, del 10 de diciembre de 2026 al 10 de junio de 2027, porque faltan las declaraciones como investigados de Cerdán, Díez, Zarrías y el empresario Javier Pérez Dolset y el análisis de lo intervenido en los registros de mayo, entre ellos el de la sede de Ferraz; no descarta nuevas diligencias [13]. Última situación documentada: 3 de noviembre de 2026.
+El juez pidió el 6 de octubre al servicio jurídico del PSOE la relación de abogados, despachos y consultoras contratados entre 2021 y 2025, con los encargos y los justificantes de los servicios, dejando a salvo el secreto profesional. Al no recibir respuesta, el 20 de octubre reiteró el requerimiento con un plazo de dos días [7]. El PSOE presentó un escrito en el que alega la confidencialidad entre abogado y cliente y dice haber consultado al Colegio de Abogados si puede entregar los contratos [8]. El 23 de octubre el juez rechazó que esa consulta suspendiera el requerimiento y dio al partido 15 días para entregar la documentación «sin más demora»; si invoca el secreto profesional, debe identificar cada documento y su fundamento legal [12]. En un auto conocido el 3 de noviembre prorrogó la instrucción seis meses, del 10 de diciembre de 2026 al 10 de junio de 2027, porque faltan las declaraciones como investigados de Cerdán, Díez, Zarrías y el empresario Javier Pérez Dolset y el análisis de lo intervenido en los registros de mayo, entre ellos el de la sede de Ferraz; no descarta nuevas diligencias [13].
+
+Por un auto del 17 de noviembre de 2026, el juez Juan José Cortés, titular del Juzgado de Instrucción número 1 de Teruel, se inhibió en el caso Forestalia en favor del Juzgado Central de Instrucción número 5 de la Audiencia Nacional, el de Pedraz, al concluir que sus diligencias son «una parte o rama» del caso Leire por la coincidencia de investigados y la conexión entre los hechos [32][33]. El auto recoge reuniones entre mayo y julio de 2021 en el domicilio en Zaragoza del fundador de Forestalia, Fernando Samper, con Cerdán y Antxon Alonso [32], y, según El Español, «gestiones» de Cerdán ante el Ministerio para la Transición Ecológica para «obtener permisos» para la empresa [33]. Según el auto, Alonso compró en mayo de 2022 por 141.000 euros las promotoras de los parques fotovoltaicos Masía I y Masía II, en Teruel, que se revendieron al entorno empresarial de Forestalia por 6,8 millones tras obtener las autorizaciones; el juez apunta que esas operaciones podrían haber servido para obtener fondos con los que pagar a directivos del ministerio, una hipótesis pendiente de confirmar con los informes policiales [32]. Considera que el delito más grave de los investigados sería el cohecho, que se habría consumado en el ministerio, y que los hechos no se cometieron en Teruel, sino en Madrid y Zaragoza; en Teruel aún no había declarado ningún investigado [32]. Pedraz ya investiga en el caso Leire a Cerdán, a Alonso y a Samper [33]; las fuentes no dicen que Cerdán estuviera investigado en la causa de Teruel. La inhibición es recurrible, y el abogado de una de las acusaciones populares, la Asociación de Defensa Integral de Víctimas del Delito Especializada, se plantea recurrirla para que la Audiencia Provincial de Teruel decida si la causa debe seguir allí [33]. No consta en las fuentes que la Audiencia Nacional haya aceptado la inhibición. Las fuentes de la ficha tampoco recogen la versión de Cerdán, Alonso, Samper o el ministerio sobre los hechos que describe el auto.
+
+El 18 de noviembre el PSOE entregó a Pedraz la lista de despachos de abogados y consultoras que contrató entre 2021 y 2025; el juez aceptó su petición de mantenerla en secreto y la llevó a una de las piezas secretas de la causa, a la que solo tiene acceso la Fiscalía Anticorrupción [33]. Última situación documentada (18 de noviembre de 2026).
 
 ## Lo que dicen las partes
 

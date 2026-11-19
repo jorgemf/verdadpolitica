@@ -1,10 +1,10 @@
 ---
 partido: frente-amplio
 tema: modelo-territorial
-propuesta: "Frente Amplio no ha presentado propuestas territoriales nuevas. Las últimas oficiales son las de Sumar en 2023: reconocer a España como «una realidad plurinacional, un país de países» y negociar un nuevo pacto territorial para desarrollar los autogobiernos y el gobierno compartido."
+propuesta: "Avanzar hacia una «República Federal» y plurinacional con «el derecho a decidir mediante referéndum»; un pacto territorial con lectura federal de la Constitución; ley de plurilingüismo; reformar la financiación autonómica con un 2,3 % del PIB más al año y condonar deuda a las comunidades que no hagan «dumping fiscal»."
 balance: "Firmó la reforma del Reglamento que permite las lenguas cooficiales en el Congreso (2023) y votó la ley de amnistía, aprobada en 2024 por 177 votos a 172, que había propuesto antes de la investidura. Apoyó la delegación de inmigración a Cataluña, rechazada en 2025 con dos votos en contra de sus diputados."
 coherencia: coherente
-actualizado: 2026-11-12
+actualizado: 2026-11-19
 fuentes:
   - titulo: "Un programa para ti. Programa electoral de Sumar para las elecciones generales de 2023"
     url: https://movimientosumar.es/wp-content/uploads/2023/07/Un-Programa-para-ti.pdf
@@ -60,12 +60,19 @@ fuentes:
     medio: El Debate (Europa Press)
     fecha: 2026-10-19
     tipo: prensa
+  - titulo: "Un programa como una casa. Programa electoral de Frente Amplio para las elecciones generales del 29 de noviembre de 2026"
+    url: https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf
+    medio: Frente Amplio
+    fecha: 2026-11-16
+    tipo: partido
 ---
 
-A 12 de noviembre de 2026 Frente Amplio no ha publicado su programa para el 29-N. Las propuestas oficiales más recientes son las del programa de Sumar de 2023, que definía España como "una realidad plurinacional, un país de países" y proponía un nuevo pacto territorial "para un mejor desarrollo de los autogobiernos y del gobierno compartido" [1]. La coalición integra partidos de ámbito autonómico como Catalunya en Comú y Chunta Aragonesista.
+El programa de Frente Amplio para el 29-N, «Un programa como una casa» (16 de noviembre de 2026), plantea como horizonte «un modelo de Estado republicano federal y plurinacional, que regule el referéndum» [12]. Propone promover el debate para cambiar el modelo territorial de la Constitución «en un sentido federal y plurinacional incluyendo el derecho a decidir mediante referéndum para resolver definitivamente la cuestión territorial»; un pacto territorial basado en «el máximo desarrollo de los Estatutos de Autonomía y de la Constitución a partir de una lectura federal»; un Senado que sea «una verdadera cámara de representación territorial», y una ley del plurilingüismo para que la ciudadanía pueda relacionarse con las instituciones del Estado en las lenguas cooficiales (apartado 18.1). En financiación, reformar de inmediato el sistema autonómico partiendo de la propuesta del Gobierno de coalición, con «al menos un 2,3 % del PIB adicional» cada año (unos 38.000 millones), y condonar deuda autonómica a condición de no hacer «dumping fiscal o bajadas de impuestos a rentas altas», con un mínimo común de tributación en Patrimonio y Sucesiones (11.1 y 11.2) [12].
+
+Respecto al programa de Sumar de 2023, que definía España como "una realidad plurinacional, un país de países" y proponía un nuevo pacto territorial "para un mejor desarrollo de los autogobiernos y del gobierno compartido" [1], el de 2026 mantiene el pacto territorial y añade la república federal y el derecho a decidir mediante referéndum, que el de 2023 no mencionaba [1] [12]. La coalición integra partidos de ámbito autonómico como Catalunya en Comú y Chunta Aragonesista.
 
 En septiembre de 2023 Sumar registró con PSOE, ERC, PNV, EH Bildu y BNG la reforma del Reglamento del Congreso que permite usar el catalán, el euskera y el gallego en la Cámara [5]. Tras anunciarlo a principios de octubre [6], el 10 de octubre de 2023, antes de la investidura, presentó en Barcelona una propuesta de ley de amnistía elaborada por un grupo de juristas [8]. En noviembre de 2025 cuatro de sus diputados firmaron con ERC, EH Bildu, PNV y BNG una ley de garantía del plurilingüismo, que se tomó en consideración el 9 de diciembre de 2025 por 174 votos a 170 [7]; su plazo de enmiendas se amplió hasta la disolución y caducó el 6 de octubre de 2026 [9].
 
 En la legislatura, el grupo Sumar votó a favor de la ley de amnistía, que el Congreso aprobó definitivamente el 30 de mayo de 2024 por 177 votos a 172, con PP, Vox, UPN y Coalición Canaria en contra [3]. Se publicó como Ley Orgánica 1/2024 [2]. Su aplicación corresponde a los tribunales: el 6 de octubre de 2026 el Tribunal Constitucional amparó, por 7 votos a 5, a la exconsellera Dolors Bassa y consideró amnistiable la malversación del 1-O, y por auto de 16 de octubre, difundido el 19, el juez del Supremo Pablo Llarena confirmó por esa doctrina el levantamiento de las órdenes de detención contra Carles Puigdemont, Toni Comín y Lluís Puig, sin que ello suponga el sobreseimiento de la causa [10] [11]. También apoyó la proposición de ley pactada por PSOE y Junts para delegar en Cataluña competencias de inmigración, entre ellas los permisos de residencia y la gestión de los CIE, que el Congreso rechazó el 23 de septiembre de 2025 por 177 votos a 173. En esa votación el grupo se dividió: Alberto Ibáñez (Compromís) y Jorge Pueyo (CHA) votaron en contra junto a PP, Vox, Podemos y UPN [4].
 
-La propuesta es coherente con los votos de Sumar en la legislatura, con la excepción de esos dos diputados en la delegación de inmigración.
+Los votos del grupo Sumar en la legislatura van en la línea de su propuesta. En la delegación de inmigración a Cataluña el grupo votó a favor y dos de sus diputados, de Compromís y CHA, en contra [4]. La ley del plurilingüismo que recoge el programa es la que firmaron cuatro de sus diputados en 2025 [7] [12]. Las fuentes de esta entrada no recogen actuaciones de la legislatura sobre el referéndum o la forma de Estado, que el programa plantea como horizonte de reforma constitucional.

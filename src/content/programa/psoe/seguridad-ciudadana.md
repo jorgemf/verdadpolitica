@@ -1,10 +1,10 @@
 ---
 partido: psoe
 tema: seguridad-ciudadana
-propuesta: "Sin propuestas nuevas para el 29-N, las últimas oficiales son las del programa de 2023 (más plantilla de la Guardia Civil en el medio rural, una reforma para desalojar a los ocupas ilegales en 48 horas como máximo, combatir las mafias de la ocupación) y el compromiso con Sumar de reformar la «ley mordaza»."
+propuesta: "Una nueva Ley de Seguridad Ciudadana que sustituya a la de 2015, más policías y guardias civiles redistribuidos según población y dispersión, un Plan Nacional contra el Narcotráfico, un servicio estatal para víctimas de ciberestafas y, en ocupación, desalojos en 48 horas y más recursos para los juicios rápidos."
 balance: "Firmó la reforma de la «ley mordaza», que caducó en ponencia, y votó con PP y Junts la ley de multirreincidencia. No presentó la reforma de desalojos en 48 horas: apoyó tramitar la de Junts, que no pasó de enmiendas, y votó contra la ley del PP y contra los juicios rápidos por ocupación."
-coherencia: coherente
-actualizado: 2026-11-12
+coherencia: parcial
+actualizado: 2026-11-19
 fuentes:
   - titulo: "Programa electoral del PSOE. Elecciones generales 23 de julio de 2023"
     url: https://www.psoe.es/media-content/2023/07/PROGRAMA_ELECTORAL-GENERALES-2023.pdf
@@ -75,9 +75,16 @@ fuentes:
     medio: BOE
     fecha: 2025-01-03
     tipo: oficial
+  - titulo: "La fuerza de seguir avanzando. Programa elecciones generales 29 noviembre 2026"
+    url: https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf
+    medio: PSOE
+    fecha: 2026-11-15
+    tipo: partido
 ---
 
-A 12 de noviembre de 2026 el PSOE no ha publicado su programa para el 29-N ni ha anunciado medidas nuevas de seguridad ciudadana. Las propuestas oficiales más recientes son las del programa de 2023: aumentar la plantilla de la Guardia Civil en el medio rural, porque «la apuesta por la permanencia de la Guardia Civil en el territorio pasa por el incremento de las plantillas»; impulsar «la reforma Legislativa normativa para garantizar el desalojo de los ocupas ilegales en un plazo máximo de 48 horas»; combatir «las estructuras mafiosas que delinquen con las ocupaciones de vivienda»; y reforzar la ciberseguridad [1]. Ese programa no mencionaba la ley de seguridad ciudadana. El acuerdo de Gobierno con Sumar de octubre de 2023 sí incluyó reformar y derogar los aspectos de la «ley mordaza» que limitan los derechos de reunión y expresión [2].
+El programa del PSOE para el 29-N, «La fuerza de seguir avanzando» (15 de noviembre de 2026), promete «aprobar una nueva Ley de Seguridad Ciudadana que sustituya a la Ley Orgánica 4/2015», con garantías para los derechos de reunión y manifestación, «un régimen sancionador preciso», identificaciones sin discriminación y cámaras corporales en la Policía Nacional y la Guardia Civil (compromiso 431). Propone incrementar y redistribuir los efectivos de ambos cuerpos «según la población, la dispersión territorial y las jubilaciones», con más seguridad rural y patrullas de proximidad (425); un servicio estatal de atención a las víctimas de ciberestafas, con más responsabilidad de bancos y operadoras en su prevención y reembolso (426); el «primer Plan Nacional Integral contra el Narcotráfico» y el refuerzo del Plan Especial del Campo de Gibraltar (427), y dejar de aplicar el Código Penal Militar a la Guardia Civil en funciones policiales (429). Sobre la ocupación, quiere una justicia con «desalojo de viviendas ocupadas en 48 horas» (pág. 101) y, «sobre la base de la puesta en marcha de juicios rápidos para el allanamiento de morada y la usurpación que existen desde 2025», seguir «combatiendo las mafias de la ocupación» y dar recursos a los juzgados de guardia para tramitar esos delitos (438). Cuenta entre los logros de la legislatura que la ocupación ilegal se juzga por juicios rápidos desde abril de 2025 gracias a la Ley de Eficiencia del Servicio Público de Justicia (pág. 101) [15].
+
+El programa de 2023 proponía aumentar la plantilla de la Guardia Civil en el medio rural, porque «la apuesta por la permanencia de la Guardia Civil en el territorio pasa por el incremento de las plantillas»; impulsar «la reforma Legislativa normativa para garantizar el desalojo de los ocupas ilegales en un plazo máximo de 48 horas»; combatir «las estructuras mafiosas que delinquen con las ocupaciones de vivienda»; y reforzar la ciberseguridad [1]. No mencionaba la ley de seguridad ciudadana, cuya reforma sí incluyó el acuerdo de Gobierno con Sumar de octubre de 2023: reformar y derogar los aspectos de la «ley mordaza» que limitan los derechos de reunión y expresión [2]. El de 2026 la convierte en compromiso propio y mantiene el plazo de 48 horas para los desalojos, sin concretar qué reforma legal lo garantizaría [15].
 
 En la legislatura:
 - El Grupo Socialista firmó con Sumar, EH Bildu y PNV la proposición de ley orgánica de protección de las libertades y seguridad ciudadana, que el Pleno tomó en consideración el 29 de octubre de 2024 por 176 votos a 170 [3].
@@ -92,4 +99,4 @@ Sobre la ocupación ilegal:
 
 En los datos abiertos del Congreso, descargados el 23 de octubre de 2026, no consta ninguna proposición de ley del Grupo Socialista sobre ocupación ilegal en la XV legislatura, y el único texto del Gobierno con medidas de desalojo es el proyecto de Ley de Enjuiciamiento Criminal citado, que no fija el plazo máximo de 48 horas prometido [12][13].
 
-Coherencia: coherente, con una salvedad. El PSOE presentó con sus socios la reforma de la ley de seguridad ciudadana pactada en el acuerdo de Gobierno; su bloqueo se debe a las discrepancias entre esos socios (ver fichas de las dos legislaturas). Su apoyo a la ley de multirreincidencia no choca con su programa. En ocupación ilegal no llevó a las Cortes la reforma de los desalojos en 48 horas que prometió, pero apoyó tramitar la de Junts, que fijaba ese mismo plazo. Sus dos votos en contra fueron sobre medidas distintas de la prometida: el juicio rápido por usurpación de la enmienda del PNV y el requerimiento de 24 horas, con más penas, de la ley del PP. Su argumento fue que favorecían a los grandes tenedores y que el marco vigente es suficiente [8][10]. Según la guía, no impulsar una promesa no rebaja la coherencia, y esos votos no son incompatibles con el plazo de 48 horas; la promesa sigue sin cumplirse.
+Coherencia parcial. El PSOE presentó con sus socios la reforma de la ley de seguridad ciudadana pactada en el acuerdo de Gobierno, que ahora promete sustituir; su bloqueo se debe a las discrepancias entre esos socios (ver fichas de las dos legislaturas). Su apoyo a la ley de multirreincidencia no choca con su programa. En ocupación ilegal no llevó a las Cortes la reforma de los desalojos en 48 horas que prometió, pero apoyó tramitar la de Junts, que fijaba ese mismo plazo; no haberla presentado es una omisión, no una actuación contraria. Su voto contra el requerimiento de 24 horas, con más penas, de la ley del PP se refería a una medida distinta de la que propone, y lo justificó en que favorecía a los grandes tenedores [10]. La rebaja el juicio rápido por usurpación y allanamiento: el PSOE votó en noviembre de 2024 contra la enmienda del PNV que lo introdujo [7], y el programa de 2026 lo presenta como un logro y lo toma como base de su propuesta contra la ocupación [15]. Es un voto en contra de una medida que ahora propone, y fundamenta la valoración parcial.

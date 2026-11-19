@@ -1,10 +1,10 @@
 ---
 partido: frente-amplio
 tema: empleo-pensiones
-propuesta: "Reducir la jornada laboral a 32 horas semanales y crear empleo industrial vinculado a las renovables. Mantiene la subida del salario mínimo y la reforma del subsidio de desempleo que impulsó el Ministerio de Trabajo de Yolanda Díaz."
+propuesta: "Jornada de 37,5 horas de inmediato y reducción progresiva hasta 32 sin rebaja salarial; SMI por ley de al menos el 60 % del salario medio neto; prestación por desempleo del 80 % los seis primeros meses; jubilación a los 65 años, y llevar a la Constitución la revalorización con el IPC y que ninguna pensión baje del SMI."
 balance: "Desde Trabajo subió el SMI hasta 1.221 euros en 14 pagas en 2026 y aprobó la reforma del subsidio de desempleo. La reducción de la jornada a 37,5 horas fue tumbada por PP, Vox y Junts en septiembre de 2025 y no volvió a presentarse."
 coherencia: coherente
-actualizado: 2026-11-12
+actualizado: 2026-11-19
 fuentes:
   - titulo: "Ada Colau lanza el Frente Amplio contra los fondos buitre y advierte al PSOE: «No basta con movilizar el miedo»"
     url: https://diariosabemos.com/analisis/cronica/ada-colau-frente-amplio-psoe-podemos-vivienda-elecciones_519414_102.html
@@ -46,10 +46,27 @@ fuentes:
     medio: Frente Amplio
     fecha: 2026-10-24
     tipo: partido
+  - titulo: "Un programa como una casa. Programa electoral de Frente Amplio para las elecciones generales del 29 de noviembre de 2026"
+    url: https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf
+    medio: Frente Amplio
+    fecha: 2026-11-16
+    tipo: partido
+  - titulo: "Referencia del Consejo de Ministros. 17 de noviembre de 2026"
+    url: https://www.lamoncloa.gob.es/consejodeministros/referencias/Paginas/2026/20261117-referencia-rueda-de-consejo-ministros.aspx
+    medio: La Moncloa
+    fecha: 2026-11-17
+    tipo: oficial
+  - titulo: "El Consejo de Ministros y el BOE: decretos-leyes 38 y 39/2026, cambios fiscales, financiación autonómica y nuevos derechos laborales"
+    url: https://www.nuevatribuna.es/actualidad/consejo-ministros-boe-decretos-leyes-38-39-2026-cambios-fiscales-financiacion-autonomica-nuevos-derechos-laborales/20261118202006256534.html
+    medio: Nueva Tribuna
+    fecha: 2026-11-18
+    tipo: prensa
 ---
 
-A 12 de noviembre de 2026 Frente Amplio no ha publicado su programa para el 29-N. En la presentación de la candidatura, Emilio Delgado propuso reducir la jornada a 32 horas semanales y crear empleo industrial ligado a las renovables, el almacenamiento y la economía circular [1]. El 24 de octubre propuso una «Pensión Mínima Garantizada» para que ninguna pensión quede por debajo del salario mínimo (1.221 euros; según la coalición, unos 4,6 millones de pensionistas cobran menos) y «fijar de forma efectiva la jubilación en los 65 años». Calcula que ambas medidas costarían unos 20.000 millones de euros al año [8].
+El programa de Frente Amplio para el 29-N, «Un programa como una casa» (16 de noviembre de 2026), propone la «implantación inmediata a 37,5 horas en 2026 y 35 horas en el sector público» y reducir después la jornada «de forma progresiva hasta las 32 horas semanales» sin reducción salarial; garantizar por ley que el salario mínimo mantenga «un suelo permanente equivalente al 60 % del salario medio neto»; un gravamen del 30 % sobre el aumento del beneficio de las empresas que facturen más de 50 millones si no suben los salarios al menos con la inflación; una indemnización por despido improcedente que «repare el daño real», y subir la prestación por desempleo del 70 % al 80 % de la base reguladora en los seis primeros meses (apartado 4.1) [9]. En pensiones, una reforma constitucional por el procedimiento ordinario para incluir entre los derechos de la Sección 2.ª la «revalorización automática con arreglo al IPC», que ninguna pensión sea inferior al salario mínimo y que no se privatice su gestión; devolver la edad de jubilación a los 65 años, permitir jubilarse a los 60 en oficios penosos como la construcción, la limpieza o la pesca, y eliminar los coeficientes reductores para quienes se jubilan anticipadamente de forma involuntaria tras más de 40 años cotizados (4.3) [9].
 
-El empleo es el área en la que Sumar gestionó más directamente, a través del Ministerio de Trabajo. El salario mínimo llegó a 1.221 euros mensuales en 14 pagas en 2026 [2]. La reforma del subsidio de desempleo se aprobó en mayo de 2024, después de que el Congreso derogara en enero una primera versión que rebajaba del 125 % al 105 % la base de cotización para la jubilación de los parados mayores de 52 años; el texto definitivo recuperó el 125 % [4] [6] [7]. La gran medida pendiente fue la reducción de la jornada máxima a 37,5 horas: el proyecto de ley se devolvió al Gobierno el 10 de septiembre de 2025 con los votos de PP, Vox, Junts y UPN [3]. El Plan Anual Normativo de 2026 no lo volvió a incluir [5].
+Recoge las 32 horas que propuso Emilio Delgado en la presentación de la candidatura [1] y la pensión mínima igual al salario mínimo y la jubilación a los 65 años anunciadas el 24 de octubre, pero no repite la estimación de su coste (unos 20.000 millones de euros al año) que dio entonces la coalición [8] [9]. A diferencia de esos anuncios, el programa recupera como paso inmediato la jornada de 37,5 horas que el Congreso rechazó en 2025 [3] [9].
 
-La propuesta de las 32 horas es coherente con lo que Sumar defendió en la legislatura y con su programa de 2023. La reducción de jornada se frenó por falta de mayoría en el Congreso. La valoración de coherencia se refiere a la jornada y al salario mínimo; las propuestas de pensiones del 24 de octubre de 2026 se recogen como anuncio y su historial en la legislatura está pendiente de revisar.
+El empleo es el área en la que Sumar gestionó más directamente, a través del Ministerio de Trabajo. El salario mínimo llegó a 1.221 euros mensuales en 14 pagas en 2026 [2]. Ya disueltas las Cortes, el Consejo de Ministros aprobó el 17 de noviembre de 2026, a propuesta del Ministerio de Trabajo, el real decreto que fija el SMI de 2027 en 1.286 euros al mes en 14 pagas (18.004 euros al año), un 5,3 % más, desde el 1 de enero de 2027 [10]. Ese día aprobó también el Real Decreto-ley 38/2026, que eleva la deducción del IRPF sobre los rendimientos del trabajo para que no tribute quien cobre el SMI de 2027, de forma decreciente hasta los 23.172 euros anuales; está pendiente de convalidación parlamentaria [10][11]. La reforma del subsidio de desempleo se aprobó en mayo de 2024, después de que el Congreso derogara en enero una primera versión que rebajaba del 125 % al 105 % la base de cotización para la jubilación de los parados mayores de 52 años; el texto definitivo recuperó el 125 % [4] [6] [7]. La principal medida pendiente fue la reducción de la jornada máxima a 37,5 horas: el proyecto de ley se devolvió al Gobierno el 10 de septiembre de 2025 con los votos de PP, Vox, Junts y UPN [3]. El Plan Anual Normativo de 2026 no lo volvió a incluir [5].
+
+La propuesta de las 32 horas es coherente con lo que Sumar defendió en la legislatura y con su programa de 2023. La reducción de jornada se frenó por falta de mayoría en el Congreso. La subida del salario mínimo que gestionó Trabajo va en la línea del suelo legal que propone ahora [2] [9]. La valoración de coherencia se refiere a la jornada y al salario mínimo: las fuentes de esta entrada no recogen actuaciones de la legislatura sobre las propuestas de pensiones del programa (jubilación a los 65 años y pensión mínima igual al salario mínimo).

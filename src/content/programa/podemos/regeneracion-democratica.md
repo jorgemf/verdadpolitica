@@ -1,10 +1,10 @@
 ---
 partido: podemos
 tema: regeneracion-democratica
-propuesta: "Cambiar la elección del CGPJ para que no dependa del acuerdo entre PP y PSOE, prohibir en la ley mordaza las pelotas de goma y los rechazos en frontera, y vetar en la contratación pública a empresas implicadas en corrupción (proposiciones de ley de Podemos, 2024-2025)."
+propuesta: "Referéndum entre monarquía y república, quitar la inviolabilidad del Rey, suprimir los aforamientos y la Audiencia Nacional, elegir los vocales judiciales del CGPJ por mayoría absoluta y la mitad de los grupos, instrucción por la Fiscalía y vetar la contratación de empresas con indicios judiciales de corrupción."
 balance: "Votó contra la reforma del CGPJ pactada por PP y PSOE en julio de 2024 (259 a 43), tras ver rechazado su texto alternativo (4 a 297). Sus leyes sobre el CGPJ, la ley mordaza y la corrupción caducaron sin debatirse. En la reforma conjunta de la ley mordaza pidió un plazo para prohibir las pelotas de goma."
 coherencia: coherente
-actualizado: 2026-11-12
+actualizado: 2026-11-19
 fuentes:
   - titulo: "Proposición de Ley Orgánica por la que se modifica la Ley Orgánica 6/1985, del Poder Judicial, para la reforma del procedimiento de elección de los Vocales del Consejo General del Poder Judicial (122/000094)"
     url: https://www.congreso.es/public_oficiales/L15/CONG/BOCG/B/BOCG-15-B-107-1.PDF
@@ -41,12 +41,19 @@ fuentes:
     medio: Congreso de los Diputados
     fecha: 2026-10-19
     tipo: oficial
+  - titulo: "Así de básico: Paz, casa y trabajo. Programa electoral de Podemos para las elecciones generales del 29N"
+    url: https://podemos.info/wp-content/uploads/2026/11/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf
+    medio: Podemos
+    fecha: 2026-11-17
+    tipo: partido
 ---
 
-A 12 de noviembre de 2026 Podemos no ha publicado un programa completo para el 29-N. La propuesta recoge sus proposiciones de ley de la legislatura. La del CGPJ (abril de 2024) prevé que, si no se alcanzan los tres quintos, los vocales del turno judicial se elijan por mayoría absoluta con el respaldo de la mitad de los grupos parlamentarios [1]. La de seguridad ciudadana prohíbe expresamente el uso de pelotas de goma y busca evitar las «devoluciones en caliente» [2]. La de junio de 2025 veta la contratación pública de empresas que hayan participado en casos de corrupción [3].
+El programa de Podemos para el 29-N, «Así de básico: Paz, casa y trabajo» (17 de noviembre de 2026), propone un proceso constituyente con un referéndum entre monarquía y república (medida 406) y reformar el artículo 56.3 de la Constitución para «eliminar la inviolabilidad del Rey», con una comisión de investigación sobre «los negocios de la monarquía» (medida 407); prohibir que los partidos financien sus campañas con créditos bancarios o del ICO (medida 408) y suprimir los aforamientos (medida 409) (p. 128) [8]. Para el CGPJ, que los doce vocales del turno judicial se elijan por «mayoría absoluta y el respaldo de al menos la mitad de los grupos parlamentarios» (medida 414, p. 129). Encargaría la instrucción penal al Ministerio Fiscal (medida 416), suprimiría la Audiencia Nacional (medida 420) y restablecería la justicia universal (medida 421) (pp. 130-131); aprobaría una Ley de Secretos Oficiales con desclasificación automática en un máximo de 20 años (medida 426) y prohibiría contratar con empresas implicadas en corrupción «desde que existan indicios judiciales de su participación» (medida 428) (p. 133). Plantea además derogar la ley de seguridad ciudadana y prohibir las pelotas de goma (medida 427, p. 133) [8].
+
+El sistema de elección del CGPJ es el de su proposición de ley de 2024 [1], el veto a las empresas corruptas retoma su ley de junio de 2025 [3] y la prohibición de las pelotas de goma, su ley de seguridad ciudadana de 2024 [2].
 
 En la legislatura, Podemos presentó un texto alternativo a la reforma del Poder Judicial pactada por PP y PSOE, que obtuvo 4 votos a favor y 297 en contra [4]. El 23 de julio de 2024 votó contra la reforma, aprobada por 259 votos a favor, 43 en contra y 32 abstenciones [5]. Ninguna de sus leyes sobre estos asuntos llegó a debatirse; todas caducaron con la disolución [7].
 
 En la reforma de la ley mordaza que tramitaba el Congreso, Podemos pidió fijar un plazo concreto para prohibir las pelotas de goma y prohibir expresamente el rechazo en frontera; consideró «demasiado tibia» la regulación acordada por el Gobierno con EH Bildu [6]. La reforma caducó con la disolución sin haber salido de la ponencia [6] [7].
 
-La coherencia mide las actuaciones, no el resultado: sus votos e iniciativas van en la línea de su propuesta.
+La coherencia mide las actuaciones, no el resultado: sus votos e iniciativas van en la línea de su propuesta, y el programa recoge el contenido de esas proposiciones de ley [8].

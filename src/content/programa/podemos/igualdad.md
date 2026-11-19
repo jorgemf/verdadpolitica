@@ -1,10 +1,10 @@
 ---
 partido: podemos
 tema: igualdad
-propuesta: "Elevar a 1.000 millones el presupuesto contra las violencias machistas y remunerar el permiso de ocho semanas para el cuidado de hijos (Irene Montero, noviembre de 2026), y ampliar la ley integral de violencia de género de 2004 a toda violencia contra las mujeres (proposición de ley de 2024)."
+propuesta: "Un fondo de 1.000 millones contra todas las violencias machistas, ampliar su definición legal más allá de la pareja, sacar el aborto del Código Penal e incluirlo en la Constitución, permisos por nacimiento de 26 semanas por progenitor y un permiso parental de 10 semanas pagado al 100 %."
 balance: "Su ley para ampliar la de violencia de género caducó sin debatirse. Votó a favor de la ley de paridad (177 a 171) tras pactar con el PSOE que las mujeres puedan superar el 60 %, se abstuvo en la ley contra el proxenetismo del PSOE, rechazada en 2024, y votó contra la enmienda de Vox a la ley de violencia vicaria."
 coherencia: coherente
-actualizado: 2026-11-12
+actualizado: 2026-11-19
 fuentes:
   - titulo: "Paz, casa y trabajo. Cinco cosas (web de campaña de Podemos para el 29-N)"
     url: https://pazcasaytrabajo.es/
@@ -64,12 +64,19 @@ fuentes:
     medio: Telemadrid
     fecha: 2026-11-06
     tipo: prensa
+  - titulo: "Así de básico: Paz, casa y trabajo. Programa electoral de Podemos para las elecciones generales del 29N"
+    url: https://podemos.info/wp-content/uploads/2026/11/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf
+    medio: Podemos
+    fecha: 2026-11-17
+    tipo: partido
 ---
 
-A 12 de noviembre de 2026 Podemos no ha publicado un programa completo para el 29-N. Su web de campaña incluye «vidas libres de violencias machistas» entre sus ejes, sin más detalle [1]. El 6 de noviembre de 2026 Irene Montero propuso destinar los 24.000 millones de euros que, según los cálculos de Podemos, ha aumentado el gasto militar desde 2023 a otras partidas («para armas lo han encontrado, sobradamente»), entre ellas elevar a 1.000 millones de euros el presupuesto contra las violencias machistas y remunerar el permiso de ocho semanas para el cuidado de hijos e hijas [11][12]. Su propuesta legislativa más reciente en este tema es la proposición de ley que Ione Belarra registró el 8 de marzo de 2024 para ampliar el objeto de la ley integral de violencia de género de 2004 a «todos los actos de violencia contra las mujeres» de naturaleza física, sexual, psicológica o económica, más allá de la pareja o expareja [2]. Su programa europeo de 2024 proponía además una directiva que reconociera la violencia vicaria como violencia machista [10].
+El programa de Podemos para el 29-N, «Así de básico: Paz, casa y trabajo» (17 de noviembre de 2026), propone «un fondo de contingencia de mil millones de euros» para las políticas contra todas las formas de violencia machista, mediante la reforma de la Ley General Presupuestaria (medida 145), y eliminar del Código Penal «todas las referencias al aborto consentido» e incorporar el derecho al aborto al artículo 15 de la Constitución (medida 146) (p. 51) [13]. Añade una prestación equivalente al salario mínimo durante seis meses prorrogables para las víctimas (medida 151, p. 53); proteger a las «madres protectoras» frente a la violencia vicaria y desterrar de los juzgados el «síndrome de alienación parental» (medida 162), y actualizar la definición de violencia machista, hoy «limitada a la violencia ejercida por parejas y exparejas», conforme al Convenio de Estambul (medida 163) (p. 56). En permisos, ampliaría los de nacimiento, adopción y acogimiento a 26 semanas por progenitor, el doble en las familias monomarentales (medida 178), y el permiso parental a 10 semanas por progenitor, «remunerado al 100 %» (medida 180), y crearía una prestación por crianza del 15 % del salario mínimo por cada hijo hasta los 21 años (medida 179) (p. 60) [13].
+
+Su web de campaña solo incluía «vidas libres de violencias machistas» entre sus ejes [1]. El programa concreta como fondo de 1.000 millones el presupuesto contra las violencias machistas que Irene Montero anunció el 6 de noviembre, y en lugar de remunerar el permiso parental de ocho semanas que entonces propuso, lo amplía a diez [11] [12]. La nueva definición de violencia machista retoma su proposición de ley de 2024 [2], y la atención a la violencia vicaria ya figuraba en su programa europeo [10].
 
 En la legislatura, esa proposición de ley no llegó a debatirse en el Pleno y caducó con la disolución [3]. Podemos votó a favor de la ley de paridad, aprobada en el Congreso el 27 de junio de 2024 por 177 votos a favor y 171 en contra (PP, Vox y UPN) [4] [5]. A cambio de su apoyo, Belarra negoció con el PSOE una enmienda en comisión para que la cuota mínima no se aplique a los hombres; el texto final, «fruto del acuerdo entre el PSOE y Podemos», permite que las mujeres superen el 60 % de representación [5] [6].
 
 El 21 de mayo de 2024 Podemos se abstuvo en la toma en consideración de la ley del PSOE contra el proxenetismo, rechazada por 122 votos a favor, 184 en contra y 36 abstenciones (Podemos y Vox) [7]. El 30 de septiembre de 2026 votó contra la enmienda a la totalidad de Vox al proyecto de ley de violencia vicaria, rechazada por 34 votos a favor y 312 en contra; el proyecto caducó con la disolución en fase de enmiendas [8] [9].
 
-La coherencia mide las actuaciones, no el resultado: sus votos e iniciativas van en la línea de su propuesta.
+La coherencia mide las actuaciones, no el resultado: sus votos e iniciativas van en la línea de su propuesta. El programa no se pronuncia sobre la penalización del proxenetismo, por lo que su abstención de 2024 [7] no se opone a lo que propone.

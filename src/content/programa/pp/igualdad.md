@@ -4,7 +4,7 @@ tema: igualdad
 propuesta: "Revisar la Ley trans y eliminar la autodeterminación registral del sexo, el sexo biológico como criterio en el deporte femenino, pasar a Interior las pulseras de alejamiento, más especialización judicial en violencia sobre la mujer, una ley integral contra la trata y prohibir el burka y el niqab en espacios públicos."
 balance: "Apoyó en 2025, con todos los grupos salvo Vox, la renovación del Pacto de Estado contra la Violencia de Género. En 2024 votó contra la ley de paridad alegando una enmienda sobre la senda de déficit. El Congreso rechazó en 2025 sus leyes de conciliación y de especialización de los juzgados de violencia sobre la mujer."
 coherencia: coherente
-actualizado: 2026-11-12
+actualizado: 2026-11-19
 fuentes:
   - titulo: "Mi contrato con España"
     url: https://www.pp.es/wp-content/uploads/2026/10/CONTRATO-CON-ESPANA-.pdf
@@ -81,6 +81,21 @@ fuentes:
     medio: Partido Popular
     fecha: 2026-11-10
     tipo: partido
+  - titulo: "Diputación Permanente. Orden del día. Sesión n.º 11, miércoles 18 de noviembre de 2026"
+    url: https://www.congreso.es/backoffice_doc/atp/orden_dia/DP_011_112026.pdf
+    medio: Congreso de los Diputados
+    fecha: 2026-11-18
+    tipo: oficial
+  - titulo: "El Congreso convalida el título de familias monoparentales y más apoyos a 760.000 hogares"
+    url: https://publico.es/politica/congreso/congreso-convalida-titulo-familias-monoparentales-apoyos-760-000-hogares.html
+    medio: Público
+    fecha: 2026-11-18
+    tipo: prensa
+  - titulo: "La Diputación Permanente del Congreso convalida siete decretos ley aprobados en precampaña, con apoyo del PP"
+    url: https://www.diariosigloxxi.com/texto-ep/mostrar/20261118163824/diputacion-permanente-congreso-convalida-siete-decretos-ley-aprobados-precampana-apoyo-pp
+    medio: Diario Siglo XXI (Europa Press)
+    fecha: 2026-11-18
+    tipo: prensa
 ---
 
 El programa del PP para el 29-N, «Reconstrucción Nacional» (10 de noviembre de 2026), propone revisar «las normas que hayan generado inseguridad jurídica en nombre de la igualdad, como la Ley Trans», eliminar «la libre autodeterminación registral del sexo» y garantizar que «el sexo biológico sea el criterio para las categorías deportivas femeninas» (medida 115) [15]. En violencia de género, que los dispositivos que vigilan las órdenes de alejamiento pasen a depender del Ministerio del Interior, integrar los servicios asistenciales autonómicos y municipales en VioGen, rendir cuentas cada año del cumplimiento del Pacto de Estado y dar más medios y especialización a las secciones de violencia sobre la mujer (medidas 28 y 34). También una ley integral contra la trata de seres humanos (medida 29), prohibir el burka y el niqab en los espacios públicos (medida 43) y combatir la discriminación por cualquier circunstancia personal, «en particular» la LGTBIfobia (medida 111). En familia y conciliación recoge la gratuidad de la escuela de 0 a 3 años (medida 163), los bancos de horas (medida 162), ampliar los permisos por nacimiento (medida 160) y que «el concebido no nacido» compute para determinar las ayudas a la familia (medida 159). No menciona la ley de paridad ni la del aborto [15].
@@ -94,7 +109,7 @@ En la legislatura, sus iniciativas parlamentarias fueron en la misma línea:
 
 En la legislatura apoyó la renovación del Pacto de Estado contra la Violencia de Género. La subcomisión y la comisión de seguimiento aprobaron el texto en febrero de 2025 con el voto de todos los grupos salvo Vox (34 votos a favor y 3 en contra en la comisión) [7][8]. El 27 de junio de 2024 votó con Vox y UPN contra la ley de paridad, aprobada por 177 votos a 171. Su diputado Jaime de los Santos objetó una enmienda que permitía al Congreso aprobar la senda de déficit aunque el Senado la rechazara [9]. El 25 de marzo de 2025 el Pleno rechazó tomar en consideración su ley para reforzar la especialización de los jueces de las secciones de violencia sobre la mujer [10][11].
 
-En conciliación, el Gobierno vetó por su coste presupuestario la ley de conciliación y corresponsabilidad familiar que el PP registró en octubre de 2024, y el Pleno rechazó tomar en consideración su segunda versión el 14 de octubre de 2025, por 175 votos a 171 [12]. Incluía un banco de horas y la gratuidad de la educación de 0 a 3 años, dos medidas del programa de 2023 [2]. El detalle está en la ficha correspondiente.
+En conciliación, el Gobierno vetó por su coste presupuestario la ley de conciliación y corresponsabilidad familiar que el PP registró en octubre de 2024, y el Pleno rechazó tomar en consideración su segunda versión el 14 de octubre de 2025, por 175 votos a 171 [12]. Incluía un banco de horas y la gratuidad de la educación de 0 a 3 años, dos medidas del programa de 2023 [2]. El detalle está en la ficha correspondiente. Ya disueltas las Cortes, el 18 de noviembre de 2026 el PP votó en la Diputación Permanente a favor de convalidar el Real Decreto-ley 35/2026, que crea el título de familia monoparental y rebaja de cinco a cuatro hijos la categoría especial de familia numerosa; salió adelante con 62 votos a favor, 6 en contra (Vox) y una abstención (Junts) [16][17][18].
 
 En trata, el programa de 2023 prometía una ley orgánica integral contra la trata con fines de explotación sexual [2]. Tras votar en mayo de 2024 contra la ley del PSOE contra el proxenetismo, el PP anunció que presentaría su propia ley de trata [13]. No consta que la registrara: en el buscador del Congreso, consultado el 23 de octubre de 2026, el Grupo Popular solo figura con proposiciones no de ley, una de mayo de 2024 por un plan integral contra la trata y otra de abril de 2026, aprobada en comisión, que pedía al Gobierno aprobar con urgencia su ley integral contra la trata [14]. El programa de 2026 vuelve a prometer una ley integral contra la trata (medida 29) [15].
 

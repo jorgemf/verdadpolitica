@@ -3,8 +3,8 @@ partido: pp
 tema: vivienda
 propuesta: "Construir un millón de viviendas con una nueva Ley del Suelo y licencias en tres meses con silencio positivo, derogar la Ley de Vivienda, desalojar a los okupas en 48 horas y, para menores de 40 años, IVA del 4 % en la primera vivienda, aval público de hasta el 20 % del precio y la «Hucha Hogar Joven»."
 balance: "Sus leyes antiokupación y de seguridad jurídica urbanística caducaron en fase de enmiendas. En 2025 votó contra tramitar la reforma del suelo de PNV y PSOE, que también protegía los planes urbanísticos. Votó contra los decretos de vivienda: en octubre se derogaron; en noviembre se convalidó el RDL 29/2026."
-coherencia: coherente
-actualizado: 2026-11-13
+coherencia: parcial
+actualizado: 2026-11-19
 fuentes:
   - titulo: "Mi contrato con España"
     url: https://www.pp.es/wp-content/uploads/2026/10/CONTRATO-CON-ESPANA-.pdf
@@ -81,9 +81,16 @@ fuentes:
     medio: Infobae
     fecha: 2026-11-12
     tipo: prensa
+  - titulo: "Feijóo afirma que no dijo que iba a construir un millón de casas tras repetirlo en campaña e incluirlo en su programa"
+    url: https://www.eldiario.es/politica/feijoo-afirma-dijo-iba-construir-millon-casas-repetirlo-campana-e-incluirlo-programa_1_13668386.html
+    medio: elDiario.es
+    fecha: 2026-11-16
+    tipo: prensa
 ---
 
 El programa del PP para el 29-N, «Reconstrucción Nacional» (10 de noviembre de 2026), promete construir un millón de viviendas movilizando suelo público y privado, con una nueva Ley del Suelo, vivienda social en suelo dotacional, cambio de uso de oficinas y locales a vivienda asequible y licencias de obra resueltas «en tres meses, con silencio positivo» (medida 144) [13]. Propone derogar la Ley de Vivienda y eliminar las zonas tensionadas y el índice de precios (medida 145), un IVA del 4 % para la rehabilitación de la vivienda habitual (medida 148) y una ley para que el propietario recupere su vivienda ocupada «en 48 horas desde el primer día», que las comunidades de propietarios puedan pedir al juez el desalojo y que se anule el empadronamiento del ocupa (medida 157). Para los menores de 40 años, bajar del 10 % al 4 % el IVA de la compra de la primera vivienda y acordar con las comunidades un ITP reducido (medida 153); ampliar el aval público, «que cubre hasta el 20 % del valor de la vivienda», para que la hipoteca cubra también la entrada, con posibilidad de extenderlo hasta los 50 años (medida 154), y una «Hucha Hogar Joven» con aportaciones de hasta 2.000 euros al año y una deducción del 20 % (medida 155). Con la fórmula «Tres años+», los inquilinos tendrán una deducción en el IRPF según sus ingresos, y el propietario que renueve el contrato tres años más con una subida inferior al IPC, una deducción o un crédito fiscal (medida 156) [13].
+
+La medida 144 se titula «Construiremos un millón de viviendas», dentro del apartado «Se construirá un millón de viviendas más en España» [13]. En una entrevista con Politico, según elDiario.es del 16 de noviembre de 2026, Feijóo afirmó: «Yo no he dicho que vaya a hacer un millón de viviendas, he dicho que España necesita un millón de viviendas»; según ese diario, Politico editó después la respuesta, que quedó como «Yo no he dicho que vaya a hacer un millón de viviendas públicas». Según el mismo diario, en otra entrevista, en La Voz de Galicia, respondió sobre esa promesa: «Lo voy a cumplir porque tengo experiencia en la gestión de las cosas públicas durante 30 años» [16].
 
 Desarrolla lo anunciado en campaña. El "Contrato con España" (19 de octubre de 2026) se comprometía a "construir al menos un millón de nuevas viviendas" y a "echar a los okupas en 48 horas" [1]. El 21 de octubre, en Sevilla, Feijóo anunció avales de hasta el 100 %, rebajas del 60 % del IVA y del ITP para los menores de 40 años, la "Hucha Hogar Joven" y las deducciones para alquileres de hasta tres años, y se comprometió a aprobar en sus cien primeros días la Ley del Suelo, la ley antiokupación y la reforma de la Ley de Propiedad Horizontal [10][11]. El programa concreta la rebaja del IVA (del 10 % al 4 %, como el plan de enero de 2026 [2]) y el aval (hasta el 20 % del valor, para que la hipoteca financie la entrada), pero no cuantifica la rebaja del ITP ni recoge el plazo de los cien días [13]. El programa de 2023 prometía avales hipotecarios de hasta el 95 % del precio para los menores de 35 años y desalojos "en un plazo máximo de 24 horas" [12], el plazo que mantenía la ley antiokupación del PP de 2026 [3]. Ni el programa ni los documentos de campaña consultados explican el paso a 48 horas.
 
@@ -100,4 +107,4 @@ El 12 de noviembre, en la Diputación Permanente, votó también contra las vers
 
 Juan Bravo defendió "más viviendas y menos intervencionismo" [6].
 
-Sus iniciativas y sus votos contra los decretos del Gobierno van en la línea de lo que propone. El voto de febrero de 2025 contra la reforma del suelo del PNV no se considera una actuación contraria: aunque esa reforma incluía su medida 92 y los votos del PP fueron decisivos, el partido tenía registrada en el Senado una ley propia con la misma medida y alegó que la del PNV era incompleta [4]. Su alternativa tampoco llegó a aprobarse antes de la disolución [9].
+La coherencia es parcial. Sus leyes antiokupación y de seguridad jurídica urbanística y sus votos contra los decretos del Gobierno van en la línea de lo que propone. La rebaja su voto de febrero de 2025 contra la reforma de la Ley del Suelo del PNV y el PSOE: incluía la protección de los planes urbanísticos frente a las anulaciones parciales que el PP prometió en 2023 (medida 92), y sus votos fueron decisivos para rechazarla [4][12]. El programa de 2026 vuelve a prometer una Ley del Suelo que refuerce la seguridad jurídica del planeamiento (medida 144) [13]. El PP alegó que la reforma era incompleta porque no modificaba la Ley de Vivienda y defendió su propia ley, ya registrada en el Senado [4], que tampoco llegó a aprobarse antes de la disolución [9].

@@ -1,10 +1,10 @@
 ---
 partido: psoe
 tema: igualdad
-propuesta: "Sin programa del 29-N publicado, Sánchez prometió en junio de 2026 abolir la prostitución y blindar el aborto y el matrimonio igualitario en la Constitución. Sus compromisos pendientes son las leyes contra la trata y la violencia vicaria, que su Gobierno no llegó a aprobar."
+propuesta: "Una ley orgánica abolicionista de la prostitución que prohíba el proxenetismo, otra contra la trata y otra contra la violencia vicaria, reformar el artículo 43 de la Constitución para blindar el aborto, tipificar los deepfakes sexuales y ampliar hasta los 26 años las ayudas a los huérfanos de la violencia de género."
 balance: "Aprobó la ley de paridad (LO 2/2024) y el Congreso renovó el Pacto de Estado contra la Violencia de Género con su impulso. El Congreso rechazó su ley contra el proxenetismo. La ley de trata pasó por el Consejo de Ministros en 2024 y no llegó a las Cortes; la de violencia vicaria y la reforma del aborto caducaron."
 coherencia: coherente
-actualizado: 2026-11-12
+actualizado: 2026-11-19
 fuentes:
   - titulo: "Pedro Sánchez fija su horizonte en 2031 y promete otros cuatro años de gobierno progresista: “España será un país mucho mejor”"
     url: https://www.moncloa.com/2026/06/27/pedro-sanchez-psoe-3391192/
@@ -55,16 +55,38 @@ fuentes:
     medio: Atlántico
     fecha: 2026-11-10
     tipo: prensa
+  - titulo: "La fuerza de seguir avanzando. Programa elecciones generales 29 noviembre 2026"
+    url: https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf
+    medio: PSOE
+    fecha: 2026-11-15
+    tipo: partido
+  - titulo: "Diputación Permanente. Orden del día. Sesión n.º 11, miércoles 18 de noviembre de 2026"
+    url: https://www.congreso.es/backoffice_doc/atp/orden_dia/DP_011_112026.pdf
+    medio: Congreso de los Diputados
+    fecha: 2026-11-18
+    tipo: oficial
+  - titulo: "El Congreso convalida el título de familias monoparentales y más apoyos a 760.000 hogares"
+    url: https://publico.es/politica/congreso/congreso-convalida-titulo-familias-monoparentales-apoyos-760-000-hogares.html
+    medio: Público
+    fecha: 2026-11-18
+    tipo: prensa
+  - titulo: "La Diputación Permanente del Congreso convalida siete decretos ley aprobados en precampaña, con apoyo del PP"
+    url: https://www.diariosigloxxi.com/texto-ep/mostrar/20261118163824/diputacion-permanente-congreso-convalida-siete-decretos-ley-aprobados-precampana-apoyo-pp
+    medio: Diario Siglo XXI (Europa Press)
+    fecha: 2026-11-18
+    tipo: prensa
 ---
 
-A 12 de noviembre de 2026 el PSOE no ha publicado su programa para el 29-N. En el Comité Federal de junio de 2026, Sánchez dijo que su partido «se atreverá a abolir la infamia de la prostitución» y prometió «blindar el matrimonio igualitario, el derecho al aborto y la sanidad pública en una constitución del siglo XXI» [1]. Su programa de 2023 incluía abolir la prostitución, aprobar la ley integral contra la trata y renovar el Pacto de Estado contra la Violencia de Género [2].
+El programa del PSOE para el 29-N, «La fuerza de seguir avanzando» (15 de noviembre de 2026), dedica a la igualdad el capítulo «La fuerza de la gente, la fuerza de las mujeres» [11]. Propone «una Ley Orgánica contra la Trata de Seres Humanos, y una Ley Orgánica Abolicionista del Sistema Prostitucional, prohibiendo el proxenetismo en todas sus formas y reconociendo a las personas prostituidas como víctimas» (compromiso 342); una Ley Orgánica contra la Violencia Vicaria (335); «blindar constitucionalmente el derecho a la interrupción voluntaria del embarazo» con la reforma del artículo 43 «iniciada en 2026» (327), y dar «la máxima protección jurídica» al matrimonio igualitario, el aborto y la eutanasia (368). También una nueva Estrategia Estatal para combatir las Violencias Machistas (333); extender hasta los 26 años las ayudas a los huérfanos de la violencia de género (338); tipificar como delito la creación y difusión de deepfakes sexuales (349); incorporar las violencias digitales a la Ley Integral contra la Violencia de Género (350); un registro público de deudores por impago de pensiones de alimentos (347), y una Ley de Usos del Tiempo de Trabajo (319) [11].
+
+Recoge lo que anunció Sánchez ante el Comité Federal en junio de 2026, cuando dijo que su partido «se atreverá a abolir la infamia de la prostitución» y prometió «blindar el matrimonio igualitario, el derecho al aborto y la sanidad pública en una constitución del siglo XXI» [1]. El programa concreta la reforma constitucional para el aborto; para el matrimonio igualitario habla de «la máxima protección jurídica», dentro del apartado de reformas constitucionales, sin decir que se incluya en la Constitución (pág. 90) [11]. Su programa de 2023 incluía abolir la prostitución, aprobar la ley integral contra la trata y renovar el Pacto de Estado contra la Violencia de Género [2]; el de 2026 mantiene las dos primeras.
 
 En la legislatura:
 - Se aprobó la Ley Orgánica 2/2024 de representación paritaria, publicada en el BOE el 2 de agosto de 2024 [3].
 - El Congreso aprobó el 26 de febrero de 2025 la renovación del Pacto de Estado contra la Violencia de Género, con el voto en contra de Vox y el apoyo del resto de grupos [4].
 - El 21 de mayo de 2024 el Congreso rechazó tramitar la proposición de ley del PSOE contra el proxenetismo, con 122 votos a favor, 184 en contra y 36 abstenciones [5].
 - El anteproyecto de ley orgánica integral contra la trata, prometido en el programa de 2023, se elevó de nuevo al Consejo de Ministros el 8 de marzo de 2024, en primera vuelta, y se sometió a audiencia e información pública del 3 al 26 de abril de 2024 [6][8]. No volvió al Consejo para su aprobación definitiva como proyecto de ley y seguía pendiente de esa segunda vuelta al disolverse las Cortes, por lo que no llegó al Congreso. En junio de 2026 la ministra de Igualdad, Ana Redondo, alegó que la nueva directiva europea contra la trata obligaba a reformular el texto y que no quería una «chapuza jurídica» [7].
-- Ya disueltas las Cortes, el Consejo de Ministros aprobó el 10 de noviembre de 2026, a propuesta del Ministerio de Derechos Sociales (Sumar), un real decreto-ley que crea un título estatal de familia monomarental o monoparental, equipara a las familias numerosas a las monoparentales con dos hijos y a las de dos hijos con un progenitor con discapacidad igual o superior al 33 %, rebaja de cinco a cuatro hijos la categoría especial de familia numerosa y amplía el fondo que adelanta las pensiones de alimentos impagadas. El ministerio calcula que beneficiará a más de 760.000 familias, con más de 820 millones de euros al año [9][10]. Como todo decreto-ley, debe convalidarlo la Diputación Permanente en un plazo de 30 días.
+- Ya disueltas las Cortes, el Consejo de Ministros aprobó el 10 de noviembre de 2026, a propuesta del Ministerio de Derechos Sociales (Sumar), un real decreto-ley que crea un título estatal de familia monomarental o monoparental, equipara a las familias numerosas a las monoparentales con dos hijos y a las de dos hijos con un progenitor con discapacidad igual o superior al 33 %, rebaja de cinco a cuatro hijos la categoría especial de familia numerosa y amplía el fondo que adelanta las pensiones de alimentos impagadas. El ministerio calcula que beneficiará a más de 760.000 familias, con más de 820 millones de euros al año [9][10]. Es el Real Decreto-ley 35/2026, que la Diputación Permanente convalidó el 18 de noviembre de 2026 con 62 votos a favor, 6 en contra (Vox) y una abstención (Junts); PP y PNV votaron a favor [12][13][14]. En la misma sesión, en la que se convalidaron siete decretos, salió adelante con el único voto en contra de Vox el Real Decreto-ley 31/2026, de 20 de octubre, de mejora de la acción protectora de la Seguridad Social: incluye el trastorno menopáusico y las lesiones derivadas de la violencia de género como supuestos de incapacidad temporal y cambia los requisitos de la pensión de viudedad de las parejas de hecho con hijos en común [12][13][14].
 - La ley de violencia vicaria superó su primer debate en el Congreso el 30 de septiembre de 2026, y tanto ella como la reforma del artículo 43 de la Constitución para incluir el aborto caducaron con la disolución [7].
 
-Coherencia coherente. Sus actuaciones (leyes aprobadas, iniciativas presentadas y tramitación de anteproyectos en el Gobierno) van en la línea de lo que propone. La paridad y el Pacto de Estado se cumplieron; la ley contra el proxenetismo y la de violencia vicaria se presentaron y no salieron adelante. Que la ley contra la trata no pasara del anteproyecto es falta de impulso para completarla, no una actuación contraria a su programa, y no rebaja la nota.
+Coherencia coherente. Sus actuaciones (leyes aprobadas, iniciativas presentadas y tramitación de anteproyectos en el Gobierno) van en la línea de lo que propone. La paridad y el Pacto de Estado se cumplieron; la ley contra el proxenetismo y la de violencia vicaria se presentaron y no salieron adelante. Que la ley contra la trata no pasara del anteproyecto es falta de impulso para completarla, no una actuación contraria a su programa, y no rebaja la nota. El programa de 2026 vuelve a proponer las leyes de trata y de violencia vicaria y la reforma del artículo 43 que su Gobierno impulsó sin completarlas.

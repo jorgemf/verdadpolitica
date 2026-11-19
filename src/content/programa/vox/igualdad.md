@@ -4,11 +4,11 @@ tema: igualdad
 propuesta: "Derogar «las leyes de género», que según Vox «han criminalizado a los hombres», y sustituirlas por normas que protejan a las mujeres víctimas de violencia; ampliar la prisión permanente revisable; prohibir el burka y el niqab; «criterios biológicos» en el deporte femenino, y medidas contra la «brecha maternal»."
 balance: "El Congreso rechazó en 2023 su ley de delitos sexuales (33-316). Fue el único grupo que votó contra renovar el Pacto de Estado contra la Violencia de Género (2025) y el único que apoyó su enmienda de totalidad a la ley de violencia vicaria (2026). No registró en la XV ninguna ley para derogar la de violencia de género."
 coherencia: coherente
-actualizado: 2026-11-13
+actualizado: 2026-11-19
 fuentes:
   - titulo: "Es sentido común. Programa electoral, 29 de noviembre de 2026"
-    url: https://theobjective.com/wp-content/uploads/2026/11/programa-elecct-vox.pdf
-    medio: Vox (copia publicada por The Objective)
+    url: https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf
+    medio: Vox
     fecha: 2026-11-12
     tipo: partido
   - titulo: "Programa electoral para las Elecciones Generales del 23J de 2023"
@@ -60,6 +60,21 @@ fuentes:
     medio: Última Hora
     fecha: 2026-11-10
     tipo: prensa
+  - titulo: "Diputación Permanente. Orden del día. Sesión n.º 11, miércoles 18 de noviembre de 2026"
+    url: https://www.congreso.es/backoffice_doc/atp/orden_dia/DP_011_112026.pdf
+    medio: Congreso de los Diputados
+    fecha: 2026-11-18
+    tipo: oficial
+  - titulo: "El Congreso convalida el título de familias monoparentales y más apoyos a 760.000 hogares"
+    url: https://publico.es/politica/congreso/congreso-convalida-titulo-familias-monoparentales-apoyos-760-000-hogares.html
+    medio: Público
+    fecha: 2026-11-18
+    tipo: prensa
+  - titulo: "La Diputación Permanente del Congreso convalida siete decretos ley aprobados en precampaña, con apoyo del PP"
+    url: https://www.diariosigloxxi.com/texto-ep/mostrar/20261118163824/diputacion-permanente-congreso-convalida-siete-decretos-ley-aprobados-precampana-apoyo-pp
+    medio: Diario Siglo XXI (Europa Press)
+    fecha: 2026-11-18
+    tipo: prensa
 ---
 
 La propuesta procede del programa «Es sentido común», que Vox presentó el 12 de noviembre de 2026 para el 29-N [1]. Respecto al de 2023, no nombra la Ley Integral de Violencia de Género ni la del «solo sí es sí», sino «las leyes de género» en general, y ya no recoge la supresión de los juzgados de violencia sobre la mujer ni de las cuotas y los planes de igualdad obligatorios, ni la derogación de la ley trans [2][1].
@@ -68,6 +83,6 @@ La propuesta procede del programa «Es sentido común», que Vox presentó el 12
 
 El programa de 2023 prometía una ley "que proteja a todas las posibles víctimas de violencia en el ámbito doméstico" y derogar "la Ley Integral de Violencia de Género, que consagra la asimetría penal" (medida 10); eliminar "los Juzgados de Violencia sobre la mujer" (medida 278), suprimir las cuotas y los planes de igualdad obligatorios (medida 11) y derogar la ley trans (medida 375). La ley del "solo sí es sí" la sustituiría "por una ley que aumente las penas a todos los violadores, incluyendo la prisión permanente" (medida 376) [2].
 
-**Qué han hecho.** El 12 de diciembre de 2023 el Pleno rechazó, por 33 votos a favor y 316 en contra, su proposición de ley para volver a distinguir entre abuso y agresión sexual y castigar con prisión permanente revisable las violaciones en grupo [3]. En febrero de 2025 fue el único grupo que votó contra la renovación del Pacto de Estado contra la Violencia de Género en la comisión de seguimiento, que la aprobó por 34 votos a favor y 3 en contra [4][5]. El 30 de septiembre de 2026 el Pleno rechazó, con el voto en contra de todos los demás grupos, su enmienda de devolución al proyecto de ley de violencia vicaria, que Vox considera discriminatorio por razón de sexo [6][7]. En la XV legislatura no registró ninguna proposición de ley para derogar la Ley Orgánica 1/2004 ni para crear una ley de violencia intrafamiliar, según los datos abiertos del Congreso consultados el 23 de octubre de 2026 [8]. En febrero de 2026 se rechazó, con 170 votos a favor y 177 en contra, su ley orgánica "para la protección de la dignidad de las mujeres y la seguridad ciudadana en el espacio público", que prohibía el burka y el niqab [9].
+**Qué han hecho.** El 12 de diciembre de 2023 el Pleno rechazó, por 33 votos a favor y 316 en contra, su proposición de ley para volver a distinguir entre abuso y agresión sexual y castigar con prisión permanente revisable las violaciones en grupo [3]. En febrero de 2025 fue el único grupo que votó contra la renovación del Pacto de Estado contra la Violencia de Género en la comisión de seguimiento, que la aprobó por 34 votos a favor y 3 en contra [4][5]. El 30 de septiembre de 2026 el Pleno rechazó, con el voto en contra de todos los demás grupos, su enmienda de devolución al proyecto de ley de violencia vicaria, que Vox considera discriminatorio por razón de sexo [6][7]. En la XV legislatura no registró ninguna proposición de ley para derogar la Ley Orgánica 1/2004 ni para crear una ley de violencia intrafamiliar, según los datos abiertos del Congreso consultados el 23 de octubre de 2026 [8]. En febrero de 2026 se rechazó, con 170 votos a favor y 177 en contra, su ley orgánica "para la protección de la dignidad de las mujeres y la seguridad ciudadana en el espacio público", que prohibía el burka y el niqab [9]. Ya disueltas las Cortes, el 18 de noviembre de 2026 votó en la Diputación Permanente contra el Real Decreto-ley 35/2026, que crea el título de familia monoparental, extiende los beneficios de las familias numerosas a las monoparentales con dos hijos y rebaja de cinco a cuatro hijos la categoría especial; se convalidó con 62 votos a favor, 6 en contra (Vox) y una abstención (Junts) [12][13][14]. En la misma sesión fue el único grupo que votó contra el Real Decreto-ley 31/2026, que incluye las lesiones derivadas de la violencia de género y el trastorno menopáusico como supuestos de incapacidad temporal [12][13][14]. Votó en contra de seis de los siete decretos sometidos a convalidación ese día [14]. Las fuentes consultadas no recogen sus argumentos. Su programa propone extender «de manera progresiva desde el primer hijo» a todas las familias los beneficios de las numerosas (medida 94) [1].
 
-**Coherencia.** Sus votos y sus iniciativas van en la línea de lo que propone. No haber registrado en esta legislatura una ley para derogar la de violencia de género es falta de iniciativa, no una actuación contraria a su programa.
+**Coherencia.** Sus votos y sus iniciativas van en la línea de lo que propone. No haber registrado en esta legislatura una ley para derogar la de violencia de género es falta de iniciativa, no una actuación contraria a su programa. Sus votos del 18 de noviembre de 2026 contra los Reales Decretos-leyes 35/2026 y 31/2026 no se tratan como actuaciones contrarias a una propuesta concreta. El primero crea un título para las familias monoparentales y les extiende beneficios de las numerosas; la medida 94 del programa propone extenderlos a todas las familias desde el primer hijo, una medida distinta [1]. Vox votó contra seis de los siete decretos de la sesión y las fuentes no explican sus motivos [12][13][14].

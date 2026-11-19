@@ -1,10 +1,10 @@
 ---
 partido: psoe
 tema: sanidad
-propuesta: "Sin programa del 29-N publicado, sus propuestas más recientes son de Sánchez (junio de 2026): blindar la sanidad pública en una reforma constitucional y erradicar las listas de espera. Defiende la ley de gestión pública del SNS. En 2023 prometió esperas máximas por ley de 120, 60 y 30 días."
+propuesta: "«Acabar con las listas de espera» con una financiación pública en torno al 7 % del PIB, la gestión directa como modalidad preferente, el Plan Sonríe de salud bucodental con ayudas de hasta 200 euros al año, atención psicológica con primera consulta en 30 días y la salud como derecho fundamental en la Constitución."
 balance: "Creó la Agencia Estatal de Salud Pública (Ley 7/2025) tras un primer intento fallido. El proyecto de ley de gestión pública del SNS (mayo de 2026) caducó con la disolución. No presentó la ley de esperas máximas. El Ministerio de Sanidad fue de Sumar y la gestión sanitaria es autonómica."
 coherencia: coherente
-actualizado: 2026-11-12
+actualizado: 2026-11-19
 fuentes:
   - titulo: "Pedro Sánchez fija su horizonte en 2031 y promete otros cuatro años de gobierno progresista: “España será un país mucho mejor”"
     url: https://www.moncloa.com/2026/06/27/pedro-sanchez-psoe-3391192/
@@ -40,9 +40,16 @@ fuentes:
     medio: elDiario.es
     fecha: 2026-03-26
     tipo: prensa
+  - titulo: "La fuerza de seguir avanzando. Programa elecciones generales 29 noviembre 2026"
+    url: https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf
+    medio: PSOE
+    fecha: 2026-11-15
+    tipo: partido
 ---
 
-A 12 de noviembre de 2026 el PSOE no ha publicado su programa para el 29-N. Sus propuestas sanitarias más recientes son las que hizo Sánchez ante el Comité Federal en junio de 2026: «blindar» la sanidad pública en «una constitución del siglo XXI» y erradicar las listas de espera sanitarias [1]. Defiende además el proyecto de su Gobierno sobre gestión pública del Sistema Nacional de Salud [4]. Su programa de 2023 prometía fijar por ley esperas máximas de 120 días para operarse, 60 para el especialista y 30 para pruebas [2].
+El programa del PSOE para el 29-N, «La fuerza de seguir avanzando» (15 de noviembre de 2026), titula su apartado «La sanidad pública, la gran prioridad» [8]. Propone «acabar con las listas de espera, consolidando una financiación pública de la sanidad en torno al 7% del PIB» (compromiso 136); limitar la privatización «estableciendo la gestión directa como modalidad preferente» y aprobar una Ley de Buen Gobierno y Buena Gestión del SNS (138); el Plan Sonríe, que incorporaría poco a poco a la sanidad pública los tratamientos dentales básicos de los adultos, como empastes y endodoncias, y mientras tanto daría una ayuda directa «de hasta 200 euros anuales por persona», empezando por las rentas medias y bajas (137); atención psicológica gratuita «con una primera consulta en un plazo máximo de 30 días» (143); un «nuevo contrato social con los profesionales sanitarios» (142); desarrollar el Plan de Acción de Atención Primaria y Comunitaria «más allá de 2027» (141); garantizar el derecho a la eutanasia «de acuerdo con la legislación vigente» (147), y una Ley de Salud Digital (148). Entre sus reformas constitucionales incluye avanzar en la protección de la salud y la vivienda «como derechos fundamentales» (366) [8].
+
+Desarrolla lo que Sánchez anunció ante el Comité Federal en junio de 2026: «blindar» la sanidad pública en «una constitución del siglo XXI» y erradicar las listas de espera sanitarias [1]. La gestión directa como regla era el eje del proyecto de ley de gestión pública del Sistema Nacional de Salud de su Gobierno [4]. Su programa de 2023 prometía fijar por ley esperas máximas de 120 días para operarse, 60 para el especialista y 30 para pruebas [2]; el de 2026 no fija plazos máximos, salvo para la primera consulta de psicología [8].
 
 En la legislatura:
 - Se creó la Agencia Estatal de Salud Pública, comprometida en el programa de 2023. Necesitó dos intentos, porque el primero cayó en marzo de 2025 por los votos de PP, Vox y Junts [3].
@@ -51,4 +58,4 @@ En la legislatura:
 
 La gestión de hospitales y centros de salud es autonómica, y el ministerio del ramo correspondió a Sumar, no al PSOE.
 
-Coherencia coherente. Sus actuaciones van en la línea de lo que propone: se creó la Agencia Estatal de Salud Pública y el Gobierno presentó el proyecto de gestión pública, cuya caducidad no rebaja la nota. No consta ninguna actuación contraria a sus propuestas. Que el PSOE no llevara a las Cortes la ley de esperas máximas que prometió en 2023 es falta de iniciativa, no una actuación contraria a su programa (ver ficha propia).
+Coherencia coherente. Sus actuaciones van en la línea de lo que propone: se creó la Agencia Estatal de Salud Pública y el Gobierno presentó el proyecto de gestión pública, cuya caducidad no rebaja la nota. No consta ninguna actuación contraria a sus propuestas. Que el PSOE no llevara a las Cortes la ley de esperas máximas que prometió en 2023 es falta de iniciativa, no una actuación contraria a su programa (ver ficha propia); el programa de 2026 ya no la incluye.

@@ -1,10 +1,10 @@
 ---
 partido: psoe
 tema: empleo-pensiones
-propuesta: "Reformar la Constitución para «blindar las pensiones y su revalorización conforme al IPC», revalorizarlas con el IPC cuatro años más, incluir en la Constitución que el SMI supere siempre el 60 % del salario medio y reducir la jornada para que no se trabajen más de 36 horas en 2030."
+propuesta: "Blindar en la Constitución las pensiones y su revalorización con el IPC, fijar por ley el SMI por encima del 60 % del salario medio, completar la reducción de la jornada a 37,5 horas y avanzar hacia las 35 en la negociación colectiva, y una prestación que pague al 100 % cuatro semanas del permiso parental."
 balance: "Subió el SMI cada año hasta 1.221 euros en 2026, amplió el permiso por nacimiento a 19 de las 20 semanas prometidas y mantuvo la revalorización de las pensiones con el IPC. El Congreso tumbó la jornada de 37,5 horas. El Gobierno vetó una enmienda que fijaba el SMI en el 60 % en el Estatuto."
 coherencia: parcial
-actualizado: 2026-11-12
+actualizado: 2026-11-19
 fuentes:
   - titulo: "Sánchez acusa a PP y Vox de «recortar» el derecho al voto y promete revalorizar las pensiones durante otros cuatro años"
     url: https://www.democrata.es/elecciones-generales-espana/sanchez-acusa-pp-vox-recortar-derecho-voto-promete-revalorizar-pensiones-durante-otros-cuatro-anos/
@@ -61,19 +61,41 @@ fuentes:
     medio: Moncloa.com
     fecha: 2026-11-08
     tipo: prensa
+  - titulo: "La fuerza de seguir avanzando. Programa elecciones generales 29 noviembre 2026"
+    url: https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf
+    medio: PSOE
+    fecha: 2026-11-15
+    tipo: partido
+  - titulo: "Referencia del Consejo de Ministros. 17 de noviembre de 2026"
+    url: https://www.lamoncloa.gob.es/consejodeministros/referencias/Paginas/2026/20261117-referencia-rueda-de-consejo-ministros.aspx
+    medio: La Moncloa
+    fecha: 2026-11-17
+    tipo: oficial
+  - titulo: "El Consejo de Ministros y el BOE: decretos-leyes 38 y 39/2026, cambios fiscales, financiación autonómica y nuevos derechos laborales"
+    url: https://www.nuevatribuna.es/actualidad/consejo-ministros-boe-decretos-leyes-38-39-2026-cambios-fiscales-financiacion-autonomica-nuevos-derechos-laborales/20261118202006256534.html
+    medio: Nueva Tribuna
+    fecha: 2026-11-18
+    tipo: prensa
 ---
 
-Sin programa publicado para el 29-N, las propuestas proceden de los mítines de precampaña y de los acuerdos del 41.º Congreso Federal:
-- En Zaragoza, el 14 de octubre de 2026, Sánchez prometió mantener cuatro años más la revalorización de las pensiones con el IPC si sigue en el Gobierno [1]. En el mitin de Fuenlabrada que abrió la precampaña, el 17 de octubre, insistió: «las pensiones no se tocan» [7]. En Gijón, el 26 de octubre, prometió: «En la próxima legislatura reformaremos la Constitución para blindar las pensiones y su revalorización conforme al IPC» [8][9].
-- En Bilbao, el 8 de noviembre de 2026, se comprometió a que su Gobierno «subirá todos los años el Salario Mínimo Interprofesional» mientras gobierne y reiteró la reforma constitucional de las pensiones [10][11].
-- En su congreso de noviembre de 2024, el partido acordó «incluir en la Constitución la obligatoriedad de revalorizar el Salario Mínimo Interprofesional (SMI) para que siempre esté por encima del 60 % del salario medio» [2].
-- También acordó avanzar hacia una jornada en la que «no se trabajen más de 36 horas en 2030» [2].
+El programa del PSOE para el 29-N, «La fuerza de seguir avanzando» (15 de noviembre de 2026), propone [12]:
+- «Blindar constitucionalmente el sistema público de pensiones y su revalorización conforme al IPC» (compromisos 100 y 365), acelerar la cuota de solidaridad y culminar la separación de fuentes de financiación de la Seguridad Social (98 y 99).
+- «Blindar por ley el SMI por encima del 60% del salario medio» y actualizarlo periódicamente según los precios, los salarios y la productividad (87).
+- «Completar la reducción de la jornada a 37,5 horas e incentivar los avances en la negociación colectiva hacia las 35 horas», con un calendario surgido del diálogo social y periodos transitorios para las pymes (108), y un registro horario digital contra las horas extra no pagadas (109).
+- Reformar el despido improcedente para adecuarlo a la Carta Social Europea y recuperar los salarios de tramitación (110 y 111), y una Ley de Negociación Colectiva (121).
+- Una prestación de la Seguridad Social que cubra «cuatro semanas del permiso parental» para el cuidado de hijos menores de ocho años con el 100 % de la base reguladora, y una semana más de permiso para el segundo progenitor si ambos lo disfrutan sin solaparse (105); una incapacidad temporal especial para los procesos oncológicos, con el 75 % de la base reguladora desde el inicio de la baja (102), y subir del 20 % al 30 % la pensión de orfandad (106).
+
+Recoge los anuncios de precampaña con algunos cambios:
+- En Gijón, el 26 de octubre, Sánchez prometió: «En la próxima legislatura reformaremos la Constitución para blindar las pensiones y su revalorización conforme al IPC» [8][9], la misma fórmula del programa. En Zaragoza, el 14 de octubre, había prometido mantener cuatro años más la revalorización de las pensiones con el IPC [1], y en el mitin de Fuenlabrada que abrió la precampaña, el 17 de octubre, insistió: «las pensiones no se tocan» [7].
+- En Bilbao, el 8 de noviembre, se comprometió a que su Gobierno «subirá todos los años el Salario Mínimo Interprofesional» [10][11]; el programa habla de actualizarlo «periódicamente» [12].
+- Su 41.º Congreso Federal (noviembre de 2024) acordó «incluir en la Constitución la obligatoriedad de revalorizar el Salario Mínimo Interprofesional (SMI) para que siempre esté por encima del 60 % del salario medio» y una jornada en la que «no se trabajen más de 36 horas en 2030» [2]. El programa lleva el umbral del SMI a una ley, no a la Constitución, y no fija fecha para bajar de 37,5 horas [12].
 
 En la legislatura:
 - El SMI subió cada año y llegó a 1.221 euros en 14 pagas en 2026 (Real Decreto 126/2026) [5].
+- Ya disueltas las Cortes, el Consejo de Ministros aprobó el 17 de noviembre de 2026, a propuesta del Ministerio de Trabajo, el real decreto que fija el SMI de 2027 en 1.286 euros al mes en 14 pagas (18.004 euros al año), un 5,3 % más, desde el 1 de enero de 2027 [13]. Ese día aprobó también el Real Decreto-ley 38/2026, que eleva la deducción del IRPF sobre los rendimientos del trabajo para que no tribute quien cobre el SMI de 2027, de forma decreciente hasta los 23.172 euros anuales; está pendiente de convalidación parlamentaria [13][14].
 - El permiso por nacimiento pasó de 16 a 19 semanas por progenitor, frente a las 20 prometidas en 2023 [4].
 - La reducción de la jornada a 37,5 horas, recogida en el acuerdo con Sumar, cayó en el Congreso por 178 votos contra 170 con las enmiendas de PP, Vox y Junts [3].
 - La promesa de 2023 de blindar en la Constitución el poder adquisitivo de las pensiones no llegó a presentarse.
 - En marzo de 2025 el Gobierno vetó una enmienda del BNG que fijaba el SMI en el 60 % del salario medio en el Estatuto de los Trabajadores. Entre sus argumentos estaba que fijar esa cuantía por ley restaba papel a los agentes sociales [6].
 
-Coherencia parcial. Perder la votación de la jornada no rebaja la coherencia. La rebajan dos actuaciones del Gobierno: se opuso a fijar por ley el porcentaje del SMI que ahora propone llevar a la Constitución, y no presentó la reforma constitucional de las pensiones.
+Coherencia parcial. Las subidas del SMI, la ampliación del permiso por nacimiento y el proyecto de reducción de jornada, que perdió la votación en el Congreso, van en la línea de lo que propone. La rebaja una actuación del Gobierno: en marzo de 2025 vetó la enmienda que fijaba por ley el SMI en el 60 % del salario medio, alegando que restaba papel a los agentes sociales, y el programa propone ahora «blindar por ley» ese umbral [6][12] (ver ficha propia). Que no presentara la reforma constitucional de las pensiones que prometía en 2023 y vuelve a proponer es una omisión, no una actuación contraria, y tiene también ficha propia.
